@@ -14,8 +14,10 @@ Ordner (RIS_DATA_DIR, Standard: ../ris-feed-data) auf Zweig "data":
   feed/YYYY-MM-DD.json     neue Dokumente seit dem letzten Lauf
   feed/latest.json         Kopie der neuesten Datei
   voll/YYYY-MM-DD/<id>.txt voller Text je Dokument (ohne Laengenlimit)
-  normen/YYYY-MM-DD/*.txt  geltende (_neu) und alte (_alt_<Stichtag>) Fassung
-                           zitierter Paragraphen (konsolidiertes Bundesrecht)
+  gesetze/<Kuerzel>/<§>.txt  Gesetzestexte (konsolidiertes Bundesrecht), DAUERHAFT;
+                           <§>_alt_<Stichtag>.txt = Fassung vor Inkrafttreten.
+                           Vorhandene Paragraphen werden nicht neu abgerufen
+                           (geltende Fassung nach 30 Tagen aufgefrischt).
   state/seen.json          bereits gelieferte Dokument-IDs
 Aufbewahrung: 7 Tage. Der Zweig "data" wird bei jedem Lauf als einzelner
 neuer Commit hochgeladen (Force-Push), damit auch der Git-Verlauf nichts
@@ -277,7 +279,7 @@ LAW_NAMES = {  # ausgeschriebene Namen (Stamm, kleingeschrieben) -> Kuerzel
     "versammlungsgesetz": "VersG", "polizeikooperationsgesetz": "PolKG",
 }
 MAX_NORMS_DOC = 6
-MAX_NORMS_TOTAL = 60
+MAX_FETCH_RUN = 60  # neue Abrufe pro Lauf (vorhandene kosten nichts)
 _ABK = "|".join(sorted(LAWS, key=len, reverse=True))
 _NAMEN = "|".join(sorted((re.escape(n) for n in LAW_NAMES), key=len, reverse=True))
 NORM_RE = re.compile(
@@ -349,12 +351,32 @@ def fetch_norm(law, par, stichtag=None):
     return None
 
 
+REFRESH_DAYS = 30  # geltende Fassung nach so vielen Tagen neu holen (Gesetze aendern sich)
+
+
 def add_normtexte(docs, hints, today):
-    folder = os.path.join(DATA, "normen", today)
-    done, n_total = {}, 0
+    """Gesetzestexte liegen dauerhaft unter gesetze/<Kuerzel>/ (keine 7-Tage-
+    Loeschung). Vorhandene Paragraphen werden nicht erneut abgerufen; die
+    geltende Fassung wird nach REFRESH_DAYS aufgefrischt, alte Fassungen
+    (Stichtag) sind endgueltig."""
+    base = os.path.join(DATA, "gesetze")
+    idx_path = os.path.join(base, "index.json")
+    os.makedirs(base, exist_ok=True)
+    try:
+        index = json.load(open(idx_path, encoding="utf-8"))
+    except Exception:
+        index = {}
+    limit = (datetime.now(TZ) - timedelta(days=REFRESH_DAYS)).strftime("%Y-%m-%d")
+
+    def have(rel):
+        return os.path.exists(os.path.join(DATA, rel))
+
+    def save(rel, text):
+        os.makedirs(os.path.dirname(os.path.join(DATA, rel)), exist_ok=True)
+        open(os.path.join(DATA, rel), "w", encoding="utf-8").write(text)
+
+    done, n_fetched = {}, 0
     for r in docs:
-        if n_total >= MAX_NORMS_TOTAL:
-            break
         text = ""
         if r.get("text_datei"):
             try:
@@ -368,38 +390,45 @@ def add_normtexte(docs, hints, today):
                 alt_tag = (datetime.strptime(d, "%Y-%m-%d") - timedelta(days=1)).strftime("%Y-%m-%d")
         out = []
         for law, par in extract_norms(r, text):
-            if n_total >= MAX_NORMS_TOTAL:
-                break
             key = (law, par, alt_tag)
             if key not in done:
                 entry = {"norm": f"§ {par} {law}"}
+                rel_neu = f"gesetze/{law}/{par}.txt"
                 try:
-                    os.makedirs(folder, exist_ok=True)
-                    neu = fetch_norm(law, par)
-                    if neu:
-                        rel = f"normen/{today}/{law}_{par}_neu.txt"
-                        open(os.path.join(DATA, rel), "w", encoding="utf-8").write(neu)
-                        entry["datei_neu"] = rel
-                    time.sleep(PAUSE_S)
-                    if alt_tag and neu:
-                        alt = fetch_norm(law, par, alt_tag)
-                        if alt:
-                            rel = f"normen/{today}/{law}_{par}_alt_{alt_tag}.txt"
-                            open(os.path.join(DATA, rel), "w", encoding="utf-8").write(alt)
-                            entry["datei_alt"] = rel
+                    stale = index.get(f"{law}/{par}", "") < limit
+                    if not have(rel_neu) or stale:
+                        if n_fetched >= MAX_FETCH_RUN:
+                            raise RuntimeError("Abruflimit pro Lauf erreicht")
+                        neu = fetch_norm(law, par)
+                        n_fetched += 1
+                        time.sleep(PAUSE_S)
+                        if neu:
+                            save(rel_neu, neu)
+                            index[f"{law}/{par}"] = today
+                    if have(rel_neu):
+                        entry["datei_neu"] = rel_neu
+                    else:
+                        hints.append(f"{entry['norm']}: nicht im konsolidierten Bundesrecht gefunden")
+                    if alt_tag and have(rel_neu):
+                        rel_alt = f"gesetze/{law}/{par}_alt_{alt_tag}.txt"
+                        if not have(rel_alt) and n_fetched < MAX_FETCH_RUN:
+                            alt = fetch_norm(law, par, alt_tag)
+                            n_fetched += 1
+                            time.sleep(PAUSE_S)
+                            if alt:
+                                save(rel_alt, alt)
+                        if have(rel_alt):
+                            entry["datei_alt"] = rel_alt
                             entry["alt_stand"] = alt_tag
                         else:
                             hints.append(f"{entry['norm']}: keine Fassung vom {alt_tag}")
-                        time.sleep(PAUSE_S)
-                    if not neu:
-                        hints.append(f"{entry['norm']}: nicht im konsolidierten Bundesrecht gefunden")
                 except Exception as e:
                     hints.append(f"{entry['norm']}: {e!r}")
                 done[key] = entry
-                n_total += 1
             out.append(done[key])
         if out:
             r["normtexte"] = out
+    json.dump(index, open(idx_path, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
 
 
 def probe():
@@ -484,7 +513,7 @@ def normen_only():
     result = json.load(open(path, encoding="utf-8"))
     for r in result["dokumente"]:
         r.pop("normtexte", None)
-    shutil.rmtree(os.path.join(DATA, "normen"), ignore_errors=True)
+    shutil.rmtree(os.path.join(DATA, "normen"), ignore_errors=True)  # alte Ablage
     result["normtext_hinweise"] = []
     add_normtexte(result["dokumente"], result["normtext_hinweise"], today)
     day = str(result.get("erzeugt", today))[:10]
