@@ -276,8 +276,8 @@ LAW_NAMES = {  # ausgeschriebene Namen (Stamm, kleingeschrieben) -> Kuerzel
     "fremdenpolizeigesetz": "FPG", "meldegesetz": "MeldeG",
     "versammlungsgesetz": "VersG", "polizeikooperationsgesetz": "PolKG",
 }
-MAX_NORMS_DOC = 10
-MAX_NORMS_TOTAL = 30
+MAX_NORMS_DOC = 6
+MAX_NORMS_TOTAL = 60
 _ABK = "|".join(sorted(LAWS, key=len, reverse=True))
 _NAMEN = "|".join(sorted((re.escape(n) for n in LAW_NAMES), key=len, reverse=True))
 NORM_RE = re.compile(
@@ -298,24 +298,32 @@ def _law_key(token):
     return None
 
 
+NORM_REV_RE = re.compile(  # RIS-Metadaten: "WaffG 1996 §41 Abs1"
+    r"\b(" + _ABK + r")\b(?:\s*\d{4})?\s*§§?\s*(\d{1,3}[a-z]?)", re.I)
+
+
 def extract_norms(rec, text):
-    """Liste von (Kuerzel, Paragraph) aus Metadaten und Volltext."""
+    """Liste von (Kuerzel, Paragraph). Nur Metadaten (Normen, Titel) und bei
+    Aenderungsgesetzen/Entwuerfen die ausdruecklich neu gefassten Paragraphen;
+    beilaeufige Erwaehnungen im Volltext werden bewusst ignoriert."""
     found = []
+
+    def add(k, par):
+        if k and (k, par.lower()) not in found:
+            found.append((k, par.lower()))
+
     blob = " ".join(str(rec.get(k, "")) for k in ("Normen", "Titel", "Kurztitel", "Langtitel"))
-    for src in (blob, text or ""):
-        for m in NORM_RE.finditer(src):
-            k = _law_key(m.group(2))
-            if k and (k, m.group(1).lower()) not in found:
-                found.append((k, m.group(1).lower()))
-    # Aenderungsgesetz fuer genau ein Gesetz: nackte Paragraphen gehoeren dazu
-    if rec.get("app") == "BgblAuth":
+    for m in NORM_RE.finditer(blob):
+        add(_law_key(m.group(2)), m.group(1))
+    for m in NORM_REV_RE.finditer(blob):
+        add(_law_key(m.group(1)), m.group(2))
+    if rec.get("app") in ("BgblAuth", "Begut", "RegV"):
         head = " ".join(str(rec.get(k, "")) for k in ("Titel", "Kurztitel", "Langtitel")).lower()
         laws = {k for n, k in LAW_NAMES.items() if n in head}
         if len(laws) == 1:
             k = laws.pop()
             for m in PAR_RE.finditer(text or ""):
-                if (k, m.group(1).lower()) not in found:
-                    found.append((k, m.group(1).lower()))
+                add(k, m.group(1))
     return found[:MAX_NORMS_DOC]
 
 
@@ -380,6 +388,8 @@ def add_normtexte(docs, hints, today):
                             open(os.path.join(DATA, rel), "w", encoding="utf-8").write(alt)
                             entry["datei_alt"] = rel
                             entry["alt_stand"] = alt_tag
+                        else:
+                            hints.append(f"{entry['norm']}: keine Fassung vom {alt_tag}")
                         time.sleep(PAUSE_S)
                     if not neu:
                         hints.append(f"{entry['norm']}: nicht im konsolidierten Bundesrecht gefunden")
@@ -465,9 +475,35 @@ def publish(today):
 ALL = "--all" in sys.argv  # alles im Fenster neu liefern, Merkzettel ignorieren
 
 
+def normen_only():
+    import shutil
+    now = datetime.now(TZ)
+    today = now.strftime("%Y-%m-%d")
+    ensure_data_repo("--no-push" in sys.argv)
+    path = os.path.join(DATA, "feed", "latest.json")
+    result = json.load(open(path, encoding="utf-8"))
+    for r in result["dokumente"]:
+        r.pop("normtexte", None)
+    shutil.rmtree(os.path.join(DATA, "normen"), ignore_errors=True)
+    result["normtext_hinweise"] = []
+    add_normtexte(result["dokumente"], result["normtext_hinweise"], today)
+    day = str(result.get("erzeugt", today))[:10]
+    for name in (f"feed/{day}.json", "feed/latest.json"):
+        with open(os.path.join(DATA, name), "w", encoding="utf-8") as f:
+            json.dump(result, f, ensure_ascii=False, indent=1)
+    n = sum(len(r.get("normtexte", [])) for r in result["dokumente"])
+    print(f"{n} Normen, {len(result['normtext_hinweise'])} Hinweise")
+    for h in result["normtext_hinweise"]:
+        print("  HINWEIS", h)
+    if "--no-push" not in sys.argv:
+        publish(today)
+
+
 def main():
     if "--probe" in sys.argv:
         return probe()
+    if "--normen-only" in sys.argv:  # nur Normtexte neu, vorhandenen Feed behalten
+        return normen_only()
     if "--norm" in sys.argv:  # Test: python3 ris_fetch.py --norm WaffG 41 [YYYY-MM-DD]
         a = sys.argv[sys.argv.index("--norm") + 1:]
         t = fetch_norm(a[0], a[1].lower(), a[2] if len(a) > 2 else None)
