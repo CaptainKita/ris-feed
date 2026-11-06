@@ -166,6 +166,7 @@ def keep(rec, prefilter):
 def fetch_source(endpoint, app, prefilter):
     out, page, total_pages = [], 1, 1
     max_pages, cutoff, dfield = MAX_PAGES, None, None
+    reached_old = False  # Datumsfilter: Seite ohne Treffer im Zeitraum erreicht
     if app in DATE_FILTER:
         dfield, days, max_pages = DATE_FILTER[app]
         cutoff = (datetime.now(TZ) - timedelta(days=days)).strftime("%Y-%m-%d")
@@ -178,11 +179,14 @@ def fetch_source(endpoint, app, prefilter):
         recs = [to_record(app, x) for x in refs]
         if cutoff:
             recs = [r for r in recs if str(r.get(dfield, ""))[:10] >= cutoff]
+            if not recs:  # Liste ist nach Datum absteigend: ab hier nur noch Älteres
+                reached_old = True
+                break
         out += [r for r in recs if keep(r, prefilter)]
         page += 1
         if page <= min(total_pages, max_pages):
             time.sleep(PAUSE_S)
-    return out, total_pages > max_pages
+    return out, (total_pages > max_pages and not reached_old)
 
 
 EXCERPT = 1500  # Anfang des Textes direkt im JSON (Schnellsicht)
