@@ -195,6 +195,10 @@ EXCERPT = 1500  # Anfang des Textes direkt im JSON (Schnellsicht)
 
 
 def html_to_text(raw):
+    # RIS-Bundesrecht: neben dem sichtbaren Text steht eine ausgeschriebene
+    # Vorlese-Fassung (span.sr-only, "Paragraph 41, Absatz eins"): entfernen
+    raw = re.sub(r"(?is)<span[^>]*class=[\"'][^\"']*\bsr-only\b[^\"']*[\"'][^>]*>.*?</span>",
+                 " ", raw)
     raw = re.sub(r"(?is)<(script|style).*?</\1>", " ", raw)
     raw = re.sub(r"(?i)<br\s*/?>|</(p|div|tr|li|h\d)>", "\n", raw)
     raw = re.sub(r"(?s)<[^>]+>", " ", raw)
