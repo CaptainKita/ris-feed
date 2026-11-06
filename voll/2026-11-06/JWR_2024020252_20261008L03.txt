@@ -1,0 +1,12 @@
+RIS Dokument Gericht
+Verwaltungsgerichtshof
+Entscheidungsdatum
+08.10.2026
+Geschäftszahl
+Ra 2024/02/0252
+Hinweis auf Stammrechtssatz
+GRS wie Ra 2016/02/0230 E 10. Jänner 2017 RS 2 (hier ohne den ersten Satz und die letzten beiden Sätze)
+Stammrechtssatz
+Art. 4 Abs. 1 7. ZP MRK verbietet die Wiederholung eines Strafverfahrens, welches mit einer endgültigen Entscheidung beendet worden ist (Sperrwirkung). Eine Entscheidung - Freispruch oder Verurteilung - ist dann als endgültig ("final") anzusehen, wenn sie die Wirkung einer res iudicata erlangt hat. Das ist der Fall, wenn sie unwiderruflich ist, dh wenn keine ordentlichen Rechtsmittel mehr vorhanden sind, alle Rechtsmittel ergriffen wurden oder Rechtsmittelfristen ergebnislos verstrichen sind (vgl. E 15. April 2016, Ra 2015/02/0226). Allerdings kommt nicht jeder endgültigen Entscheidung die Fähigkeit zu, ein Wiederholungsverbot iSd Art. 4 7. ZP MRK zu bewirken. Im Fall einer Einstellung nach§ 190 StPO 1975 ist dabei zunächst zu prüfen, ob sie (formell und materiell) rechtskräftig im Sinne von unwiderruflich geworden ist, somit keine formlose Fortführungsmöglichkeit mehr besteht und daher ein Anklageverbrauch stattgefunden hat. In einem zweiten Schritt mit Blick auf den Umfang einer Sperrwirkung ist zu prüfen, auf welcher inhaltlichen Basis und aufgrund welcher Prüfungstiefe diese Entscheidung ergangen ist. Eine Bindungswirkung wird nur hinsichtlich jener Fakten anzunehmen sein, welche auch den Ausgangspunkt des vorangegangenen Strafverfahrens gebildet haben (vgl. E 29. Mai 2015, Zl. 2012/02/0238). Der bloße Hinweis auf eine nicht näher begründete Einstellung vermag nicht ohne weiteres eine dem Art. 4 7. ZP MRK entgegenstehende Sperrwirkung zu entfalten (vgl. E 13. September 2016, Ra 2016/03/0083).
+European Case Law Identifier
+ECLI:AT:VWGH:2026:RA2024020252.L04

@@ -1,0 +1,149 @@
+RIS Dokument Entwurf
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der die Apothekenbetriebsordnung 2005, die Pharmazeutische Fachkräfteverordnung und die eHealth-Verordnung 2025 geändert werden sowie die Apotheker-Impfqualifikationsverordnung und die Verordnung über Impfungen, die von Apothekern durchgeführt werden dürfen, erlassen werden
+Inhaltsverzeichnis
+Artikel 1
+Apothekenbetriebsordnung 2005
+Artikel 2
+Pharmazeutische Fachkräfteverordnung
+Artikel 3
+eHealth-Verordnung 2025
+Artikel 4
+Apotheker-Impfqualifikationsverordnung
+Artikel 5
+Verordnung über Impfungen, die von Apothekern durchgeführt werden dürfen
+Auf Grund der § 3a Abs. 3 und 4, § 5 Abs. 4 und 5, § 7 Abs. 1 und 2, § 24 Abs. 5, § 31 Abs. 4, § 34 Abs. 2, § 38 und § 60 Abs. 3 des Apothekengesetzes, RGBl. Nr. 5/1907, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. xx/2026, sowie auf Grund des § 28b Abs. 2 des Gesundheitstelematikgesetzes 2012, BGBl. I Nr. 111/2012, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. xx/2026, wird verordnet:
+Artikel 1
+Änderung der Apothekenbetriebsordnung 2005
+Die Verordnung über den Betrieb von Apotheken und ärztlichen und tierärztlichen Hausapotheken (Apothekenbetriebsordnung 2005 – ABO 2005), BGBl. II Nr. 65/2005, zuletzt geändert durch die Verordnung BGBl. II Nr. 2/2025, wird wie folgt geändert:
+1. In § 1 Abs. 2 wird nach der Z 6 folgende Z 6a eingefügt:
+„6a.
+die Durchführung von Impfungen nach Maßgabe der rechtlichen Bestimmungen,“
+2. In § 8 Abs. 1 wird am Ende der Z 6 das Wort „und“ durch einen Beistrich ersetzt, am Ende der Z 7 das Wort „und“ angefügt und folgende Z 8 eingefügt:
+„8.
+gegebenenfalls die Durchführung von Impfungen“
+3. Nach § 8 Abs. 6b wird folgender Abs. 6c eingefügt:
+„(6c) Die Aufzeichnungen gemäß Abs. 1 Z 8 haben für jeden Anwendungsfall
+1.
+Vorname, Nachname, Geburtsdatum, Sozialversicherungsnummer sowie Kontaktdaten der geimpften Person,
+2.
+den Apotheker, der die Impfung durchgeführt hat,
+3.
+die Bezeichnung des verwendeten Impfstoffes,
+4.
+die Chargenbezeichnung des verwendeten Impfstoffes,
+5.
+das Datum der Impfung, und
+6.
+die Aufklärung der geimpften Person
+zu enthalten.“
+4. Dem § 27 wird folgender Abs. 12 angefügt:
+„(12) Sofern Impfungen durchgeführt werden, ist dafür ein räumlich abgetrennter, die Vertraulichkeit und Hygiene wahrender Bereich vorzusehen. In diesem Bereich ist das Diplom über die absolvierte Impfausbildung gut sichtbar anzubringen.“
+5. Dem § 78 wird folgender Abs. 13 angefügt:
+„(13) § 1 Abs. 2 Z 6a, § 8 Abs. 1 Z 6 bis 8 und Abs. 6c sowie § 27 Abs. 12 in der Fassung der Verordnung BGBl. II Nr. xxx/2026 treten mit dem der Kundmachung folgenden Tag in Kraft.“
+Artikel 2
+Änderung der Pharmazeutischen Fachkräfteverordnung
+Die Verordnung über die Verwendung des pharmazeutischen Fachpersonals im Betriebe der öffentlichen und Anstaltsapotheken, ferner die fachliche Ausbildung und Fachprüfung für den Apothekerberuf (Pharmazeutische Fachkräfteverordnung), BGBl. Nr. 40/1930, zuletzt geändert durch die Verordnung BGBl. II Nr. 2/2025, wird wie folgt geändert:
+1. In § 2 Abs. 1 wird der Punkt am Ende der Z 7 durch einen Strichpunkt ersetzt und folgende Z 8 angefügt:
+„8.
+die Durchführung von Impfungen gemäß § 5 Abs. 2 Z 3 ApoG.“
+2. Dem § 19 wird folgender Abs. 3 angefügt:
+„(3) § 2 Abs. 1 Z 7 und 8 in der Fassung der Verordnung BGBl. II Nr. xxx/2026 tritt mit dem der Kundmachung folgenden in Kraft.“
+Artikel 3
+Änderung der eHealth-Verordnung 2025
+Die eHealth-Verordnung 2025 (eHealthV 2025), BGBl. II Nr. 11/2025, zuletzt geändert durch die Verordnung BGBl. II Nr. 276/2025, wird wie folgt geändert:
+1. Im Inhaltsverzeichnis entfallen die Einträge zu § 16 und zu § 25.
+2. In § 6 Abs. 1 wird am Ende der Z 7 das Wort „und“ durch einen Beistrich und am Ende der Z 8 der Punkt durch das Wort „und“ ersetzt; es wird folgende neue Z 9 angefügt:
+„9.
+„Apotheke“.“
+3. § 9 Abs. 3 und 4 lauten:
+„(3) Eine spezifische Zugriffsberechtigung zur Nachtragung von Impfungen gemäß § 24c Abs. 4 GTelG 2012 haben eImpf-Gesundheitsdiensteanbieter gemäß § 2 Z 18 lit. a GTelG 2012, ausgenommen diplomierte Gesundheits- und Krankenpfleger/innen.
+(4) Eine spezifische Zugriffsberechtigung zur Vidierung von selbst eingetragenen Impfungen gemäß § 24c Abs. 4 Z 2 GTelG 2012 haben eImpf-Gesundheitsdiensteanbieter gemäß § 2 Z 18 lit. a GTelG 2012, ausgenommen diplomierte Gesundheits- und Krankenpfleger/innen.“
+4. § 9 Abs. 6 lautet:
+„(6) Eine spezifische Zugriffsberechtigung zur Vornahme einer Impf-Anamnese haben
+1.
+eImpf-Gesundheitsdiensteanbieter gemäß § 2 Z 18 lit. a GTelG 2012, ausgenommen diplomierte Gesundheits- und Krankenpfleger/innen, und
+2.
+die Gesundheitsberatung 1450 gemäß § 2 Z 10 lit. g GTelG 2012.“
+5. § 10 Abs. 4 lautet:
+„(4) Eine spezifische Zugriffsberechtigung zur Wahrnehmung des Rechts auf Berichtigung gemäß Art. 16 DSGVO haben
+1.
+der jeweilige eImpf-Gesundheitsdiensteanbieter gemäß § 2 Z 18 GTelG 2012 und
+2.
+Amtsärzte und Amtsärztinnen.“
+6. § 16 samt Überschrift entfällt.
+7. § 25 samt Überschrift entfällt.
+8. Dem § 33 wird folgender Abs. 3 angefügt:
+„(3) § 6 Abs. 1 Z 7 bis Z 9, § 9 Abs. 3, Abs. 4 und Abs. 6 sowie § 10 Abs. 4 in der Fassung der Verordnung BGBl. II Nr. xxx/2026 treten mit dem der Kundmachung folgenden Tag in Kraft; gleichzeitig treten die Einträge im Inhaltsverzeichnis zu § 16 und § 25 sowie die §§ 16 und 25 samt jeweiliger Überschrift außer Kraft.“
+Artikel 4
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz über die Voraussetzungen für Apotheker/innen zur Durchführung von Impfungen (Apotheker-Impfqualifikationsverordnung)
+Anwendungsbereich
+§ 1.
+Diese Verordnung regelt die Voraussetzungen für Apotheker/innen zur Durchführung von Impfungen.
+Voraussetzungen zur Durchführung von Impfungen
+§ 2.
+Zur Durchführung von Impfungen sind nur allgemein berufsberechtigte Apotheker/innen gemäß § 3b Apothekengesetz (ApoG) und vorübergehende Dienstleistungserbringer gemäß § 3g ApoG berechtigt, die
+1.
+eine Impfausbildung erfolgreich absolviert haben,
+2.
+im Abstand von längstens vier Jahren Auffrischungskurse besuchen und
+3.
+in der Liste der zur Durchführung von Impfungen berechtigten Apotheker/innen eingetragen sind.
+Impfausbildung
+§ 3.
+(1) Die Österreichische Apothekerkammer hat die Impfausbildung und die Auffrischungskurse gemäß § 2 zu organisieren. Diese haben dem Stand der Wissenschaft zu entsprechen und den bewährten Methoden der berufsbegleitenden Erwachsenenbildung Rechnung zu tragen.
+(2) Im Rahmen der Impfausbildung sind spezifische Kenntnisse und Fertigkeiten auf allen für die Durchführung von Impfungen erforderlichen Gebieten zu vermitteln, insbesondere
+1.
+zu den jeweils aktuell gültigen Impfempfehlungen für Österreich betreffend die in einer Verordnung gemäß § 5 Abs. 5 ApoG genannten Impfungen,
+2.
+zu den klinischen Bildern, Übertragungswegen und potenziellen Komplikationen der durch die in einer Verordnung gemäß § 5 Abs. 5 ApoG genannten Impfungen zu verhindernden Krankheiten,
+3.
+zu Immunologie und Impfstoffen einschließlich deren Wirkmechanismen,
+4.
+zu Impfreaktionen, Impfnebenwirkungen, Impfschäden und Meldewesen vermuteter Nebenwirkungen,
+5.
+zur Beurteilung der Impfindikation,
+6.
+zur Beurteilung der Impftauglichkeit und von Kontraindikationen,
+7.
+zur Bewertung von Antikörpertitern und Infektionsanamnesen bezüglich der Impfentscheidung,
+8.
+zur Aufklärung und Einholung der Zustimmung der zu impfenden Person,
+9.
+zur Dokumentation und der Eintragung im eImpfpass,
+10.
+zur Applikationstechnik unter Einhaltung von Desinfektions- und Hygienestandards,
+11.
+zur Nachbeobachtung sowie
+12.
+zur Durchführung von Notfallmaßnahmen bei akuten Impfreaktionen und Nebenwirkungen.
+(3) Die Programme zur Impfausbildung bedürfen der Zustimmung des/der für das Gesundheitswesen zuständigen Bundesministers/Bundesministerin.
+(4) Die Impfausbildung wird mit einer Prüfung abgeschlossen, in der die Kenntnisse und Fertigkeiten gemäß Abs. 2 nachzuweisen sind.
+(5) Mit Ausnahme der Fertigkeiten zur Applikationstechnik und zur Durchführung der Notfallmaßnahmen bei akuten Impfreaktionen dürfen die Weiterbildungsinhalte im Wege des E-Learnings vermittelt werden.
+(6) Die Österreichische Apothekerkammer hat als Lehrbeauftragte Personen heranzuziehen, die hinsichtlich des jeweiligen Weiterbildungsinhalts über die entsprechende Qualifikation und Erfahrung verfügen und deren fachliche Unabhängigkeit sichergestellt ist. Die Qualifikation und Erfahrung kann sich auf eine universitäre Lehrbefugnis, auf einschlägige wissenschaftliche Forschungstätigkeit oder auf mehrjährige einschlägige Berufserfahrung gründen. Lehrbeauftragte haben alle Umstände, die geeignet sind, ihre Unabhängigkeit oder die sachliche Wahrnehmung ihrer Lehrtätigkeit zu beeinträchtigen, offenzulegen.
+(7) Die Österreichische Apothekerkammer hat über die erfolgreiche Absolvierung der Impfausbildung und der Auffrischungskurse ein Diplom auszustellen.
+Liste der zur Durchführung von Impfungen berechtigten Apotheker/innen
+§ 4.
+(1) Die Österreichische Apothekerkammer hat auf ihrer Website eine aktuelle Liste aller Apotheker/innen, die die Impfausbildung erfolgreich absolviert haben, und den Zeitpunkt, ab dem sie zur Durchführung einer Impfung berechtigt sind, zu veröffentlichen und den/die Apotheker/in davon zu verständigen.
+(2) Die Eintragung in der Liste gemäß Abs. 1 ist zu löschen, wenn Auffrischungskurse gemäß § 2 Z 2 nicht besucht wurden.
+Inkrafttreten
+§ 5.
+Diese Verordnung tritt mit dem der Kundmachung folgenden Tag in Kraft.
+Artikel 5
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz über Impfungen, die von Apothekern durchgeführt werden dürfen
+Anwendungsbereich
+§ 1.
+Diese Verordnung regelt, welche Impfungen eigenverantwortlich von Apothekern durchgeführt werden dürfen.
+Impfungen
+§ 2.
+Apotheker dürfen in Apotheken gemäß § 5 Abs. 2 Z 3 Apothekengesetz (ApoG) eigenverantwortlich folgende Impfungen durchführen:
+1.
+Impfungen gegen Frühsommer-Meningoenzepahlitis (FSME),
+2.
+Impfungen gegen Hepatitis B,
+3.
+Kombinationsimpfungen gegen Diphtherie-Tetanus-Pertussis, und
+4.
+Kombinationsimpfungen gegen Diphtherie-Tetanus-Pertussis-Polio.
+Inkrafttreten
+§ 3.
+Diese Verordnung tritt mit dem der Kundmachung folgenden Tag in Kraft.

@@ -1,0 +1,9 @@
+RIS Dokument Entwurf
+Verordnung des Bundesministers für Innovation, Mobilität und Infrastruktur, mit der die Zulassungsstellenverordnung geändert wird (17. Novelle zur ZustV)
+Aufgrund des § 40 Abs. 2a, § 40a Abs. 2 und des § 41 Abs. 2 KFG 1967, BGBl. Nr. 267/1967, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 17/2026, wird verordnet:
+Die Zulassungsstellenverordnung–ZustV, BGBl. II Nr. 464/1998, zuletzt geändert mit der Verordnung BGBl. II Nr. 38/2026, wird wie folgt geändert:
+1. In § 13 Abs. 1a wird der Betrag „31,10“ auf „31,80“ und der Betrag „28,08“ auf „28,80“ geändert.
+2. In § 13a Abs. 1 werden nach dem ersten Satz folgende Sätze eingefügt:
+„Bei Vorliegen einer Übereinstimmungsbescheinigung in elektronischer Form (eCoC) mit der gültig signierten und in der Genehmigungsdatenbank gespeicherten IVI-xml-Datei ist keine physische Verbindung mit Zulassungsbescheinigung Teil II erforderlich. Die Zulassungsbescheinigung Teil II gilt gemeinsam mit dem eCoC als Genehmigungsdokument.“
+3. Dem § 14 wird folgender Abs. 14 angefügt:
+„(14) § 13 Abs. 1a in der Fassung der Verordnung BGBl. II Nr. x/2026 tritt mit 5. Oktober 2026 in Kraft. § 13a in der Fassung der Verordnung BGBl. II Nr. x/2026 tritt mit Ablauf des Tages der Kundmachung dieser Verordnung in Kraft.“

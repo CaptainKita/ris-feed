@@ -1,0 +1,122 @@
+RIS Dokument Entwurf
+Bundesgesetz, mit dem das Einkommensteuergesetz 1988 und das Familienlastenausgleichsgesetz 1967 geändert werden und ein Gesetz über die Zahlung eines staatlichen Startguthabens erlassen wird
+Der Nationalrat hat beschlossen:
+Artikel 1 [Teil BMF]
+Änderung des Einkommensteuergesetzes 1988
+Das Einkommensteuergesetz 1988 – EStG 1988, BGBl. Nr. 400/1988, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. xxx/2026, wird wie folgt geändert:
+1. § 108j samt Überschrift lautet:
+„Zukunftsdepot
+§ 108j.
+(1) Für unbeschränkt steuerpflichtige Minderjährige (§ 21 Abs. 2 ABGB) kann von deren gesetzlichen Vertretern ein Zukunftsdepot (Abs. 2) eingerichtet werden, auf dem Einkünfte aus begünstigten Wertpapieren (Abs. 3) nach Maßgabe der folgenden Bestimmungen steuerfrei (Abs. 4) bleiben, wenn die Mindestlaufzeit (Abs. 2 Z 1) erfüllt ist. Auszahlungen und Entnahmen innerhalb dieses Zeitraums sind nachzuversteuern (Abs. 5); danach können die begünstigten Wertpapiere entnommen werden (Abs. 4 Z 3). Für jeden Minderjährigen kann nur ein Zukunftsdepot eingerichtet werden (Abs. 6). Diese Bestimmungen sind auch im Rahmen des Kapitalertragsteuerabzuges (§§ 93 bis 97) zu berücksichtigen.
+(2) Ein Zukunftsdepot besteht aus einem Depot zur Verwahrung der begünstigten Wertpapiere sowie dem dazugehörigen Verrechnungskonto oder einem von der Österreichischen Bundesfinanzierungsagentur eingerichteten Bundesschatz-Zukunftskonto. Das Zukunftsdepot muss im Namen des Minderjährigen eröffnet werden und folgende Voraussetzungen erfüllen:
+1.
+Das Zukunftsdepot muss bis zur Vollendung des 18. Lebensjahres bestehen (Mindestlaufzeit). Umstände, die zur Beendigung der unbeschränkten Steuerpflicht führen, gelten als Entnahme im Sinne des Abs. 5.
+2.
+Für das Zukunftsdepot dürfen während der Mindestlaufzeit keine Konto- oder Depotführungsgebühren anfallen.
+3.
+Die Veranlagung umfasst neben begünstigten Wertpapieren (Abs. 3) nur liquide Mittel auf dem Verrechnungskonto.
+4.
+Sämtliche Einkünfte aus verwahrten Wertpapieren sowie liquiden Mitteln sind auf das Zukunftsdepot zu reinvestieren und nicht auf die Einzahlungsgrenze (Z 5) anzurechnen.
+5.
+Die Einzahlungen dürfen ausschließlich vom gesetzlichen Vertreter des Minderjährigen geleistet werden und pro Kalenderjahr höchstens 5 000 Euro betragen (Einzahlungsgrenze). Das Startguthaben gemäß § 1 Abs. 1 Startguthabengesetz ist nicht auf die Einzahlungsgrenze anzurechnen. Die Einzahlungen sind für die Schenkungsmeldungspflicht gemäß § 121a BAO außer Acht zu lassen.
+6.
+Bis zum 18. Geburtstag des Minderjährigen dürfen keine Wertpapiere oder liquiden Mittel vom Zukunftsdepot entnommen werden. Dies gilt nicht
+a)
+bei Übertragung auf ein Zukunftsdepot bei einer anderen depotführenden Stelle (Anbieterwechsel);
+b)
+bei Tod des Minderjährigen oder
+c)
+wenn das Pflegschaftsgericht eine Entnahme ausdrücklich gemäß § 167 Abs. 3 ABGB genehmigt.
+7.
+Das Zukunftsdepot ist als solches zu widmen und von der inländischen depotführenden Stelle als solches zu bezeichnen. Dazu muss der gesetzliche Vertreter des Minderjährigen die depotführende Stelle beauftragen, dem zuständigen Finanzamt innerhalb eines Monats die Eröffnung samt Datum, den Namen und das verschlüsselte bereichsspezifische Personenkennzeichen für Steuern und Abgaben (vbPK SA) des Minderjährigen mitzuteilen; der Bundesminister für Finanzen wird ermächtigt, die Art der Übermittlung, die Spezifikationen (Form, Struktur und Inhalt) und Vorgaben zur Rückbestätigung durch die Finanzverwaltung im Wege einer Verordnung näher zu bestimmen. Im Falle einer ausländischen depotführenden Stelle hat die Mitteilung an das Finanzamt (unter Angabe der Steuer- oder Sozialversicherungsnummer des Minderjährigen) durch den gesetzlichen Vertreter des Minderjährigen selbst innerhalb eines Monats ab der Eröffnung zu erfolgen.
+Ein treuhändig verwaltetes Bundesschatz-Kohortenkonto gemäß § 2 Startguthabengesetz gilt stets als Zukunftsdepot.
+(3) Begünstigte Wertpapiere sind nur Anteile an OGAW gemäß § 2 Abs. 1 InvFG 2011, die zum Erwerbszeitpunkt im Basisinformationsblatt nach der Verordnung (EU) Nr. 1286/2014 in die Risikoklasse 1 bis 5 eingestuft sind und deren Gesamtkostenquote nicht mehr als 1 % p.a. beträgt. Diese Wertpapiere im Zukunftsdepot müssen nicht mündelsicher im Sinne der §§ 215 bis 230 ABGB und müssen nicht zur Anlage von Mündelgeld gemäß § 46 Abs. 3 InvFG 2011 geeignet sein, es bedarf auch keiner Genehmigung durch das Gericht nach § 167 Abs. 3 ABGB. Ebenso als begünstigte Wertpapiere gelten bis zum 18. Geburtstag des Minderjährigen endfällige österreichische Bundeswertpapiere, die über ein Bundesschatz-Zukunftskonto gemäß Abs. 2 erworben werden.
+(4) Für die Besteuerung des Zukunftsdepots gilt Folgendes:
+1.
+Einkünfte aus realisierten Wertsteigerungen und Derivaten gemäß § 27 Abs. 3 bis 4a bleiben steuerfrei.
+2.
+Ausschüttungen und ausschüttungsgleiche Erträge gemäß § 186 oder § 188 InvFG 2011 bleiben insoweit steuerfrei, als darin Einkünfte aus realisierten Wertsteigerungen und aus Derivaten (§ 27 Abs. 3 bis 4a) enthalten sind. Erfolgt keine Meldung gemäß § 186 Abs. 2 Z 2 InvFG 2011, ist davon auszugehen, dass die Einkünfte aus realisierten Wertsteigerungen und Derivaten 50 % der Einkünfte betragen.
+3.
+Begünstigte Wertpapiere sind nach Ablauf der Mindestlaufzeit oder nach einer Entnahme im Sinne des Abs. 2 Z 6 iVm Abs. 5 mit dem gemeinen Wert anzusetzen. Ist nach Ablauf der Mindestlaufzeit die Summe der gemeinen Werte der begünstigten Wertpapiere niedriger als die Summe der Einzahlungen einschließlich des Startguthabens gemäß Abs. 2 Z 5 abzüglich der liquiden Mittel, ist diese als Anschaffungskosten anzusetzen und im Wertverhältnis auf die begünstigten Wertpapiere zu verteilen.
+(5) Für Entnahmen und Auszahlungen innerhalb der Mindestlaufzeit (Abs. 2 Z 1) gilt Folgendes:
+1.
+Wird das Zukunftsdepot aufgelöst, werden sämtliche begünstigten Wertpapiere entnommen oder veräußert und sämtliche liquiden Mittel entnommen, sind die bei der Entnahme oder Übertragung anzusetzenden Werte sowie die entnommenen liquiden Mittel den erfolgten Einzahlungen (Abs. 2 Z 5) einschließlich Startguthaben gegenüberzustellen; der positive Unterschiedsbetrag ist zu 75 % nachzuversteuern (Nachversteuerungsbetrag). Muss das Startguthaben gemäß § 3 Startguthabengesetz zurückgezahlt werden, sind die auf diesen entfallenden durchschnittlichen Wertänderungen vom Nachversteuerungsbetrag abzuziehen.
+2.
+Werden bloß einzelne begünstigte Wertpapiere entnommen oder bloß Teile der liquiden Mittel entnommen, sind die bei der Entnahme anzusetzenden Werte sowie die entnommenen liquiden Mittel ins Verhältnis zum gemeinen Wert von sämtlichen auf dem Zukunftsdepot befindlichen begünstigten Wertpapieren und liquiden Mitteln im Entnahmezeitpunkt zu setzen; nach diesem Verhältnis sind die anteiligen Einzahlungen (Abs. 2 Z 5) einschließlich Startguthaben zu ermitteln. Dabei sind die bei der Entnahme anzusetzenden Werte sowie die entnommenen liquiden Mittel den anteiligen erfolgten Einzahlungen einschließlich Startguthaben gegenüberzustellen; der positive Unterschiedsbetrag ist zu 75 % nachzuversteuern (Nachversteuerungsbetrag).
+3.
+Wird das Bundesschatz-Zukunftskonto gem. Abs. 2 aufgelöst oder endfällige Bundeswertpapiere (teilweise) vorzeitig ausbezahlt, sind ausschließlich die tatsächlichen realisierten Wertsteigerungen dieser endfälligen Anleihen zu besteuern; Z 1 letzter Satz ist sinngemäß anzuwenden. Dies gilt nicht, wenn davor eine Übertragung eines Zukunftsdepots auf ein Bundeschatz-Zukunftskonto gem. Z 5 lit. a erfolgt ist und der Nachversteuerungsbetrag gem. Z 1 oder 2 höher ist.
+4.
+Der Nachversteuerungsbetrag unterliegt dem besonderen Steuersatz gemäß § 27a Abs. 1 Z 2 und kann im Rahmen des Verlustausgleichs gemäß § 27 Abs. 8 wie Einkünfte gemäß § 27 Abs. 3 berücksichtigt werden.
+5.
+Die Nachversteuerung unterbleibt in folgenden Fällen:
+a)
+bei Anbieterwechsel (Abs. 2 Z 6 lit. a), wenn die steuerrelevanten Daten (Laufzeitbeginn, erfolgte Einzahlungen, allfällige Entnahmen) in sinngemäßer Anwendung von § 27 Abs. 6 Z 2 zweiter bis vierter Teilstrich mitgeteilt werden;
+b)
+bei Tod des Minderjährigen (Abs. 2 Z 6 lit. b) oder bei Genehmigung des Pflegschaftsgerichts (Abs. 2 Z 6 lit. c) wegen Eintritt einer Behinderung des Minderjährigen mit einem Grad von mindestens 50% sowie im Fall der Beendigung der unbeschränkten Steuerpflicht gemäß Abs. 2 Z 1 zweiter Satz.
+Der gesetzliche Vertreter des Minderjährigen hat außer im Fall des Abs. 2 Z 6 lit. b die depotführende Stelle zu beauftragen, dem zuständigen Finanzamt das Unterbleiben der Nachversteuerung unter Angabe des Namens sowie des verschlüsselten bereichsspezifischen Personenkennzeichens für Steuern und Abgaben (vbPK SA) des Minderjährigen innerhalb eines Monats ab der Entnahme oder Auszahlung mitzuteilen. Im Falle einer ausländischen depotführenden Stelle hat die Mitteilung an das Finanzamt (unter Angabe der Steuer- oder Sozialversicherungsnummer des Minderjährigen) durch den gesetzlichen Vertreter des Minderjährigen selbst innerhalb eines Monats ab der Entnahme oder Auszahlung zu erfolgen.
+(6) Wurden für einen Minderjährigen mehrere Zukunftsdepots eingerichtet, ist jenes Depot als Zukunftsdepot zu behandeln, das früher eingerichtet worden ist. Einkünfte aus anderen Depots unterliegen den allgemeinen steuerlichen Bestimmungen.
+(7) Vor der erstmaligen Eröffnung eines Depots oder Kontos gemäß Abs. 2 hat die depot- oder kontoführende Stelle mit den gesetzlichen Vertretern ein Aufklärungsgespräch zu führen oder diese in standardisierter Form zu informieren. Im letztgenannten Fall ist den gesetzlichen Vertretern eine Kontaktmöglichkeit für Rückfragen zu den bereitgestellten Informationen anzubieten. Die gesetzlichen Vertreter können auf die Durchführung eines Aufklärungsgesprächs verzichten.
+(8) Die inländischen depotführenden Stellen haben jährlich zusammengefasst bezogen auf den 31. Dezember des jeweiligen Jahres
+-
+die Anzahl der bei ihnen bestehenden Zukunftsdepots,
+-
+den gemeinen Wert der begünstigten Wertpapiere und die Höhe der liquiden Mittel auf den Verrechnungskonten und
+-
+die im jeweiligen Kalenderjahr geleisteten Einzahlungen
+an das zuständige Finanzamt bis zum 31. März des Folgejahres zu übermitteln. Bei ausländischen depotführenden Stellen hat der gesetzliche Vertreter des Minderjährigen die Daten des zweiten und dritten Teilstrichs jährlich im Rahmen der Steuererklärung des Minderjährigen anzugeben.“
+2. § 124b wird wie folgt geändert:
+b) Es wird folgende Ziffer XXX angefügt:
+„xxx.
+§ 108j in der Fassung BGBl. I Nr. xxx/202x tritt mit 1. Juli 2027 in Kraft. Dabei wird die Bundesregierung ermächtigt, durch Verordnung die Anwendbarkeit dieser Bestimmung bis zum 1. Dezember 2027 zu verschieben, wenn die notwendigen technischen Voraussetzungen für die Umsetzung dieser Bestimmung noch nicht gegeben sind.“
+Artikel 2 [Teil BKA]
+Änderung des Familienlastenausgleichsgesetzes 1967
+Das Bundesgesetz betreffend den Familienlastenausgleich durch Beihilfen (Familienlastenausgleichsgesetz 1967), BGBl. Nr. 376/1967, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 84/2026, wird wie folgt geändert:
+1. Nach § 39o wird folgender § 39p eingefügt:
+„ § 39p.
+Der Aufwand für die Zahlung der Startguthaben gemäß dem Startguthabengesetz (StartguthabenG), BGBl. I Nr. XXXX/202X ist in den Jahren 2027 und 2028 jeweils bis zu maximal 40 Millionen Euro aus Mitteln des Ausgleichsfonds für Familienbeihilfen zu tragen. Rückzahlungen der Startguthaben samt der darauf entfallenen durchschnittlichen Wertänderung sind in den Ausgleichsfonds für Familienbeihilfen zurückzuführen.“
+2. Dem § 55 wird folgender Abs. 74 angefügt:
+„(74) § 39p in der Fassung des Bundesgesetzes BGBl. I Nr. xxx/202x tritt mit 1. Juli 2027 in Kraft.“
+Artikel 3 [Teil BKA]
+Bundesgesetz über die Zahlung eines staatlichen Startguthabens (Startguthabengesetz – StartguthabenG)
+Voraussetzungen für die Einzahlung des Startguthabens und Ersatzveranlagung
+§ 1.
+(1) Vom Finanzamt Österreich wird für ein Kind einmalig ein Startguthaben in der Höhe von 500 Euro auf ein inländisches Zukunftsdepot oder auf ein Bundesschatz-Zukunftskonto gemäß § 108j Einkommensteuergesetz 1988 (EStG 1988), BGBl. Nr. 400, eingezahlt, sofern das Kind ab Geburt im Inland wohnhaft ist, die hauptwohnsitzliche Meldung binnen 62 Tagen ab Geburt vorliegt und festgestellt wird, dass das Kind entweder
+1.
+die österreichische Staatsbürgerschaft besitzt oder
+2.
+sich nach §§ 8 und 9 des Niederlassungs- und Aufenthaltsgesetzes (NAG), BGBl. I Nr. 100/2005, oder nach § 54 des Asylgesetzes 2005 (AsylG 2005), BGBl. I Nr. 100, rechtmäßig im Inland aufhält oder
+3.
+dem Kind Asyl nach dem AsylG 2005 gewährt wurde.
+Solange die Voraussetzungen nicht vorliegen, erfolgt weder eine Einzahlung des Startguthabens noch eine Ersatzveranlagung nach § 2.
+(2) Die Einzahlung des Startguthabens hat nach der Mitteilung einer depotführenden Stelle über die Eröffnung eines inländischen Zukunftsdepots oder nach Mitteilung der Österreichischen Bundesfinanzierungsagentur über die Eröffnung eines Bundesschatz-Zukunftskontos (§ 108j Abs. 2 Z 7 EStG 1988) und bei Vorliegen der Voraussetzungen nach Abs. 1 vom Finanzamt Österreich zu erfolgen.
+(3) Das Vorliegen der Voraussetzungen nach Abs. 1 wird vom Finanzamt Österreich frühestens nach Ablauf von 62 Tagen ab Geburt des Kindes geprüft.
+(4) Erfüllt ein Kind, bei dem die Wohn- und Meldevoraussetzungen nach Abs. 1 erster Satz vorliegen, bei Eröffnung eines Zukunftsdepots oder eines Bundesschatz-Zukunftskontos keine der Voraussetzungen des Abs. 1 Z 1 bis 3, ist das Startguthaben erst bei Erfüllung einer der Voraussetzungen auf dieses einzuzahlen.
+(5) Das Startguthaben und die darauf entfallenden durchschnittlichen Wertänderungen stehen unter Eigentumsvorbehalt der Republik Österreich bis zum Tag der Vollendung des 18. Lebensjahres des Kindes, erst am darauffolgenden Tag geht es in dessen Eigentum über, sofern alle Voraussetzungen nach diesem Bundesgesetz vorliegen und kein Grund vorliegt, der eine Rückzahlung an das Finanzamt Österreich auslöst. Dessen ungeachtet besteht ab der Einzahlung für steuerrechtliche Zwecke wirtschaftliches Eigentum des Kindes am Startguthaben.
+§ 2.
+(1) Wird dem Finanzamt Österreich bis zum 31. Dezember des Jahres, in dem das Kind das 3. Lebensjahr vollendet hat, weder die Eröffnung eines inländischen Zukunftsdepots noch die Eröffnung eines Bundesschatz-Zukunftskontos mitgeteilt (§ 108j Abs. 2 Z 7 EStG 1988), hat eine Ersatzveranlagung nach Maßgabe der folgenden Bestimmungen zu erfolgen. Dabei hat das Finanzamt Österreich zunächst das Vorliegen der Wohn- und Meldevoraussetzungen nach § 1 Abs. 1 erster Satz zu prüfen. Liegen diese vor, so hat eine Prüfung der Voraussetzungen nach § 1 Abs. 1 Z 1 bis 3 jeweils bis zum 31. Jänner des Folgejahres zu erfolgen.
+(2) Erfüllt ein Kind zum 31. Dezember des Jahres, in dem es das 3. Lebensjahr vollendet hat, die Voraussetzungen des § 1 Abs. 1, ist das Startguthaben vom Finanzamt Österreich bis 31. Jänner des Folgejahres auf einem bei der Österreichischen Bundesfinanzierungsagentur eröffneten Bundesschatz-Kohortenkonto treuhändig für das Kind zu veranlagen.
+(3) Erfüllt ein Kind, bei dem die Wohn- und Meldevoraussetzungen nach § 1 Abs. 1 erster Satz vorliegen, am 31. Dezember des Jahres, in dem es das 3. Lebensjahr vollendet hat, keine der Voraussetzungen des § 1 Abs. 1 Z 1 bis 3, hat auch in den Folgejahren eine entsprechende Prüfung zu erfolgen. Sobald bei Vorliegen der Wohn- und Meldevoraussetzungen nach § 1 Abs. 1 erster Satz eine der Voraussetzungen des § 1 Abs. 1 Z 1 bis 3 erfüllt ist, ist das Startguthaben vom Finanzamt Österreich bis 31. Jänner des Folgejahres auf einem bei der Österreichischen Bundesfinanzierungsagentur eröffneten Bundesschatz-Kohortenkonto treuhändig für das Kind zu veranlagen. Dabei ist das Startguthaben in die Ersatzveranlagung für jene Kinder einzubeziehen, die im Vorjahr das 3. Lebensjahr vollendet haben.
+Auszahlung, Rückzahlung und Entnahme des Startguthabens
+§ 3.
+(1) Das Startguthaben geht am Tag nach der Vollendung des 18. Lebensjahres des Kindes in das volle Eigentum des Kindes über, vorausgesetzt das Kind war bis zur Vollendung des 18. Lebensjahres mindestens 5.475 Tage lang im Inland mit Hauptwohnsitz wohnhaft und am Tag der Vollendung des 18. Lebensjahres des Kindes ist eine der aufenthaltsrechtlichen Voraussetzungen nach § 1 Abs. 1 Z 1 bis 3 erfüllt. Die depotführende Stelle bzw. die Österreichische Bundesfinanzierungsagentur darf das Startguthaben zuzüglich der darauf entfallenen Wertänderung mit Vollendung des 18. Lebensjahres an das Kind dann auszahlen, wenn das Finanzamt Österreich auf deren Anfrage prüft und mitteilt, dass die Voraussetzungen erfüllt sind.
+(2) Das Startguthaben zuzüglich der darauf entfallenen durchschnittlichen Wertänderung ist entgegen Abs. 1 von der depotführenden Stelle bzw. von der Österreichischen Bundesfinanzierungsagentur an das Finanzamt Österreich zurückzuzahlen, sofern festgestellt wird, dass das Kind bis zur Vollendung des 18. Lebensjahres nicht mindestens 5.475 Tage lang im Inland mit Hauptwohnsitzmeldung wohnhaft war und am Tag der Vollendung des 18. Lebensjahres des Kindes nicht eine der aufenthaltsrechtlichen Voraussetzungen nach § 1 Abs. 1 Z 1 bis 3 erfüllt ist oder, wenn nachträglich festgestellt wird, dass die Voraussetzungen für die Einzahlung des Startguthabens nicht vorlagen.
+(3) Das Startguthaben zuzüglich der darauf entfallenen durchschnittlichen Wertänderung kann unbeschadet von den Bestimmungen des § 108f Abs. 2 Z 1 in Verbindung mit Abs. 5 EStG 1988 nicht vor Ablauf der Mindestzeit entnommen werden.
+(4) Bei Auflösung eines inländischen Zukunftsdepots oder eines Bundesschatz-Zukunftskontos vor Vollendung des 18. Lebensjahres, mit Ausnahme einer Auflösung nach der dazu erteilten pflegschaftsgerichtlichen Genehmigung, ist das Startguthaben von der depotführenden Stelle bzw. von der Österreichischen Bundesfinanzierungsagentur zuzüglich der darauf entfallenen durchschnittlichen Wertänderung an das Finanzamt Österreich zurückzuzahlen.
+(5) Bei Tod des Kindes vor Vollendung seines 18. Lebensjahres geht das Startguthaben zuzüglich der darauf entfallenen durchschnittlichen Wertänderung in das Eigentum der Erben des Kindes über. Eine Rückzahlung nach Abs. 2 hat unabhängig von einer Auflösung eines inländischen Zukunftsdepots oder eines Bundesschatz-Zukunftskontos nicht zu erfolgen.
+(6) Die gemäß Abs. 2 und 4 zurückgezahlten Beträge sind dem Familienlastenausgleichsfonds (§ 39 Abs. 1 Familienlastenausgleichsgesetz 1967, BGBl. Nr. 376/1967) zuzuführen.
+Nachträgliche Übertragung und Anbieterwechsel
+§ 4.
+(1) Wird nach der Vollendung des 3. Lebensjahres eines Kindes ein inländisches Zukunftsdepot oder Bundesschatz-Zukunftskonto gemäß § 108j EStG 1988 eröffnet, hat das Finanzamt Österreich bis zum 31. Jänner des auf die Eröffnung folgenden Kalenderjahres aus der Ersatzveranlagung (§ 2) das Startguthaben zuzüglich der von der Österreichischen Bundesfinanzierungsagentur festgestellen darauf entfallenden Wertänderung auf dieses zu überweisen.
+(2) Im Falle eines Anbieterwechsels gemäß (§ 108j Abs. 2 Z 6 lit. a und Abs. 5 Z 5 lit. a EStG 1988) ist mitzuteilen, ob das inländische Zukunftsdepot oder das Bundesschatz-Zukunftskonto ein Startguthaben enthält. Bei einem Anbieterwechsel von einer inländischen depotführenden Stelle auf eine ausländische depotführende Stelle hat eine Rückzahlung des Startguthabens zuzüglich der darauf entfallenden durchschnittlichen Wertänderung an das Finanzamt Österreich zu erfolgen.
+Datenübermittlung und Verordnungsermächtigung
+§ 5.
+Der Bundesminister für Finanzen – als Verantwortlicher für die Datenverarbeitung im Rahmen dieses Bundesgesetzes (Art. 35 Datenschutz-Grundverordnung – DSGVO) – wird ermächtigt, im Einvernehmen mit der Bundesministerin für Europa, Integration und Familie die Details der Ausgestaltung der Veranlagung, die Zeitpunkte der automatisierten Prüfung der Voraussetzungen nach diesem Bundesgesetz, die technische Durchführung der Ein- und Rückzahlungen des Startguthabens einschließlich der Kriterien der Berechnung der durchschnittlichen Wertänderung oder einer Pauschalierung der durchschnittlichen Wertänderung sowie die Verarbeitung der dazu erforderlichen personenbezogenen Daten durch die Finanzverwaltung im Wege einer Verordnung näher zu bestimmen.
+Verweisungen
+§ 6.
+Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden, soweit nichts anderes bestimmt ist.
+Vollziehung
+§ 7.
+Mit der Vollziehung dieses Bundesgesetzes ist die Bundesministerin für Europa, Integration und Familie betraut, dabei stehen ihr die dem Bundesminister für Finanzen obliegenden Befugnisse zu.
+Inkrafttreten
+§ 8.
+Dieses Bundesgesetz tritt am 1. Juli 2027 in Kraft und ist auf Geburten nach dem 31. Dezember 2026 und Geburten vor dem 1. Jänner 2029 anzuwenden. Dabei wird die Bundesregierung ermächtigt, durch Verordnung die Anwendbarkeit dieses Gesetzes bis spätestens zum 1. Dezember 2027 zu verschieben, wenn die notwendigen technischen Voraussetzungen für die Umsetzung dieses Gesetzes noch nicht gegeben sind.
