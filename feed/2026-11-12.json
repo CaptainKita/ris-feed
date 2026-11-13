@@ -1,0 +1,273 @@
+{
+ "erzeugt": "2026-11-12T05:30:01+01:00",
+ "fenster": "EinerWoche",
+ "quellen": {
+  "Bundesrecht/BgblAuth": {
+   "neu": 1,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/Begut": {
+   "neu": 1,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/RegV": {
+   "neu": 2,
+   "abgeschnitten": false
+  },
+  "Judikatur/Justiz": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vfgh": {
+   "neu": 1,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vwgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Lvwg": {
+   "neu": 7,
+   "abgeschnitten": false
+  }
+ },
+ "fehler": [],
+ "dokumente": [
+  {
+   "id": "BGBLA_2026_II_325",
+   "app": "BgblAuth",
+   "Kurztitel": "Änderung der Verordnung über Geräuschemissionen von zur Verwendung im Freien vorgesehenen Geräten und Maschinen",
+   "Titel": "Verordnung des Bundesministers für Wirtschaft, Energie und Tourismus, mit der die Verordnung über Geräuschemissionen von zur Verwendung im Freien vorgesehenen Geräten und Maschinen geändert wird",
+   "Ausgabedatum": "2026-11-11",
+   "Typ": "Verordnung",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_II_325/BGBLA_2026_II_325.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_II_325",
+   "text_datei": "voll/2026-11-12/BGBLA_2026_II_325.txt",
+   "zeichen": 19299,
+   "text": "RIS Dokument BUNDESGESETZBLATT\nFÜR DIE REPUBLIK ÖSTERREICH\nJahrgang 2026\nAusgegeben am 11. November 2026\nTeil II\n325. Verordnung:\nÄnderung der Verordnung über Geräuschemissionen von zur Verwendung im Freien vorgesehenen Geräten und Maschinen\n[CELEX-Nr.: 32024L2839]\n325. Verordnung des Bundesministers für Wirtschaft, Energie und Tourismus, mit der die Verordnung über Geräuschemissionen von zur Verwendung im Freien vorgesehenen Geräten und Maschinen geändert wird\nAuf Grund des § 69 Abs. 1 und des § 71 Abs. 3 bis 6 der Gewerbeordnung 1994 – GewO 1994, BGBl. Nr. 194/1994, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 100/2026, wird verordnet:\nDie Verordnung über Geräuschemissionen von zur Verwendung im Freien vorgesehenen Geräten und Maschinen, BGBl. II Nr. 249/2001, zuletzt geändert durch die Verordnung BGBl. II Nr. 347/2006, wird wie folgt geändert:\n1. In § 1 Abs. 1 Z 3, § 2 Abs. 3 und Anhang 6 Z 6 wird jeweils der Ausdruck „Anhang 3“ durch den Ausdruck „Anhang III der Richtlinie 2000/14/EG“ und in § 2 Abs. 4 wird der Ausdruck „Anhangs 3“ durch den Ausdruck „Anhangs III der Richtlinie 2000/14/EG“ ersetzt.\n2. § 1 Abs. 1 Z 4 lautet:\n„4.\nMindestkriterien für notifizierte Stellen (§ 9).“\n3. § 1 Abs. 4 lautet:\n„(4) Durch diese Verordnung wird die Richtlinie 2000/14/EG zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über umweltbelastende Geräuschemissionen von zur Verwendung im Freien vorgesehenen Geräten und Maschinen, ABl. Nr. L 162 vom 03.07.2000 S. 1, in der Fass [...]"
+  },
+  {
+   "id": "BEGUT_CD3C21EF_148E_4F0E_A1AD_284D74D29249",
+   "app": "Begut",
+   "Kurztitel": "Sanktionengesetz",
+   "Titel": "Bundesgesetz, mit dem das Sanktionengesetz 2024, das Außenwirtschaftsgesetz 2011, das Strafgesetzbuch, das Verbandsverantwortlichkeitsgesetz, das Audiovisuelle Mediendienste-Gesetz und das HinweisgeberInnenschutzgesetz geändert werden",
+   "Geaendert": "2026-11-11",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Begut/BEGUT_CD3C21EF_148E_4F0E_A1AD_284D74D29249/BEGUT_CD3C21EF_148E_4F0E_A1AD_284D74D29249.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Begut&Dokumentnummer=BEGUT_CD3C21EF_148E_4F0E_A1AD_284D74D29249",
+   "text_datei": "voll/2026-11-12/BEGUT_CD3C21EF_148E_4F0E_A1AD_284D74D29249.txt",
+   "zeichen": 21366,
+   "text": "RIS Dokument Entwurf\nBundesgesetz, mit dem das Sanktionengesetz 2024, das Außenwirtschaftsgesetz 2011, das Strafgesetzbuch, das Verbandsverantwortlichkeitsgesetz, das Audiovisuelle Mediendienste-Gesetz und das HinweisgeberInnenschutzgesetz geändert werden\nDer Nationalrat hat beschlossen:\nInhaltsverzeichnis\nArtikel 1\nÄnderung des Sanktionengesetzes 2024\nArtikel 2\nÄnderung des Außenwirtschaftsgesetzes 2011\nArtikel 3\nÄnderung des Strafgesetzbuches\nArtikel 4\nÄnderung des Verbandsverantwortlichkeitsgesetzes\nArtikel 5\nÄnderung des Audiovisuelle Mediendienste-Gesetzes\nArtikel 6\nÄnderung des HinweisgeberInnenschutzgesetzes\nArtikel 1\nÄnderung des Sanktionengesetzes 2024\nDas Bundesgesetz über Sanktionsmaßnahmen (Sanktionengesetz 2024 – SanktG 2024), BGBl. I Nr. 5/2025, wird wie folgt geändert:\n1. Im Inhaltsverzeichnis wird nach der Überschrift des 3. Abschnitts folgender Eintrag eingefügt:\n„Erster Unterabschnitt\nGerichtliche Strafbestimmungen“\n2. Im Inhaltsverzeichnis wird der Eintrag zu § 16 durch folgende Einträge ersetzt:\n„§ 16.\nVerstoß gegen nationale Umsetzungsmaßnahmen\n§ 16a.\nVerfügungen in Bezug auf Vermögenswerte\n§ 16b.\nUnterlassung der Meldung von Vermögenswerten oder Informationen über Vermögenswerte\n§ 16c.\nErmöglichung der Ein- oder Durchreise\n§ 16d.\nRestriktive Maßnahmen im Zusammenhang mit bestimmten Inhalten\n§ 16e.\nRestriktive Maßnahmen im Zusammenhang mit Kriegsmaterial\n§ 16f.\nVerfall“\n3. Im Inhaltsverzeichnis wird die Überschrift des § 17 zur Abschnittsbezeichnung; dies [...]"
+  },
+  {
+   "id": "REGV_A95B8EC7_17AA_4E17_BC67_E531D84FFFB9",
+   "app": "RegV",
+   "Kurztitel": "Bundesgesetz, mit dem das Außenwirtschaftsgesetz 2011 geändert wird",
+   "Titel": "Bundesgesetz, mit dem das Außenwirtschaftsgesetz 2011 geändert wird",
+   "Geaendert": "2026-11-11",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/RegV/REGV_A95B8EC7_17AA_4E17_BC67_E531D84FFFB9/REGV_A95B8EC7_17AA_4E17_BC67_E531D84FFFB9.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=RegV&Dokumentnummer=REGV_A95B8EC7_17AA_4E17_BC67_E531D84FFFB9",
+   "text_datei": "voll/2026-11-12/REGV_A95B8EC7_17AA_4E17_BC67_E531D84FFFB9.txt",
+   "zeichen": 151294,
+   "text": "RIS Dokument Regierungsvorlage\nBundesgesetz, mit dem das Außenwirtschaftsgesetz 2011 geändert wird\nDer Nationalrat hat beschlossen:\nDas Außenwirtschaftsgesetz 2011 – AußWG 2011, BGBl. I Nr. 26/2011, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 50/2025 und die Bundesministeriengesetz-Novelle 2025, BGBl. I Nr. 10/2025, wird wie folgt geändert:\n1. Der Titel lautet:\n„Bundesgesetz über die Kontrolle von Exporten aus Gründen der Sicherheit (Sicherheitsexport-Gesetz – SichEx-G)“\n2. Das Inhaltsverzeichnis lautet:\n„Inhaltsverzeichnis\n1. Hauptstück\nAllgemeine Bestimmungen\n§ 1.\nBegriffsbestimmungen\n§ 2.\nWertgrenzen\n2. Hauptstück\nGenehmigungskriterien\n§ 3.\nAllgemeine Grundsätze\n§ 4.\nEinhaltung der internationalen Verpflichtungen\n§ 5.\nEinhaltung der internationalen Mechanismen zur Kontrolle von Waffenausfuhren\n§ 6.\nAchtung der Menschenrechte und des humanitären Völkerrechts\n§ 7.\nAuswirkungen auf die innere Lage im Bestimmungsland\n§ 8.\nAufrechterhaltung von Frieden, Sicherheit und regionaler Stabilität\n§ 9.\nAuswirkungen auf die Sicherheitsinteressen und auswärtigen Beziehungen Österreichs und auf die Sicherheitsinteressen anderer EU-Mitgliedstaaten\n§ 10.\nAuswirkungen im Hinblick auf terroristische Aktivitäten und die internationale Kriminalität\n§ 11.\nGefahr einer Umlenkung zu unerwünschten Zwecken\n§ 12.\nDauerhafte Entwicklung\n§ 13.\nEndverwendung\n3. Hauptstück\nBeschränkungen im Verkehr mit Drittstaaten\n1. Abschnitt\nAllgemeine Beschränkungen und Arten von Genehmigungen im Güterverkehr [...]"
+  },
+  {
+   "id": "REGV_ED298BB2_CBCE_4F42_8F72_C3FE851FAEBB",
+   "app": "RegV",
+   "Kurztitel": "Bundesgesetz, mit dem das Sanktionengesetz 2024, das Außenwirtschaftsgesetz 2011, das Strafgesetzbuch, das Verbandsverantwortlichkeitsgesetz, das Audiovisuelle Mediendienste-Gesetz und das HinweisgeberInnenschutzgesetz geändert werden",
+   "Titel": "Bundesgesetz, mit dem das Sanktionengesetz 2024, das Außenwirtschaftsgesetz 2011, das Strafgesetzbuch, das Verbandsverantwortlichkeitsgesetz, das Audiovisuelle Mediendienste-Gesetz und das HinweisgeberInnenschutzgesetz geändert werden",
+   "Geaendert": "2026-11-11",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/RegV/REGV_ED298BB2_CBCE_4F42_8F72_C3FE851FAEBB/REGV_ED298BB2_CBCE_4F42_8F72_C3FE851FAEBB.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=RegV&Dokumentnummer=REGV_ED298BB2_CBCE_4F42_8F72_C3FE851FAEBB",
+   "text_datei": "voll/2026-11-12/REGV_ED298BB2_CBCE_4F42_8F72_C3FE851FAEBB.txt",
+   "zeichen": 21376,
+   "text": "RIS Dokument Regierungsvorlage\nBundesgesetz, mit dem das Sanktionengesetz 2024, das Außenwirtschaftsgesetz 2011, das Strafgesetzbuch, das Verbandsverantwortlichkeitsgesetz, das Audiovisuelle Mediendienste-Gesetz und das HinweisgeberInnenschutzgesetz geändert werden\nDer Nationalrat hat beschlossen:\nInhaltsverzeichnis\nArtikel 1\nÄnderung des Sanktionengesetzes 2024\nArtikel 2\nÄnderung des Außenwirtschaftsgesetzes 2011\nArtikel 3\nÄnderung des Strafgesetzbuches\nArtikel 4\nÄnderung des Verbandsverantwortlichkeitsgesetzes\nArtikel 5\nÄnderung des Audiovisuelle Mediendienste-Gesetzes\nArtikel 6\nÄnderung des HinweisgeberInnenschutzgesetzes\nArtikel 1\nÄnderung des Sanktionengesetzes 2024\nDas Bundesgesetz über Sanktionsmaßnahmen (Sanktionengesetz 2024 – SanktG 2024), BGBl. I Nr. 5/2025, wird wie folgt geändert:\n1. Im Inhaltsverzeichnis wird nach der Überschrift des 3. Abschnitts folgender Eintrag eingefügt:\n„Erster Unterabschnitt\nGerichtliche Strafbestimmungen“\n2. Im Inhaltsverzeichnis wird der Eintrag zu § 16 durch folgende Einträge ersetzt:\n„§ 16.\nVerstoß gegen nationale Umsetzungsmaßnahmen\n§ 16a.\nVerfügungen in Bezug auf Vermögenswerte\n§ 16b.\nUnterlassung der Meldung von Vermögenswerten oder Informationen über Vermögenswerte\n§ 16c.\nErmöglichung der Ein- oder Durchreise\n§ 16d.\nRestriktive Maßnahmen im Zusammenhang mit bestimmten Inhalten\n§ 16e.\nRestriktive Maßnahmen im Zusammenhang mit Kriegsmaterial\n§ 16f.\nVerfall“\n3. Im Inhaltsverzeichnis wird die Überschrift des § 17 zur Abschnittsbezeich [...]"
+  },
+  {
+   "id": "JFR_20260312_25W_I00010_01",
+   "app": "Vfgh",
+   "Geschaeftszahl": "WI10/2025",
+   "Entscheidungsdatum": "2026-03-12",
+   "Geaendert": "2026-11-11",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verfassungsgerichtshof (VfGH)",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "B-VG Art26",
+    "B-VG Art26a",
+    "B-VG Ar95",
+    "B-VG Art117 Abs2",
+    "B-VG Art141 Abs1 lita",
+    "Nö GRWO 1994 §6, §10, §13, §14, §15, §16, §29, §30, §31, §39, §40, §41, §42, §42a, §45, §50, §56, §57, §58, §73",
+    "StGB §263, §283",
+    "E-GovernmentG §19",
+    "ZPO §292, §320",
+    "DrucksortenV der Nö Landesregierung",
+    "Tir GdWO 1994 §35",
+    "VfGG §7 Abs1, §35 Abs1, §70 Abs1"
+   ],
+   "Schlagworte": "Wahlen, VfGH / Wahlanfechtung, Wahlanfechtung administrative, Wahlkarten, Wahlergebnis, Wahlrecht freies, Gemeinderecht Organe, Bürgermeister, Wahlbehörden, Wahlwerbung, Gemeinderat, Ermittlungsverfahren, elektronische Signatur, Partei politische",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vfgh/JFR_20260312_25W_I00010_01/JFR_20260312_25W_I00010_01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260312_25W_I00010_01",
+   "text_datei": "voll/2026-11-12/JFR_20260312_25W_I00010_01.txt",
+   "zeichen": 24094,
+   "text": "RIS Dokument Gericht\nVerfassungsgerichtshof\nEntscheidungsdatum\n12.03.2026\nGeschäftszahl\nWI10/2025\nLeitsatz\nKeine Stattgabe der Wahl des Gemeinderats der Marktgemeinde Gablitz vom 18.05.2025; keine Rechtswidrigkeit des Verfahrens durch die – in den Niederschriften der Sprengelwahlbehörde nachgewiesene – Einbeziehung von 250 gültige Wahlkarten in das Ermittlungsverfahren; kein Einfluss der (doppelt) angefertigten und übereinstimmenden Niederschriften zweier Sprengelwahlbehörden auf das Wahlergebnis; keine Rechtswidrigkeit der vorzeitigen Unterzeichnung der Niederschriften der Wahlbehörde durch Ersatzmitglieder angesichts der ausdrücklich Dokumentation ihrer Anwesenheit; Verletzung der Verpflichtung zur Beurkundung des Endes der Wahlhandlung ohne Einfluss auf Wahlergebnis; keine Verletzung der Nö GRWO 1994 betreffend die Dokumentation abgenommener, überbrachter und übernommener Wahlkarten angesichts der Dokumentation in einem Beiblatt; keine Rechtswidrigkeit der Kurzbezeichnung \"ÖVP\" einer Wählergruppe wegen hinreichender Unterscheidbarkeit zu den anderen Wahlvorschlägen; keine Verletzung des Gebotes der Äquidistanz von Gemeindeorganen zu den einzelnen Wahlparteien durch die Begründung der Wahlwiederholung im Amtsblatt der Gemeinde, die Verwendung eines privaten Facebook-Accounts für Veröffentlichungen sowie ein zweifelsfrei als Wahlwerbung erkennbares Flugblatt einer Wählergruppe\nRechtssatz\nAnfechtung der teilweisen Wiederholung der Wahl des Gemeinderates der Marktgemeinde Gabl [...]"
+  },
+  {
+   "id": "LVWGT_TI_20261104_LVwG_2025_13_1282_2_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-2025/13/1282-2",
+   "Entscheidungsdatum": "2026-11-04",
+   "Geaendert": "2026-11-11",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Tirol",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "FSG 1997 §7",
+    "FSG 1997 §24",
+    "FSG 1997 §25",
+    "FSG 1997 §26",
+    "FSG 1997 §28 Abs2",
+    "FSG 1997 §29",
+    "FSG 1997 §30 Abs1",
+    "AVG §57 Abs1"
+   ],
+   "Schlagworte": "Entziehung der Lenkberechtigung<br/>Zeitraum von 7 Monaten<br/>Alkoholisierung<br/>",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_TI_20261104_LVwG_2025_13_1282_2_00/LVWGT_TI_20261104_LVwG_2025_13_1282_2_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_TI_20261104_LVwG_2025_13_1282_2_00",
+   "text_datei": "voll/2026-11-12/LVWGT_TI_20261104_LVwG_2025_13_1282_2_00.txt",
+   "zeichen": 19618,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Tirol\nEntscheidungsdatum\n04.11.2026\nGeschäftszahl\nLVwG-2025/13/1282-2\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Tirol erkennt durch seine Richterin Mag. a Dr. in Strele über die Beschwerde des AA, vertreten durch BB, **** Z, Adresse 1, gegen den Bescheid der Bezirkshauptmannschaft Y vom 28.03.2025, GZ ***, betreffend eine Entziehung der Lenkberechtigung nach dem Führerscheingesetz (FSG),\nzu Recht:\n1. Die Beschwerde wird als unbegründet abgewiesen.\n2. Die ordentliche Revision ist gemäß Art 133 Abs 4 B-VG nicht zulässig.\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensverlauf:\nMit Bescheid der Bezirkshauptmannschaft Y vom 07.03.2025, GZ ***, wurde dem Beschwerdeführer die Lenkberechtigung für die Klassen AM (Motorfahrräder oder vierrädrige Leichtkraftfahrzeuge), A, B, C1, C, BE, C1E, CE und F für einen Zeitraum von sieben Monaten , gerechnet ab dem 22.02.2025, entzogen . Ebenso wurde ihm eine allfällig erteilte ausländische Lenkberechtigung auf die Dauer von sieben Monaten entzogen, als begleitende Maßnahme wurde dem Beschwerdeführer die Teilnahme an einer Nachschulung angeordnet.\nBegründend wurde in diesem Bescheid ausgeführt, dass der Beschwerdeführer am 22.02.2025 um 14:20 Uhr in X auf der CC auf Höhe Strkm ** das Kraftfahrzeug mit dem Kennzeichen *** in einem durch Alkohol beeinträchtigten Zustand gelenkt habe und bei der Untersuchung der Atemluft auf Alkoholgehalt bei ihm ein Wert von 0,68 mg/l (1,36 Promille)  [...]"
+  },
+  {
+   "id": "LVWGT_ST_20251016_LVwG_30_12_980_2025_15_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG 30.12-980/2025-15",
+   "Entscheidungsdatum": "2025-10-16",
+   "Geaendert": "2026-11-11",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Steiermark",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "TAV 2011 §4 Abs3",
+    "TAV 2011 §4",
+    "TAV 2011 §4 Abs2",
+    "ASchG 1994 §130 Abs1 Z6",
+    "TAV 2011 §4 Abs4"
+   ],
+   "Schlagworte": "ArbeitnehmerInnenschutzgesetz, Tagbau, Tagbauarbeitenverordnung, Nachtarbeiten, Arbeitsfreigabesystem, fachkundige Leitung, Gefahrenbeurteilung, Finsternis, Unterweisung, gefährliche Arbeiten, Arbeitsfreigabe, Steinbruch, Dunkelheit",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_ST_20251016_LVwG_30_12_980_2025_15_00/LVWGT_ST_20251016_LVwG_30_12_980_2025_15_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_ST_20251016_LVwG_30_12_980_2025_15_00",
+   "text_datei": "voll/2026-11-12/LVWGT_ST_20251016_LVwG_30_12_980_2025_15_00.txt",
+   "zeichen": 63564,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Steiermark\nEntscheidungsdatum\n16.10.2025\nGeschäftszahl\nLVwG 30.12-980/2025-15\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Steiermark hat durch den Richter Mag. Dr. Kaspar über die Beschwerde der Frau A, geb. am ****, vertreten durch Destaller Mader Niederbichler Sixt Rechtsanwälte GmbH, Wastiangasse 7, 8010 Graz, gegen das Straferkenntnis der Bezirkshauptmannschaft Graz-Umgebung vom 07.02.2025, GZ: BHGU/606240082037/2024,\nz u R e c h t e r k a n n t:\nI. Gemäß § 50 Abs 1 Verwaltungsgerichtsverfahrensgesetz (im Folgenden VwGVG) wird der Beschwerde\nstattgegeben,\ndas angefochtene Straferkenntnis behoben und das Verwaltungsstrafverfahren hinsichtlich Spruchpunkt 1.) bis Spruchpunkt 5.) gemäß § 45 Abs 1 Z 2 VStG iVm § 38 VwGVG und hinsichtlich Spruchpunkt 6.) gemäß § 45 Abs 1 Z 1 VStG iVm § 38 VwGVG eingestellt .\nII. Gegen dieses Erkenntnis ist gemäß § 25a Verwaltungsgerichtshofgesetz (im Folgenden VwGG) eine ordentliche Revision an den Verwaltungsgerichtshof nach Art. 133 Abs 4 B-VG unzulässig .\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensgang :\nMit dem angefochtenen Straferkenntnis der Bezirkshauptmannschaft Graz-Umgebung (im Folgenden belangte Behörde), vom 07.02.2025, GZ: BHGU/606240082037/2024, wurden Frau A (im Folgenden Beschwerdeführerin) als handelsrechtliche Geschäftsführerin der B m.b.H., C-Straße, A-Ort, folgende Übertretungen von Arbeitnehmerschutzvorschriften zur Last gelegt, die im Zuge einer Überprüfun [...]"
+  },
+  {
+   "id": "LVWGR_ST_20251016_LVwG_30_12_980_2025_15_03",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG 30.12-980/2025-15",
+   "Entscheidungsdatum": "2025-10-16",
+   "Geaendert": "2026-11-11",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Steiermark",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "TAV 2011 §4",
+    "TAV 2011 §4 Abs4",
+    "TAV 2011 §4 Abs3"
+   ],
+   "Schlagworte": "Tagbauarbeitenverordnung, fachkundige Leitung, Anwesenheit, gefährliche Arbeiten, Steinbruch, Nachtarbeiten, Tagbau, Finsternis",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_ST_20251016_LVwG_30_12_980_2025_15_03/LVWGR_ST_20251016_LVwG_30_12_980_2025_15_03.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_ST_20251016_LVwG_30_12_980_2025_15_03",
+   "text_datei": "voll/2026-11-12/LVWGR_ST_20251016_LVwG_30_12_980_2025_15_03.txt",
+   "zeichen": 586,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Steiermark\nEntscheidungsdatum\n16.10.2025\nGeschäftszahl\nLVwG 30.12-980/2025-15\nRechtssatz\nNach dem eindeutigen Wortlaut des § 4 Abs 4 TAV – im Unterschied zu § 4 Abs 3 TAV – wird nicht zwingend die Anwesenheit der fachkundigen Leitung verlangt. Ausreichend ist, wenn bei der Durchführung der Arbeiten eine Person anwesend ist, welche über die nötigen theoretischen und praktischen Kenntnisse für die Durchführung der Arbeiten sowie einschlägige Berufserfahrung verfügt.\nEuropean Case Law Identifier\nECLI:AT:LVWGST:2025:LVwG.30.12.980.2025.15"
+  },
+  {
+   "id": "LVWGR_ST_20251016_LVwG_30_12_980_2025_15_02",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG 30.12-980/2025-15",
+   "Entscheidungsdatum": "2025-10-16",
+   "Geaendert": "2026-11-11",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Steiermark",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "TAV 2011 §4 Abs3",
+    "TAV 2011 §4",
+    "TAV 2011 §4 Abs2",
+    "ASchG 1994 §130 Abs1 Z6"
+   ],
+   "Schlagworte": "Tagbau, Arbeitsfreigabesystem, Arbeitsfreigabe, gefährliche Arbeiten, Nachtarbeiten, ArbeitnehmerInnenschutzgesetz, Steinbruch, Tagbauarbeitenverordnung, Finsternis, Tatbestand",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_ST_20251016_LVwG_30_12_980_2025_15_02/LVWGR_ST_20251016_LVwG_30_12_980_2025_15_02.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_ST_20251016_LVwG_30_12_980_2025_15_02",
+   "text_datei": "voll/2026-11-12/LVWGR_ST_20251016_LVwG_30_12_980_2025_15_02.txt",
+   "zeichen": 1391,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Steiermark\nEntscheidungsdatum\n16.10.2025\nGeschäftszahl\nLVwG 30.12-980/2025-15\nRechtssatz\nGemäß § 4 Abs 3 TAV ist dafür zu sorgen, dass die in Abs 1 und 2 genannten Arbeiten erst durchgeführt werden, nachdem sich die fachkundige Leitung (§ 3) überzeugt hat, dass die laut Arbeitsfreigabesystem einzuhaltenden Bedingungen und festgelegten\nSchutz- und Rettungsmaßnahmen durchgeführt sind und sie die Arbeitsfreigabe erteilt hat. Wie sich aus dem Wortlaut des § 4 Abs 3 TAV klar ergibt, ist das Vorliegen eines Arbeitsfreigabesystems wesentliche Tatbestandsvoraussetzung der Übertretung nach § 4 Abs 3 TAV iVm § 130 Abs 1 Z 6 ASchG. Wenn – wie im gegenständlichen Fall – ein solches System nicht eingerichtet wurde, kann die fachkundige Leitung auch keine Arbeitsfreigabe erteilen. Die Unterlassung der Freigabe setzt aber voraus, dass es überhaupt ein System gibt, in dessen Rahmen eine solche Freigabe vorgesehen ist. In diesem Kontext ist vielmehr auf das Fehlen des Arbeitsfreigabesystems abzustellen. Dies würde jedoch eine Übertretung nach § 4 Abs 2 TAV bedeuten, demnach aufgrund der vom Arbeitgeber vorzunehmenden Gefahrenbeurteilung selbst festzulegen ist, für welche anderen als die in Abs 1 genannten gefährlichen Arbeiten, ein Arbeitsfreigabesystem festzulegen ist.\nEuropean Case Law Identifier\nECLI:AT:LVWGST:2025:LVwG.30.12.980.2025.15"
+  },
+  {
+   "id": "LVWGR_ST_20251016_LVwG_30_12_980_2025_15_01",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG 30.12-980/2025-15",
+   "Entscheidungsdatum": "2025-10-16",
+   "Geaendert": "2026-11-11",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Steiermark",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "TAV 2011 §4",
+    "TAV 2011 §4 Abs2"
+   ],
+   "Schlagworte": "Gefahrenbeurteilung, technische Vorgänge, gefährliche Arbeiten, Nachtarbeiten, Finsternis, Dunkelheit, Rahmenbedingungen, Steinbruch, Tagbauarbeitenverordnung, Arbeitsfreigabesystem, Tagbau",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_ST_20251016_LVwG_30_12_980_2025_15_01/LVWGR_ST_20251016_LVwG_30_12_980_2025_15_01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_ST_20251016_LVwG_30_12_980_2025_15_01",
+   "text_datei": "voll/2026-11-12/LVWGR_ST_20251016_LVwG_30_12_980_2025_15_01.txt",
+   "zeichen": 939,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Steiermark\nEntscheidungsdatum\n16.10.2025\nGeschäftszahl\nLVwG 30.12-980/2025-15\nRechtssatz\nNach § 4 Abs 2 TAV ist auch für andere gefährliche Arbeiten oder für an sich ungefährliche Arbeiten, die sich mit anderen Arbeitsvorgängen überschneiden und dadurch eine ernste Gefährdung bewirken können, ein Arbeitsfreigabesystem festzulegen – sofern dies aufgrund der Gefahrenbeurteilung erforderlich ist. Die Bestimmung ist dahingehend auszulegen, dass unter gefährlichen Arbeiten nicht nur technische Vorgänge (wie der Einsatz bestimmter Maschinen) zu verstehen sind, sondern auch Tätigkeiten, die aufgrund ihrer Rahmenbedingungen – etwa Dunkelheit, Höhe oder Enge – zu gefährlichen Arbeiten werden. Gefährliche Arbeiten im Sinne des § 4 Abs 2 TAV können sich somit auch aus dem Umfeld oder den Umständen der Ausführung ergeben.\nEuropean Case Law Identifier\nECLI:AT:LVWGST:2025:LVwG.30.12.980.2025.15"
+  },
+  {
+   "id": "LVWGT_WI_20250305_VGW_001_049_56_2025_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "VGW-001/049/56/2025",
+   "Entscheidungsdatum": "2025-03-05",
+   "Geaendert": "2026-11-11",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Wien",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "WaffG 1996 §16b",
+    "WaffG 1996 §51 Abs1 Z9",
+    "WaffV 02te 1998 §3"
+   ],
+   "Schlagworte": "Verwahrung von Schusswaffen, Munition, Waffenkoffer, Fahrzeug",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_WI_20250305_VGW_001_049_56_2025_00/LVWGT_WI_20250305_VGW_001_049_56_2025_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_WI_20250305_VGW_001_049_56_2025_00",
+   "text_datei": "voll/2026-11-12/LVWGT_WI_20250305_VGW_001_049_56_2025_00.txt",
+   "zeichen": 23843,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Wien\nEntscheidungsdatum\n05.03.2025\nGeschäftszahl\nVGW-001/049/56/2025\nText\nIM NAMEN DER REPUBLIK\nDas Verwaltungsgericht Wien hat durch seinen Richter Mag. Dr. HOLZER über die Beschwerde der Frau A. B., vertreten durch Rechtsanwältin in Wien, gegen das Straferkenntnis der Landespolizeidirektion Wien, Polizeikommissariat C., vom 02.12.2024, Zl. ..., betreffend eine Verwaltungsübertretung nach dem Waffengesetz (WaffG),\nzu Recht e r k a n n t:\nI. Gemäß § 50 Abs. 1 VwGVG wird die Beschwerde als unbegründet abgewiesen und das angefochtene Straferkenntnis bestätigt.\nII. Gemäß § 52 Abs. 1 und 2 VwGVG hat die Beschwerdeführerin einen Beitrag zu den Kosten des Beschwerdeverfahrens in der Höhe von EUR 60,- (das sind 20% der verhängten Geldstrafe) zu leisten.\nIII. Gegen dieses Erkenntnis ist gemäß § 25a VwGG eine ordentliche Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4 B-VG unzulässig.\nE n t s c h e i d u n g s g r ü n d e\nI.\nVerfahrensgang:\nMit Strafverfügung vom 19.09.2024 wurde die Beschwerdeführerin wegen einer Übertretung nach § 51 Abs. 1 Z 9 iVm. §16b WaffG 1996 zu einer Geldstrafe von EUR 300,- bzw. im Falle der Uneinbringlichkeit einer Ersatzfreiheitsstrafe von 3 Tagen und 11 Stunden verpflichtet, da diese von 15.09.2024 bis 18.09.2024 an der Örtlichkeit Wien, Obere D.-straße eine Schusswaffe der Type Beretta Vittoria, Kategorie C, Kaliber Schrot 12/6, Herstellernummer: ..., Registriernummer: ... in einem Waffenkoffer im [...]"
+  },
+  {
+   "id": "LVWGT_KA_20240830_KLVwG_1202_8_2024_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "KLVwG-1202/8/2024",
+   "Entscheidungsdatum": "2024-08-30",
+   "Geaendert": "2026-11-11",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Kärnten",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "AVG §13 Abs3 ",
+    "BauO Krnt §6",
+    "BauO Krnt §17 Abs1",
+    "BauO Krnt §17 Abs3",
+    "BauO Krnt §10",
+    "BauansuchenV Krnt 2022 §5"
+   ],
+   "Schlagworte": "Baurecht, Verwaltungsverfahrensrecht, Raumwidmungsänderung, Bewilligungsverfahren, privates Weinlager<br/>",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_KA_20240830_KLVwG_1202_8_2024_00/LVWGT_KA_20240830_KLVwG_1202_8_2024_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_KA_20240830_KLVwG_1202_8_2024_00",
+   "text_datei": "voll/2026-11-12/LVWGT_KA_20240830_KLVwG_1202_8_2024_00.txt",
+   "zeichen": 18437,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Kärnten\nEntscheidungsdatum\n30.08.2024\nGeschäftszahl\nKLVwG-1202/8/2024\nText\nDas Landesverwaltungsgericht Kärnten erkennt durch seine Richterin xxx über die Beschwerde des xxx, xxx, xxx, vom 08.07.2024 gegen den Bescheid des Bürgermeisters der Stadtgemeinde xxx vom 12.06.2024, AZ: xxx, wegen der Zurückweisung des Antrages vom 20.12.2023 betreffend eine Raumwidmungsänderung im bestehenden Nebengebäude auf dem Grundstück xxx KG xxx xxx, nach Durchführung einer mündlichen Verhandlung, gemäß\n§ 28 Abs. 1 und 2 Verwaltungsgerichtsverfahrensgesetz – VwGVG zu Recht:\nI.\nDer Beschwerde wird\nF o l g e g e g e b e n,\nund der angefochtene Bescheid vom 12.06.2024, AZ: xxx\na u f g e h o b e n.\nII.\nGegen diese Entscheidung ist eine ordentliche Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4 B-VG unzulässig .\nE n t s c h e i d u n g s g r ü n d e\nI.\nSachverhalt\na.\nVerfahrensgang\nMit Bauansuchen vom 20.12.2023 ersuchte xxx, xxx, xxx (Bauwerber und nunmehr Beschwerdeführer) um die Raumwidmungsänderung im bestehenden Nebengebäude auf dem Grundstück Nr. xxx, KG xxx xxx.\nIm Zuge einer baupolizeilichen Überprüfung am 09.01.2024 wurde vom Beschwerdeführer der Baubehörde mitgeteilt, dass er das beantragte Weinlager im Rahmen seiner landwirtschaftlichen Tätigkeit nutzen wolle. Im Rahmen des Parteiengehörs wurde der Beschwerdeführer von der Baubehörde mit Schreiben vom 17.01.2024 über gegenständliche Sach- und Rechtslage informiert und wurde ihm d [...]"
+  }
+ ]
+}

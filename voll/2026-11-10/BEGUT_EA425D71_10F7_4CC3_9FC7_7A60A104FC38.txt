@@ -1,0 +1,21 @@
+RIS Dokument Entwurf
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der die ELGA-Verordnung 2015 geändert wird (ELGA-Speicherverpflichtungs-Verordnungsnovelle 2026)
+Auf Grund des § 28a des Gesundheitstelematikgesetzes 2012, BGBl. I Nr. 111/2012, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 67/2026, wird verordnet:
+Die ELGA-Verordnung 2015 (ELGA-VO 2015), BGBl. II Nr. 106/2015, zuletzt geändert durch die Gesundheitstelematik-Anpassungsverordnung 2025, BGBl. II Nr. 11/2025, wird wie folgt geändert:
+1. In § 3 Abs. 2 Z 1 wird in lit. d das Wort „und“ durch ein Semikolon und in lit. e der Punkt durch das Wort „und“ ersetzt; es wird folgende lit. f angefügt:
+„f)
+Speicherung von Medikationsdaten bei der Verordnung (§ 13 Abs. 3 Z 4 GTelG 2012).“
+2. In § 3 Abs. 5 wird die Wendung „des Pflegesituationsberichts (§ 13 Abs. 3 Z 6 GTelG 2012)“ durch die Wendung „von Pflegesituationsberichten (§ 13 Abs. 3 Z 6 GTelG 2012) und von Medikationsdaten bei der Verordnung (§ 13 Abs. 3 Z 4 GTelG 2012)“ ersetzt.
+3. In § 4 Abs. 1 wird das Wort „früherer“ durch das Wort „anderer“ ersetzt.
+4. § 7 Abs. 1 lautet:
+„(1) Speicherung durch Krankenanstalten: Ab 1. Jänner 2027 sind die in § 3 Abs. 2 Z 1 genannten Krankenanstalten sowie die in § 3 Abs. 2 Z 2 genannten selbstständigen Ambulatorien zur Speicherung von Medikationsdaten bei der Verordnung gemäß § 13 Abs. 3 Z 4 GTelG 2012 verpflichtet.“
+5. Dem § 7 wird folgender Abs. 5 angefügt:
+„(5) Speicherung durch Einrichtungen der Pflege: Ab 1. Jänner 2028 sind die in § 3 Abs. 5 genannten Einrichtungen der Pflege zur Speicherung von Medikationsdaten bei der Verordnung gemäß § 13 Abs. 3 Z 4 GTelG 2012 verpflichtet.“
+6. In § 8 wird die Zahl „2026“ durch die Zahl „2028“ und die Wortfolge „des Pflegesituationsberichts“ durch die Wortfolge „von Pflegesituationsberichten“ ersetzt.
+7. In § 9 Abs. 2 wird die Wortfolge „Die ELGA-Gesundheitsdiensteanbieter haben“ durch die Wortfolge „Sofern aufgrund § 13 Abs. 3 GTelG 2012 oder dieser Verordnung kein späterer als der in § 4 genannte Zeitpunkt für den Beginn der Speicherverpflichtung festgelegt ist, haben die ELGA-Gesundheitsdiensteanbieter“ ersetzt.
+8. § 9 Abs. 3 lautet:
+„(3) Sofern aufgrund § 13 Abs. 3 GTelG 2012 oder dieser Verordnung ein späterer als der in § 4 genannte Zeitpunkt für den Beginn der Speicherverpflichtung festgelegt ist, haben die ELGA-Gesundheitsdiensteanbieter das Vorliegen der technischen Voraussetzungen für die Nutzung der ELGA-Komponenten zur Verarbeitung von ELGA-Gesundheitsdaten jedenfalls mit dem Beginn der Speicherverpflichtung sicherzustellen. Sie kommen ihrer Verpflichtung auch dann nach, wenn sie mit Dritten einen Umsetzungstermin bis spätestens 31. Dezember 2028 vertraglich ausdrücklich vereinbaren, an welchem sämtliche technische Voraussetzungen für die Nutzung der ELGA-Komponenten, insbesondere hinsichtlich der ELGA-Interoperabilitätsstufe „EIS Full Support“ vorliegen werden.“
+9. Dem § 9 wird folgender Abs. 4 angefügt:
+„(4) Bei der Verpflichtung zur Sicherstellung des Vorliegens der technischen Voraussetzungen gemäß Abs. 2 und Abs. 3 ist für Angehörige des ärztlichen Berufs § 49 Abs. 7 ÄrzteG 1998 zu berücksichtigen.“
+10. In § 32 wird nach Abs. 1g folgender Abs. 1g eingefügt:
+„(1g) § 3 Abs. 2 Z 1 und Abs. 5, § 4 Abs. 1, § 7 Abs. 1 und Abs. 5, § 8 und § 9 Abs. 2 bis Abs. 4 in der Fassung der Verordnung BGBl. II Nr. xxx/2026 treten mit dem auf die Kundmachung folgenden Tag in Kraft.“

@@ -1,0 +1,95 @@
+RIS Dokument Entwurf
+Verordnung des Bundesministers für Innovation, Mobilität und Infrastruktur, mit der die Schiffstechnikverordnung geändert wird
+Auf Grund der §§ 19 Abs. 2, 100, 102, 103, 104, 107, 108, 109 Abs. 6 bis 8 und 113 Abs. 4 des Schifffahrtsgesetzes, BGBl. I Nr. 62/1997, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 86/2025, wird nach Maßgabe des § 163 Abs. 5 dieses Bundesgesetzes im Einvernehmen mit dem Bundesminister für Inneres verordnet:
+Die Schiffstechnikverordnung, BGBl. II Nr. 263/2018, zuletzt geändert durch die Verordnung BGBl. II Nr. 144/2022, wird wie folgt geändert:
+1. § 6 Abs. 4 entfällt.
+2. In § 16 Abs. 1, 3, 6, 7 und 9 wird jeweils das Wort „angemessene“ durch das Wort „gleichwertige“ ersetzt und in § 16 Abs. 1, 6, 7 die Wortfolge „Verkehr, Innovation und Technologie“ durch die Wortfolge „Innovation, Mobilität und Infrastruktur“ ersetzt.
+3. In der Anlagenbezeichnung der Anlage 1 wird der Verweis „zu § 1 Abs. 2“ durch den Verweis „zu § 1 Abs. 3“ ersetzt.
+4. Die Anlage 2 lautet:
+„Anlage 2
+zu § 15 Abs. 2
+Technische Mindestanforderungen für Fahrzeuge der Kategorie 1 (§ 3 Abs. 3 Z 1) auf Gewässern der Zonen 1, 2, 3 und 4 sowie der Zone R
+KAPITEL 1
+GELTUNGSBEREICH
+Artikel 1.01
+Örtlicher Geltungsbereich
+Die Bestimmungen dieser Anlage gelten auf Gewässern, einschließlich Wasserstraßen, der Zonen 1, 2, 3 und 4 sowie der Zone R gemäß Anlage 1.
+Artikel 1.02
+Sachlicher Geltungsbereich
+Die Bestimmungen dieser Anlage gelten für Fahrzeuge der Kategorie 1, ausgenommen nicht frei fahrende Fähren, Militärfahrzeuge und Seeschiffe.
+KAPITEL 2
+TECHNISCHE MINDESTANFORDERUNGEN
+Artikel 2.01
+Technische Mindestanforderungen
+Die technischen Mindestanforderungen sind diejenigen, die in der Fassung des ES-TRIN-Standard aufgeführt sind und im Anhang 2 der Richtlinie (EU) 2016/1629 mittels delegierter Verordnung der Europäischen Kommission in Kraft gesetzt wurden (downloadbar auf der Website des Europäischen Ausschusses zur Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI); https://www.cesni.eu/de/).
+Artikel 2.02
+Ergänzende Begriffsbestimmungen
+Für die Anwendung des ES-TRIN-Standards gelten folgende ergänzende Begriffsbestimmungen:
+1.
+„B i n n e n s c h i f f s z e u g n i s“: ein Unionszeugnis, ein Schiffsattest gemäß Artikel 22 der Revidierten Rheinschifffahrtsakte oder eine Zulassungsurkunde gemäß § 4 Abs. 3 Z 1, 2 oder 6 dieser Verordnung;
+2.
+„S a c h v e r s t ä n d i g e“: als Sachverständige gelten insbesondere:
+a)
+im Sinne der Anweisung für die Anwendung des technischen Standards ESI-I-2 Ziviltechniker bzw. Ziviltechnikerinnen für Schiffstechnik bzw. für Maschinenbau (Schiffstechnik) sowie nach § 108 Abs. 2 Z 2 Schifffahrtsgesetz anerkannte geeignete Einrichtungen,
+b)
+für die Prüfung von Flüssiggasanlagen gemäß Artikel 17.13 des ES-TRIN-Standards Organe des Technischen Überwachungsvereines Österreich, Organe behördlich zugelassener Versuchsanstalten für Gas- und Feuerungstechnik und Inhaber bzw. Inhaberin einer Konzession für Gasleitungsinstallation.
+Artikel 2.03
+Abweichungen für Fahrzeuge, deren Fahrtbereich auf Gewässer oder Gewässerteile auf österreichischem Hoheitsgebiet eingeschränkt ist
+Abweichend von Artikel 19.06 Abs. 17 des ES-TRIN-Standards kann die Behörde bei Fahrzeugen, deren Fahrtgebiet auf österreichisches Hoheitsgebiet eingeschränkt wird, sowie bei Fähren vom Einbau einer Toilette absehen, wenn die Fahrzeit zwischen zwei Anlegestellen eine Stunde nicht überschreitet.
+KAPITEL 3
+BESONDERE VERFAHRENSBESTIMMUNGEN
+Artikel 3.01
+Prüfung von Flüssiggasanlagen
+(1) Bei Fahrzeugen der Kategorie 1 muss die Prüfbescheinigung gemäß Artikel 17.13 des ES-TRIN-Standards dem Muster der Anlage 5, Teil 8, entsprechen. Die Verwendung des von der Berufsgenossenschaft für Fahrzeughaltungen (BGF), Duisburg, zur Verfügung gestellten Vordrucks ist zulässig.
+(2) Bei Fahrgastschiffen hat der Sachverständige bzw. die Sachverständige zusätzlich festzustellen, ob eine gültige Bescheinigung über den ordnungsgemäßen Einbau der Gaswarnanlage gemäß Artikel 19.15 Abs. 9 des ES-TRIN-Standards oder deren Prüfung vorliegt.
+Artikel 3.02
+Typengenehmigung von Bordkläranlagen
+Ergänzend zu den Unterlagen gemäß Artikel 18.03 des ES-TRIN-Standards sind einem Antrag auf Typengenehmigung für einen Bordkläranlagentyp folgende Unterlagen beizufügen:
+1.
+eine eidesstattliche Erklärung des Herstellers bzw. der Herstellerin, dass entsprechend Artikel 18.03 Abs. 3 des ES-TRIN-Standards in keinem anderen Mitgliedstaat der Europäischen Union ein Antrag auf Typengenehmigung gestellt wurde,
+2.
+ein Gutachten eines Sachverständigen bzw. einer Sachverständigen gemäß § 12c Abs. 5 des Wasserrechtsgesetzes 1959 (WRG 1959). BGBl. Nr. 215/1959 in der jeweils geltenden Fassung, oder eines Ziviltechnikers bzw. einer Ziviltechnikerin für Kulturtechnik und Wasserwirtschaft über die Ergebnisse einer Prüfung eines Prototyps der Bordkläranlage gemäß dem in Anlage 7, Abschnitt IX, des ES-TRIN-Standards festgelegten Verfahren sowie
+3.
+die von einem Sachverständigen bzw. einer Sachverständigen gemäß § 12c Abs. 5 WRG 1959 oder einem Ziviltechniker bzw. einer Ziviltechnikerin für Kulturtechnik und Wasserwirtschaft erstellten Dokumente gemäß Anlage 7 des ES-TRIN-Standards.
+Die Kosten für Mühewaltung und Sachaufwand der in Z 2 und 3 bezeichneten Sachverständigen sind vom Hersteller bzw. der Herstellerin zu tragen.“
+5. In der Anlage 3 werden jeweils in Art. 2.01 Abs. 1; in der Überschrift des Art. 3.01 und im darauffolgenden Abs. 1; in der Überschrift des Art. 4.01 und im darauffolgenden Einleitungssatz; in der Überschrift des Art. 5.01 und im darauffolgenden Einleitungssatz; in der Überschrift des Art. 6.01 und im darauffolgenden Einleitungssatz; in der Überschrift des Art. 7.01 und im darauffolgenden Einleitungssatz; in der Überschrift des Art. 8.01 und im darauffolgenden Abs. 1; in Art. 8.02 Abs. 3, 4, 5 und 6; in Art. 8.03 Abs. 1 und 2; in der Überschrift des Art. 9.01 und im darauffolgenden Einleitungssatz; in der Überschrift des Art. 10.01 und im darauffolgenden Einleitungssatz; in der Überschrift des Art. 11.01 und im darauffolgenden Einleitungssatz; in der Überschrift des Art. 13.01 und im darauffolgenden Einleitungssatz; in Art. 13.02 Abs. 2; in Art. 13.03 Abs. 2 lit. d; in der Überschrift des Art. 14.01 und im darauffolgenden Einleitungssatz; in der Überschrift des Art. 15.01 und im darauffolgenden Einleitungssatz; in der Überschrift des Art. 16.01 und im darauffolgenden Einleitungssatz; in der Überschrift des Art. 17.01 und im darauffolgenden Einleitungssatz; in der Überschrift des Art. 19.01 und im darauffolgenden Einleitungssatz; in Art. 19.02 Abs. 1 und 2; in der Überschrift des Art. 21.01 und im darauffolgenden Einleitungssatz; in der Überschrift des Art. 23.01 und im darauffolgenden Einleitungssatz; in der Überschrift des Art. 33.01 und im darauffolgenden Abs. 1 der Verweis „des ES-TRIN-Standard“ durch den Verweis „der Anlage 3 Anhang 1“ ersetzt.
+6. In der Anlage 3 wird dem Art. 2.01 Abs. 1 folgende lit. i angefügt:
+„i)
+Kapitel 30 vollständig, sofern diese für den Transport von Fahrgästen eingesetzt und mit Kraftstoffen mit einem Flammpunkt unter 55°C, mit Ausnahme von Flüssiggas, Benzin oder Ottokraftstoff, betrieben werden.“
+7. In der Anlage 3 wird in Art. 6.01 nach der Fundstelle „Artikel 6.08, falls ein Wendegeschwindigkeitsregler vorhanden ist“ die Fundstelle „Artikel 7.04 Abs. 10“ angefügt.
+8. In der Anlage 3 wird in Art. 7.01 die Fundstelle „7.04 Abs. 1, 2, 8“ durch die Fundstelle „7.04 Abs. 1, 2, 8 und 10“ ersetzt.
+9. In der Anlage 3 wird in Art. 8.01 Abs. 1 die Fundstelle „Artikel 8.01 Abs. 1 und 2“ durch die Fundstelle „Artikel 8.01 Abs. 1 bis 4“ ersetzt und danach die Wortfolge „, wobei abweichend von Abs. 3 auch der Einbau von Verbrennungskraftmaschinen, betrieben mit Flüssiggas, Benzin oder Ottokraftstoff zulässig sind.“ eingefügt.
+10. In der Anlage 3 wird in Art. 8.03 die Überschrift „Antriebsmaschinen, die mit Brennstoffen mit einem Flammpunkt unter 55° C betrieben werden“ durch die Überschrift „Antriebsmaschinen, die mit Benzin oder Ottokraftstoff betrieben werden“ ersetzt.
+11. In der Anlage 3 wird in Art. 8.03 Abs. 1 der erste Satz „Auf Fahrzeugen gemäß Artikel 1.02, die mit Antriebsmaschinen mit einem Brennstoff betrieben werden, dessen Flammpunkt unter 55° C liegt, ist der Gebrauch von offenem Feuer und Licht sowie das Rauchen verboten.“ durch den Satz „Auf Fahrzeugen gemäß Artikel 1.02, die mit Benzin oder Ottokraftstoff betrieben werden, ist der Gebrauch von offenem Feuer und Licht sowie das Rauchen verboten.“ ersetzt.
+12. In der Anlage 3 wird in Art. 10.01 nach der Fundstelle „Artikel 10.11, wobei abweichend davon auch die Bestimmungen der ÖNORM EN ISO 13297:01.07.2021 angewendet werden können“ die Wortfolge „Der Eintrag der Akkumulatoren durch die Zulassungsbehörde hat abweichend von Abs. 18 im freien Feld der Zulassungsurkunde für Kleinfahrzeuge, unterhalb der Angabe zu den Motoren zu erfolgen.“ hinzugefügt.
+13. In der Anlage 3 wird in Art. 11.01 die Fundstelle „Kapitel 11 vollständig mit Ausnahme von Artikel 11.01 Abs. 1 lit. a“ durch die Fundstelle „Kapitel 11 vollständig“ ersetzt.
+14. In der Anlage 3 wird in Art. 13.01 nach der Fundstelle „Artikel 13.03, wobei für Fahrzeuge mit einer Länge von nicht mehr als 10 m die Füllmasse abweichend von Abs. 2 mindestens 2 kg“ die Wortfolge „und im Fall der Verwendung von Sprühschaumfeuerlöschern der Brandklasse A und B unter Anwendung der Ausnahme gemäß Abs. 2 zweiter Satz für Fahrzeuge, auf denen keine Flüssiggasanlagen installiert sind, 3 Liter“ eingefügt.
+15. In der Anlage 3 wird in Art. 13.03 Abs. 2 lit. d der Verweis „Anhang 1“ durch den Verweis „Anhang 2“ ersetzt.
+16. In der Anlage 3 wird dem Art. 13.03 folgender Abs. 4 angefügt:
+„(4) ein Handruder kann von der Zulassungsbehörde vorgeschrieben werden.“
+17. In der Anlage 3 wird in Art. 19.01 die Fundstelle „Artikel 19.01, Abs. 1 bis 3“ durch die Fundstelle „Artikel 19.01, Abs. 1 lit. a bis d und 3“ ersetzt.
+18. In der Anlage 3 wird in Art. 19.01 die Fundstelle „Artikel 19.06, Abs. 3 bis 7, 10 lit. a und c, 11 und 14 bis 17“ durch die Fundstelle „Artikel 19.06, Abs. 3 bis 7, 10, 11, 12 lit. d und 14 bis 17“ ersetzt.
+19. In der Anlage 3 wird in Art. 19.01 nach der Fundstelle „Artikel 19.08, Abs. 2, 4 und 7 bis 9, wobei abweichend von Abs. 4 anstatt des Niveaualarms eine automatische Lenzeinrichtung zugelassen werden kann“ die Wortfolge „und abweichend von Abs. 8 Lüftungsanlagen für Räume mit CO 2 -Schankanlagen nicht unabhängig von anderen Lüftungsanlagen sein müssen“ eingefügt.
+20. In der Anlage 3 wird in Art. 19.01 die Fundstelle „Artikel 19.15, Abs. 1, 2 und 7 bis 10“ durch die Fundstelle „Artikel 19.15, Abs. 1, 2, 7 bis 10 und 13“ ersetzt.
+21. In der Anlage 3 wird in Kapitel 30 die Überschrift „SONDERBESTIMMUNGN FÜR FAHRZEUGE, AUF DENEN ANTRIEBS- ODER HILFSSYSTEME INSTALLIERT SIND, DIE MIT BRENNSTOFF MIT EINEM FLAMMPUNKT VON 55°C ODER DARUNTER BETRIEBEN WERDEN“ eingefügt.
+22. In der Anlage 3 wird in Kapitel 30 folgender Art. 30.01 eingefügt:
+„Artikel 30.01
+Anwendung der Vorschriften der Anlage 3 Anhang 1
+Für Fahrzeuge gemäß Artikel 1.02, ausgenommen solche, die in den Geltungsbereich des Artikels 2.01 fallen, geltend folgende Bestimmungen der Anlage 3 Anhang 1:
+Kapitel 30 vollständig“
+23. In der Anlage 3 wird der bisherige „Anhang 1 ÖNORM Z 1020“ zum „Anhang 2 ÖNORM Z 1020“ und die Anhangbezeichnung von „Anhang 1 zu Anlage 3 Artikel 13.03 Abs. 2 lit. d ÖNORM Z 1020“ durch „Anhang 2 zu Anlage 3 Artikel 13.03 Abs. 2 lit. d ÖNORM Z 1020“ neu nummeriert.
+24. In der Anlage 3 wird als neuer Anhang 1 der „Anhang 1 (ES-TRIN-Standard)“ hinzugefügt.
+25. In der Anlage 4 wird in Art. 2.01 Abs. 5 nach der Wortfolge „Kann ein Sportfahrzeug“ die Wortfolge „, das älter als zehn Jahre ist,“ eingefügt.
+26. In Anlage 4 werden jeweils in Art. 2.02 und Art. 2.04 lit. e und f der Verweis „des ES-TRIN-Standard“ durch den Verweis „der Anlage 3 Anhang 1“ ersetzt.
+27. In der Anlage 4 lautet Art. 2.04 lit. d:
+„d)
+angemessene Feuerlöschausrüstung gemäß Anhang I Abs. 5.6.2 der Sportbooteverordnung 2015, BGBl. II Nr. 41/2016, mindestens jedoch ein, bei Innenbordmotoren zwei, von Deck leicht zugängliche(r) tragbare(r) Feuerlöscher gemäß Artikel 13.03 der Anlage 3 Anhang 1, die folgenden Anforderungen entsprechen:
+aa)
+bei Fahrzeugen mit einer L OA bis zu 10 m mit Verbrennungsmotor und Flüssiggasanlagen: Feuerlöscher der Brandklasse A, B und C mit einer Mindestfüllmasse von 2 kg;
+bb)
+bei Fahrzeugen mit einer L OA bis zu 10 m mit Verbrennungsmotor und ohne Flüssiggasanlagen: Feuerlöscher gemäß sublit. aa oder Sprühschaumfeuerlöscher der Brandklasse A und B mit einer Mindestfüllmenge von 3 Litern;
+cc)
+bei Fahrzeugen mit einer L OA von mehr als 10 m mit Verbrennungsmotor und Flüssiggasanlagen: Feuerlöscher der Brandklasse A, B und C mit einer Mindestfüllmasse von 6 kg;
+dd)
+bei Fahrzeugen mit einer L OA von mehr als 10 m mit Verbrennungsmotor und ohne Flüssiggasanlagen: Feuerlöscher gemäß sublit. cc oder Sprühschaumfeuerlöscher der Brandklasse A und B mit einer Mindestfüllmenge von 9 Litern;
+bei Innenbordmotoren muss die Einbringung des Löschmittels ohne Öffnen des Motorraums möglich sein, der Ersatz eines Feuerlöschers durch eine Löschanlage für den Motorraum ist zulässig;“

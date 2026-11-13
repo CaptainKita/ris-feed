@@ -1,0 +1,22 @@
+RIS Dokument
+Kurztitel
+Meldegesetz 1991
+Kundmachungsorgan
+BGBl. Nr. 9/1992 zuletzt geändert durch BGBl. Nr. 505/1994
+§/Artikel/Anlage
+§ 16a
+Inkrafttretensdatum
+01.01.1995
+Außerkrafttretensdatum
+31.05.1995
+Text
+Wanderungsstatistik
+§ 16a. (1) Die Meldebehörden haben dem Österreichischen Statistischen Zentralamt laufend die für die Wanderungsstatistik benötigten Meldedaten der bei ihnen vorgenommenen Anmeldungen einschließlich der zugehörigen Abmeldungen zu übermitteln.
+(2) Die Art der gemäß Abs. 1 zu übermittelnden Meldedaten ist vom Bundesminister für Inneres im Einvernehmen mit dem Bundeskanzler durch Verordnung festzulegen.
+(3) Meldebehörden, die das Melderegister automationsunterstützt führen oder bei Dienstleistungen im Datenverkehr andere Rechtsträger in Anspruch nehmen, haben die Meldedaten gemäß Abs. 1 dem Österreichischen Statistischen Zentralamt durch Austausch maschinell lesbarer Datenträger oder im Wege der Datenfernübertragung zu übermitteln. Dieser Verpflichtung kann die Meldebehörde auch dadurch entsprechen, daß sie sämtliche Meldedaten übermittelt.
+(4) Meldebehörden, die das Melderegister nicht automationsunterstützt führen, können die Meldedaten gemäß Abs. 1 mittels eines vom Meldepflichtigen zusätzlich ausgefüllten Meldezettels übermitteln. Die Vorlage dieses Meldezettels ist mit Verordnung gemäß § 9 Abs. 2 vorzuschreiben.
+(5) Das Österreichische Statistische Zentralamt ist verpflichtet,
+1.
+die ihm übermittelten personenbezogenen Daten zu anonymisieren und
+2.
+den Ländern und Gemeinden die sie betreffenden Daten aus der Wanderungsstatistik unentgeltlich zur Verfügung zu stellen.

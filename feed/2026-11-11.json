@@ -1,0 +1,242 @@
+{
+ "erzeugt": "2026-11-11T05:30:01+01:00",
+ "fenster": "EinerWoche",
+ "quellen": {
+  "Bundesrecht/BgblAuth": {
+   "neu": 1,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/Begut": {
+   "neu": 2,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/RegV": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Justiz": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vfgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vwgh": {
+   "neu": 1,
+   "abgeschnitten": false
+  },
+  "Judikatur/Lvwg": {
+   "neu": 7,
+   "abgeschnitten": false
+  }
+ },
+ "fehler": [],
+ "dokumente": [
+  {
+   "id": "BGBLA_2026_I_103",
+   "app": "BgblAuth",
+   "Kurztitel": "Aufhebung des § 2 Z 5b lit. j und zweier Wort- und Zeichenfolgen in § 16 (zweiter) Abs. 12 des Parteiengesetzes 2012 durch den Verfassungsgerichtshof",
+   "Titel": "Kundmachung des Bundeskanzlers über die Aufhebung des § 2 Z 5b lit. j und zweier Wort- und Zeichenfolgen in § 16 (zweiter) Abs. 12 des Parteiengesetzes 2012 durch den Verfassungsgerichtshof",
+   "Ausgabedatum": "2026-11-10",
+   "Typ": "Kundmachung",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_I_103/BGBLA_2026_I_103.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_103",
+   "text_datei": "voll/2026-11-11/BGBLA_2026_I_103.txt",
+   "zeichen": 1385,
+   "text": "RIS Dokument BUNDESGESETZBLATT\nFÜR DIE REPUBLIK ÖSTERREICH\nJahrgang 2026\nAusgegeben am 10. November 2026\nTeil I\n103. Kundmachung:\nAufhebung des § 2 Z 5b lit. j und zweier Wort- und Zeichenfolgen in § 16 (zweiter) Abs. 12 des Parteiengesetzes 2012 durch den Verfassungsgerichtshof\n103. Kundmachung des Bundeskanzlers über die Aufhebung des § 2 Z 5b lit. j und zweier Wort- und Zeichenfolgen in § 16 (zweiter) Abs. 12 des Parteiengesetzes 2012 durch den Verfassungsgerichtshof\nGemäß Art. 140 Abs. 5, 6 und 7 B-VG und gemäß § 64 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85/1953, zuletzt geändert durch das Informationsfreiheits-Anpassungsgesetz, BGBl. I Nr. 50/2025, wird kundgemacht:\nDer Verfassungsgerichtshof hat mit Erkenntnis vom 6. Oktober 2026, G 136/2025-26, G 27/2026-17, dem Bundeskanzler zugestellt am 4. November 2026, zu Recht erkannt:\n„1.\n§ 2 Z 5b lit. j und die Wort- und Zeichenfolgen „ j,“ sowie „, wobei für Sachverhalte, die vor dem 1. Juli 2025 verwirklicht wurden, die im letzten Halbsatz von § 2 Z 5b lit. j formulierten Erfordernisse (Kennzeichnung, Impressum) entfallen“ in § 16 (zweiter) Abs. 12 Parteiengesetz 2012, jeweils BGBl. I Nr. 56/2012 idF BGBl. I Nr. 43/2025, werden als verfassungswidrig aufgehoben.\n2.\nFrühere gesetzliche Bestimmungen treten nicht wieder in Kraft.\n3.\nDie aufgehobenen Bestimmungen sind nicht mehr anzuwenden.“\nStocker"
+  },
+  {
+   "id": "BEGUT_570160E7_BFF5_455F_8FA8_7413FB1C9B5F",
+   "app": "Begut",
+   "Kurztitel": "Bundesgesetz, mit dem ein Bundesgesetz über Substanzen menschlichen Ursprungs (SoHO-Gesetz – SoHOG) erlassen wird, das Arzneimittelgesetz, das Bundesgesetz über Krankenanstalten und Kuranstalten, das Gesundheits- und Ernährungssicherheitsgesetz, das Medizinproduktegesetz 2021 und das Organtransplantationsgesetz geändert werden und das Blutsicherheitsgesetz 1999, das Bundesgesetz betreffend die sanitäre Regelung des Ammenwesens, das Gewebesicherheitsgesetz, die Blutspenderverordnung, die Gewebebankenverordnung, die Gewebeentnahmeeinrichtungsverordnung, die Gewebevigilanzverordnung, die Hämovigilanz-Verordnung 2007 und die Verordnung, mit der nähere Regelungen über den Betrieb und das Qualitätssystem von Blutspendeeinrichtungen und Betrieben, die ausschließlich zur Transfusion bestimmtes Blut oder Blutbestandteile verarbeiten, lagern oder verteilen, getroffen werden, aufgehoben werden",
+   "Titel": "Bundesgesetz, mit dem ein Bundesgesetz über Substanzen menschlichen Ursprungs (SoHO-Gesetz – SoHOG) erlassen wird, das Arzneimittelgesetz, das Bundesgesetz über Krankenanstalten und Kuranstalten, das Gesundheits- und Ernährungssicherheitsgesetz, das Medizinproduktegesetz 2021 und das Organtransplantationsgesetz geändert werden und das Blutsicherheitsgesetz 1999, das Bundesgesetz betreffend die sanitäre Regelung des Ammenwesens, das Gewebesicherheitsgesetz, die Blutspenderverordnung, die Gewebebankenverordnung, die Gewebeentnahmeeinrichtungsverordnung, die Gewebevigilanzverordnung, die Hämovigilanz-Verordnung 2007 und die Verordnung, mit der nähere Regelungen über den Betrieb und das Qualitätssystem von Blutspendeeinrichtungen und Betrieben, die ausschließlich zur Transfusion bestimmtes Blut oder Blutbestandteile verarbeiten, lagern oder verteilen, getroffen werden, aufgehoben werden",
+   "Geaendert": "2026-11-10",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Begut/BEGUT_570160E7_BFF5_455F_8FA8_7413FB1C9B5F/BEGUT_570160E7_BFF5_455F_8FA8_7413FB1C9B5F.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Begut&Dokumentnummer=BEGUT_570160E7_BFF5_455F_8FA8_7413FB1C9B5F",
+   "text_datei": "voll/2026-11-11/BEGUT_570160E7_BFF5_455F_8FA8_7413FB1C9B5F.txt",
+   "zeichen": 108841,
+   "text": "RIS Dokument Entwurf\nBundesgesetz, mit dem ein Bundesgesetz über Substanzen menschlichen Ursprungs (SoHO-Gesetz – SoHOG) erlassen wird, das Arzneimittelgesetz, das Bundesgesetz über Krankenanstalten und Kuranstalten, das Gesundheits- und Ernährungssicherheitsgesetz, das Medizinproduktegesetz 2021 und das Organtransplantationsgesetz geändert werden und das Blutsicherheitsgesetz 1999, das Bundesgesetz betreffend die sanitäre Regelung des Ammenwesens, das Gewebesicherheitsgesetz, die Blutspenderverordnung, die Gewebebankenverordnung, die Gewebeentnahmeeinrichtungsverordnung, die Gewebevigilanzverordnung, die Hämovigilanz-Verordnung 2007 und die Verordnung, mit der nähere Regelungen über den Betrieb und das Qualitätssystem von Blutspendeeinrichtungen und Betrieben, die ausschließlich zur Transfusion bestimmtes Blut oder Blutbestandteile verarbeiten, lagern oder verteilen, getroffen werden, aufgehoben werden\nDer Nationalrat hat beschlossen:\nArtikel I\nBundesgesetz über Substanzen menschlichen Ursprungs\n(SoHO-Gesetz – SoHOG)\nParagraph\nGegenstand / Bezeichnung\nBundesgesetz über Substanzen menschlichen Ursprungs\n(SoHO-Gesetz – SoHOG)\n1. Abschnitt\nAnwendungsbereich und Begriffsbestimmungen\n§ 1.\nAnwendungsbereich\n§ 2.\nBegriffsbestimmungen\n2. Abschnitt\nZuständige Behörden\n§ 3.\nFür SoHO zuständige Behörden, nationale SoHO-Behörde\n§ 4.\nKommunikation und Koordinierung zwischen den für SoHO zuständigen Behörden\n§ 5.\nKonsultation\n3. Abschnitt\nAllgemeine Anforderungen\n§ 6.\nEinhaltung des Stand [...]"
+  },
+  {
+   "id": "BEGUT_F2F0AF89_6E87_449F_A706_0D66F9C28E4A",
+   "app": "Begut",
+   "Kurztitel": "Strafrechtliches EU-Anpassungsgesetz 2026",
+   "Titel": "Bundesgesetz, mit dem das Bundesgesetz über die justizielle Zusammenarbeit in Strafsachen mit den Mitgliedstaaten der Europäischen Union, das Auslieferungs- und Rechtshilfegesetz und das Bundesgesetz zur Durchführung der Europäischen Staatsanwaltschaft geändert werden (Strafrechtliches EU-Anpassungsgesetz 2026 – StrEU-AG 2026)",
+   "Geaendert": "2026-11-10",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Begut/BEGUT_F2F0AF89_6E87_449F_A706_0D66F9C28E4A/BEGUT_F2F0AF89_6E87_449F_A706_0D66F9C28E4A.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Begut&Dokumentnummer=BEGUT_F2F0AF89_6E87_449F_A706_0D66F9C28E4A",
+   "text_datei": "voll/2026-11-11/BEGUT_F2F0AF89_6E87_449F_A706_0D66F9C28E4A.txt",
+   "zeichen": 39026,
+   "text": "RIS Dokument Entwurf\nBundesgesetz, mit dem das Bundesgesetz über die justizielle Zusammenarbeit in Strafsachen mit den Mitgliedstaaten der Europäischen Union, das Auslieferungs- und Rechtshilfegesetz und das Bundesgesetz zur Durchführung der Europäischen Staatsanwaltschaft geändert werden (Strafrechtliches EU-Anpassungsgesetz 2026 – StrEU-AG 2026)\nDer Nationalrat hat beschlossen:\nInhaltsverzeichnis\nArtikel 1\nÄnderung des Bundesgesetzes über die justizielle Zusammenarbeit in Strafsachen mit den Mitgliedstaaten der Europäischen Union\nArtikel 2\nÄnderung des Auslieferungs- und Rechtshilfegesetzes\nArtikel 3\nÄnderung des Europäische Staatsanwaltschafts-Durchführungsgesetzes\nArtikel 1\nÄnderung des Bundesgesetzes über die justizielle Zusammenarbeit in Strafsachen mit den Mitgliedstaaten der Europäischen Union\nDas Bundesgesetz über die justizielle Zusammenarbeit mit den Mitgliedstaaten der Europäischen Union (EU-JZG), BGBl. I Nr. 36/2004, zuletzt geändert durch das Strafrechtliche EU-Anpassungsgesetz 2025 BGBl. I Nr. 65/2025, wird wie folgt geändert:\n1. Im Inhaltsverzeichnis werden nach § 37 folgende Einträge eingefügt:\n„IIa. Hauptstück\nDurchführung der Verordnung (EU) 2024/3011\n§ 38a.\nEntscheidung über die Annahme eines Ersuchens um Übertragung eines Verfahrens\n§ 38b.\nErwirkung der Übertragung eines Verfahrens in Strafsachen“\n2. Im Inhaltsverzeichnis lautet der Eintrag zu § 46:\n„§ 46\nZuständigkeit, Verfahren und Kosten“\n3. Im Inhaltsverzeichnis lautet die Überschrift des IV. Hauptstü [...]"
+  },
+  {
+   "id": "JWR_2023110017_20260923J08",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ro 2023/11/0017",
+   "Entscheidungsdatum": "2026-09-23",
+   "Veroeffentlicht": "2026-11-10",
+   "Geaendert": "2026-11-10",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "BestattungsG NÖ 2007 §17 Abs2",
+    "BestattungsG NÖ 2007 §20 Abs1 Z2",
+    "BestattungsG NÖ 2007 §21 Abs1",
+    "BestattungsG NÖ 2007 §40 Abs1 Z12",
+    "VStG §5"
+   ],
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2023110017_20260923J08/JWR_2023110017_20260923J08.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2023110017_20260923J08",
+   "text_datei": "voll/2026-11-11/JWR_2023110017_20260923J08.txt",
+   "zeichen": 881,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n23.09.2026\nGeschäftszahl\nRo 2023/11/0017\nRechtssatz\nDa die Bestrafung nach § 40 Abs. 1 Z 12 iVm § 20 Abs. 1 Z 2 und § 21 Abs. 1 NÖ BestattungsG (Betreiben einer Bestattungsanlage ohne Bewilligung nach § 21 NÖ BestattungsG) nicht nur die Verwirklichung der objektiven, sondern auch jene der subjektiven Tatseite voraussetzt, gilt es festzuhalten, dass die Erteilung von Einzelbewilligungen gemäß § 17 Abs. 2 NÖ BestattungsG durch die dafür zuständige Behörde zwar auf die Verwirklichung der objektiven Tatseite keinen Einfluss hat, jedoch für die Frage, ob auch ein Verschulden daran zu bejahen ist, von Relevanz sein kann (vgl. etwa zum mangelnden Verschulden bei der Einholung von Auskünften bei der zuständigen Behörde VwGH 4.10.2022, Ra 2021/05/0029).\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RO2023110017.J05"
+  },
+  {
+   "id": "LVWGT_NI_20261103_LVwG_S_427_001_2025_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-S-427/001-2025",
+   "Entscheidungsdatum": "2026-11-03",
+   "Geaendert": "2026-11-10",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "StVO 1960 §52 lita Z10a",
+    "B-VG Art139 Abs6"
+   ],
+   "Schlagworte": "Verkehrsrecht; Straßenverkehr; Verwaltungsstrafe; Höchstgeschwindigkeit; Überschreitung; Verordnung; Gesetzwidrigkeit;",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_NI_20261103_LVwG_S_427_001_2025_00/LVWGT_NI_20261103_LVwG_S_427_001_2025_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_NI_20261103_LVwG_S_427_001_2025_00",
+   "text_datei": "voll/2026-11-11/LVWGT_NI_20261103_LVwG_S_427_001_2025_00.txt",
+   "zeichen": 17442,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n03.11.2026\nGeschäftszahl\nLVwG-S-427/001-2025\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Niederösterreich erkennt durch Mag. Holz als Einzelrichterin über die Beschwerde der Frau A, ***, ***, gegen das Straferkenntnis der Bezirkshauptmannschaft St. Pölten vom 27.01.2025, Zl. ***, betreffend Verwaltungsstrafverfahren nach der Straßenverkehrsordnung 1960 (StVO 1960), zu Recht:\n1.\nDer Beschwerde wird Folge gegeben, der angefochtene Bescheid aufgehoben und das Verwaltungsstrafverfahren eingestellt.\n2.\nGegen dieses Erkenntnis ist eine ordentliche Revision nicht zulässig.\nRechtsgrundlagen:\n§ 50 Verwaltungsgerichtsverfahrensgesetz – VwGVG\n§ 45 Abs. 1 Z. 2 Verwaltungsstrafgesetz 1991 – VStG\n§ 25a Verwaltungsgerichtshofgesetz 1985 – VwGG\nEntscheidungsgründe:\n1.\nZum verwaltungsbehördlichen Verfahren:\nMit dem angefochtenen Straferkenntnis der Bezirkshauptmannschaft St. Pölten vom 27.01.2025, Zl. ***, wurde der Beschwerdeführerin folgende Übertretung zur Last gelegt:\n„Sie haben als Fahrzeuglenker folgende Verwaltungsübertretung begangen:\nZeit: 12.07.2023, 08:36 Uhr\nOrt: Gemeindegebiet *** auf der Autobahn *** nächst Strkm. ***\nBaustelle, Fahrtrichtung *** (Stationäres Lasermessgerät, Freiland)\nFahrzeug: *** (Österreich), Personenkraftwagen\nTatbeschreibung:\nDie auf Grund des angebrachten Vorschriftszeichens \"Geschwindigkeitsbeschränkung\"\nerlaubte Höchstgeschwindigkeit überschritten.\n80 km/h erlau [...]"
+  },
+  {
+   "id": "LVWGT_NI_20261103_LVwG_S_71_001_2025_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-S-71/001-2025",
+   "Entscheidungsdatum": "2026-11-03",
+   "Geaendert": "2026-11-10",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "StVO 1960 §52 lita Z10a",
+    "B-VG Art139 Abs6"
+   ],
+   "Schlagworte": "Verkehrsrecht; Straßenverkehr; Verwaltungsstrafe; Höchstgeschwindigkeit; Überschreitung; Verordnung; Gesetzwidrigkeit; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_NI_20261103_LVwG_S_71_001_2025_00/LVWGT_NI_20261103_LVwG_S_71_001_2025_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_NI_20261103_LVwG_S_71_001_2025_00",
+   "text_datei": "voll/2026-11-11/LVWGT_NI_20261103_LVwG_S_71_001_2025_00.txt",
+   "zeichen": 15489,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n03.11.2026\nGeschäftszahl\nLVwG-S-71/001-2025\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Niederösterreich erkennt durch die Richterin\nHR Mag. Marihart über die Beschwerde des A, ***, ***, gegen das Straferkenntnis der Bezirkshauptmannschaft St. Pölten vom 23.12.2024, Zl. ***, betreffend Verwaltungsstrafverfahren nach der Straßenverkehrsordnung 1960 (StVO 1960), zu Recht:\n1.\nDer Beschwerde wird Folge gegeben, der angefochtene Bescheid aufgehoben und das Verwaltungsstrafverfahren eingestellt.\n2.\nGegen dieses Erkenntnis ist eine ordentliche Revision nicht zulässig.\nRechtsgrundlagen:\n§ 50 Verwaltungsgerichtsverfahrensgesetz – VwGVG\n§ 45 Abs. 1 Z. 2 Verwaltungsstrafgesetz 1991 – VStG\n§ 25a Verwaltungsgerichtshofgesetz 1985 – VwGG\nEntscheidungsgründe:\n1.\nZum verwaltungsbehördlichen Verfahren:\nMit dem gegenständlichen angefochtenen Straferkenntnis wurde A (im Folgenden: Beschwerdeführer) folgende Verwaltungsübertretung zur Last gelegt:\n„Sie haben als Fahrzeuglenker folgende Verwaltungsübertretung begangen:\nZeit: 31.08.2023, 12:40 Uhr\nOrt: Gemeindegebiet *** auf der Autobahn *** nächst Strkm. ***\nBaustelle, Fahrtrichtung *** (Stationäres Lasermessgerät, Freiland)\nFahrzeug: *** (Österreich), Personenkraftwagen\nTatbeschreibung:\nDie auf Grund des angebrachten Vorschriftszeichens „Geschwindigkeitsbeschränkung\" erlaubte Höchstgeschwindigkeit überschritten.\n80 km/h erlaubte Höchstgeschwindigkeit.\n9 [...]"
+  },
+  {
+   "id": "LVWGT_NI_20261102_LVwG_VG_8_014_2020_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-VG-8/014-2020",
+   "Entscheidungsdatum": "2026-11-02",
+   "Geaendert": "2026-11-10",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "LVergabenachprüfungsG NÖ 2003 §4 Abs15",
+    "AVG 1991 §13 Abs7"
+   ],
+   "Schlagworte": "Vergabe; Nachprüfung; Antrag; Zurückziehung; Einstellung; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_NI_20261102_LVwG_VG_8_014_2020_00/LVWGT_NI_20261102_LVwG_VG_8_014_2020_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_NI_20261102_LVwG_VG_8_014_2020_00",
+   "text_datei": "voll/2026-11-11/LVWGT_NI_20261102_LVwG_VG_8_014_2020_00.txt",
+   "zeichen": 3015,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n02.11.2026\nGeschäftszahl\nLVwG-VG-8/014-2020\nText\nDas Landesverwaltungsgericht Niederösterreich fasst durch Hofrat Dr. Schwarzmann als Einzelrichter nach Zurückziehung des Antrages der A, ***, Bulgarien, vertreten durch B Rechtsanwälte GmbH in ***, ***, im Vergabeverfahren „Rahmenvereinbarung über die Durchführung von Elektroinstallationsarbeiten sowie der damit verbundenen Bau- und Demontagearbeiten im Versorgungsgebiet der C, ***“, die Zuschlagsentscheidung vom 28.7.2020 betreffend die Lose ***, ***, ***, ***, ***, *** und *** für nichtig zu erklären (Antragsgegnerin: D GmbH, ***, ***, vertreten durch E Rechtsanwälte GmbH, ***, ***) folgenden\nBESCHLUSS :\n1.\nDas Nachprüfungsverfahren betreffend den Antrag der A auf Nichtigerklärung der Zuschlagsentscheidungen vom 28.7.2020 und vom 30.7.2020 betreffend die Lose ***, ***, ***, ***, ***, *** und *** im Vergabeverfahren „Rahmenvereinbarung über die Durchführung von Elektroinstallationsarbeiten sowie der damit verbundenen Bau- und Demontagearbeiten im Versorgungsgebiet der C“ wird infolge der Zurückziehung dieses Antrages durch die Antragstellerin eingestellt .\n2.\nGegen diesen Beschluss ist eine ordentliche Revision nicht zulässig.\nRechtsgrundlagen :\n§ 17, § 28 Abs. 1, § 31 Abs. 1 Verwaltungsgerichtsverfahrensgesetz – VwGVG\n§ 13 Abs. 7 Allgemeines Verwaltungsverfahrensgesetz 1991 – AVG\n§ 25a Abs. 1 Verwaltungsgerichtshofgesetz 1985 – VwGG\n§ 4 Abs. 8  [...]"
+  },
+  {
+   "id": "LVWGT_NI_20261102_LVwG_VG_9_002_2020_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-VG-9/002-2020",
+   "Entscheidungsdatum": "2026-11-02",
+   "Geaendert": "2026-11-10",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "LvergabenachprüfungsG NÖ 2003 §4 Abs15",
+    "AVG 1991 §13 Abs7"
+   ],
+   "Schlagworte": "Vergabe; Nachprüfung; Antrag; Zurückziehung; Einstellung;",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_NI_20261102_LVwG_VG_9_002_2020_00/LVWGT_NI_20261102_LVwG_VG_9_002_2020_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_NI_20261102_LVwG_VG_9_002_2020_00",
+   "text_datei": "voll/2026-11-11/LVWGT_NI_20261102_LVwG_VG_9_002_2020_00.txt",
+   "zeichen": 2939,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n02.11.2026\nGeschäftszahl\nLVwG-VG-9/002-2020\nText\nDas Landesverwaltungsgericht Niederösterreich fasst durch Hofrat Dr. Schwarzmann als Einzelrichter nach Zurückziehung des Antrages der A, ***, ***, Bulgarien, vertreten durch B Rechtsanwälte GmbH & KG, ***, ***, im Vergabeverfahren „Rahmenvereinbarung über die Durchführung von Elektroinstallationsarbeiten sowie der damit verbundenen Bau- und Demontagearbeiten im Versorgungsgebiet der C, ***“ die Zuschlagsentscheidung vom 28.7.2020 betreffend das Los *** für nichtig zu erklären (Antragsgegnerin: D GmbH, ***, ***, vertreten durch E Rechtsanwälte GmbH, ***, ***) folgenden\nBESCHLUSS :\n1.\nDas Nachprüfungsverfahren betreffend den Antrag der A auf Nichtigerklärung der Zuschlagsentscheidung vom 28.7.2020 betreffend Los *** im Vergabeverfahren „Rahmenvereinbarung über die Durchführung von Elektroinstallationsarbeiten sowie der damit verbundenen Bau- und Demontagearbeiten im Versorgungsgebiet der C“ wird infolge der Zurückziehung dieses Antrages durch die Antragstellerin eingestellt .\n2.\nGegen diesen Beschluss ist eine ordentliche Revision nicht zulässig.\nRechtsgrundlagen :\n§ 17, § 28 Abs. 1, § 31 Abs. 1 Verwaltungsgerichtsverfahrensgesetz – VwGVG\n§ 13 Abs. 7 Allgemeines Verwaltungsverfahrensgesetz 1991 – AVG\n§ 25a Abs. 1 Verwaltungsgerichtshofgesetz 1985 – VwGG\n§ 4 Abs. 8 und 15 NÖ Vergabe-Nachprüfungsgesetz – NÖ VNG\nBegründung:\nMit Schriftsatz vom 6.8.202 [...]"
+  },
+  {
+   "id": "LVWGT_WI_20260907_VGW_031_029_14378_2026_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "VGW-031/029/14378/2026",
+   "Entscheidungsdatum": "2026-09-07",
+   "Geaendert": "2026-11-10",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Wien",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "StVO 1960 §24 Abs1 litp",
+    "StVO 1960 §24 Abs3 lita",
+    "StVO 1960 §55 Abs8"
+   ],
+   "Schlagworte": "Halten- und Parken, Fahrbahnrand, gelbe Linie, Unterbrechung, Parkverbot",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_WI_20260907_VGW_031_029_14378_2026_00/LVWGT_WI_20260907_VGW_031_029_14378_2026_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_WI_20260907_VGW_031_029_14378_2026_00",
+   "text_datei": "voll/2026-11-11/LVWGT_WI_20260907_VGW_031_029_14378_2026_00.txt",
+   "zeichen": 19437,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Wien\nEntscheidungsdatum\n07.09.2026\nGeschäftszahl\nVGW-031/029/14378/2026\nText\nIM NAMEN DER REPUBLIK\nDas Verwaltungsgericht Wien erkennt durch seinen Richter Mag. HALM-FORSTHUBER über die Beschwerde des Herrn A. B. gegen das Straferkenntnis des Magistrates der Stadt Wien, Magistratsabteilung 67, vom 22.05.2026, Zl. ..., betreffend eine Verwaltungsübertretung nach der Straßenverkehrsordnung (StVO),\nzu Recht:\nI. Gemäß § 50 Abs. 1 VwGVG wird die Beschwerde als unbegründet abgewiesen und das angefochtene Straferkenntnis bestätigt.\nII. Gemäß § 52 Abs. 1 und 2 VwGVG hat der Beschwerdeführer einen Beitrag zu den Kosten des Beschwerdeverfahrens in der Höhe von EUR 20,-- (das ist der gesetzliche Mindestkostenbetrag) zu leisten.\nIII. Gegen dieses Erkenntnis ist eine ordentliche Revision an den Verwaltungsgerichtshof durch die vor dem Verwaltungsgericht Wien belangte Behörde zulässig.\nE n t s c h e i d u n g s g r ü n d e\nVerfahrensgang:\nMit dem angefochtenen Straferkenntnis wurde der Beschwerdeführer gemäß § 99 Abs. 3 lit. a StVO mit einer Geldstrafe von EUR 98,-- (Ersatzfreiheitsstrafe 23 Stunden) wegen Übertretung des § 24 Abs. 1 lit. p StVO bestraft, weil er am 30.03.2026, 16:24 Uhr, in 1220 Wien, Edith-Piaf-Straße 2A, mit seinem PKW mit dem Kennzeichen W-1 entlang einer nicht unterbrochenen, am Gehsteigrand angebrachten gelben Linie gemäß § 55 Abs. 8 StVO gehalten habe. Weiters wurden ihm die Kosten des Strafverfahrens von EUR 10,-- aufer [...]"
+  },
+  {
+   "id": "LVWGR_WI_20260907_VGW_031_029_14378_2026_01",
+   "app": "Lvwg",
+   "Geschaeftszahl": "VGW-031/029/14378/2026",
+   "Entscheidungsdatum": "2026-09-07",
+   "Geaendert": "2026-11-10",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Wien",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "StVO 1960 §24 Abs1 litp",
+    "StVO 1960 §24 Abs3 lita",
+    "StVO 1960 §55 Abs8"
+   ],
+   "Schlagworte": "Halten- und Parken, Fahrbahnrand, gelbe Linie, Unterbrechung, Parkverbot",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_WI_20260907_VGW_031_029_14378_2026_01/LVWGR_WI_20260907_VGW_031_029_14378_2026_01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_WI_20260907_VGW_031_029_14378_2026_01",
+   "text_datei": "voll/2026-11-11/LVWGR_WI_20260907_VGW_031_029_14378_2026_01.txt",
+   "zeichen": 1052,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Wien\nEntscheidungsdatum\n07.09.2026\nGeschäftszahl\nVGW-031/029/14378/2026\nRechtssatz\nZur Abgrenzung von unterbrochen und nicht unterbrochenen gelben Linien gemäß §§ 24 Abs. 1 lit. p und Abs. 3 lit. a iVm 55 Abs. 8 StVO kann auf die Prinzipien zurückgegriffen werden, die in den §§ 5 bis 8 Bodenmarkierungsverordnung zum Ausdruck kommen. Bei der Ausführung von unterbrochenen Längsmarkierungen liegt das Verhältnis zwischen Länge des Strichs und der Unterbrechung zwischen 1:1 (vgl. etwa § 7) und 1:4 (vgl. etwa § 5 Abs. 2). Alle normierten Unterbrechungen sind außerdem immer im selben Verhältnis zwischen Strich und Unterbrechung bzw. nicht in einem unregelmäßigen Verhältnis auszuführen. Daraus folgt, dass eine Unterbrechung in einem Verhältnis von wenigen cm zu annähernd einem m, die außerdem nicht in einem regelmäßigen Verhältnis steht, keine unterbrochen gelbe Linie gemäß §§ 24 Abs. 3 lit. a iVm 55 Abs. 8 StVO darstellen kann.\nEuropean Case Law Identifier\nECLI:AT:LVWGWI:2026:VGW.031.029.14378.2026"
+  },
+  {
+   "id": "LVWGT_WI_20260807_VGW_152_029_13465_2026_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "VGW-152/029/13465/2026",
+   "Entscheidungsdatum": "2026-08-07",
+   "Geaendert": "2026-11-10",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Wien",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "FPG §31 Abs1 Z1",
+    "NAG §24 Abs1",
+    "NAG §41 Abs9",
+    "StbG §10 Abs1 Z1",
+    "StbG §11a Abs6 Z1"
+   ],
+   "Schlagworte": "Georgien, rechtmäßiger und ununterbrochener Aufenthalt im Bundesgebiet, Verlängerungsantrag",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_WI_20260807_VGW_152_029_13465_2026_00/LVWGT_WI_20260807_VGW_152_029_13465_2026_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_WI_20260807_VGW_152_029_13465_2026_00",
+   "text_datei": "voll/2026-11-11/LVWGT_WI_20260807_VGW_152_029_13465_2026_00.txt",
+   "zeichen": 8065,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Wien\nEntscheidungsdatum\n07.08.2026\nGeschäftszahl\nVGW-152/029/13465/2026\nText\nIM NAMEN DER REPUBLIK\nDas Verwaltungsgericht Wien erkennt durch seinen Richter Mag. HALM-FORSTHUBER über die Beschwerde des Herrn A. B., geboren am ..., vertreten durch den Verein C., gegen den Bescheid der Wiener Landesregierung, Magistratsabteilung 35, vom 11.06.2026, Zl. ..., betreffend eine Angelegenheit nach dem Staatsbürgerschaftsgesetz (StbG),\nzu Recht :\nI. Gemäß § 28 Abs. 1 VwGVG wird die Beschwerde als unbegründet abgewiesen.\nII. Gegen dieses Erkenntnis ist gemäß § 25a VwGG eine ordentliche Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4 B-VG unzulässig.\nEntscheidungsgründe\nVerfahrensgang:\nMit dem angefochtenen Bescheid wies die belangte Behörde den Antrag auf Verleihung der österreichischen Staatsbürgerschaft des Beschwerdeführers ab. Begründend führte Sie aus, dass sich der Beschwerdeführer weniger als zehn Jahre rechtmäßig und ununterbrochen im Bundesgebiet aufhalte und der Beschwerdeführer auch keinen Nachweis über Deutschkenntnisse gemäß dem B2-Niveau des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GERS) erbracht habe. Diesen Nachweis hatte die belangte Behörde bereits mit Schreiben vom 02.12.2025 vom Beschwerdeführer angefordert.\nIn der dagegen erhobenen Beschwerde wird lediglich vorgebracht, dass der rechtmäßige Aufenthalt des Beschwerdeführers niemals unterbrochen worden sei, zumal das Bundesamt für Fremdenwesen und [...]"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+RIS Dokument Gericht
+Verfassungsgerichtshof
+Entscheidungsdatum
+28.09.2026
+Geschäftszahl
+G152/2025 (G152/2025-8)
+Leitsatz
+Verstoß einer Wortfolge des WaffenG 1996 gegen das Determinierungsgebot mangels nachvollziehbarer Abgrenzung des Begriffs "Munition in großem Umfang" hinsichtlich der Verwahrung
+Rechtssatz
+Verfassungswidrigkeit der Wortfolge "oder Munition in großem Umfang" in §41 Abs1 WaffenG 1996 (WaffG), BGBl I 12/1997. Im Übrigen: Abweisung des Antrags des LVwG Steiermark.
+Kein Verstoß des §41 Abs1 WaffG idF vor der Novelle BGBl I 56/2025 gegen das Determinierungsgebot, betreffend das Fehlen einer Regelung für das Inkrafttreten der Informationspflicht: Aus dem Gesetzestext ergibt sich, dass die Informationspflicht mit dem Überschreiten der im Gesetz angegebenen Grenzmengen entsteht und ihr sodann ohne Verzug zu entsprechen ist. Dies gilt auch für Fälle einer bloß vorübergehenden Überschreitung der Grenzmengen, weil auch in diesem Fall ein Informationsinteresse der Waffenbehörde besteht, mögen auch die zu ergreifenden Sicherungsmaßnahmen bei bloß vorübergehenden Verwahrungen andere sein als bei einer dauerhaften Lagerung einer großen Anzahl von Schusswaffen bzw von Munition in großem Umfang.
+Hinreichende Bestimmtheit der Wortfolge "in einem räumlichen Naheverhältnis zueinander": Der VfGH hegt keine Zweifel, dass – insbesondere um Umgehungshandlungen zu vermeiden – nicht auf einzelne Räume, sondern je nach Umständen auf Wohnungen, Gebäude oder Liegenschaften abzustellen ist.
+Verstoß des Tatbestands "Munition in großem Umfang" gegen das Bestimmtheitsgebot iSd Art18 Abs1 B‑VG:
+Der Begriff des "großen" Umfanges ist relativ. Der VfGH vermag nun dem Gesetz keine Gesichtspunkte zu entnehmen, die eine nachvollziehbare Abgrenzung großer von kleinen Mengen erlauben würden. Zugleich vermag der VfGH aber auch nicht zu erkennen, dass es für den Gesetzgeber im gegebenen Zusammenhang unmöglich oder mit übermäßigem legistischen Aufwand verbunden wäre, seine Vorstellungen von "Munition in großem Umfang" (ebenso wie bei den "Schusswaffen") präzise zu fassen oder die Präzisierung nach Maßgabe gesetzlicher Determinanten dem Verordnungsgeber zu überlassen.
+§41 Abs1 WaffG wurde durch die WaffG-Novelle BGBl I 56/2025 mit Wirkung vom 28.04.2026 neu gefasst. Da somit §41 Abs1 WaffG in der (Stamm-)Fassung BGBl I 12/1997 seit dem 28.04.2026 nicht dem Rechtsbestand angehört, hat sich der VfGH gemäß Art140 Abs4 B‑VG auf den Ausspruch zu beschränken, dass die Wortfolge "oder Munition in großem Umfang" in dieser Bestimmung verfassungswidrig war.
+European Case Law Identifier
+ECLI:AT:VFGH:2026:G152.2025

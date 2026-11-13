@@ -1,0 +1,162 @@
+RIS Dokument BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2026
+Ausgegeben am 29. Oktober 2026
+Teil I
+95. Bundesgesetz:
+Änderung des GeoSphere Austria-Gesetzes
+(NR: GP XXVIII RV 620 AB 642 S. 103. BR: AB 11879 S. 997.)
+95. Bundesgesetz, mit dem das GeoSphere Austria-Gesetz geändert wird
+Der Nationalrat hat beschlossen:
+Das GeoSphere Austria-Gesetz – GSAG, BGBl. I Nr. 60/2022, wird wie folgt geändert:
+1. Im Inhaltsverzeichnis wird nach dem Eintrag zu „12 Datenbereitstellungspflicht“ folgender Eintrag eingefügt:
+„12a
+UN-DRR-Schadensdatenbank“
+2. § 1 Abs. 2 lautet:
+„(2) Soweit dieses Bundesgesetz keine abweichenden Bestimmungen enthält, sind der 1. und 2. Abschnitt des Forschungsorganisationsgesetzes (FOG), BGBl. Nr. 341/1981, auf die GSA sinngemäß anzuwenden.“
+3. In § 5 Abs. 2 Z 3 wird die Wortfolge „gemäß § 3 Abs. 1 oder 1a des Informationsweiterverwendungsgesetzes (IWG), BGBl. I Nr. 135/2005,“ durch die Wortfolge „gemäß § 3 des Informationsweiterverwendungsgesetzes (IWG), BGBl. I Nr. 135/2005,“ ersetzt.
+4. In § 7 Abs. 1 wird die Wortfolge „die Realisierung oder Finanzierung von Immobilienprojekten von der Bundesministerin oder dem Bundesminister für Bildung, Wissenschaft und Forschung“ durch die Wortfolge „die Realisierung oder Finanzierung von Immobilienprojekten von der Bundesministerin oder dem Bundesminister“ und die Wortfolge „dürfen ohne Genehmigung durch die Bundesministerin oder den Bundesminister für Bildung, Wissenschaft und Forschung“ durch die Wortfolge „dürfen ohne Genehmigung durch die Bundesministerin oder den Bundesminister“ sowie die Wortfolge „Genehmigungen durch die Bundesministerin oder den Bundesminister für Bildung, Wissenschaft und Forschung“ durch die Wortfolge „Genehmigungen durch die Bundesministerin oder den Bundesminister“ ersetzt.
+5. In § 7 Abs. 2 Z 1 wird die Wortfolge „die Bundesministerin oder den Bundesminister für Bildung, Wissenschaft und Forschung“ durch die Wortfolge „die Bundesministerin oder den Bundesminister“ ersetzt.
+6. In § 7 Abs. 2 Z 2 wird die Wort- und Zahlenfolge „(§ 5 Abs. 4 FoFinaG) der Bundesministerin oder dem Bundesminister für Bildung, Wissenschaft und Forschung“ durch die Wort- und Zahlenfolge „(§ 5 Abs. 4 FoFinaG) der Bundesministerin oder dem Bundesminister“ ersetzt.
+7. Die Einleitung des § 8 Abs. 2 lautet:
+„Die GSA unterliegt der Aufsicht der Bundesministerin oder des Bundesministers. Die Aufsicht erstreckt sich auf die Einhaltung der Gesetze und Verordnungen. Die Bundesministerin oder der Bundesminister“
+8. In § 8 Abs. 4 wird die Wortfolge „Die GSA hat der zuständigen Bundesministerin oder dem zuständigen Bundesminister“ durch die Wortfolge „Die GSA hat der Bundesministerin oder dem Bundesminister“ ersetzt.
+9. In § 10 Abs. 1 wird die Wortfolge „hat die Bundesministerin oder der Bundesminister für Bildung, Wissenschaft und Forschung“ durch die Wortfolge „hat die Bundesministerin oder der Bundesminister“ und die Wortfolge „Die Bundesministerin oder der Bundesminister für Bildung, Wissenschaft und Forschung“ durch die Wortfolge „Die Bundesministerin oder der Bundesminister“ ersetzt.
+10. In § 11 Z 4 wird die Wortfolge „Die Bundesministerin oder der Bundesminister für Bildung, Wissenschaft und Forschung“ durch die Wortfolge „Die Bundesministerin oder der Bundesminister“ ersetzt.
+11. § 12 Abs. 1 lautet:
+„(1) Organe des Bundes sowie Körperschaften öffentlichen Rechts, die durch Bundesgesetz eingerichtet sind, haben der GSA auf deren begründetes Ersuchen die bei ihnen bereits vorhandenen Fach-, Nachweis- oder Bewertungsdaten (§ 3 Z 8 bis 10) unentgeltlich und, soweit technisch möglich, elektronisch bereitzustellen, wenn
+1.
+gesetzliche Geheimhaltungspflichten den Anträgen der GSA nicht entgegenstehen,
+2.
+die beantragten Fach-, Nachweis- oder Bewertungsdaten (§ 3 Z 8 bis 10) zur Erfüllung von Aufgaben gemäß § 4 Abs. 3 erforderlich sind,
+3.
+die beantragten Fach-, Nachweis- oder Bewertungsdaten (§ 3 Z 8 bis 10) der GSA nicht bereits aus anderen Gründen digital zugänglich sind und
+4.
+die Bereitstellung keinen unverhältnismäßigen technischen oder organisatorischen Aufwand verursacht.
+Die Daten sind innerhalb von sechs Monaten ab Einlangen eines hinreichend bestimmten Ersuchens bereitzustellen. Die GSA hat bei der Verwendung der Daten auf die Datenquelle hinzuweisen. Produkte aus den Aufgaben gemäß § 4 Abs. 3 Z 1 bis 6 sowie Z 8 bis 10, die aus Mitteln gemäß § 6 Abs. 1 Z 1 finanziert wurden, sind den im ersten Satz genannten Stellen auf Verlangen unentgeltlich und in elektronischer Form zur Verfügung zu stellen.“
+12. § 12 Abs. 5 entfällt.
+13. Nach § 12 wird folgender § 12a samt Überschrift angefügt:
+„UN-DRR-Schadensdatenbank
+§ 12a.
+(1) Die GSA hat eine zentrale United Nations Disaster Risk Reduction (UN-DRR)-Schadensdatenbank zu führen. Die Schadensdatenbank dient der österreichweit einheitlichen Erfassung, Dokumentation und Auswertung von Daten über Naturereignisse, deren Schäden und Folgen. Sie dient insbesondere der Katastrophenvorsorge, der Katastrophenrisikobewertung, der Risikomanagementplanung, der Evaluierung von Präventionsmaßnahmen, der wissenschaftlichen Forschung sowie der Erfüllung internationaler und unionsrechtlicher Berichtspflichten.
+(2) In der zentralen UN-DRR-Schadensdatenbank dürfen ausschließlich Daten ohne Personenbezug verarbeitet werden. Die Verarbeitung personenbezogener Daten ist unzulässig.
+(3) In der zentralen UN-DRR-Schadensdatenbank dürfen folgende nicht personenbezogene Daten verarbeitet werden:
+1.
+Angaben über Naturereignisse, insbesondere über deren Art, Zeitpunkt, Dauer, Intensität, räumliche Ausdehnung, Klassifikation, Ursachen und Auswirkungen;
+2.
+Angaben über Sach-, Infrastruktur-, Umwelt- und Vermögensschäden, insbesondere Schäden an Gebäuden, Verkehrswegen, Energie-, Wasser-, Kommunikations- und sonstiger kritischer Infrastruktur, Schutzbauten, land- und forstwirtschaftlichen Flächen sowie öffentlichen Einrichtungen;
+3.
+in ausreichend aggregierter Form Angaben über die Auswirkungen von Naturereignissen auf Personen, insbesondere über die Anzahl von Todesfällen, Verletzten, Evakuierten, untergebrachten oder sonst betroffenen Personen, soweit ein Personenbezug ausgeschlossen ist;
+4.
+Angaben über Unterbrechungen oder Einschränkungen von Versorgungsleistungen und Einrichtungen der Daseinsvorsorge, insbesondere im Bereich von Energie, Wasser, Verkehr, Kommunikation und Gesundheit;
+5.
+Angaben über Präventions-, Schutz-, Bewältigungs-, Wiederherstellungs- und Anpassungsmaßnahmen, insbesondere über deren Art, Umfang, Kosten, Wirkungen und räumlichen Bezug;
+6.
+meteorologische, klimatologische, geologische, geophysikalische, hydrologische und sonstige fachlich einschlägige Daten, soweit diese für die Einordnung, Bewertung und Auswertung der Daten gemäß Z 1 bis 5 erforderlich sind.
+(4) Organe des Bundes und bundesgesetzlich eingerichtete Körperschaften öffentlichen Rechts haben der GSA die bei ihnen bereits vorhandenen Daten gemäß Abs. 3 bereitzustellen, soweit
+1.
+die Daten für die Zwecke gemäß Abs. 1 erforderlich sind,
+2.
+die Daten der GSA nicht bereits digital zugänglich sind,
+3.
+der Bereitstellung keine gesetzlichen Geheimhaltungspflichten entgegenstehen und
+4.
+die Bereitstellung keinen unverhältnismäßigen technischen oder organisatorischen Aufwand verursacht.
+§ 12 Abs. 1 zweiter und dritter Satz sowie Abs. 2 bis 4 sind sinngemäß anzuwenden.
+(5) Andere Stellen können der GSA Daten gemäß Abs. 3 freiwillig bereitstellen. Die GSA kann mit diesen Stellen Vereinbarungen über die Teilnahme an der zentralen UN-DRR-Schadensdatenbank abschließen. Die Vereinbarungen können insbesondere nähere Regelungen über die Art und Weise der Datenbereitstellung, die Verwendung bestehender Datenquellen und technischer Schnittstellen, die Qualität und Aktualität der bereitgestellten Daten sowie den Zugang zu den aus der Schadensdatenbank gewonnenen Auswertungen und Datenprodukten enthalten. Die Vereinbarungen dürfen keine Verpflichtung zur erstmaligen Erhebung, Verarbeitung oder Übermittlung personenbezogener Daten begründen und keine nicht gedeckten finanziellen Belastungen für die teilnehmenden Stellen vorsehen.
+(6) Werden der GSA entgegen Abs. 2 personenbezogene Daten übermittelt, hat sie diese unverzüglich, spätestens jedoch innerhalb von 30 Tagen ab Einlangen, zu löschen. Bis zur Löschung dürfen diese Daten ausschließlich zur Feststellung des Personenbezugs, zur Sicherung der Daten sowie zur Durchführung der Löschung verarbeitet werden. Die übermittelnde Stelle ist, soweit dies möglich und zweckmäßig ist, über die Löschung zu informieren.
+(7) Die GSA hat bei der Führung der zentralen UN-DRR-Schadensdatenbank geeignete technische und organisatorische Maßnahmen zu treffen. Sie hat insbesondere
+1.
+sicherzustellen, dass keine personenbezogenen Daten verarbeitet werden;
+2.
+Datenquellen, Datenqualität, Datenaktualität und Einschränkungen der Aussagekraft nachvollziehbar zu dokumentieren;
+3.
+Mehrfachmeldungen und parallele Datenhaltungen durch Nutzung bestehender Datenquellen und Schnittstellen möglichst zu vermeiden;
+4.
+bei der Bereitstellung von Daten und Auswertungen gesetzliche Geheimhaltungsinteressen, insbesondere den Schutz kritischer Infrastruktur und die Aufrechterhaltung der öffentlichen Sicherheit zu wahren und
+5.
+den datenbereitstellenden Stellen auf Verlangen die sie betreffenden Daten sowie daraus erzeugte aggregierte Auswertungen und Datenprodukte, soweit technisch möglich und rechtlich zulässig, unentgeltlich in elektronischer Form zur Verfügung zu stellen.“
+14. Dem § 13 Abs. 2 wird folgender Satz angefügt:
+„Hat eine nominierungsberechtigte Stelle mehr als ein Mitglied eines Organs zu nominieren, hat sie bei der Nominierung die Frauenquote gemäß dem ersten Satz sinngemäß einzuhalten.“
+15. § 13 Abs. 3 und 4 lautet:
+„(3) Die Organe der GSA nehmen ihre Aufgaben auf der Basis der Geschäftsordnung der GSA wahr. Eine Beschlussfassung im Umlaufweg oder in einer Videokonferenz ist zulässig, sofern kein Mitglied diesem Beschlussweg widerspricht. In der Geschäftsordnung sind insbesondere
+1.
+die organisatorische Gliederung der GSA,
+2.
+der Dienstbetrieb der GSA sowie
+3.
+die Arbeitsweise der GSA
+zu regeln. Die Geschäftsordnung und ihre Änderungen sind der Bundesministerin oder dem Bundesminister zur Genehmigung vorzulegen.
+(4) Mit Ausnahme der Tätigkeit der Organe gemäß § 14 ist die Tätigkeit der Organe der GSA ehrenamtlich. Für sie ist eine angemessene Aufwandsentschädigung von der Bundesministerin oder dem Bundesminister mit Verordnung vorzusehen.“
+16. In § 13 erhalten die Abs. 7 bis 10 die Absatzbezeichnungen „(8)“ bis „(11)“ .
+17. In § 13 wird nach Abs. 6 folgender Abs. 7 eingefügt:
+„(7) Die Mitglieder des Kuratoriums werden von der Bundesministerin oder dem Bundesminister für eine Funktionsperiode von fünf Jahren, die Mitglieder des wissenschaftlichen Beirats für eine Funktionsperiode von drei Jahren bestellt. Scheidet ein Mitglied eines dieser Organe vorzeitig aus, ist ein Ersatzmitglied für den Rest der laufenden Funktionsperiode von der Bundesministerin oder dem Bundesminister zu bestellen. Bei Mitgliedern, die auf Grund einer Nominierung gemäß § 15 Abs. 1 Z 2 bis 5 bestellt wurden, ist vor der Bestellung eines Ersatzmitglieds die jeweils nominierungsberechtigte Stelle zur Nominierung eines Ersatzmitglieds aufzufordern. § 15 Abs. 1 zweiter bis letzter Satz ist sinngemäß anzuwenden. Bis zur Bestellung eines Ersatzmitglieds bleibt das Kuratorium bzw. der wissenschaftliche Beirat unter den Voraussetzungen dieses Bundesgesetzes beschlussfähig.“
+18. In § 13 Abs. 10 wird die Wortfolge „durch die Bundesministerin oder den Bundesminister für Bildung, Wissenschaft und Forschung“ durch die Wortfolge „durch die Bundesministerin oder den Bundesminister“ ersetzt; § 13 Abs. 11 lautet:
+„(11) Die für die Bestellung zuständige Bundesministerin oder der für die Bestellung zuständige Bundesminister kann ein Mitglied der Generaldirektion wegen
+1.
+einer schweren Pflichtverletzung oder
+2.
+einer strafgerichtlichen Verurteilung oder
+3.
+begründeten Vertrauensverlusts oder
+4.
+mangelnder gesundheitlicher Eignung
+abberufen. Für Beschwerden gegen Abberufungen von Mitgliedern der Generaldirektion ist das Bundesverwaltungsgericht zuständig. Ein Mitglied des Kuratoriums oder des wissenschaftlichen Beirats kann von der Bundesministerin oder dem Bundesminister unter Angabe von Gründen von seiner Funktion abberufen werden. Bei einem Mitglied des Kuratoriums, das auf Grund einer Nominierung gemäß § 15 Abs. 1 Z 2 bis 5 bestellt wurde, ist die Abberufung auf Verlangen der jeweils nominierungsberechtigten Stelle vorzunehmen. Ein Ersatzmitglied ist längstens bis zum Ende der laufenden Funktionsperiode zu bestellen.“
+19. § 14 Abs. 1 lautet:
+„(1) Für die GSA sind von der Bundesministerin oder dem Bundesminister
+1.
+eine wissenschaftliche Generaldirektorin oder ein wissenschaftlicher Generaldirektor sowie
+2.
+eine kaufmännische Generaldirektorin oder ein kaufmännischer Generaldirektor
+für die Dauer von höchstens fünf Jahren mit der Leitungsfunktion zu betrauen, wobei das Stellenbesetzungsgesetz, BGBl. I Nr. 26/1998, anzuwenden ist. Das Auswahl- und Besetzungsverfahren wird von der Bundesministerin oder dem Bundesminister durchgeführt, wobei das Arbeitsverhältnis mit der GSA eingegangen wird. Mehrmalige Betrauungen sind zulässig. Vor Betrauung und Abberufung ist eine schriftliche Stellungnahme des Kuratoriums (§ 15 Abs. 4 Z 6) einzuholen. Beamtinnen oder Beamte sowie Vertragsbedienstete, die mit der Leitungsfunktion der GSA betraut werden sollen, sind für die entsprechende Dauer gegen Entfall der Bezüge zu beurlauben. Die Zeit dieser Beurlaubung ist für Rechte, die von der Dauer des Dienstverhältnisses abhängen, zu berücksichtigen. Jede Ausschreibung hat die für die jeweilige Funktion erforderlichen fachlichen, wissenschaftlichen und wirtschaftlichen Qualifikationen sowie die persönliche Eignung und die erforderliche Führungserfahrung klar und nachvollziehbar auszuweisen.“
+20. In § 14 Abs. 2 wird die Wort- und Zeichenfolge „an die Weisungen der Bundesministerin oder des Bundesministers für Bildung, Wissenschaft und Forschung gebunden. Soweit in diesem Gesetz nicht anderes bestimmt ist“ durch die Wort- und Zeichenfolge „an die Weisungen der Bundesministerin oder des Bundesministers gebunden. Soweit in diesem Gesetz nichts anderes bestimmt ist“ ersetzt.
+21. § 15 Abs. 1 lautet:
+„(1) Das Kuratorium der GSA besteht aus zehn Mitgliedern, die jeweils für die Dauer von fünf Jahren von der Bundesministerin oder dem Bundesminister zu bestellen sind, wobei
+1.
+fünf Mitglieder unmittelbar von der Bundesministerin oder dem Bundesminister bestellt werden, von denen
+a)
+ein Mitglied über mehrjährige juristische Berufserfahrung,
+b)
+ein Mitglied über mehrjährige wirtschaftliche oder haushaltsrechtliche Berufserfahrung und
+c)
+ein Mitglied über mehrjährige fachliche Berufserfahrung
+verfügen muss,
+2.
+zwei Mitglieder vom Betriebsrat aus dem Kreis seiner Mitglieder zu nominieren sind,
+3.
+ein Mitglied von der Bundesministerin oder dem Bundesminister für Finanzen zu nominieren ist,
+4.
+ein Mitglied von der Bundesministerin oder dem Bundesminister für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft zu nominieren ist,
+5.
+ein Mitglied von der Verbindungsstelle der Bundesländer beim Amt der Niederösterreichischen Landesregierung zu nominieren ist und
+6.
+jedes Mitglied seine Funktion nur durch zwei aufeinanderfolgende Funktionsperioden ausüben darf, die Wiederbestellung für eine spätere Funktionsperiode allerdings zulässig ist.
+Die Nominierung gemäß Z 2 bis 5 ist die verbindliche Namhaftmachung einer Person zur Bestellung als Mitglied des Kuratoriums. Die Bestellung der gemäß Z 2 bis 5 nominierten Mitglieder hat auf Grund der jeweiligen Nominierung zu erfolgen. Sie darf nur verweigert werden, wenn die nominierte Person die gesetzlichen Voraussetzungen für die Bestellung nicht erfüllt oder ein gesetzliches Bestellungshindernis vorliegt. Die nominierungsberechtigte Stelle ist über das Vorliegen eines solchen Hindernisses unverzüglich unter Angabe der Gründe zu informieren und zur Nominierung einer anderen Person aufzufordern. Der Bundesministerin oder dem Bundesminister kommt hinsichtlich der gemäß Z 2 bis 5 nominierten Personen kein freies Auswahlermessen zu.“
+22. In § 15 Abs. 4 Z 2 wird der Beistrich am Ende der lit. a durch das Wort „sowie“ und das Wort „sowie“ am Ende der lit. b durch einen Beistrich ersetzt; die lit. c entfällt.
+23. In § 15 Abs. 4 Z 5 wird die Wortfolge „an die Bundesministerin oder den Bundesminister für Bildung, Wissenschaft und Forschung“ durch die Wortfolge „an die Bundesministerin oder den Bundesminister“ ersetzt.
+24. § 15 Abs. 4 Z 6 lautet:
+„6.
+die Stellungnahme zur Betrauung und Abberufung von Mitgliedern der Generaldirektion,“
+25. In § 16 Abs. 1 wird die Wortfolge „der Bundesministerin oder dem Bundesminister für Bildung, Wissenschaft und Forschung“ durch die Wortfolge „der Bundesministerin oder dem Bundesminister“ ersetzt.
+26. In § 18 Abs. 1 wird die Wortfolge „zumindest drei“ durch die Wortfolge „nicht weniger als zwei“ ersetzt.
+27. In § 19 Abs. 1 wird die Wortfolge „der Bundesministerin oder dem Bundesminister für Bildung, Wissenschaft und Forschung“ durch die Wortfolge „der Bundesministerin oder dem Bundesminister“ ersetzt.
+28. Dem § 25 wird folgender Abs. 4 angefügt:
+„(4) Das zum Zeitpunkt des Inkrafttretens dieser Bestimmung bestehende Kuratorium bleibt bis zum Ablauf des 30. September 2027 im Amt. Mit 1. Oktober 2027 tritt das neu konstituierte Kuratorium seine Funktion an. Ab diesem Zeitpunkt gehen sämtliche Rechte und Pflichten auf das neu konstituierte Kuratorium über und dessen Funktionsperiode beginnt zu laufen.“
+29. In § 26 Abs. 16 Z 2 wird die Wortfolge „beim Bundesministerium für Bildung, Wissenschaft und Forschung“ durch die Wortfolge „beim Bundesministerium für Frauen, Wissenschaft und Forschung“ ersetzt.
+30. § 28 Z 1 lautet:
+„1.
+hinsichtlich des § 6 Abs. 1 Z 1 die Bundesministerin oder der Bundesminister für Frauen, Wissenschaft und Forschung im Einvernehmen mit der Bundesministerin oder dem Bundesminister für Finanzen;“
+31. In § 28 werden Z 3 bis 5 durch folgende Z 3 bis 5 ersetzt:
+„3.
+hinsichtlich des § 13 Abs. 11 die für die Bestellung zuständige Bundesministerin oder der für die Bestellung zuständige Bundesminister;
+4.
+hinsichtlich des § 15 Abs. 1 Z 3 sowie des § 22 die Bundesministerin oder der Bundesminister für Finanzen;
+5.
+hinsichtlich der übrigen Bestimmungen dieses Bundesgesetzes die Bundesministerin oder der Bundesminister für Frauen, Wissenschaft und Forschung.“
+32. In § 29 erhält der bisherige Text die Absatzbezeichnung „(1)“ ; folgende Abs. 2, 3, 4 und 5 werden angefügt:
+„(2) § 12 Abs. 5 tritt mit Ablauf des Tages der Kundmachung des Bundesgesetzes BGBl. I Nr. 95/2026 außer Kraft.
+(3) Das Inhaltsverzeichnis, § 1 Abs. 2, § 5 Abs. 2 Z 3, § 7 Abs. 1 und 2, § 8 Abs. 2 und 4, § 10 Abs. 1, § 11 Z 4, § 12 Abs. 1, § 13 Abs. 2 bis 4 und Abs. 8 bis 10, § 14 Abs. 1 und 2, § 15 Abs. 4, § 16 Abs. 1, § 18 Abs. 1, § 19, § 25 Abs. 4, § 26 Abs. 16 Z 2 und § 28 in der Fassung des Bundesgesetzes BGBl. I Nr. 95/2026 treten mit dem auf die Kundmachung folgenden Tag in Kraft.
+(4) § 12a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 95/2026 tritt sechs Monate nach Ablauf des Tages der Kundmachung in Kraft. Maßnahmen zur technischen, organisatorischen und personellen Vorbereitung des Betriebs der UN-DRR-Schadensdatenbank dürfen bereits mit dem auf die Kundmachung folgenden Tag getroffen werden.
+(5) § 13 Abs. 7 und 11 sowie § 15 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 95/2026 treten mit 1. Oktober 2027 in Kraft.“
+Van der Bellen
+Stocker

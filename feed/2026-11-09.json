@@ -1,0 +1,36 @@
+{
+ "erzeugt": "2026-11-09T05:30:01+01:00",
+ "fenster": "EinerWoche",
+ "quellen": {
+  "Bundesrecht/BgblAuth": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/Begut": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/RegV": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Justiz": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vfgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vwgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Lvwg": {
+   "neu": 0,
+   "abgeschnitten": false
+  }
+ },
+ "fehler": [],
+ "dokumente": []
+}

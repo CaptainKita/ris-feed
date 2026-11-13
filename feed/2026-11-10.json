@@ -1,0 +1,151 @@
+{
+ "erzeugt": "2026-11-10T05:30:01+01:00",
+ "fenster": "EinerWoche",
+ "quellen": {
+  "Bundesrecht/BgblAuth": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/Begut": {
+   "neu": 2,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/RegV": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Justiz": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vfgh": {
+   "neu": 2,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vwgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Lvwg": {
+   "neu": 2,
+   "abgeschnitten": false
+  }
+ },
+ "fehler": [],
+ "dokumente": [
+  {
+   "id": "BEGUT_2263A46E_799D_4252_8A09_8816CF31D464",
+   "app": "Begut",
+   "Kurztitel": "Bundesgesetz, mit dem das Bundesgesetz BGBl. I Nr. 71/2025 und das Gesundheitstelematikgesetz 2012 geändert werden",
+   "Titel": "Bundesgesetz, mit dem das Bundesgesetz BGBl. I Nr. 71/2025 und das Gesundheitstelematikgesetz 2012 geändert werden",
+   "Geaendert": "2026-11-09",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Begut/BEGUT_2263A46E_799D_4252_8A09_8816CF31D464/BEGUT_2263A46E_799D_4252_8A09_8816CF31D464.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Begut&Dokumentnummer=BEGUT_2263A46E_799D_4252_8A09_8816CF31D464",
+   "text_datei": "voll/2026-11-10/BEGUT_2263A46E_799D_4252_8A09_8816CF31D464.txt",
+   "zeichen": 2182,
+   "text": "RIS Dokument Entwurf\nBundesgesetz, mit dem das Bundesgesetz BGBl. I Nr. 71/2025 und das Gesundheitstelematikgesetz 2012 geändert werden\nDer Nationalrat hat beschlossen:\nInhaltsverzeichnis\nArtikel 1\nÄnderung des Bundesgesetzes BGBl. I Nr. 71/2025\nArtikel 2\nÄnderung des Gesundheitstelematikgesetzes 2012\nArtikel 1\nÄnderung des Bundesgesetzes BGBl. I Nr. 71/2025\nDas Bundesgesetz BGBl. I Nr. 71/2025 wird wie folgt geändert:\nArt. I Z 11d lautet:\n«11d. § 13 Abs. 3 Z 4 lautet:\n„4.\nMedikationsdaten (§ 2 Z 9 lit. b), insoweit sich diese auf Handelsname bzw. Wirkstoff beziehen, durch Angehörige des ärztlichen Berufes (§ 2 Z 10 lit. a) sowie durch Krankenanstalten (§ 2 Z 10 lit. d) und Einrichtungen der Pflege (§ 2 Z 10 lit. e) bei der Verordnung, wobei Einrichtungen der Pflege ab 1. Jänner 2028 zur Speicherung verpflichtet sind,“»\nArtikel 2\nÄnderung des Gesundheitstelematikgesetzes 2012\nDas Gesundheitstelematikgesetz 2012, BGBl. I Nr. 111/2012, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 67/2026, wird wie folgt geändert:\n1. In § 2 Z 9 lit. a wird in sublit. cc das Wort „sowie“ durch einen Beistrich und in sublit. dd der Beistrich durch das Wort „sowie“ ersetzt; es wird folgende sublit. ee angefügt:\n„ee)\nPflegesituationsberichte, das sind strukturierte elektronische Dokumente, die aktuelle pflege- und betreuungsrelevante Informationen über ELGA-Teilnehmer/innen enthalten,“\n2. In § 13 Abs. 3 wird im Einleitungsteil nach der Wendung „Pflegesituationsberichten (Z 6)“ die Wendung „un [...]"
+  },
+  {
+   "id": "BEGUT_EA425D71_10F7_4CC3_9FC7_7A60A104FC38",
+   "app": "Begut",
+   "Kurztitel": "ELGA-Speicherverpflichtungs-Verordnungsnovelle 2026",
+   "Titel": "Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der die ELGA-Verordnung 2015 geändert wird",
+   "Geaendert": "2026-11-09",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Begut/BEGUT_EA425D71_10F7_4CC3_9FC7_7A60A104FC38/BEGUT_EA425D71_10F7_4CC3_9FC7_7A60A104FC38.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Begut&Dokumentnummer=BEGUT_EA425D71_10F7_4CC3_9FC7_7A60A104FC38",
+   "text_datei": "voll/2026-11-10/BEGUT_EA425D71_10F7_4CC3_9FC7_7A60A104FC38.txt",
+   "zeichen": 3489,
+   "text": "RIS Dokument Entwurf\nVerordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der die ELGA-Verordnung 2015 geändert wird (ELGA-Speicherverpflichtungs-Verordnungsnovelle 2026)\nAuf Grund des § 28a des Gesundheitstelematikgesetzes 2012, BGBl. I Nr. 111/2012, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 67/2026, wird verordnet:\nDie ELGA-Verordnung 2015 (ELGA-VO 2015), BGBl. II Nr. 106/2015, zuletzt geändert durch die Gesundheitstelematik-Anpassungsverordnung 2025, BGBl. II Nr. 11/2025, wird wie folgt geändert:\n1. In § 3 Abs. 2 Z 1 wird in lit. d das Wort „und“ durch ein Semikolon und in lit. e der Punkt durch das Wort „und“ ersetzt; es wird folgende lit. f angefügt:\n„f)\nSpeicherung von Medikationsdaten bei der Verordnung (§ 13 Abs. 3 Z 4 GTelG 2012).“\n2. In § 3 Abs. 5 wird die Wendung „des Pflegesituationsberichts (§ 13 Abs. 3 Z 6 GTelG 2012)“ durch die Wendung „von Pflegesituationsberichten (§ 13 Abs. 3 Z 6 GTelG 2012) und von Medikationsdaten bei der Verordnung (§ 13 Abs. 3 Z 4 GTelG 2012)“ ersetzt.\n3. In § 4 Abs. 1 wird das Wort „früherer“ durch das Wort „anderer“ ersetzt.\n4. § 7 Abs. 1 lautet:\n„(1) Speicherung durch Krankenanstalten: Ab 1. Jänner 2027 sind die in § 3 Abs. 2 Z 1 genannten Krankenanstalten sowie die in § 3 Abs. 2 Z 2 genannten selbstständigen Ambulatorien zur Speicherung von Medikationsdaten bei der Verordnung gemäß § 13 Abs. 3 Z 4 GTelG 2012 verpflichtet.“\n5. Dem § 7 wird folgender Abs. 5 angefügt:\n„(5) Speiche [...]"
+  },
+  {
+   "id": "JFR_20261007_26E00850_01",
+   "app": "Vfgh",
+   "Geschaeftszahl": "E850/2026",
+   "Entscheidungsdatum": "2026-10-07",
+   "Geaendert": "2026-11-09",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verfassungsgerichtshof (VfGH)",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "BVG-Rassendiskriminierung ArtI Abs1",
+    "AsylG 2005 §8, §10, §57",
+    "FremdenpolizeiG 2005 §46, §52, §55",
+    "VfGG §7 Abs1"
+   ],
+   "Schlagworte": "Asylrecht, Entscheidungsbegründung, Ermittlungsverfahren, Rückkehrentscheidung",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vfgh/JFR_20261007_26E00850_01/JFR_20261007_26E00850_01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20261007_26E00850_01",
+   "text_datei": "voll/2026-11-10/JFR_20261007_26E00850_01.txt",
+   "zeichen": 2801,
+   "text": "RIS Dokument Gericht\nVerfassungsgerichtshof\nEntscheidungsdatum\n07.10.2026\nGeschäftszahl\nE850/2026\nLeitsatz\nVerletzung im Recht auf Gleichbehandlung von Fremden untereinander betreffend die Abweisung eines Antrags eines afghanischen Staatsangehörigen auf Zuerkennung des Status eines subsidiär Schutzberechtigten mangels hinreichender Auseinandersetzung mit der aktuellen Versorgungslage und der individuellen Situation des Antragstellers\nRechtssatz\nDer Feststellung des BVwG, dass sich der Beschwerdeführer ohne familiäre Unterstützung versorgen könne, stehen die in zum Entscheidungszeitpunkt aktuellen Länderberichten enthaltenen Informationen zur weiterhin angespannten Versorgungslage in Afghanistan entgegen. In Anbetracht der in den Länderberichten enthaltenen Ausführungen zur Versorgungsunsicherheit hat das BVwG konkrete Feststellungen zur persönlichen Versorgungslage – und in diesem Zusammenhang auch zur finanziellen Absicherung des Beschwerdeführers – zu treffen. Vor dem Hintergrund der Rsp des VfGH genügt es nicht, lediglich ohne nähere Auseinandersetzung davon auszugehen, dass der Beschwerdeführer durch Erwerbstätigkeit in der Lage sein werde, den notwendigen Unterhalt zu erwirtschaften.\nVor dem Hintergrund der Länderberichte ist für den VfGH nicht nachvollziehbar, wie das BVwG – ohne diese Berichte und die reale Möglichkeit einer ausreichenden Beschäftigung in Afghanistan substantiiert zu berücksichtigen – zum Ergebnis gelangt, dass der Beschwerdeführer ohne familiäres Netz [...]"
+  },
+  {
+   "id": "JFR_20260922_26V00029_01",
+   "app": "Vfgh",
+   "Geschaeftszahl": "V29/2026 ua",
+   "Entscheidungsdatum": "2026-09-22",
+   "Geaendert": "2026-11-09",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verfassungsgerichtshof (VfGH)",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "B-VG Art139 Abs1 Z1",
+    "StVO 1960 §43, §44, §94b, §94d",
+    "Verordnung der Bezirkshauptmannschaft Liezen vom 29.12.2003 betreffend die L 711 Ramsauerstraße",
+    "Verordnung der Bezirkshauptmannschaft Liezen vom 04.09.1996 betreffend die L 722 Rohrmooserstraße",
+    "GeschwindigkeitsbeschränkungsV des Gemeinderates der Stadtgemeinde Schladming vom 30.11.2011 (dreizeilig)",
+    "GeschwindigkeitsbeschränkungsV des Gemeinderates der Stadtgemeinde Schladming vom 30.11.2011 (vierzeilig)",
+    "VfGG §7 Abs2"
+   ],
+   "Schlagworte": "Geschwindigkeitsbeschränkung, Verordnung Kundmachung, VfGH / Gerichtsantrag, VfGH / Präjudizialität, VfGH / Prüfungsumfang, Eventualantrag, Gemeindestraße, Landesstraße, Bundesstraße, Ortstafeln",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vfgh/JFR_20260922_26V00029_01/JFR_20260922_26V00029_01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260922_26V00029_01",
+   "text_datei": "voll/2026-11-10/JFR_20260922_26V00029_01.txt",
+   "zeichen": 5778,
+   "text": "RIS Dokument Gericht\nVerfassungsgerichtshof\nEntscheidungsdatum\n22.09.2026\nGeschäftszahl\nV29/2026 ua\nLeitsatz\nAufhebung einer GeschwindigkeitsbeschränkungsV und OrtstafelV der Bezirkshauptmannschaft Liezen mangels ordnungsgemäßer Kundmachung wegen Fehlens der ortsüblichen Verlautbarung der Verordnungen sowie nachweisbarer behördlicher Willensbildung\nRechtssatz\nGesetzwidrigkeit näher bezeichneter Wort- und Zeichenfolgen der Verordnung der BH Liezen vom 29.12.2003, 11.0‑28/1996, sowie der Verordnung der BH Liezen vom 04.09.1996, 11.0-31/96, betreffend Geschwindigkeitsbeschränkungen bzw Ortstafeln von Schladming. Gesetzwidrigkeit der Verordnung, mit welcher das Ende der Geschwindigkeitsbeschränkung von 40 km/h auf der L 722 bei Straßenkilometer 0,941 auf der linken Straßenseite in Fahrtrichtung Rohrmoos unterhalb der Ortstafel \"Schladming Ende\" festgelegt wurde. Zurückweisung der Anträge des LVwG Steiermark soweit sie sich auf die Aufhebung näher bezeichneter Wort- und Zeichenfolgen der Verordnungen des Gemeinderates der Stadtgemeinde Schladming vom 30.11.2011, VII-612-5210/2011, richten.\nDie beiden Verordnungen der BH Liezen vom 29.12.2003 sowie vom 04.09.1996, stützen sich im Umfang der Anfechtung (nur) auf §44 Abs4 StVO 1960, zumal mit ihnen Geschwindigkeitsbeschränkungen von 40 km/h bestimmt wurden, die für das gesamte Ortsgebiet gelten:\nDie in den beiden Verordnungen angeordneten straßenpolizeilichen Maßnahmen betreffend die Kundmachung des Ortsgebiets sowie die Geschwindigk [...]"
+  },
+  {
+   "id": "LVWGT_TI_20261102_LVwG_2026_22_3202_2_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-2026/22/3202-2",
+   "Entscheidungsdatum": "2026-11-02",
+   "Geaendert": "2026-11-09",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Tirol",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "FSG 1997 §7 Abs3 Z3 litd",
+    "FSG 1997 §26 Abs2a"
+   ],
+   "Schlagworte": "Entzug der Lenkberechtigung<br/>Straßenrennen<br/>Höchstgeschwindigkeit<br/>",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_TI_20261102_LVwG_2026_22_3202_2_00/LVWGT_TI_20261102_LVwG_2026_22_3202_2_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_TI_20261102_LVwG_2026_22_3202_2_00",
+   "text_datei": "voll/2026-11-10/LVWGT_TI_20261102_LVwG_2026_22_3202_2_00.txt",
+   "zeichen": 4441,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Tirol\nEntscheidungsdatum\n02.11.2026\nGeschäftszahl\nLVwG-2026/22/3202-2\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Tirol erkennt durch seinen Richter Dr. Triendl über die Beschwerde der Frau AA, geb. XX.XX.XXXX, Adresse 1, **** Z, gegen den Bescheid der Bezirkshauptmannschaft Y vom 19.10.2026, ***, wegen Entziehung der Lenkberechtigung\nzu Recht:\n1.\nDie Beschwerde wird als unbegründet abgewiesen.\n2.\nDie ordentliche Revision ist gemäß Art 133 Abs 4 B-VG nicht zulässig.\nE n t s c h e i d u n g s g r ü n d e\nI.\nVerfahrensgang:\nMit dem angefochtenen Bescheid entzog die Bezirkshauptmannschaft Y der Beschwerdeführerin die Lenkberechtigung für alle Klassen für einen Zeitraum von 6 Monaten (gerechnet ab dem 27.9.2026 – Abnahme des Führerscheines). Dagegen erhob Frau AA rechtzeitig Beschwerde und brachte darin ihr Bedauern ob des Vorfalles zum Ausdruck und erklärte, aus ihrer Sicht habe kein Straßenrennen stattgefunden.\nDas Landesverwaltungsgericht Tirol holte die Entscheidung im Verwaltungsstrafverfahren ein. Demnach wurde im Rahmen einer Strafverhandlung am 19.10.2026 vor der Bezirkshauptmannschaft Y ein Straferkenntnis mündlich verkündet, in dem der Beschwerdeführerin für den Vorfall vom 27.9.2026 um 23:00 Uhr eine Übertretung nach § 99 Abs 2f StVO zur Last gelegt wurde und u.a. hervorgehoben wurde, dass die Überschreitung der zulässigen Höchstgeschwindigkeit von 60 km/h um 75 (!) km/h im Rahmen eines Straßenrennens erfolgte.  [...]"
+  },
+  {
+   "id": "LVWGT_KA_20240603_KLVwG_315_4_2024_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "KLVwG-315/4/2024",
+   "Entscheidungsdatum": "2024-06-03",
+   "Geaendert": "2026-11-09",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Kärnten",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "StVO §15 Abs4",
+    "StVO §99 Abs3 lita",
+    "VStG §19 Abs1",
+    "VStG §19 Abs2",
+    "VwGVG 2014 §50"
+   ],
+   "Schlagworte": "Straßenverkehrsordnung, Radfahrer, Omnibus, Überholung, Abstand<br/>",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_KA_20240603_KLVwG_315_4_2024_00/LVWGT_KA_20240603_KLVwG_315_4_2024_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_KA_20240603_KLVwG_315_4_2024_00",
+   "text_datei": "voll/2026-11-10/LVWGT_KA_20240603_KLVwG_315_4_2024_00.txt",
+   "zeichen": 24277,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Kärnten\nEntscheidungsdatum\n03.06.2024\nGeschäftszahl\nKLVwG-315/4/2024\nText\nDas Landesverwaltungsgericht Kärnten erkennt durch seinen Richter xxx über die Beschwerde der xxx, geb. xxx, wohnhaft in der xxx, xxx, vertreten durch xxx, xxx Rechtsanwälte, xxx, xxx, gegen das Straferkenntnis der Landespolizeidirektion Kärnten vom 02.01.2024, Zahl: xxx, wegen einer Verwaltungsübertretung nach\n§ 15 Abs. 4 Straßenverkehrsordnung 1960 – StVO 1960, nach Durchführung einer öffentlich mündlichen Verhandlung am 23.05.2024, zu Recht:\nI. Der Beschwerde wird gemäß § 50 Verwaltungsgerichtsverfahrensgesetz –\nVwGVG mit der Maßgabe insoweit\nF o l g e g e g e b e n ,\nals der Spruch wie folgt zu lauten hat:\n„Sie haben beim Überholen eines Radfahrers den für die Verkehrssicherheit und der Fahrgeschwindigkeit erforderlichen Seitenabstand im Ortsgebiet nicht eingehalten, zumal dieser bei einer gefahrenen Geschwindigkeit von 28 km/h unterschritten wurde und lediglich ein Seitenabstand zwischen Schulter des Radfahrers und der rechten Seite des von Ihnen gelenkten Omnibusses, höchstens 30 cm betrug.“\nund wird die Höhe der Strafe von € 150,--, Ersatzfreiheitsstrafe\n2 Tage 21 Stunden auf € 100,--, Ersatzfreiheitsstrafe 2 Tage\nh e r a b g e s e t z t .\nII.\nGemäß § 64 Abs. 1 und Abs. 2 Verwaltungsstrafgesetz 1991 – VStG beträgt der Verfahrenskostenbeitrag für das Verfahren in erster Instanz € 10,--.\nIII.\nGegen dieses Erkenntnis ist gemäß § 25a Verwaltungsgerichtsho [...]"
+  }
+ ]
+}

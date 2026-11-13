@@ -1,0 +1,28 @@
+RIS Dokument Entwurf
+Bundesgesetz, mit dem das Bundesgesetz BGBl. I Nr. 71/2025 und das Gesundheitstelematikgesetz 2012 geändert werden
+Der Nationalrat hat beschlossen:
+Inhaltsverzeichnis
+Artikel 1
+Änderung des Bundesgesetzes BGBl. I Nr. 71/2025
+Artikel 2
+Änderung des Gesundheitstelematikgesetzes 2012
+Artikel 1
+Änderung des Bundesgesetzes BGBl. I Nr. 71/2025
+Das Bundesgesetz BGBl. I Nr. 71/2025 wird wie folgt geändert:
+Art. I Z 11d lautet:
+«11d. § 13 Abs. 3 Z 4 lautet:
+„4.
+Medikationsdaten (§ 2 Z 9 lit. b), insoweit sich diese auf Handelsname bzw. Wirkstoff beziehen, durch Angehörige des ärztlichen Berufes (§ 2 Z 10 lit. a) sowie durch Krankenanstalten (§ 2 Z 10 lit. d) und Einrichtungen der Pflege (§ 2 Z 10 lit. e) bei der Verordnung, wobei Einrichtungen der Pflege ab 1. Jänner 2028 zur Speicherung verpflichtet sind,“»
+Artikel 2
+Änderung des Gesundheitstelematikgesetzes 2012
+Das Gesundheitstelematikgesetz 2012, BGBl. I Nr. 111/2012, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 67/2026, wird wie folgt geändert:
+1. In § 2 Z 9 lit. a wird in sublit. cc das Wort „sowie“ durch einen Beistrich und in sublit. dd der Beistrich durch das Wort „sowie“ ersetzt; es wird folgende sublit. ee angefügt:
+„ee)
+Pflegesituationsberichte, das sind strukturierte elektronische Dokumente, die aktuelle pflege- und betreuungsrelevante Informationen über ELGA-Teilnehmer/innen enthalten,“
+2. In § 13 Abs. 3 wird im Einleitungsteil nach der Wendung „Pflegesituationsberichten (Z 6)“ die Wendung „und Medikationsdaten bei der Verordnung durch Einrichtungen der Pflege (Z 4)“ eingefügt.
+3. In § 13 Abs. 3 Z 6 wird das Datum „1. Jänner 2027“ durch das Datum „1. Jänner 2028“ ersetzt.
+4. Dem § 26 wird folgender Abs. 24 angefügt:
+„(24) § 2 Z 9 lit. a, § 13 Abs. 3 Z 6 und § 28a Abs. 1 Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. xxx/202x treten mit dem der Kundmachung folgenden Tag und § 13 Abs. 3 (Einleitungsteil) mit 1. Jänner 2027 in Kraft.“
+5. In § 28a Abs. 1 Z 2 wird in lit. a sublit. bb das Wort „sowie“ durch einen Beistrich und in lit. b der Beistrich durch das Wort „sowie“ ersetzt; es wird folgende lit. c angefügt:
+„c)
+weitere ELGA-Gesundheitsdaten gemäß § 2 Z 9,“
