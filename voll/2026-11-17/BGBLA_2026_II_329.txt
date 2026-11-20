@@ -1,0 +1,472 @@
+RIS Dokument BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2026
+Ausgegeben am 16. November 2026
+Teil II
+329. Verordnung:
+Änderung der WFA-Finanzielle-Auswirkungen-Verordnung
+329. Verordnung des Bundesministers für Finanzen, mit der die WFA-Finanzielle-Auswirkungen-Verordnung geändert wird
+Auf Grund des § 17 Abs. 4 Z 3 des Bundeshaushaltsgesetzes 2013 BHG 2013, BGBl. I Nr. 139/2009, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 25/2025, wird verordnet:
+Die WFA-Finanzielle-Auswirkungen-Verordnung – WFA-FinAV, BGBl. II Nr. 490/2012, zuletzt geändert durch die Verordnung BGBl. II Nr. 173/2025, wird wie folgt geändert:
+1. § 13 Abs. 1 lautet:
+„(1) Bei einer internen Evaluierung gemäß § 11 WFA-GV sind die tatsächlichen finanziellen Auswirkungen von Regelungsvorhaben und Vorhaben gemäß § 58 Abs. 2 BHG 2013 zu ermitteln und mit den Annahmen der Abschätzung der finanziellen Auswirkungen in der wirkungsorientierten Folgenabschätzung zu vergleichen.“
+2. Dem § 15 wird folgender Abs. 4 angefügt:
+„(4) § 13 Abs. 1 sowie die Anlagen 2 und 3 in der Fassung der Verordnung BGBl. II Nr. 329/2026 treten mit dem der Kundmachung folgenden Tag in Kraft.“
+3. Die Anlagen 2 und 3 lauten:
+„
+Anlage 2
+Folgende Werte sind für die Valorisierung des Personalaufwands heranzuziehen:
+Valorisierung des Personalaufwands
+Jahr
+2026
+2027
+2028
+2029
+2030
+≥ 2031
+Wert
+1,02
+1,02
+1,02
+1,02
+1,02
+1,02
+Folgende Werte sind für die Berechnung des Personalaufwands heranzuziehen:
+Durchschnittlicher Personalaufwand 2025
+in € pro Jahr – ohne kalkulatorische Zuschläge
+Normstunden-
+KLR
+Leistungs-stunden
+Aufwand
+satzgruppe
+Bezeichnung
+Verwendungsgruppe / Entlohnungsgruppe
+pro Jahr
+2025
+Allgemeine Verwaltung
+LBVH1
+VD-Höherer Dienst 1
+A1/7, A1/8, A1/9, A1/9/GS
+1.680
+229.688
+LBVH2
+VD-Höherer Dienst 2
+A1/5-A1/6; A1b/5-A1b/6; A: DK VI-VIII; A1 (Finprok)/6 und 8
+1.680
+188.241
+LBVH3
+VD-Höherer Dienst 3
+A1/GL-A1/4; A1B/GL-A1B/4; PF 1/3; A1 (Finprok)/4
+1.680
+151.957
+LBVG1
+VD-Gehob. Dienst 1
+A2/7-A2/8; B: DK VII
+1.680
+131.523
+LBVG2
+VD-Gehob. Dienst 2
+A2/5-A2/6; B: DK V-VI; PF 2/1-2
+1.680
+117.988
+LBVG3
+VD-Gehob. Dienst 3
+A2/GL-A2/4; B: DK IV; PF 2/3 und 3b; PF 3
+1.680
+102.587
+LBVF0
+VD-Fachdienst
+A3; C; P1; PF 4-PF 5
+1.680
+78.649
+LBVS0
+VD-Sonst. Dienste
+A4-A7; D, E; P2-P5; PF 6
+1.680
+56.965
+LVVH1
+VB-VD-Höh. Dienst 1
+v1/5, v1/6, v1/7, v1/7/GS
+1.680
+194.519
+LVVH2
+VB-VD-Höh. Dienst 2
+v1/4
+1.680
+142.289
+LVVH3
+VB-VD-Höh. Dienst 3
+v1/1-v1/3; a
+1.680
+99.830
+LVVG1
+VB-VD-Gehob. Dienst 1
+v2/5-v2/6
+1.680
+97.249
+LVVG2
+VB-VD-Gehob. Dienst 2
+v2/4
+1.680
+80.751
+LVVG3
+VB-VD-Gehob. Dienst 3
+v2/1-v2/3; b
+1.680
+69.581
+LVVF0
+VB-VD-Fachdienst
+v3; c; h1, p1
+1.680
+58.065
+LVVS0
+VB-VD-Sonst. Dienste
+v4-v5, d, e; h2-h5, p2-p5
+1.680
+48.741
+Sonderverträge
+LVAH2
+VB-A-Höh. Dienst 2
+SV 1; RIV-IT Gr. 1 und 2
+1.680
+136.688
+LVAH3
+VB-A-Höh. Dienst 3
+SV 2; RIV-IT Gr. 3
+1.680
+117.167
+LVAG1
+VB-A-Gehob. Dienst 1
+SV 3; RIV-IT Gr. 4
+1.680
+98.139
+LVAG3
+VB-A-Gehob. Dienst 3
+SV 4, SV 5; RIV-IT Gr. 5 und 6
+1.680
+83.211
+LVAF0
+VB-A-Fachdienst
+SV 6, SV 7; RIV-IT Gr. 7 und 8
+1.680
+62.811
+Richterinnen und Richter / Staatsanwältinnen und Staatsanwälte
+LBRH1
+RS-Höherer Dienst 1
+R 3, St 3; R III, Sta III; Richter d. OGH
+1.720
+215.473
+LBRH2
+RS-Höh. Dienst 2
+R 2, St 2; R II, Sta II; Richter d. OLG; Oberstaatsanw.
+1.720
+172.278
+LBRH3
+RS-Höh. Dienst 3
+R 1a, R 1b, R 1c, St 1; Ri I, Sta I; Richter d. BG/GH1; Staatsanw.
+1.720
+142.758
+LSRH3
+S-RS-Höh. Dienst 3
+Richteramtsanw.
+1.680
+67.358
+Lehrpersonen
+LBLH1
+LS-Höh. Dienst 1
+FI1, Lehrer §168-FI1, SI1, Lehrer §168-SI1
+1.680
+161.723
+LBLH2
+LS-Höh. Dienst 2
+L1-Direktor; Hochschullehrpersonen PH1, PH2, PH3
+1.680
+159.045
+LBLH3
+LS-Höh. Dienst 3
+L1/übrige
+1.680
+134.352
+LBLG1
+LS-Gehob. Dienst 1
+SQM; SI2, Lehrer §168-SI2, FI2, Lehrer §168-FI2; L2A2/Direktor
+1.680
+141.257
+LBLG2
+LS-Gehob. Dienst 2
+L2A1, L2A2/übrige
+1.680
+113.907
+LBLG3
+LS-Gehob. Dienst 3
+L2B1
+1.680
+90.468
+LVLH1
+VB-LS-Höh. Dienst 1
+VL §168-FI1 u. §168-SI1
+1.680
+127.342
+LVLH2
+VB-LS-Höh. Dienst 2
+l1-Direktor; Hochschullehrpersonen ph1, ph2, ph3
+1.680
+121.531
+LVLH3
+VB-LS-Höh. Dienst 3
+l1/übrige, LP/PD
+1.680
+99.870
+LVLG2
+VB-LS-Gehob. Dienst 2
+l2a1, l2a2
+1.680
+99.702
+LVLG3
+VB-LS-Gehob. Dienst 3
+l2b1
+1.680
+73.617
+LVLF0
+VB-LS-Fachdienst
+l3
+1.680
+59.272
+Exekutivdienst
+LBEG1
+ED-Gehob. Dienst 1
+E1/7-E1/11
+1.680
+152.865
+LBEG2
+ED-Gehob. Dienst 2
+E1/3-E1/6
+1.680
+133.493
+LBEG3
+ED-Gehob. Dienst 3
+E1/GL-E1/2
+1.680
+102.105
+LBEF0
+ED-Fachdienst
+E2a; W2
+1.680
+94.210
+LBES0
+ED-Sonst. Dienste
+E2b, E2c
+1.680
+78.277
+LVES0
+VB-ED-Sonst. Dienste
+SV/Aspirant, SV/GFP, SV/Greko, SV/Grepo, SV/Objektschutzpolizei
+1.680
+52.545
+Militärdienst
+LBMH1
+MD-Höh. Dienst 1
+M BO 1/7-M BO 1/9; H1: DK IX
+1.720
+224.057
+LBMH2
+MD-Höh. Dienst 2
+M BO 1/5-M BO 1/6; M ZO 1/5-M ZO 1/6; H1: DK V-VIII
+1.720
+194.615
+LBMH3
+MD-Höh. Dienst 3
+M BO 1/GL-M BO 1/4; M ZO 1/GL-M ZO 1/4
+1.720
+162.413
+LBMG1
+MD-Gehob. Dienst 1
+M BO 2/7-M BO 2/9; M ZO 2/7-M ZO 2/9; H2: DK VII-VIII
+1.720
+134.731
+LBMG2
+MD-Gehob. Dienst 2
+M BO 2/5-M BO 2/6; M ZO 2/5-M ZO 2/6; H2: DK V-VI
+1.720
+126.062
+LBMG3
+MD-Gehob. Dienst 3
+M BO 2/GL-M BO 2/4; M ZO 2/GL-M ZO 2/4; M ZO 3/GL-M ZO 3/4
+1.720
+92.681
+LBMF0
+MD-Fachdienst
+M BUO; M ZUO; UO-C; UO-P1
+1.720
+75.554
+LBMS0
+MD-Sonst. Dienste
+M ZCh; UO-D
+1.720
+52.079
+LVMH2
+VB-MD-Höh. Dienst 2
+MD/MP/GL-MD/MP/2
+1.720
+181.381
+LVMF0
+VB-MD-Fachdienst
+VB I/UO-c, VB II/UO-p1, KIOP
+1.720
+72.805
+LVMS0
+VB-MD-Sonst. Dienste
+VB I/UO-d
+1.720
+82.577
+LVMA1
+VB-MD-Militärarzt 1
+SV/MilArzt/Facharzt, SV/MilArzt/2, SV/MilArzt neu/2
+1.720
+225.663
+LVMA2
+VB-MD-Militärarzt 2
+SV/MilArzt/prakt. Arzt und SV/MilArzt übrige
+1.720
+134.257
+Krankenpflegedienst
+LBKG3
+KD-Gehob. Dienst 3
+K 1, K 2
+1.680
+89.783
+LBKF0
+KD-Fachdienst
+K 3, K 4, K 5
+1.680
+82.902
+LBKS0
+KD-Sonst. Dienste
+K 6
+1.680
+54.889
+LVKG3
+VB-KD-Gehob. Dienst 3
+k 1, k 2
+1.680
+85.614
+LVKF0
+VB-KD-Fachdienst
+k 3, k 4, k 5; GK/gk3-gk5
+1.680
+79.508
+LVKS0
+VB-KD-Sonst. Dienst
+k 6
+1.680
+62.054
+Hinweis: Eine Normstundensatzgruppe kann auch andere Einstufungen als die in der Spalte „Verwendungsgruppe / Entlohnungsgruppe“ dargestellten Einstufungen umfassen. Quelle: MIS
+Anlage 3
+Büroflächen-Mieten
+Werte für 2026
+€/m²
+1a-Lage
+1b-Lage
+Nebenlagen
+brauchbarer Zustand
+neuwertiger Zustand
+brauchbarer Zustand
+neuwertiger Zustand
+brauchbarer Zustand
+neuwertiger Zustand
+Wien
+14,38
+17,83
+12,39
+14,86
+10,55
+12,56
+St. Pölten-Stadt
+8,54
+11,83
+7,27
+9,44
+6,47
+7,93
+Graz-Stadt
+12,15
+15,69
+10,18
+12,74
+8,55
+11,27
+Linz-Stadt
+11,73
+14,33
+9,48
+11,18
+7,61
+9,16
+Salzburg-Stadt
+12,68
+18,10
+10,65
+13,16
+8,79
+11,79
+Innsbruck-Stadt
+13,16
+16,22
+10,70
+11,88
+8,89
+9,42
+Klagenfurt-Stadt
+12,00
+13,99
+8,78
+11,20
+6,32
+8,75
+Bregenz
+11,29
+14,15
+8,30
+10,38
+6,29
+7,54
+Eisenstadt-Stadt
+11,41
+12,90
+10,00
+11,94
+8,64
+10,30
+Durchschnitt
+11,93
+15,00
+9,75
+11,86
+8,01
+9,86
+1a-Lage
+1b-Lage
+Nebenlagen
+brauchbarer Zustand
+neuwertiger Zustand
+brauchbarer Zustand
+neuwertiger Zustand
+brauchbarer Zustand
+neuwertiger Zustand
+Wien, 1.Bez.
+19,89
+25,82
+17,29
+22,00
+15,73
+19,04
+Ausland
+s. Wien, 1.Bez.
+s. Wien, 1.Bez.
+s. Wien, 1.Bez.
+s. Wien, 1.Bez.
+s. Wien, 1.Bez.
+s. Wien, 1.Bez.
+Anmerkung: Werte ohne Betriebskosten und Umsatzsteuer
+Quelle: Immobilien-Preisspiegel 2026 der Wirtschaftskammer“
+Marterbauer

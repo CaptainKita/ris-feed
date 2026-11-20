@@ -1,0 +1,80 @@
+{
+ "erzeugt": "2026-11-16T05:30:01+01:00",
+ "fenster": "EinerWoche",
+ "quellen": {
+  "Bundesrecht/BgblAuth": {
+   "neu": 2,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/Begut": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/RegV": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Justiz": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vfgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vwgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Lvwg": {
+   "neu": 1,
+   "abgeschnitten": false
+  }
+ },
+ "fehler": [],
+ "dokumente": [
+  {
+   "id": "BGBLA_2026_II_328",
+   "app": "BgblAuth",
+   "Kurztitel": "Aufhebung des § 1a der Weinbezeichnungsverordnung durch den Verfassungsgerichtshof",
+   "Titel": "Kundmachung des Bundesministers für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft über die Aufhebung des § 1a der Weinbezeichnungsverordnung durch den Verfassungsgerichtshof",
+   "Ausgabedatum": "2026-11-13",
+   "Typ": "Kundmachung",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_II_328/BGBLA_2026_II_328.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_II_328",
+   "text_datei": "voll/2026-11-16/BGBLA_2026_II_328.txt",
+   "zeichen": 1135,
+   "text": "RIS Dokument BUNDESGESETZBLATT\nFÜR DIE REPUBLIK ÖSTERREICH\nJahrgang 2026\nAusgegeben am 13. November 2026\nTeil II\n328. Kundmachung:\nAufhebung des § 1a der Weinbezeichnungsverordnung durch den Verfassungsgerichtshof\n328. Kundmachung des Bundesministers für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft über die Aufhebung des § 1a der Weinbezeichnungsverordnung durch den Verfassungsgerichtshof\nGemäß Art. 139 Abs. 5 erster Satz B-VG und § 59 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85/1953, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 50/2025, wird kundgemacht:\nDer Verfassungsgerichtshof hat mit Erkenntnis vom 5. Oktober 2026, V 56/2024-29, dem Bundesminister für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft zugestellt am 15. Oktober 2026, zu Recht erkannt:\n„§ 1a der Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Bezeichnung von Weinen (Weinbezeichnungsverordnung – WeinBVO), BGBl. II Nr. 111/2011, in der Fassung BGBl. II Nr. 191/2023 wird als gesetzwidrig aufgehoben.“\nTotschnig"
+  },
+  {
+   "id": "BGBLA_2026_II_327",
+   "app": "BgblAuth",
+   "Kurztitel": "Kinderzuschlag-Valorisierungsverordnung 2027",
+   "Titel": "Verordnung des Bundesministers für Finanzen über die Valorisierung des Kinderzuschlags 2027 (Kinderzuschlag-Valorisierungsverordnung 2027 – KiZuValVO 2027)",
+   "Ausgabedatum": "2026-11-13",
+   "Typ": "Verordnung",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_II_327/BGBLA_2026_II_327.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_II_327",
+   "text_datei": "voll/2026-11-16/BGBLA_2026_II_327.txt",
+   "zeichen": 982,
+   "text": "RIS Dokument BUNDESGESETZBLATT\nFÜR DIE REPUBLIK ÖSTERREICH\nJahrgang 2026\nAusgegeben am 13. November 2026\nTeil II\n327. Verordnung:\nKinderzuschlag-Valorisierungsverordnung 2027\n327. Verordnung des Bundesministers für Finanzen über die Valorisierung des Kinderzuschlags 2027 (Kinderzuschlag-Valorisierungsverordnung 2027 – KiZuValVO 2027)\nAuf Grund des § 104 Abs. 4 des Einkommensteuergesetzes 1988 – EStG 1988, BGBl. Nr. 400/1988, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 88/2026, wird verordnet:\n§ 1.\nDer Grenzbetrag gemäß § 104 Abs. 2 Z 2 des Einkommensteuergesetzes 1988 – EStG 1988, BGBl. Nr. 400/1988, betreffend Einkommensteuerbescheide des Kalenderjahres 2026 wird auf Grund des § 108f des Allgemeinen Sozialversicherungsgesetzes – ASVG, BGBl. Nr. 189/1955, statt 26 419,6 Euro mit 27 317,9 Euro festgestellt.\n§ 2.\nFür das Kalenderjahr 2027 wird der Betrag nach § 104 Abs. 3 EStG 1988 auf Grund des § 108f ASVG statt 61,6 Euro mit 63,7 Euro festgestellt.\nMarterbauer"
+  },
+  {
+   "id": "LVWGT_BU_20260916_E_263_07_2025_017_007_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "E 263/07/2025.017/007",
+   "Entscheidungsdatum": "2026-09-16",
+   "Geaendert": "2026-11-13",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Burgenland",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": "UbG §9 Abs3 Z2",
+   "Schlagworte": "Maßnahmenbeschwerde; berechtigte Verbringung in eine psychiatrische Anstalt ohne Bescheinigung; Selbst- und Fremdgefährdung; paranoide Schizophrenie; Unterbringung; Unterbringungsgesetz",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_BU_20260916_E_263_07_2025_017_007_00/LVWGT_BU_20260916_E_263_07_2025_017_007_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_BU_20260916_E_263_07_2025_017_007_00",
+   "text_datei": "voll/2026-11-16/LVWGT_BU_20260916_E_263_07_2025_017_007_00.txt",
+   "zeichen": 49098,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Burgenland\nEntscheidungsdatum\n16.09.2026\nGeschäftszahl\nE 263/07/2025.017/007\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Burgenland erkennt durch seinen Richter Mag. Aminger über die Maßnahmenbeschwerde des Herrn Bf, geb. ***, in ***, ***, wohnhaft, vertreten durch Rechtsanwalt RA in ***, vom 07.11.2025 hinsichtlich seiner am 29.09.2025, gegen 16 Uhr, an der genannten Wohnadresse erfolgten zwangsweisen Verbringung in die Psychiatrische Abteilung des Krankenhauses AA als Akt unmittelbarer verwaltungsbehördlicher Befehls- und Zwangsgewalt durch der Landespolizeidirektion Burgenland zurechenbare Polizeibeamte der Polizeiinspektion BB, nach Durchführung einer öffentlichen mündlichen Verhandlung,\nzu Recht:\nI.\nDie erhobene Maßnahmenbeschwerde wird als unbegründet abgewiesen.\nII.\nGemäß § 35 VwGVG iVm § 1 VwG-AufwErsV hat der Beschwerdeführer dem Bund (Bundesminister für Inneres) die Kosten für den Vorlageaufwand von 57,40 EUR, für den Schriftsatzaufwand von EUR 368,80 sowie für den Verhandlungsaufwand von EUR 461,00 EUR, insgesamt sohin 887,20 EUR binnen zwei Wochen nach Zustellung der schriftlichen Ausfertigung dieses Erkenntnisses bei sonstiger Exekution zu ersetzen.\nIII.\nGegen dieses Erkenntnis ist gemäß § 25a VwGG eine ordentliche Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4 B-VG unzulässig.\nE n t s c h e i d u n g s g r ü n d e\nzu I.\nI. Verfahrensgang:\n1. Beschwerdevorbringen:\n1.1. Mit einer direkt beim La [...]"
+  }
+ ]
+}

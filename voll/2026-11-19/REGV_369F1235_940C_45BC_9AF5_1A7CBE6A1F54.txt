@@ -1,0 +1,678 @@
+RIS Dokument Regierungsvorlage
+Bundesgesetz, mit dem ein Industriestrompreisgesetz erlassen und das Standortabsicherungsgesetz 2025 geändert wird
+Der Nationalrat hat beschlossen:
+Inhaltsverzeichnis
+Artikel 1:
+Bundesgesetz über die Förderung der Stromkosten energieintensiver Industrieunternehmen (Industriestrompreisgesetz – ISPG)
+Artikel 2:
+Änderung des Standortabsicherungsgesetzes 2025
+Artikel 1
+Bundesgesetz über die Förderung der Stromkosten energieintensiver Industrieunternehmen (Industriestrompreisgesetz – ISPG)
+Ziel
+§ 1.
+Ziel dieses Bundesgesetzes ist es, die Planungs- und Investitionssicherheit für energie- und handelsintensive Betriebe zu erhöhen, die internationale Wettbewerbsfähigkeit des Industriestandorts Österreich zu sichern, die Abwanderung von Produktion und Wertschöpfung zu verhindern sowie die Dekarbonisierung der Industrie voranzutreiben.
+Begriffsbestimmungen
+§ 2.
+(1) Für die Zwecke dieses Bundesgesetzes bezeichnet der Ausdruck
+1.
+„Abrechnungsjahr“ das Kalenderjahr in den Jahren 2027 bis 2029, für das die Beihilfe gewährt wird;
+2.
+„Anlage“ eine ortsfeste, technische Einheit, in der Produkte hergestellt werden, die unter einen der in Anlage 1 genannten (Teil-)Sektoren fallen;
+3.
+„Auszahlungsjahr“ das Kalenderjahr, das auf das Abrechnungsjahr folgt;
+4.
+„NACE-Code“ die numerische Bezeichnung einer Tätigkeit gemäß der europäischen Klassifikation der Wirtschaftstätigkeiten;
+5.
+„Referenzpreis“ (in Euro/MWh) den einfachen Durchschnitt der handelstäglichen Settlementpreise für den Terminhandel mit Jahresprodukten (Baseload) des dem Abrechnungsjahr vorangehenden Jahres für die Lieferung im Abrechnungsjahr für das Marktgebiet Österreich an der European Energy Exchange (EEX); der Referenzpreis wird von der Regulierungsbehörde E-Control berechnet und auf deren Website veröffentlicht;
+6.
+„tatsächliche Produktionsleistung“ (in Tonnen pro Jahr) die nachträglich im Jahr t+1 bestimmte tatsächliche Produktionsleistung der Anlage im Jahr t;
+7.
+„tatsächlicher Stromverbrauch“ (in MWh) den nachträglich im Jahr t+1 bestimmten tatsächlichen Stromverbrauch der Anlage im Jahr t, unabhängig von der Erzeugungsquelle und der Art des Bezugs; nicht selbstverbrauchte oder an Dritte weitergeleitete Strommengen sind nicht berücksichtigungsfähig;
+8.
+„Unternehmen“ jede eine wirtschaftliche Tätigkeit ausübende Einheit, unabhängig von ihrer Rechtsform und Art ihrer Finanzierung, mit Sitz im Europäischen Wirtschaftsraum;
+9.
+„Zielpreis“ (in Euro/MWh) jenen fiktiven Strompreis, bis zu dem der tatsächliche Stromverbrauch eines Unternehmens entlastet wird.
+(2) Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze ohne Bezugnahme auf eine bestimmte Fassung verwiesen wird, sind diese Bestimmungen in ihrer jeweils geltenden Fassung anzuwenden.
+Fördergegenstand; Art und Höhe
+§ 3.
+(1) Zur Erreichung des Ziels dieses Bundesgesetzes werden die Kosten des tatsächlichen Stromverbrauchs von förderwerbenden Unternehmen für Anlagen auf dem Gebiet der Republik Österreich gefördert.
+(2) Die Förderung gemäß Abs. 1 erfolgt durch Gewährung von direkten Zuschüssen. Die Förderung umfasst einen Ausgleich der Stromkosten für die Kalenderjahre 2027, 2028 und 2029. Sie beträgt 50% des Referenzpreises für 50% des tatsächlichen Stromverbrauchs („Basis-Beihilfebetrag“). Der Zielpreis darf 50 Euro/MWh nicht unterschreiten.
+(3) Eine zusätzliche Förderung in Höhe von 10% des Basis-Beihilfebetrags kann gewährt werden, wenn mindestens 80% des Gesamtinvestitionsbetrags für Investitionen zur Erhöhung der Nachfrageflexibilität, einschließlich nichtfossiler Reserveversorgung, ausgegeben werden („Flexibilitäts-Bonus“). Zusätzlich müssen hierzu 75% des zusätzlich gewährten Flexibilitäts-Bonus ebenfalls in entsprechende Maßnahmen investiert werden.
+(4) Die Höhe der Förderung eines förderwerbenden Unternehmens ist für jedes Kalenderjahr im darauffolgenden Kalenderjahr anhand der Formeln in Anlage 2 zu berechnen.
+(5) Die Gewährung der Förderung steht unter dem Vorbehalt der Verfügbarkeit der erforderlichen Budgetmittel im jeweiligen Auszahlungsjahr. Soweit nicht genügend Mittel zur Verfügung stehen, um sämtliche dem Grunde nach zu gewährende Förderungen auszahlen zu können, werden sämtliche Förderungen quotal gekürzt. Die Quote errechnet sich aus dem Verhältnis der zur Verfügung stehenden Budgetmittel und der Summe der dem Grunde nach zu gewährenden Billigkeitsleistungen zum Zeitpunkt des Ablaufs der Frist für das Ansuchen auf Förderung.
+(6) Die Kombination einer Beihilfe mit einer Beihilfe aus dem Standortabsicherungsgesetz 2025 (SAG 2025), BGBl. I Nr. 67/2025, ist für dieselbe Anlage nicht zulässig. Sonstige Beihilfen in Bezug auf dieselben beihilfefähigen Kosten, die sich teilweise oder vollständig überschneiden, können mit anderen staatlichen Beihilfen oder De-minimis-Beihilfen kumuliert oder mit zentral verwalteten EU-Mitteln kombiniert werden, sofern diese Kumulierung nicht dazu führt, dass die Beihilfe die nach den betreffenden Bedingungen anwendbare Beihilfehöchstintensität oder den nach den betreffenden Bedingungen anwendbaren Beihilfehöchstbetrag übersteigt.
+(7) Leistungen, die ein förderwerbendes Unternehmen aus dem Strompreiskrisenmechanismus-Gesetz (SPKMG) BGBl. I Nr. XX, für den tatsächlichen Stromverbrauch einer Anlage erhalten hat, sind nach der Berechnung der Höhe der Förderung gemäß Anlage 2 in Abzug zu bringen.
+Förderwerbende Unternehmen
+§ 4.
+(1) Ansuchen auf Förderung nach diesem Bundesgesetz können von Unternehmen gestellt werden, die im Abrechnungsjahr in einer oder mehreren Anlagen Produkte in den in Anlage 1 genannten (Teil-)Sektoren herstellen.
+(2) Unternehmen, deren tatsächlicher Stromverbrauch im Abrechnungsjahr unter 1 GWh liegt, sind nicht förderberechtigt.
+(3) Eine Förderung nach diesem Bundesgesetz ist nicht zu gewähren, wenn
+1.
+das förderwerbende Unternehmen ein Unternehmen in Schwierigkeiten gemäß Punkt 2.2 des Anhangs der Mitteilung über Leitlinien für staatliche Beihilfen zur Rettung und Umstrukturierung nichtfinanzieller Unternehmen in Schwierigkeiten, ABl. Nr. C 249 vom 31.07.2014 S 1, ist oder
+2.
+das förderwerbende Unternehmen einer Rückforderungsanordnung aufgrund einer früheren Entscheidung der Europäischen Kommission zur Feststellung der Rechtswidrigkeit und Unvereinbarkeit mit dem Gemeinsamen Markt nicht Folge geleistet hat.
+(4) Der Bundesminister für Wirtschaft, Energie und Tourismus kann im Einvernehmen mit dem Bundesminister für Finanzen die Liste der begünstigten (Teil-)Sektoren auf der Grundlage der jeweils maßgeblichen beihilfenrechtlichen Vorgaben mit Verordnung erweitern oder einschränken.
+Abwicklungsstelle; Ansuchen und Fristen
+§ 5.
+(1) Mit der Abwicklung der Förderungen wird die Austria Wirtschaftsservice GmbH (aws) betraut.
+(2) Ansuchen auf Förderung sind für die Abrechnungsjahre 2027, 2028 und 2029 zwischen 1. Jänner und 30. Juni des darauffolgenden Kalenderjahres elektronisch bei der Abwicklungsstelle einzubringen.
+(3) Abweichend von Abs. 2 sind für den Fall, dass die beihilferechtliche Genehmigung durch die Europäische Kommission bis zum 1. Jänner 2028 nicht vorliegt, Ansuchen auf Förderung für das Abrechnungsjahr 2027 innerhalb von sechs Monaten ab Vorliegen der beihilferechtlichen Genehmigung einzureichen. Ansuchen auf Förderung für das Abrechnungsjahr 2027 sind jedenfalls bis zum 30. September 2028 einzureichen; sofern die beihilferechtliche Genehmigung durch die Europäische Kommission nach dem 1. April 2028 erfolgt, verkürzt sich die im ersten Satz festgelegte Frist entsprechend. Die beihilferechtliche Genehmigung ist auf der Website des Bundesministeriums für Wirtschaft, Energie und Tourismus kundzumachen.
+(4) Ein Ansuchen auf Förderung nach diesem Bundesgesetz ist unzulässig, wenn zum Zeitpunkt der Prüfung durch die Abwicklungsstelle ein Ansuchen auf Förderung gemäß SAG 2025 für dieselbe Anlage vorliegt.
+Fördervoraussetzungen
+§ 6.
+(1) Die Gewährung einer Förderung nach diesem Bundesgesetz setzt voraus, dass
+1.
+den Anforderungen der Förderrichtlinien (§ 9) entsprochen wird,
+2.
+das förderwerbende Unternehmen sich dazu verpflichtet, in neue oder modernisierte Anlagen oder Maßnahmen gemäß Abs. 2 zu investieren, die einen messbaren Beitrag zur Senkung der Kosten des Stromsystems leisten, ohne den Verbrauch fossiler Brennstoffe zu erhöhen.
+(2) Förderfähige Investitionstätigkeiten und -maßnahmen gemäß Abs. 1 Z 2 sind:
+1.
+Investitionen in Kapazitäten zur Erzeugung erneuerbarer Energie,
+2.
+Energiespeicherlösungen;
+3.
+Maßnahmen zur Erhöhung der nachfrageseitigen Flexibilität;
+4.
+der Einsatz von Elektrolyseuren für die Erzeugung von erneuerbarem Wasserstoff;
+5.
+auf Elektrifizierung ausgerichtete Investitionen;
+6.
+Energieinfrastrukturmodernisierungen oder -erweiterungen, wie Netzanschlüsse, etwa die Erneuerung von betriebs- oder anlageninternen Verteilernetzen;
+7.
+Kosten für die Integration von Strom aus neuen oder modernisierten erneuerbaren Erzeugungsanlagen sowie die Zahlung von Netzanschlussentgelten, etwa zur Erweiterung der Anschlusskapazität;
+8.
+Kosten aus dem Strombezug durch neu abgeschlossene Power Purchase Agreements (PPA), auch unter Durchführung durch Dritte, soweit diese neue oder modernisierte Erneuerbare Erzeugungsanlagen finanzieren;
+9.
+Investitionen zur Effizienzsteigerung in industriellen Prozessen, die in Energieaudits identifiziert wurden;
+10.
+Einführung oder Erweiterung von Energiemanagementsystemen, soweit keine rechtliche Verpflichtung hierzu besteht;
+11.
+Maßnahmen zur Nutzung oder Aufwertung und Verstromung industrieller Abwärme;
+12.
+Maßnahmen zur Kreislaufführung technischer Gase, Rohstoffe und Prozessmedien.
+Maßnahmen, die nicht von den hier aufgeführten Beispielen abgedeckt sind, sind als förderfähige Investitionstätigkeiten zulässig, wenn sie hinsichtlich ihres messbaren Beitrags zur Senkung der Kosten des Stromsystems mit den aufgeführten Beispielen vergleichbar sind, ohne den Verbrauch fossiler Brennstoffe in die Höhe zu treiben. Der Nachweis obliegt dem Förderwerber.
+Für Investitionstätigkeiten und -maßnahmen gemäß Abs. 1 Z 2 darf keine andere Förderung in Anspruch genommen werden. Die Investitionsmaßnahmen müssen auf dem Gebiet der Republik Österreich getätigt werden. Die Investitionsmaßnahmen können vom förderwerbenden Unternehmen oder von Dritten umgesetzt werden. Das förderwerbende Unternehmen ist in beiden Fällen für die wirksame Umsetzung der Investitionsmaßnahme verantwortlich.
+(3) Der Investitionsumfang für Maßnahmen gemäß Abs. 1 Z 2 muss mindestens 50% des gewährten Förderbetrages entsprechen. Die getätigten Investitionen und die Effekte der Maßnahmen gemäß Abs. 1 Z 2 sind durch geeignete Nachweise darzulegen.
+(4) Die Investitionsmaßnahmen gemäß Abs. 1 Z 2 dürfen nicht vor dem 1. Jänner 2026 umgesetzt werden und müssen innerhalb von 48 Monaten nach Gewährung der Förderung in Betrieb genommen werden. Sofern das förderwerbende Unternehmen nachweisen kann, dass die Inbetriebnahme aus Gründen, die nicht in seinem Einflussbereich liegen, nicht innerhalb von 48 Monaten erfolgen konnte, verlängert sich die Frist um die Dauer der nachweislichen Verzögerung.
+(5) Eine Aufteilung der Investitionssumme zur Erfüllung der Fördervoraussetzungen auf mehrere Abrechnungsjahre ist zulässig, sofern die in Abs. 4 festgelegte Umsetzungsfrist eingehalten wird.
+(6) Eine Anrechnung derselben Investitionstätigkeiten und -maßnahmen gemäß Abs. 1 Z 2 als Investitionstätigkeit und -maßnahme im Sinne dieses Bundesgesetzes und als Dekarbonisierungsmaßnahme gemäß § 6 Abs. 1 Z 3 SAG 2025 ist ausgeschlossen. Eine anteilige Aufteilung der Investitionssumme solcher Maßnahmen auf mehrere Anlagen ist unter Berücksichtigung der Voraussetzungen gemäß Abs. 1, 2, 3, 4 und 5 zulässig.
+Vergabe und Abschluss von Förderverträgen
+§ 7.
+(1) Die Ansuchen auf Förderung sind gemäß den jeweiligen Bestimmungen dieses Bundesgesetzes und den Förderrichtlinien (§ 9) von der Abwicklungsstelle zu prüfen. Vom förderwerbenden Unternehmen ist in jenen Fällen, in denen die Abwicklungsstelle eine vom Ansuchen auf Förderung abweichende Förderhöhe errechnet, eine ergänzende Stellungnahme zu dieser Berechnung einzuholen; dies gilt nicht, wenn die Abweichung infolge der Aliquotierung gemäß § 3 Abs. 5 zu erfolgen hat.
+(2) Der Bundesminister für Wirtschaft, Energie und Tourismus entscheidet über das Ansuchen auf Förderung.
+(3) Auf Anfrage sind dem förderwerbenden Unternehmen die der Beurteilung des Ansuchens auf Förderung zugrunde gelegten Unterlagen bekanntzugeben.
+(4) Bei Ablehnung ist das förderwerbende Unternehmen von der Abwicklungsstelle unter Angabe der für die Entscheidung maßgeblichen Gründe zu verständigen, sofern das förderwerbende Unternehmen dies schriftlich einfordert.
+(5) Auf der Grundlage einer positiven Förderentscheidung wird die Förderung in Form einer schriftlichen Zusicherung durch die Abwicklungsstelle im Namen und auf Rechnung des Bundes. Durch die vorbehaltlose Annahme der Zusicherung kommt der Fördervertrag zustande. Im Fördervertrag sind Bedingungen, Auflagen und Vorbehalte aufzunehmen, die insbesondere der Einhaltung der Ziele dieses Bundesgesetzes dienen.
+(6) Die Inhalte der Förderverträge sind vom Bundesminister für Wirtschaft, Energie und Tourismus festzulegen.
+Einstellung und Rückforderung der Förderung
+§ 8.
+(1) In den Förderrichtlinien (§ 9) sind die Gründe und Regelungen für die Einstellung und Rückforderung der Förderung festzulegen. Die Einstellung oder Rückforderung der Förderung ist jedenfalls für den Fall vorzusehen, dass dies von Organen der Europäischen Union verlangt wird.
+(2) Bei Vorliegen eines Rückforderungsfalles sind die zurückzuzahlenden Beträge vom Tag der Auszahlung an mit 4% pro Jahr unter Anwendung der Zinseszinsmethode zu vereinbaren. Liegt dieser Zinssatz unter dem von der Europäischen Union für Rückforderungen festgelegten Zinssatz, ist der von der Europäischen Union festgelegte heranzuziehen. Für den Fall eines Verzuges bei der Rückzahlung der Förderung sind Verzugszinsen zu vereinbaren. Diese sind mit 9,2 Prozentpunkten über dem jeweils geltenden Basiszinssatz pro Jahr ab Eintritt des Verzuges festzulegen. Der Basiszinssatz, der am ersten Kalendertag eines Halbjahres gilt, ist für das jeweilige Halbjahr maßgebend.
+Förderrichtlinien
+§ 9.
+(1) Der Bundesminister für Wirtschaft, Energie und Tourismus hat im Einvernehmen mit dem Bundesminister für Finanzen Richtlinien für die näheren Bestimmungen zur Gewährung und Abwicklung der Förderungen zu erlassen.
+(2) Die Förderrichtlinien haben insbesondere weiterführende Regelungen
+1.
+zur Durchführung, den Zeitpunkten und Methoden von Zahlungen,
+2.
+zum Verfahren,
+3.
+zu den Voraussetzungen für den Erhalt der Förderung,
+4.
+zu den Rechten und Pflichten der Fördernehmer,
+5.
+zu Störungen in der Vertragsabwicklung, Haftung und Rückabwicklung,
+6.
+den Gründen der Einstellung und Rückforderung von Förderungen sowie
+7.
+zu den Aufzeichnungs- und Nachweisverpflichtungen
+zu enthalten.
+Mittelaufbringung
+§ 10.
+(1) Für Förderungen nach diesem Bundesgesetz und dem Standortabsicherungsgesetz, BGBl. I Nr. 67/2025, stehen in Summe Fördermittel im Ausmaß von 250 Millionen Euro jährlich für die Jahre 2027, 2028 und 2029 zur Verfügung.
+(2) Sofern die Mittel für die Auszahlungsjahre 2028, 2029 und 2030 nicht zur Gänze abgerufen werden, können diese für die Zwecke des SAG 2025 für dieselben Auszahlungsjahre verwendet werden.
+Berichterstattung
+§ 11.
+(1) Der Bundesminister für Wirtschaft, Energie und Tourismus hat jährlich einen Bericht über die im Rahmen von § 6 Abs. 1 Z 2 geplanten und umgesetzten Investitionsmaßnahmen zu veröffentlichen.
+(2) Die für den Bericht gemäß Abs. 1 maßgeblichen Daten sind der Abwicklungsstelle ab deren Vorliegen schnellstmöglich von den Unternehmen, denen eine Förderung gewährt wurde, zur Verfügung zu stellen.
+(3) Die Abwicklungsstelle hat für alle Einzelförderungen gemäß diesem Bundesgesetz detaillierte Aufzeichnungen zu führen. Die Aufzeichnungen müssen alle Informationen enthalten, die erforderlich sind, um feststellen zu können, dass die Fördervoraussetzungen gemäß § 6 erfüllt sind und die zulässige Förderobergrenze eingehalten ist. Die Aufzeichnungen müssen ab dem Tag, an dem die Förderung gewährt wurde, zehn Jahre lang aufbewahrt und auf Anfrage vorgelegt werden. Die Aufzeichnungen können auch digital verwahrt und vorgelegt werden. Die vom Unternehmen gemäß § 6 gesetzten Energieeffizienzmaßnahmen sind von der Abwicklungsstelle an die Regulierungsbehörde E-Control zu melden.
+(4) Der Bericht gemäß Abs. 1 ist dem Nationalrat zur Kenntnis zu bringen.
+Auskunftspflicht
+§ 12.
+Förderwerbende Unternehmen nach diesem Bundesgesetz sind verpflichtet, dem Bundesminister für Wirtschaft, Energie und Tourismus und der Abwicklungsstelle sowie sonstigen zuständigen Behörden auf Anfrage Einsicht in alle für die Abwicklung der Förderung relevanten Unterlagen und Aufzeichnungen zu gewähren sowie Auskünfte über alle den jeweiligen Vollzugsbereich betreffenden Sachverhalte zur Erfüllung der Aufgaben nach diesem Bundesgesetz, zu erteilen. Diese Pflicht zur Duldung der Einsichtnahme und Erteilung der Auskunft besteht ohne konkreten Anlassfall auch dann, wenn diese Unterlagen oder Auskünfte zur Klärung oder zur Vorbereitung der Klärung entscheidungsrelevanter Sachverhalte in künftig durchzuführenden Verfahren erforderlich sind.
+Vollziehung
+§ 13.
+Mit der Vollziehung dieses Bundesgesetzes ist
+1.
+hinsichtlich des § 9 Abs. 1 und der Anlage 1 der Bundesminister für Wirtschaft, Energie und Tourismus im Einvernehmen mit dem Bundesminister für Finanzen;
+2.
+im Übrigen der Bundesminister für Wirtschaft, Energie und Tourismus
+betraut.
+Inkrafttreten
+§ 14.
+Dieses Bundesgesetz tritt mit dem der Kundmachung folgenden Tag in Kraft.
+Anlage 1 Förderfähige (Teil-)Sektoren
+Nr.
+ÖNACE-Code
+Beschreibung
+1.
+05.10
+Steinkohlenbergbau
+2.
+06.20
+Gewinnung von Erdgas
+3.
+07.10
+Eisenerzbergbau
+4.
+07.29
+Sonstiger NE-Metallerzbergbau
+5.
+08.11
+Gewinnung von Naturwerksteinen und Natursteinen, Kalk- und Gipsstein, Kreide und Schiefer
+6.
+08.91
+Bergbau auf chemische und Düngemittelminerale
+7.
+08.93
+Gewinnung von Salz
+8.
+08.99
+Gewinnung von Steinen und Erden a. n. g.
+9.
+10.20
+Fischverarbeitung
+10.
+10.31
+Kartoffelverarbeitung
+11.
+10.32
+Herstellung von Frucht- und Gemüsesäften
+12.
+10.39
+Sonstige Verarbeitung von Obst und Gemüse
+13.
+10.41
+Herstellung von Ölen und Fetten (ohne Margarine und ähnliche Nahrungsfette)
+14.
+10.62
+Herstellung von Stärke und Stärkeerzeugnissen
+15.
+10.81
+Herstellung von Zucker
+16.
+10.86
+Herstellung von homogenisierten und diätetischen Nahrungsmitteln, dies umfasst auch die Herstellung von glutenfreien Mahl- und Schälmühlenprodukten (nach ÖNACE 2025 der Klasse 10.61 zugeordnet), die Herstellung von glutenfreien Stärkeerzeugnissen (nach ÖNACE 2025 der Klasse 10.62 zugeordnet), die Herstellung von glutenfreien Schwarz- und Weißbackwaren (nach ÖNACE 2025 der Unterklasse 10.71-1 zugeordnet), die Herstellung von glutenfreien Zuckerbäcker- und Konditorwaren (nach ÖNACE 2025 der Unterklasse 10.71-2 zugeordnet), die Herstellung von glutenfreien Dauerbackwaren (nach ÖNACE 2025 der Klasse 10.73 zugeordnet), sowie die Herstellung von glutenfreien Teigwaren (nach ÖNACE 2025 der Klasse 10.73 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 10.86 zuzuordnen waren
+17.
+11.04
+Herstellung von Wermutwein und sonstigen aromatisierten Weinen
+18.
+11.06
+Herstellung von Malz
+19.
+13.10
+Spinnstoffaufbereitung und Spinnerei
+20.
+13.20
+Weberei, dies umfasst auch die Herstellung von Geweben aus Glasfasern (nach ÖNACE 2025 der Klasse 13.96 zugeordnet) sowie die Herstellung von gewebten Kohlenstofffäden (nach ÖNACE 2025 der Klasse 23.99 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 13.20 zuzuordnen waren
+21.
+13.30
+Veredlung von Textilien und Bekleidung
+22.
+13.91
+Herstellung von gewirktem und gestricktem Stoff
+23.
+13.93
+Herstellung von Teppichen
+24.
+13.94
+Herstellung von Seilerwaren
+25.
+13.95
+Herstellung von Vliesstoff und Erzeugnissen daraus (ohne Bekleidung)
+26.
+13.96
+Herstellung von technischen Textilien
+27.
+14.24
+Herstellung von Lederbekleidung, dies umfasst ausschließlich die Herstellung von Lederbekleidung, sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 14.11 zuzuordnen war
+28.
+14.10
+Herstellung von Strumpfwaren, dies umfasst ausschließlich die Herstellung von Strumpfwaren, sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 14.31 zuzuordnen war
+29.
+15.11
+Herstellung von Leder und Lederfaserstoff; Zurichtung und Färben von Fellen
+30.
+16.11
+Säge-, und Hobelwerke, dies umfasst auch die Imprägnierung, Bearbeitung und Veredlung von Holz (nach ÖNACE 2025 der Klasse 16.12 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 16.10 zuzuordnen waren
+31.
+16.21
+Herstellung von Furnier-, Sperrholz-, Holzfaser- und Holzspanplatten, dies umfasst auch die Veredlung von Holzwaren (nach ÖNACE 2025 der Klasse 16.27 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 16.21 zuzuordnen waren
+32.
+16.22
+Herstellung von Parketttafeln, dies umfasst auch die Veredlung von Holzwaren (nach ÖNACE 2025 der Klasse 16.27 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 16.22 zuzuordnen waren
+33.
+16.29
+Herstellung von Holzwaren a. n. g., Kork-, Flecht- und Korbwaren (ohne Möbel), dies umfasst auch die Herstellung von Schuhteilen aus Holz (nach ÖNACE 2025 der Klasse 15.20 zugeordnet), die Herstellung von festen Brennstoffen aus pflanzlicher Biomasse (nach ÖNACE 2025 der Klasse 16.26 zugeordnet), die Veredlung von Holzwaren (nach ÖNACE 2025 der Klasse 16.27 zugeordnet), sowie die Herstellung von sonstigen Holzwaren sowie Kork-, Flecht- und Korbwaren ohne Veredlung von Holzwaren, ohne Herstellung von Möbel, Schuhteilen aus Holz, festen Brennstoffen aus pflanzlicher Biomasse (nach ÖNACE 2025 der Klasse 16.28 zugeordnet),sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 16.29 zuzuordnen waren
+34.
+17.11
+Herstellung von Holz- und Zellstoff
+35.
+17.12
+Herstellung von Papier, Karton und Pappe
+36.
+17.22
+Herstellung von Haushalts-, Hygiene- und Toilettenartikeln aus Zellstoff, Papier und Pappe
+37.
+17.24
+Herstellung von Tapeten
+38.
+20.11
+Herstellung von Industriegasen
+39.
+20.12
+Herstellung von Farbstoffen und Pigmenten
+40.
+20.13
+Herstellung von sonstigen anorganischen Grundstoffen und Chemikalien
+41.
+20.14
+Herstellung von sonstigen organischen Grundstoffen und Chemikalien
+42.
+20.15
+Herstellung von Düngemitteln und Stickstoffverbindungen
+43.
+20.16
+Herstellung von Kunststoffen in Primärformen
+44.
+20.17
+Herstellung von synthetischem Kautschuk in Primärformen
+45.
+20.51
+Herstellung von flüssigen Biokraftstoffen
+46.
+20.59
+Herstellung von sonstigen chemischen Erzeugnissen a. n. g., dies umfasst auch die Herstellung und Wiederbefüllen von Druckerpatronen (nach ÖNACE 2025 der Klasse 26.20 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 20.59 zuzuordnen war
+47.
+20.60
+Herstellung von Chemiefasern
+48.
+21.10
+Herstellung von pharmazeutischen Grundstoffen
+49.
+22.11
+Herstellung und Runderneuerung von Bereifungen
+50.
+22.12
+Herstellung von sonstigen Gummiwaren. dies umfasst auch die Herstellung von Schuhteilen aus Gummi (nach ÖNACE 2025 der Klasse 15.20 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 22.19 zuzuordnen war
+51.
+22.21
+Herstellung von Platten, Folien, Schläuchen und Profilen aus Kunststoffen, dies umfasst auch die Bearbeitung und Veredlung von Kunststoffwaren (nach ÖNACE 2025 der Klasse 22.25 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 22.21 zuzuordnen waren
+52.
+22.22
+Herstellung von Verpackungsmitteln aus Kunststoffen, dies umfasst auch die Bearbeitung und Veredlung von Kunststoffwaren (nach ÖNACE 2025 der Klasse 22.25 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 22.22 zuzuordnen waren
+53.
+22.26
+Herstellung von sonstigen Kunststoffwaren, dies umfasst auch die Bearbeitung und Veredlung von Kunststoffwaren einschließlich Metallbeschichtung von Kunststoffen (nach ÖNACE 2025 der Klasse 22.25 zugeordnet), die Herstellung von Kunstrasen (nach ÖNACE 2025 der Klasse 13.93 zugeordnet), Herstellung von Schuhteilen aus Kunststoff (nach ÖNACE 2025 der Unterklasse 15.20 zugeordnet), sowie Folien aus Kunststoffen, selbstklebend (nach ÖNACE 2025 der Klasse 22.21 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 22.29-1 oder 22.29-2 zuzuordnen waren
+54.
+23.11
+Herstellung von Flachglas
+55.
+23.12
+Veredlung und Bearbeitung von Flachglas, dies umfasst auch die Herstellung von Rückspiegeln für Fahrzeuge (nach ÖNACE 2025 der Klasse 29.32 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 23.12 zuzuordnen war
+56.
+23.13
+Herstellung von Hohlglas
+57.
+23.14
+Herstellung von Glasfasern und Waren daraus
+58.
+23.15
+Herstellung, Veredlung und Bearbeitung von sonstigem Glas einschließlich technischen Glaswaren
+59.
+23.20
+Herstellung von feuerfesten keramischen Werkstoffen und Waren
+60.
+23.31
+Herstellung von keramischen Wand- und Bodenfliesen und -platten
+61.
+23.42
+Herstellung von Sanitärkeramik, dies umfasst auch die Herstellung von Möbeln aus Keramik (nach ÖNACE 2025 der Klasse 31.00 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 23.42 zuzuordnen war
+62.
+23.43
+Herstellung von Isolatoren und Isolierteilen aus Keramik
+63.
+23.44
+Herstellung von keramischen Erzeugnissen für sonstige technische Zwecke
+64.
+23.45
+Herstellung von sonstigen keramischen Erzeugnissen
+65.
+23.51
+Herstellung von Zement
+66.
+23.91
+Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage
+67.
+23.99
+Herstellung von sonstigen Erzeugnissen aus nichtmetallischen Mineralien a. n. g.
+68.
+24.10
+Erzeugung von Roheisen, Stahl und Ferrolegierungen
+69.
+24.20
+Herstellung von Stahlrohren, Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Stahl
+70.
+24.31
+Herstellung von Blankstahl
+71.
+24.32
+Herstellung von Kaltband mit einer Breite von weniger als 600 mm
+72.
+24.34
+Herstellung von kaltgezogenem Draht
+73.
+24.42
+Erzeugung und erste Bearbeitung von Aluminium
+74.
+24.43
+Erzeugung und erste Bearbeitung von Blei, Zink und Zinn
+75.
+24.44
+Erzeugung und erste Bearbeitung von Kupfer
+76.
+24.45
+Erzeugung und erste Bearbeitung von sonstigen NE-Metallen
+77.
+24.46
+Aufbereitung von Kernbrennstoffen
+78.
+24.51
+Eisengießereien
+79.
+25.40
+Herstellung von Schmiede-, Press-, Zieh- und Stanzteilen, gewalzten Ringen und pulvermetallurgischen Erzeugnissen
+80.
+25.51
+Beschichten von Metallen
+81.
+25.52
+Wärmebehandlung von Metallen
+82.
+25.53
+Metallbearbeitung a.n.g., dies umfasst ausschließlich das Entgraten, Sandstrahlen, Trommeln, Polieren und Gravieren von Metallen, sofern es nach der Klassifikation ÖNACE 2008 dem Sektor 25.61 zuzuordnen war
+83.
+25.61
+Herstellung von Schneidwaren und Bestecken aus unedlen Metallen
+84.
+25.93
+Herstellung von Drahtwaren, Ketten und Federn
+85.
+25.94
+Herstellung von Schrauben und Nieten
+86.
+26.11
+Herstellung von elektronischen Bauelementen
+87.
+27.20
+Herstellung von Batterien und Akkumulatoren
+88.
+27.31
+Herstellung von Glasfaserkabeln
+89.
+27.32
+Herstellung von sonstigen elektronischen und elektrischen Drähten und Kabeln
+90.
+27.90
+Herstellung von sonstigen elektrischen Ausrüstungen und Geräten a. n. g., dies umfasst auch die Herstellung von Minensuchgeräten und Signalgeneratoren (nach ÖNACE 2025 der Klasse 26.51 zugeordnet), die Herstellung von Wechselrichtern, Gleichrichtern, Umformern (nach ÖNACE 2025 der Klasse 27.11 zugeordnet), die Herstellung von Wechselrichtermodulen und Brennstoffzellen für Autos (nach ÖNACE 2025 der Klasse 29.31 zugeordnet) sowie die Herstellung von elektronischen Zigaretten (nach ÖNACE 2025 der Klasse 32.99 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 27.90 zuzuordnen waren
+91.
+28.15
+Herstellung von Lagern, Getrieben, Zahnrädern und Antriebselementen,
+92.
+30.91
+Herstellung von Krafträdern, dies umfasst auch die Herstellung von Elektrofahrrädern (nach ÖNACE 2025 der Klasse 30.92 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 30.91 zuzuordnen war
+93.
+30.99
+Herstellung von sonstigen Fahrzeugen a. n. g.
+Die angeführten Sektoren umfassen ausschließlich die gemäß den beihilfenrechtlichen Grundlagen förderfähigen Sektoren. Die Auflistung wurde unter Wahrung dieser inhaltlichen Übereinstimmung an die aktuelle statistische Systematik angepasst (ÖNACE 2025).
+Weiters gilt:
+Werden in einer Anlage sowohl förderfähige Produkte, dh. Produkte, die unter die in Anlage 1 aufgeführten förderfähigen Sektoren fallen, als auch nichtförderfähige Produkte hergestellt, ist der Förderhöchstbetrag nur für die förderfähigen Produkte zu berechnen.
+Anlage 2 Formeln zur Berechnung der Höhe der Förderung pro Anlage
+Der Gesamtbeihilfebetrag eines Abrechnungsjahres ergibt sich aus der Summe der Basis-Beihilfebeträge für die einzelnen Anlagen des Förderwerbers zuzüglich des Flexibilitäts-Bonus und ist anhand folgender Formel zu berechnen:
+Bmax t = B t + B Zt
+Dabei gilt: B t ist der Basis-Beihilfebetrag der Anlage im Abrechnungsjahr t (in Euro), B Zt ist der Flexibilitäts-Bonus im Abrechnungsjahr t (in Euro). Das Jahr t ist dabei das Jahr, für welches ein Ansuchen auf Förderung gestellt wird (§ 2 Abs. 1 Z 1).
+Der Basis-Beihilfebetrag ist anhand folgender Formel zu berechnen:
+B t = Ai t × P t × C t
+Dabei gilt: Ai t ist die Beihilfeintensität des Basis-Beihilfebetrags für das Abrechnungsjahr t welche 0,5 beträgt (§ 3 Abs. 2), P t ist der anrechenbare Stromverbrauch im Abrechnungsjahr t (in MWh), C t ist der Differenzpreis im Abrechnungsjahr t (Euro/MWh). Er beträgt grundsätzlich 50 % des Referenzpreises, wobei der Zielpreis 50 €/MWh nicht unterschreiten darf.
+Der Flexibilitäts-Bonus ist anhand folgender Formel zu berechnen:
+B Zt = Fi t × B t
+Dabei gilt: Fi t ist die Beihilfeintensität des Flexibilitäts-Bonus für das Abrechnungsjahr t welche 0,1 beträgt (§ 3 Abs. 3), B t ist der Basis-Beihilfebetrag der Anlage im Abrechnungsjahr t (in Euro).
+Artikel 2
+Änderung des Standortabsicherungsgesetzes 2025
+Das Bundesgesetz über die befristete Gewährung von Förderungen zum Ausgleich des Anstiegs der Strompreise infolge der Einbeziehung der Kosten von Treibhausgasemissionen aus dem europäischen Emissionshandel für die Jahre 2025 und 2026 (Standortabsicherungsgesetz 2025 – SAG 2025), BGBl. I Nr. 67/2025, wird wie folgt geändert:
+1. Im Titel wird der Ausdruck „2025 und 2026“ durch den Ausdruck „2025 bis 2029“ ersetzt.
+2. In § 1 wird der Ausdruck „2025 und 2026“ durch den Ausdruck „2025 bis 2029“ ersetzt.
+3. In § 2 Abs. 1 Z 5 wird die Wortfolge „des Jahres vor dem Jahr der Förderungsgewährung“ durch die Wortfolge „des Abrechnungsjahres“ ersetzt.
+4. § 2 Abs. 1 Z 6 lautet:
+„6.
+„CO 2 -Emissionsfaktor“ (in tCO 2 /MWh) den gewichteten Durchschnitt der CO 2 -Intensität von aus fossilen Brennstoffen in verschiedenen geografischen Gebieten erzeugtem Strom. Gemäß der Mitteilung betreffend die Leitlinien für bestimmte Beihilfemaßnahmen im Zusammenhang mit dem System für den Handel mit Treibhausgasemissionszertifikaten nach 2021, ABl. Nr. C 317 vom 25.09.2020 S. 5, in der jeweils geltenden Fassung (nachfolgend „Leitlinien“ genannt), beträgt dieser für die Zone Österreich für das Jahr 2025 0,72 tCO 2 /MWh, für das Jahr 2026 0,642 tCO 2 /MWh und wird für die Jahre 2027 bis 2029 in Anhang 3 festgelegt.“
+5. In § 2 Abs. 1 wird der Punkt am Ende der Z 10 durch einen Strichpunkt ersetzt; folgende Z 11 und Z 12 werden angefügt:
+„11.
+„Abrechnungsjahr“ das Kalenderjahr in den Jahren 2025 bis 2029, für das die Förderung gewährt wird;
+12.
+„Auszahlungsjahr“ das Kalenderjahr, das auf das Abrechnungsjahr folgt.“
+6. Dem § 2 wird folgender Abs. 3 angefügt:
+„(3) Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze ohne Bezugnahme auf eine bestimmte Fassung verwiesen wird, sind diese Bestimmungen in ihrer jeweils geltenden Fassung anzuwenden.“
+7. In § 3 Abs. 2 wird der Ausdruck „2025 und 2026“ durch den Ausdruck „2025 bis 2029“ ersetzt.
+8. In § 3 wird Abs. 4 durch folgende Abs. 4 bis 6 ersetzt:
+„(4) Die Gewährung der Förderung steht unter dem Vorbehalt der Verfügbarkeit der erforderlichen Budgetmittel im jeweiligen Auszahlungsjahr. Soweit nicht genügend Mittel zur Verfügung stehen, um sämtliche dem Grunde nach zu gewährenden Förderungen auszahlen zu können, werden sämtliche Förderungen quotal gekürzt.
+(5) Die Kombination einer Beihilfe mit einer Beihilfe aus dem Industriestrompreisgesetz (ISPG), BGBl. I Nr. XX/XXXX, ist für dieselbe Anlage nicht zulässig. Sonstige Beihilfen in Bezug auf dieselben beihilfefähigen Kosten, die sich teilweise oder vollständig überschneiden, können mit anderen staatlichen Beihilfen oder De-minimis-Beihilfen kumuliert oder mit zentral verwalteten EU-Mitteln kombiniert werden, sofern diese Kumulierung nicht dazu führt, dass die Beihilfe die nach den betreffenden Bedingungen anwendbare Beihilfehöchstintensität oder den nach den betreffenden Bedingungen anwendbaren Beihilfehöchstbetrag übersteigt.
+(6) Leistungen, die ein förderwerbendes Unternehmen aus dem Strompreiskrisenmechanismus-Gesetz (SPKMG), BGBl. I Nr. XX, für den tatsächlichen Stromverbrauch einer Anlage erhalten hat, sind nach der Berechnung der Höhe der Förderung gemäß Anhang 2 in Abzug zu bringen.“
+9. § 4 Abs. 1 lautet:
+„(1) Ansuchen auf Förderung nach diesem Bundesgesetz können von Unternehmen gestellt werden, die
+1.
+im Abrechnungsjahr in einer oder mehreren Anlagen Produkte in den in Anhang 1 genannten Sektoren und Teilsektoren herstellen, oder
+2.
+einem Wirtschaftszweig angehören, der nach einer Entscheidung durch die Europäische Kommission ebenfalls förderberechtigt ist.“
+10. Dem § 4 werden folgende Abs. 3 und 4 angefügt:
+„(3) Eine Förderung nach diesem Bundesgesetz ist nicht zu gewähren, wenn
+1.
+es sich beim förderwerbenden Unternehmen um ein Unternehmen in Schwierigkeiten im Sinne des Punktes 2.2 des Anhangs der Mitteilung über Leitlinien für staatliche Beihilfen zur Rettung und Umstrukturierung nichtfinanzieller Unternehmen in Schwierigkeiten, ABl. Nr. C 249 vom 31.07.2014 S 1, handelt oder
+2.
+das förderwerbende Unternehmen einer Rückforderungsanordnung aufgrund einer früheren Entscheidung der Europäischen Kommission zur Feststellung der Rechtswidrigkeit und Unvereinbarkeit mit dem Gemeinsamen Markt nicht Folge geleistet hat.
+(4) Der Bundesminister für Wirtschaft, Energie und Tourismus kann im Einvernehmen mit dem Bundesminister für Finanzen die Liste der begünstigten Sektoren auf der Grundlage der jeweils maßgeblichen beihilfenrechtlichen Vorgaben mit Verordnung erweitern.“
+11. In § 5 Abs. 2 wird in der Z 1 nach dem Klammerausdruck „(§ 14)“ die Wortfolge „, spätestens bis zum 30. September 2026,“ eingefügt; die Z 2 lautet:
+„2.
+für die Kalenderjahre 2026, 2027, 2028 und 2029 zwischen 1. Jänner und 30. Juni des Auszahlungsjahres elektronisch“
+12. In § 6 Abs. 1 Z 2 wird der Ausdruck „verpflichtet“ durch die Wortfolge „verpflichtet, ein“ ersetzt.
+13. In § 6 Abs. 1 Z 3 lit. b. wird nach dem Wort „Dekarbonisierungsmaßnahmen“ das Wort „oder“ eingefügt; nach lit. b wird folgende lit. c angefügt:
+„c)
+Maßnahmen zur Senkung der Kosten des Stromsystems sowie zur Erhöhung der nachfrageseitigen Flexibilität“
+14. In § 6 Abs. 2 wird der Ausdruck „80%“ durch den Ausdruck „50%“ ersetzt.
+15. In § 6 Abs. 3 wird nach der Wortfolge „gemäß Abs. 1 Z 3 lit. b“ die Wortfolge „und lit. c“ eingefügt und der Ausdruck „80%“ durch den Ausdruck „50%“ ersetzt.
+16. § 6 Abs. 4 lautet:
+„(4) Eine Anrechnung derselben Maßnahmen gemäß Abs. 1 Z 3 als Maßnahme zur Erfüllung der Fördervoraussetzungen im Sinne dieses Bundesgesetzes und als Investitionstätigkeit und -maßnahme gemäß § 6 Abs. 1 Z 2 ISPG ist ausgeschlossen. Eine anteilige Aufteilung der Investitionssumme solcher Maßnahmen auf mehrere Anlagen ist unter Berücksichtigung der Voraussetzungen gemäß Abs. 1 bis 3 zulässig.“
+17. In § 7 Abs. 1 wird die Wortfolge „gemäß § 10“ durch die Wortfolge „§ 3 Abs. 4“ ersetzt.
+18. § 9 Abs. 1 zweiter Satz entfällt.
+19. § 9 Abs. 2 lautet:
+„(2) Die Förderrichtlinien haben insbesondere weiterführende Regelungen
+1.
+zur Durchführung, den Zeitpunkten und Methoden von Zahlungen,
+2.
+zum Verfahren,
+3.
+zu den Voraussetzungen für den Erhalt der Förderung,
+4.
+zu den Rechten und Pflichten der Fördernehmer,
+5.
+zu Störungen in der Vertragsabwicklung, Haftung und Rückabwicklung,
+6.
+den Gründen der Einstellung und Rückforderung von Förderungen sowie
+7.
+zu den Aufzeichnungs- und Nachweisverpflichtungen
+zu enthalten.“
+20. § 10 samt Überschrift lautet:
+„Mittelaufbringung
+§ 10.
+(1) Für die Förderungen nach diesem Bundesgesetz stehen für die Jahre 2025 und 2026 Bundesmittel im Ausmaß von höchstens 75 Millionen Euro per anno zur Verfügung.
+(2) Für Förderungen nach diesem Bundesgesetz und dem Industriestrompreisgesetz, BGBl. I Nr. XX/XXXX, stehen in Summe Fördermittel im Ausmaß von 250 Millionen Euro jährlich für die Jahre 2027, 2028 und 2029 zur Verfügung.
+(3) Sofern die Mittel für die Auszahlungsjahre 2028, 2029 und 2030 nicht zur Gänze abgerufen werden, können diese für die Zwecke des ISPG für dieselben Auszahlungsjahre verwendet werden.“
+21. § 12 Abs. 4 lautet:
+„(4) Der Bericht gemäß Abs. 1 ist dem Nationalrat zur Kenntnis zu bringen.“
+22. Nach § 12 wird folgender § 12a samt Überschrift eingefügt:
+„Auskunftspflicht
+§ 12a.
+Förderwerbende Unternehmen nach diesem Bundesgesetz sind verpflichtet, dem Bundesminister für Wirtschaft, Energie und Tourismus und der Abwicklungsstelle sowie sonstigen zuständigen Behörden auf Anfrage Einsicht in alle für die Abwicklung der Förderung relevanten Unterlagen und Aufzeichnungen zu gewähren sowie Auskünfte über alle den jeweiligen Vollzugsbereich betreffenden Sachverhalte zur Erfüllung der Aufgaben nach diesem Bundesgesetz, zu erteilen. Diese Pflicht zur Duldung der Einsichtnahme und Erteilung der Auskunft besteht ohne konkreten Anlassfall auch dann, wenn diese Unterlagen oder Auskünfte zur Klärung oder zur Vorbereitung der Klärung entscheidungsrelevanter Sachverhalte in künftig durchzuführenden Verfahren erforderlich sind.“
+23. In § 13 Z 1 wird die Wortfolge „erster Satz und des Anhangs 1“ durch die Wortfolge „und des Anhangs 1“ ersetzt.
+24. Dem Text des § 14 wird die Absatzbezeichnung „(1)“ vorangestellt; folgender Abs. 2 wird angefügt:
+„(2) Der Titel, § 1, § 2 Abs. 1 Z 5, 6, 10, 11 und 12, § 2 Abs. 3, § 3 Abs. 2, 4, 5 und 6, § 4 Abs. 1, 3 und 4, § 5 Abs. 2 Z 1 und 2, § 6, § 7 Abs. 1, § 9, § 10 samt Überschrift, § 12 Abs. 4, § 12a samt Überschrift, § 13 Z 1, die Absatzbezeichnung des § 14 Abs. 1 sowie Anhang 2 und 3 in der Fassung des Bundesgesetzes BGBl. I Nr. xx/2026 treten mit dem der Kundmachung folgenden Tag in Kraft. Anhang 1 in der Fassung des genannten Bundesgesetzes tritt mit 1. Jänner 2027 in Kraft; Anträge für das Abrechnungsjahr 2027, für die Anhang 1 in der Fassung des Bundesgesetzes BGBl. I Nr. xx/2026 erstmals zur Anwendung kommt, können nur im Auszahlungsjahr 2028 gestellt werden.“
+25. Die Anhänge 1 und 2 werden durch folgende Anhänge 1 bis 3 ersetzt:
+„Anhang 1
+Sektoren und Teilsektoren, für die angesichts der indirekten CO 2 -Kosten davon ausgegangen wird, dass ein tatsächliches Risiko der Verlagerung von CO 2 -Emissionen besteht
+Nr.
+NACE-Code
+Beschreibung
+1.
+14.24
+Herstellung von Lederbekleidung, dies umfasst ausschließlich die Herstellung von Lederbekleidung, sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 14.11 zuzuordnen war
+2.
+24.42
+Erzeugung und erste Bearbeitung von Aluminium
+3.
+20.13
+Herstellung von sonstigen anorganischen Grundstoffen und Chemikalien
+4.
+24.43
+Erzeugung und erste Bearbeitung von Blei, Zink und Zinn
+5.
+17.11
+Herstellung von Holz- und Zellstoff
+6.
+17.12
+Herstellung von Papier, Karton und Pappe
+7.
+24.10
+Erzeugung von Roheisen, Stahl und Ferrolegierungen
+8.
+24.44
+Erzeugung und erste Bearbeitung von Kupfer
+9.
+24.45
+Erzeugung und erste Bearbeitung von sonstigen NE-Metallen
+10.
+Folgende Teilsektoren innerhalb des Kunststoffsektors (20.16):
+20.16.40.15
+Polyethylenglykole und andere Polyetheralkohole, in Primärformen
+11.
+Alle Produktkategorien im Sektor Eisengießereien (24.51)
+12.
+Folgende Teilsektoren innerhalb des Glasfasersektors (23.14):
+23.14.12.10
+Matten aus Glasfasern
+23.14.12.30
+Vliese aus Glasfasern
+13.
+Folgende Teilsektoren innerhalb des Industriegassektors (20.11):
+20.11.11.50
+Wasserstoff
+20.11.12.90
+Anorganische Sauerstoffverbindungen der Nichtmetalle
+14.
+07.29
+Sonstiger NE-Metallerzbergbau
+15.
+07.10
+Eisenerzbergbau
+16.
+20.17
+Herstellung von synthetischem Kautschuk in Primärformen
+17.
+20.60
+Herstellung von Chemiefasern
+18.
+20.16
+Herstellung von Kunststoffen in Primärformen
+19.
+13.10
+Spinnstoffaufbereitung und Spinnerei
+20.
+23.31
+Herstellung von keramischen Wand- und Bodenfliesen und -platten
+21.
+20.12
+Herstellung von Farbstoffen und Pigmenten
+22.
+13.95
+Herstellung von Vliesstoff und Erzeugnissen daraus (ohne Bekleidung)
+23.
+23.14
+Herstellung von Glasfasern und Waren daraus
+24.
+27.20
+Herstellung von Batterien und Akkumulatoren
+25.
+20.14
+Herstellung von sonstigen organischen Grundstoffen und Chemikalien, dies umfasst auch die Herstellung von von flüssigen Biokraftstoffen (nach ÖNACE 2025 der Klasse 20.51 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 20.14 zuzuordnen war
+26.
+20.15
+Herstellung von Düngemitteln und Stickstoffverbindungen
+27.
+10.41
+Herstellung von Ölen und Fetten (ohne Margarine u. ä. Nahrungsfette)
+28.
+11.06
+Herstellung von Malz
+29.
+16.21
+Herstellung von Furnier-, Sperrholz-, Holzfaser- und Holzspanplatten, dies umfasst auch die Veredlung von Holzwaren (nach ÖNACE 2025 der Klasse 16.27 zugeordnet), sofern sie nach der Klassifikation ÖNACE 2008 dem Sektor 16.21 zuzuordnen waren
+30.
+23.11
+Herstellung von Flachglas
+31.
+23.13
+Herstellung von Hohlglas
+32.
+24.31
+Herstellung von Blankstahl
+33.
+24.34
+Herstellung von kaltgezogenem Draht
+34.
+Der folgende Teilsektor innerhalb des Sektors der sonstigen chemischen Erzeugnisse a. n. g. (20.59):
+20.59.56.70
+Alkylbenzol- und Alkylnaphthalin-Gemische (ohne solche der HS-Positionen 2707 und 2902)
+35.
+Folgender Teilsektor innerhalb des Sektors der sonstigen Erzeugnisse aus nichtmetallischen Mineralien a. n. g. (23.99):
+23.99.19.10
+Hüttenwolle, Steinwolle und ähnliche mineralische Wollen (ohne Glaswolle), auch miteinander gemischt, lose, in Platten oder in Rollen
+Die angeführten Sektoren umfassen ausschließlich die gemäß den beihilfenrechtlichen Grundlagen förderfähigen Sektoren. Die Auflistung wurde unter Wahrung dieser inhaltlichen Übereinstimmung an die aktuelle statistische Systematik angepasst (ÖNACE 2025).
+Anhang 2
+Formeln zur Berechnung der Höhe der Förderung pro Anlage
+Der Förderhöchstbetrag pro Anlage für die Herstellung von Produkten in den in Anhang 1 genannten Sektoren oder Teilsektoren ist anhand folgender Formel zu berechnen:
+1.
+Gilt für die Produkte, die das förderwerbende Unternehmen herstellt, ein Stromverbrauchseffizienzbenchmark (§ 2 Abs. 1 Z 9), so ergibt sich der Förderungsbetrag (Amax t ) pro Anlage (vor einer allfälligen Aliquotierung gemäß § 3 Abs. 4) für die im Jahr t anfallenden Kosten aus folgender Berechnung:
+Amax t = Ai × C t × P t-1 × E t × AO t
+Dabei gilt: Ai ist die Förderintensität, welche 0,75 beträgt (§ 3 Abs. 2), C t ist der gemäß § 2 Abs. 1 Z 6 marktbasierte CO 2 -Emissionsfaktor (tCO 2 /MWh) im Jahr t, P t-1 ist der EUA-Terminpreis im Jahr t-1 (Euro/tCO 2 ), E t ist der anwendbare produktspezifische Stromverbrauchseffizienzbenchmark für das jeweilige Jahr t (§ 2 Abs. 1 Z 9), und AO t ist die tatsächliche Produktionsleistung im Jahr t. Das Jahr t ist dabei das Jahr, für welches ein Ansuchen auf Förderung gestellt wird.
+Für das Abrechnungsjahr 2025 gilt, dass für Produkte in den in Anhang 1 genannten Sektoren oder Teilsektoren, für die in der delegierten Verordnung (EU) 2019/331 zur Festlegung EU-weiter Übergangsvorschriften zur Harmonisierung der kostenlosen Zuteilung von Emissionszertifikaten gemäß Artikel 10a der Richtlinie 2003/87/EG, ABl. Nr. L 59 vom 27.02.2019 S. 8, eine Austauschbarkeit von Brennstoffen und Strom festgelegt wurde, ist der anwendbare produktspezifische Stromverbrauchseffizienzbenchmark von dem Bundesminister für Wirtschaft, Energie und Tourismus unter Berücksichtigung der Festlegungen in der Durchführungsverordnung (EU) Nr. 2021/447 zur Festlegung angepasster Benchmarkwerte für die kostenlose Zuteilung von Emissionszertifikaten für den Zeitraum 2021 – 2025 gemäß Artikel 10a Absatz 2 der Richtlinie 2003/87/EG, ABl. Nr. L 87 vom 15.03.2021 S. 29, festzulegen und im Internet unter der Adresse www.aws.at zu veröffentlichen.
+2.
+Gilt für die Produkte, die das förderwerbende Unternehmen herstellt, kein Stromverbrauchseffizienzbenchmark, so ergibt sich der Förderungsbetrag (Amax t ) pro Anlage (vor einer allfälligen Aliquotierung gemäß § 3 Abs. 4) für die im Jahr t anfallenden Kosten aus folgender Berechnung:
+Amax t = Ai × C t × P t-1 × EF t × AEC t
+Dabei gilt: Ai ist die Förderintensität, welche 0,75 beträgt (§ 3 Abs. 2), C t ist der gemäß § 2 Abs. 1 Z 6 marktbasierte CO 2 -Emissionsfaktor (tCO 2 /MWh) im Jahr t, P t-1 ist der EUA-Terminpreis im Jahr t-1 (Euro/tCO 2 ), EF t ist der Fallback-Stromverbrauchseffizienzbenchmark (§ 2 Abs. 1 Z 10) für das jeweilige Jahr t, und AEC t ist der Stromverbrauch (MWh) im Jahr t. Das Jahr t ist dabei das Jahr, für welches ein Ansuchen auf Förderung gestellt wird.
+Für die Sektoren zur Herstellung von Düngemittel und Stickstoffverbindungen (NACE 20.15) und Eisenerzbergbau (NACE 07.10) ist ab dem Abrechnungsjahr 2027 eine von der Europäischen Kommission in den Leitlinien ergänzte Berechnungsmethode anzuwenden, sofern eine solche vorgesehen ist. Andernfalls erfolgt die Berechnung der Förderhöhe nach den allgemeinen Bestimmungen dieses Bundesgesetzes.
+Weiters gilt:
+Werden in einer Anlage sowohl Produkte hergestellt, für die ein Stromverbrauchseffizienzbenchmark gilt, als auch Produkte, für die der Fallback-Stromverbrauchseffizienzbenchmark gilt, so muss der Stromverbrauch für jedes der Produkte entsprechend dem Gewicht ihrer jeweiligen Gesamtproduktion zugewiesen werden.
+Werden in einer Anlage sowohl förderfähige Produkte, dh. Produkte, die unter die in Anhang 1 aufgeführten förderfähigen Sektoren oder Teilsektoren fallen, als auch nichtförderfähige Produkte hergestellt, ist der Förderhöchstbetrag nur für die förderfähigen Produkte zu berechnen.
+Anhang 3
+CO 2 -Emissionsfaktor
+Für den CO 2 -Emissionsfaktor (in tCO 2 /MWh) gemäß § 2 Abs. 1 Z 6 gelten folgende Werte als festgelegt:
+Jahr
+CO 2 -Emissionsfaktor (in tCO 2 /MWh)
+2027
+0,564
+2028
+0,486
+2029
+0,408
+2030
+0,33
+Der Bundesminister für Wirtschaft, Energie und Tourismus kann die CO 2 -Emissionsfaktoren auf der Grundlage der jeweils maßgeblichen beihilfenrechtlichen Vorgaben mit Verordnung erhöhen.“

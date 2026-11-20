@@ -1,0 +1,1000 @@
+RIS Dokument Regierungsvorlage
+Bundesgesetz, mit dem ein Bundesgesetz zur Prävention und Bekämpfung von Doping im Sport (Anti-Doping-Bundesgesetz 2027 – ADBG 2027) erlassen und das Bundesgesetz betreffend die Förderung des Sports (Bundes-Sportförderungsgesetz 2017 – BSFG 2017) geändert wird
+Der Nationalrat hat beschlossen:
+Artikel 1
+Bundesgesetz zur Prävention und Bekämpfung von Doping im Sport (Anti-Doping-Bundesgesetz 2027 – ADBG 2027)
+Inhaltsverzeichnis
+1. Abschnitt
+Sportrechtliche Anti-Doping-Regelungen
+§ 1.
+Zielsetzungen und Verstoß gegen Anti-Doping-Regelungen
+§ 2.
+Begriffsbestimmungen
+§ 3.
+Dopingprävention
+§ 4.
+Maßnahmen des Bundes zur Einhaltung der Anti-Doping-Regelungen
+§ 5.
+Unabhängige Dopingkontrolleinrichtung
+§ 6.
+Datenschutzrechtliche Bestimmungen
+§ 7.
+Unabhängige Österreichische Anti-Doping Rechtskommission (ÖADR)
+§ 8.
+Unabhängige Schiedskommission (USK)
+§ 9.
+Nationaler Testpool
+§ 10.
+Kostenersatz
+§ 11.
+Bericht über die Einhaltung der Anti-Doping-Regelungen
+§ 12.
+Medizinische Ausnahmegenehmigungen
+§ 13.
+Einleitung und Anordnung von Dopingkontrollverfahren
+§ 14.
+Durchführung von Dopingkontrollen
+§ 15.
+Analyse der Proben und Benachrichtigung der Sportlerin oder des Sportlers
+2. Abschnitt
+Verfahrensbestimmungen
+§ 16.
+Prüfantrag
+§ 17.
+Einvernehmliche Beilegung
+§ 18.
+Verfahren vor der unabhängigen Österreichischen Anti-Doping Rechtskommission
+§ 19.
+Sonstige Verfahrensbestimmungen
+§ 20.
+Verjährung
+§ 21.
+Verfahren vor der Unabhängigen Schiedskommission
+§ 22.
+Internationaler Sportgerichtshof (CAS)
+3. Abschnitt
+Sonderbestimmungen
+§ 23.
+Besondere Pflichten der Sportorganisationen
+§ 24.
+Besondere Pflichten der Betreuungspersonen
+§ 25.
+Besondere Pflichten der Sportlerinnen und Sportler sowie Mannschaften
+§ 26.
+Sonderbestimmungen für Tiere
+4. Abschnitt
+Besondere Informations- und Strafbestimmungen, berufsrechtliche Folgen von Doping
+§ 27.
+Informationspflicht der Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Tierärztinnen und Tierärzte
+§ 28.
+Gerichtliche Strafbestimmungen
+§ 29.
+Sicherstellungsbefugnis und Informationspflichten der Zollbehörden
+§ 30.
+Zusammenarbeit zwischen den zuständigen Behörden gemäß § 36 Abs. 2 Z 7 DSG und der Unabhängigen Dopingkontrolleinrichtung
+§ 31.
+Berufsrechtliche Folgen von Doping
+5. Abschnitt
+Schlussbestimmungen
+§ 32.
+Abgrenzung zu anderen Gesetzen
+§ 33.
+Verweisung auf andere Rechtsvorschriften
+§ 34.
+Vollziehung
+§ 35.
+In- und Außerkrafttreten
+§ 36.
+Übergangsbestimmungen
+1. Abschnitt
+Sportrechtliche Anti-Doping-Regelungen
+Zielsetzungen und Verstoß gegen Anti-Doping-Regelungen
+§ 1.
+(1) Die Prävention und Bekämpfung von Doping als gesamtgesellschaftliche Aufgabe dient dem Gemeinwohl und insbesondere
+1.
+der Verhinderung der Beeinflussung der sportlichen Leistungsfähigkeit,
+2.
+dem Grundsatz der Fairness im sportlichen Wettbewerb,
+3.
+der Sicherstellung von dopingfreien Wettkämpfen für Sportlerinnen bzw. Sportler,
+4.
+dem wahren, mit dem Sport ursprünglich verbundenen Wert (Sportsgeist),
+5.
+der Wahrung des Rufes der betreffenden Sportart,
+6.
+der Wahrung der Integrität und Ethik im Sport,
+7.
+dem Schutz der Gesundheit sowie der körperlichen und seelischen Unversehrtheit,
+8.
+der Vorbildfunktion der Sportlerinnen bzw. Sportler sowie
+9.
+der gesamtgesellschaftlichen Bedeutung des Sports (vgl. § 1 Bundes-Sportförderungsgesetz 2017 – BSFG 2017, BGBl. I Nr. 100/2017) für die Allgemeinheit.
+Das von der UNESCO angenommene Internationale Übereinkommen gegen Doping im Sport, BGBl. III Nr. 108/2007, (in der Folge: UNESCO-Übereinkommen), die Anti-Doping-Konvention des Europarats, BGBl. Nr. 451/1991, sowie das Zusatzprotokoll zur Anti-Doping-Konvention, BGBl. III Nr. 14/2005, verpflichten Österreich die in diesen Übereinkommen vorgesehenen Maßnahmen zur Verhinderung von Doping insbesondere auch durch Datenaustausch zwischen den Anti-Doping-Organisationen zu unterstützen. Die in diesem Bundesgesetz normierten Maßnahmen und Verarbeitungen personenbezogener Daten und besonderer Kategorien personenbezogener Daten, insbesondere Gesundheitsdaten, dienen der Umsetzung dieser völkerrechtlichen Verpflichtung und liegen daher im öffentlichen Interesse.
+(2) Ein Verstoß gegen Anti-Doping-Regelungen liegt vor, wenn
+1.
+sich im Körpergewebe oder in der Körperflüssigkeit von Sportlerinnen bzw. Sportlern verbotene Substanzen, bzw. deren Metaboliten oder Marker (in der Folge: verbotene Substanzen) gemäß Referenzliste der Anti-Doping-Konvention, BGBl. Nr. 451/1991 in der jeweils geltenden Fassung, (in der Folge: Verbotsliste) befinden oder
+2.
+Sportlerinnen bzw. Sportler an sich selbst verbotene Substanzen anwenden oder dies versuchen oder an sich selbst verbotene Methoden gemäß Verbotsliste anwenden oder dies versuchen oder
+3.
+Sportlerinnen bzw. Sportler sich der rechtmäßig angeordneten Dopingkontrolle entziehen, diese umgehen oder ohne zwingenden Grund bei rechtmäßig angeordneten Dopingkontrollen nicht mitwirken oder diese verweigern oder
+4.
+Sportlerinnen bzw. Sportler gemäß § 25 Abs. 3 in einem Zeitraum von zwölf Monaten eine Kombination aus insgesamt drei Kontroll- (§ 2 Z 21) oder Meldepflichtversäumnissen (§ 2 Z 23) begehen oder
+5.
+Sportlerinnen bzw. Sportler oder sonstige Personen auf das Dopingkontrollverfahren unzulässig Einfluss nehmen oder dies versuchen oder
+6.
+Sportlerinnen bzw. Sportler eine verbotene Substanz oder die Ausstattung für die Anwendung einer verbotenen Methode gemäß Verbotsliste innerhalb eines Wettkampfes oder außerhalb eines Wettkampfes, sofern die verbotene Substanz oder die Ausstattung für die Anwendung einer verbotenen Methode gemäß Verbotsliste außerhalb des Wettkampfes verboten ist, besitzen, es sei denn Sportlerinnen bzw. Sportler weisen nach, dass der Besitz mit einer gemäß § 12 gewährten medizinischen Ausnahmegenehmigung oder einem anderen anerkannten Rechtfertigungsgrund gemäß Anti-Doping-Standard vereinbar ist oder
+6a.
+Betreuungspersonen eine verbotene Substanz oder die Ausstattung für die Anwendung einer verbotenen Methode gemäß Verbotsliste innerhalb eines Wettkampfes oder außerhalb eines Wettkampfes, im Zusammenhang mit einer Sportlerin bzw. einem Sportler, einem Wettkampf oder einem Training besitzen, sofern die verbotene Substanz oder die Ausstattung für die Anwendung einer verbotenen Methode gemäß Verbotsliste außerhalb des Wettkampfes verboten ist, es sei denn die Betreuungsperson weist nach, dass der Besitz mit einer gemäß § 12 der Sportlerin bzw. dem Sportler gewährten medizinischen Ausnahmegenehmigung oder einem anderen anerkannten Rechtfertigungsgrund gemäß Anti-Doping-Standard vereinbar ist, oder
+7.
+Sportlerinnen bzw. Sportler oder sonstige Personen mit verbotenen Substanzen oder Ausstattungen für die Anwendung verbotener Methoden gemäß Verbotsliste handeln oder dies versuchen oder
+8.
+verbotene Substanzen durch eine Sportlerin bzw. einen Sportler oder eine sonstige Person verabreicht werden oder dies versucht wird oder verbotene Methoden gemäß Verbotsliste angewendet werden oder dies versucht wird oder
+9.
+Sportlerinnen bzw. Sportler oder sonstige Personen andere Sportlerinnen bzw. Sportler oder sonstige Personen bei Verstößen oder versuchten Verstößen gemäß Z 2 bis 8 und 10 oder Verstößen gegen das Teilnahmeverbot während einer vorläufigen Suspendierung oder Disziplinarmaßnahme durch Ermutigung, Anleitung, Verschleierung, Zusammenwirken oder Hilfstätigkeiten unterstützen oder versuchen zu unterstützen oder
+10.
+Sportlerinnen bzw. Sportler oder sonstige Personen in Ausübung ihrer sportlichen oder beruflichen Tätigkeit Umgang mit einer Betreuungsperson haben, die wegen eines Verstoßes gegen Anti-Doping-Regelungen gesperrt ist oder sanktioniert wurde oder
+11.
+Sportlerinnen bzw. Sportler oder sonstige Personen eine Person, die Hinweise im Zusammenhang mit potenziellen Verstößen gegen Anti-Doping-Regelungen oder Verstöße gegen § 25 Abs. 8 bis 10, an die für die Einhaltung der Anti-Doping-Regelungen bestimmten Organisationen übermittelt hat oder zu übermitteln gedenkt, in irgendeiner Art und Weise einschüchtern, bedrohen oder Vergeltung an dieser Person ausüben.
+(3) Ein Verstoß gegen Anti-Doping-Regelungen gemäß Abs. 2 Z 1, 2, 6 sowie 8 liegt nicht vor, soweit eine medizinische Ausnahmegenehmigung gemäß § 12 vorliegt oder nachträglich gewährt wird. Bezüglich Sportarten, in denen Tiere an Wettkämpfen teilnehmen, sind die Sonderbestimmungen des § 26 zusätzlich zu beachten.
+(4) Soweit in diesem Bundesgesetz auf die Anti-Doping-Konvention und deren Verbotsliste oder auf das UNESCO-Übereinkommen oder auf dessen Anlagen verwiesen wird, sind sie in der jeweils geltenden Fassung anzuwenden.
+(5) Bei besonders schutzbedürftigen Personen (§ 2 Z 5) gelten die zivilrechtlichen Bestimmungen über deren Vertretung.
+Begriffsbestimmungen
+§ 2.
+Im Sinne dieses Bundesgesetzes bedeutet bzw. bedeuten:
+1.
+Anti-Doping-Organisation : Die World Anti-Doping Agency (WADA) oder eine Organisation, die zumindest für einen Teil des Dopingkontrollverfahrens zuständig ist; dazu zählen Internationale Sportfachverbände, Veranstalter von Sportgroßveranstaltungen, die im Rahmen einer Dopingkontrolle (Z 12) zumindest für einen Teil des Dopingkontrollverfahrens zuständig sind, Nationale Olympische Komitees (NOKs), Nationale paralympische Komitees (NPKs), das International Olympic Committee (IOC), das International Paralympic Committee (IPC) und nationale Anti-Doping-Organisationen;
+2.
+Anti-Doping-Referentin bzw. Anti-Doping-Referent: Eine Person, die ausgebildet wurde, um Maßnahmen zur Dopingprävention gemäß § 3 Abs. 1 durchzuführen und von der Unabhängigen Dopingkontrolleinrichtung oder von einer Anti-Doping-Organisation hierfür akkreditiert wurde;
+3.
+Anti-Doping-Standard : Für Dopingprävention, Dopingkontrollen sowie bei Verstößen gegen Anti-Doping-Regelungen (§ 1 Abs. 2) national wie international nach dem Stand der Technik und dem Stand der sonst in Betracht kommenden Wissenschaften in einer umfassenden und zusammenfassenden Gesamtschau und unter Berücksichtigung der Zielsetzungen (§ 1 Abs. 1) bestehende Anforderungen, die aus fachspezifischer Sicht zu bewerten und allenfalls zu ergänzen sind.
+4.
+Atypisches Analyseergebnis : Protokoll eines von der WADA akkreditierten oder anerkannten Labors, das weitere Untersuchungen nach dem Anti-Doping-Standard erfordert;
+5.
+Besonders schutzbedürftige Person : Eine Sportlerin oder ein Sportler oder eine andere natürliche Person, die oder der zum Zeitpunkt des Verstoßes gegen Anti-Doping-Regelungen
+a)
+noch nicht das sechzehnte Lebensjahr vollendet hat oder
+b)
+noch nicht das achtzehnte Lebensjahr vollendet hat, keinem Topsegment eines Testpools angehört und noch nie an einem internationalen Wettkampf in einer offenen Kategorie teilgenommen hat oder
+c)
+aus anderen Gründen als dem Alter als nicht geschäftsfähig angesehen wird;
+6.
+Betreuungspersonen : Sämtliche Personen gemäß Anti-Doping-Standard, welche in Zusammenhang mit der Vorbereitung oder Teilnahme an Wettkämpfen die Sportlerinnen oder Sportler in Ausübung ihrer sportlichen Tätigkeit unterstützen oder mit ihnen zusammenarbeiten, insbesondere Trainerinnen oder Trainer, Teammitglieder, Mannschaftspersonal, Ärztinnen oder Ärzte, Physiotherapeutinnen oder Physiotherapeuten, sonstige Angehörige eines Gesundheitsberufes, Masseurinnen oder Masseure, Funktionärinnen oder Funktionäre, Familienangehörige, Managerinnen oder Manager und Vertreterinnen oder Vertreter bzw. Vermittlerinnen oder Vermittler;
+7.
+Biologischer Sportlerinnen- bzw. Sportlerpass: Das Programm und die Methoden zum Erfassen und Abgleichen von Daten gemäß dem Anti-Doping-Standard;
+8.
+Bundes-Sport GmbH (BSG) : Gesellschaft gemäß § 28 Abs. 1 BSFG 2017;
+9.
+BSO : Österreichische Bundes-Sportorganisation;
+10.
+CAS : Internationaler Sportgerichtshof (Court of Arbitration for Sport);
+11.
+Dienstleisterin bzw. Dienstleister: Jede Person, der die Unabhängige Dopingkontrolleinrichtung oder eine andere Anti-Doping-Organisation die Verantwortung für einen Teil des Dopingkontrollverfahrens oder der Dopingprävention überträgt. Dies können unter anderem Dritte oder andere nationale Anti-Doping-Organisationen, die für die Unabhängige Dopingkontrolleinrichtung oder eine andere Anti-Doping-Organisation Proben nehmen, andere Dienste im Zusammenhang mit Dopingkontrollen leisten oder Aufklärungs- bzw. Dopingpräventionsprogramme durchführen oder Personen, die unabhängige Auftragnehmer sind und für die Unabhängige Dopingkontrolleinrichtung Dienste im Zusammenhang mit Dopingkontrollen leisten. Die Dienstleisterin oder der Dienstleister wird im Zusammenhang mit den soeben genannten Bestimmungen als Auftragsverarbeiterin oder Auftragsverarbeiter gemäß Art. 4 Z 8 der Verordnung (EU) 2016/679 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung), ABl. Nr. L 119 vom 04.05.2016 S. 1, in der Fassung der Berichtigung ABl. Nr. L 314 vom 22.11.2016 S. 72, (im Folgenden: DSGVO) tätig. Der CAS ist nicht von dieser Definition erfasst.
+12.
+Dopingkontrolle : Teil des Dopingkontrollverfahrens, beginnend mit der Planung von Dopingkontrollen, über die Probennahme, die Bearbeitung der Proben bis hin zur Beförderung der Proben zum Labor;
+13.
+Dopingkontrollplan : Plan, in dem die aufgrund der zur Verfügung stehenden Mittel insgesamt möglichen Dopingkontrollen auf die einzelnen Sportarten und deren Sportdisziplinen entsprechend der Anzahl der Sportlerinnen oder Sportler, der Grundstruktur der Saison, der allgemeinen Wettkampfpläne und Trainingsmuster, des relativen Nutzens von Trainings- und Wettkampfkontrollen sowie dem Dopingrisiko und -muster der jeweiligen Sportart bzw. ihrer jeweiligen Sportdisziplin aufgeteilt werden;
+14.
+Dopingkontrollstation : Ort, an dem die Probennahme unter Wahrung der Privatsphäre der Sportlerin bzw. des Sportlers erfolgt;
+15.
+Dopingkontrollverfahren : Alle Schritte und Verfahren vom Dopingkontrollplan bis zur rechtskräftigen Entscheidung und Durchsetzung der Konsequenzen sowie alle Schritte und Verfahren betreffend Dopingkontrollen, Sichtung, Analyse und Bewertung von Informationen, Angaben zu Aufenthaltsort und Erreichbarkeit, medizinische Ausnahmegenehmigungen, Probennahme, Analyse der Proben, Ergebnismanagement, Anhörungen und Rechtsbehelfe sowie Verfahren hinsichtlich der Teilnahme an Wettkämpfen während einer Sicherungs- oder Disziplinarmaßnahme;
+16.
+Freizeitsportlerin bzw. Freizeitsportler: Jene Sportlerin bzw. jener Sportler (Z 31), welche bzw. welcher nicht innerhalb von fünf Jahren vor der Begehung eines Verstoßes gegen Anti-Doping-Regelungen in derselben Sportart:
+a)
+Internationale Sportlerin bzw. Internationaler Sportler (Z 18) oder Nationale Sportlerin bzw. Nationaler Sportler (Z 26) war oder
+b)
+den Sport als Leistungssport/Spitzensport gemäß § 3 Z 6 BSFG 2017 ausgeübt hat und am auf nationale oder internationale Höchstleistungen ausgerichteten, wettkampforientierten Sport teilgenommen hat oder
+c)
+an einem Internationalen Wettkampf (Z 19) oder Wettkampf auf nationaler Ebene (Z 40) teilgenommen hat oder
+d)
+ein Land bei einem Internationalen Wettkampf (Z 19) in einer offenen Kategorie vertreten hat oder
+e)
+einem Testpool (Z 34) zugehörig war.
+17.
+Internationaler Sportfachverband : Nichtregierungsorganisation, die für eine oder mehrere Sportarten auf internationaler Ebene zuständig ist;
+18.
+Internationale Sportlerin bzw. Internationaler Sportler : Sportlerinnen und Sportler (Z 31), die an internationalen Wettkämpfen teilnehmen und als solche durch den internationalen Sportfachverband definiert werden;
+19.
+Internationaler Wettkampf : Wettkampfveranstaltung, die im Rahmen der Bestimmungen des International Olympic Committee (IOC), des International Paralympic Committee (IPC), des Europäischen Olympischen Comités (EOC), einer Organisation der International Organisations of Sports for Disabled (IOSD), der International World Games Association (IWGA), von Special Olympics oder eines internationalen Sportfachverbands stattfindet oder bei der technische Funktionärinnen und Funktionäre der Wettkampfveranstaltung von diesen benannt werden;
+20.
+Kader : Eine von dem jeweiligen Bundes-Sportfachverband formell benannte Gruppe von Sportlerinnen und Sportlern, welche dieser aufgrund festgelegter sportlicher Kriterien für einen bestimmten Zeitraum in eine Leistungsstufe zugeordnet hat;
+21.
+Kontrollversäumnis (Missed Test) : Versäumnis einer Sportlerin oder eines Sportlers des Topsegments des Nationalen Testpools (§ 9), an dem Ort und zu der Zeit innerhalb des 60-minütigen Zeitfensters, das sie oder er für diesen Tag im Meldesystem angegeben hat, für eine Dopingkontrolle zur Verfügung zu stehen;
+22.
+Mannschaftssportart : Sportart, in der das Auswechseln von Sportlerinnen und Sportlern während eines Wettkampfs erlaubt ist;
+23.
+Meldepflichtversäumnis (Filing Failure) : Versäumnis einer Sportlerin oder eines Sportlers des Topsegments des Nationalen Testpools (§ 9), ihre bzw. seine vollständigen und inhaltlich richtigen personenbezogenen Daten zur Erreichbarkeit und zum Aufenthalt der Unabhängigen Dopingkontrolleinrichtung oder einer anderen Anti-Doping-Organisation im Meldesystem pflichtgemäß zu melden und bei Änderungen entsprechend zu aktualisieren;
+24.
+Meldesystem : Ein den Sportlerinnen oder Sportlern zur Wahrnehmung ihrer Meldepflichten von der WADA zur Verfügung gestelltes und betriebenes, elektronisches Datenbankmanagementinstrument zur Verarbeitung dieser personenbezogenen Daten gemäß Art. 4 Z 2 DSGVO (ADAMS);
+25.
+Nationale Anti-Doping-Organisation : Die von einem Land eingesetzte Einrichtung oder eingesetzten Einrichtungen, welche die Verantwortung und Zuständigkeit für die Umsetzung von Anti-Doping-Regelungen, die Veranlassung der Entnahme von Proben, das Management von Kontrollergebnissen und die Einleitung von Anti-Doping-Verfahren auf nationaler Ebene besitzt bzw. besitzen;
+26.
+Nationaler Sportler bzw. Nationale Sportlerin : Sportlerinnen und Sportler (Z 31), die
+a)
+der höchsten Kaderstufe oder höchsten Nachwuchskaderstufe einer Sportorganisation oder
+b)
+der Nationalmannschaft der offenen Kategorie oder höchsten Nachwuchsklasse einer Sportorganisation oder
+c)
+einer Mannschaft der höchsten Klasse bzw. Liga einer Mannschaftssportart oder
+d)
+dem nationalen Testpool, zugehörig sind.
+27.
+Normabweichendes Analyseergebnis : Protokoll eines von der WADA akkreditierten oder anerkannten Labors, in dem in einer Probe das Vorhandensein einer verbotenen Substanz, ihrer Metaboliten oder Marker oder die Anwendung einer verbotenen Methode festgestellt wird;
+28.
+Probe : Biologisches Material, das im Zuge der Probennahme entnommen wird;
+29.
+Probennahme : Alle aufeinander folgenden Handlungen, welche die Sportlerin oder den Sportler von der Benachrichtigung bis zum Verlassen der Dopingkontrollstation nach Abgabe der Probe(n) direkt betreffen;
+30.
+Sonstige Person : Jede natürliche oder juristische Person, die zur Einhaltung der Anti-Doping-Regelungen einer Sportorganisation oder einer nachgeordneten Organisation verpflichtet ist;
+31.
+Sportlerinnen bzw. Sportler : Personen,
+a)
+die Mitglieder oder Lizenznehmerinnen bzw. Lizenznehmer einer Sportorganisation oder einer ihr zugehörigen Organisation sind oder es zum Zeitpunkt eines potenziellen Verstoßes gegen Anti-Doping-Regelungen waren oder offensichtlich beabsichtigen, dies zu werden, oder
+b)
+die an Wettkämpfen, die von einer Sportorganisation oder von einer ihr zugehörigen Organisation veranstaltet oder aus Bundes-Sportförderungsmitteln gefördert werden, teilnehmen oder
+c)
+die sich auf sonstige Weise zur Einhaltung der Anti-Doping-Regelungen verpflichtet haben und an Wettkämpfen teilnehmen oder beabsichtigen, an Wettkämpfen teilzunehmen;
+32.
+Sportorganisation : Österreichisches Olympisches Comité (ÖOC), Österreichisches Paralympisches Committee (ÖPC), Bundes-Sportfachverbände (§ 3 Z 10 BSFG 2017), Österreichischer Behindertensportverband (ÖBSV);
+33.
+Substanzen mit Missbrauchspotenzial : Jene verbotenen Substanzen, ihre Metaboliten oder Marker gemäß der Verbotsliste, die als solche in der Verbotsliste gekennzeichnet sind und häufig unabhängig von der Vorbereitung oder Teilnahme an Wettkämpfen eingenommen werden;
+34.
+Testpool : Gruppe von Sportlerinnen oder Sportlern und Mannschaften, die auf internationaler Ebene von den internationalen Sportfachverbänden und auf nationaler Ebene von nationalen Anti-Doping-Organisationen (Nationaler Testpool) zusammengestellt wird. Die ausgewählten Sportlerinnen bzw. Sportler und Mannschaften unterliegen gemäß Anti-Doping-Standard einem Mindestmaß an Trainingskontrollen des zuständigen internationalen Sportfachverbandes oder der zuständigen nationalen Anti-Doping-Organisation und sind daher verpflichtet, Meldepflichten zu erfüllen;
+35.
+Trainingskontrolle (Out-of-Competition) : Dopingkontrolle, die nicht während der Wettkampfdauer erfolgt;
+36.
+Unzulässige Einflussnahme auf das Dopingkontrollverfahren : Alle intendierten Handlungen und Beteiligungen an Handlungen, die darauf abzielen, das Dopingkontrollverfahren zu unterlaufen;
+37.
+WADA : World Anti-Doping Agency;
+38.
+WADC : World Anti-Doping Code;
+39.
+Wettkampf : Ein einzelnes Rennen, ein einzelnes Spiel oder ein einzelner sportlicher Wettbewerb, der von einer Sportorganisation oder einer ihr zugehörigen Organisation veranstaltet oder aus Bundes-Sportfördermitteln gefördert wird.
+40.
+Wettkampf auf nationaler Ebene : Wettkampf (Z 39) in der Leistungsstufe einer Landesliga oder Landesmeisterschaft oder höher, in der offenen Kategorie oder in der höchsten Nachwuchsklasse.
+41.
+Wettkampfdauer : Der Zeitraum ab 23:59 Uhr am Tag vor einem Wettkampf, für den eine Sportlerin oder ein Sportler eine Wettkampfberechtigung erworben hat, bis zum Ende dieses Wettkampfes und des Verfahrens im Zusammenhang mit der Probennahme in Verbindung mit diesem Wettkampf, sofern die WADA dem jeweils zuständigen internationalen Sportfachverband keine abweichenden Zeiträume genehmigt;
+42.
+Wettkampfkontrolle (In-Competition) : Dopingkontrolle, die während der Wettkampfdauer erfolgt;
+43.
+Wettkampfveranstaltung : Eine Reihe einzelner Wettkämpfe, die gemeinsam von einer Veranstalterin oder einem Veranstalter durchgeführt werden.
+Dopingprävention
+§ 3.
+(1) Der Bund hat die Dopingprävention zu unterstützen. Die Unabhängige Dopingkontrolleinrichtung gemäß § 5 hat Informations-, Aufklärungs- und Bewusstseinsbildungsprogramme im Sinne der Zielsetzungen des § 1 zu erstellen. Diese Programme haben entsprechend den Vorgaben des Anti-Doping-Standards das Bewusstsein zu bilden, aktuelle Informationen zur Verfügung zu stellen und wertebasierende Entscheidungskompetenzen zu fördern, um absichtliche und unabsichtliche Verstöße gegen die Anti-Doping-Bestimmungen zu verhindern. Die Unabhängige Dopingkontrolleinrichtung hat der für Angelegenheiten des Sports zuständigen Bundesministerin bzw. dem für Angelegenheiten des Sports zuständigen Bundesminister zur Erfüllung der Aufgaben nach diesem Bundesgesetz ihre Expertise zur Verfügung zu stellen.
+(2) Die Unabhängige Dopingkontrolleinrichtung hat einen Dopingpräventionsplan mit geeigneten Maßnahmen zu entwickeln, um die Zielsetzungen des § 1 zu erfüllen. Im Rahmen dieses Plans sind zu erreichende Zielgruppen zu definieren und Maßnahmenpakete entsprechend der sportartbezogenen Risikoabschätzung gemäß § 9 Abs. 2 für jede Sportorganisation festzulegen. Die für Angelegenheiten des Sports zuständige Bundesministerin bzw. der für Angelegenheiten des Sports zuständige Bundesminister hat auf Grundlage der Expertise der Unabhängigen Dopingkontrolleinrichtung Richtlinien zur Erstellung dieser Maßnahmenpakete zu erlassen. Die im jeweiligen Dopingpräventionsplan definierten Maßnahmenpakete sind gemäß § 23 von den Sportorganisationen in Abstimmung mit der Unabhängigen Dopingkontrolleinrichtung umzusetzen. Eine Evaluierung der Maßnahmenpakete hat jährlich zu erfolgen und ist im Rahmen des Tätigkeitsberichts gemäß § 11 darzulegen. Werden die Maßnahmenpakete durch die Sportorganisation nicht oder nur teilweise umgesetzt, sind gemäß § 4 Abs. 2 Förderungen rückzuerstatten und künftige Förderungen einzustellen. Sobald die Maßnahmen wieder umgesetzt werden, können die Sanktionen aufgehoben werden.
+(3) Maßnahmenpakete gemäß Abs. 2 haben Folgendes zu umfassen:
+1.
+die Förderung der Umsetzung von Aktivitäten, die den Schwerpunkt auf die Entwicklung von persönlichen Werten und Prinzipien legen sowie die Fähigkeit der Zielgruppen, ethische Entscheidungen zu treffen;
+2.
+die Behandlung von Themen und Herausforderungen im Zusammenhang mit dopingfreiem Sport;
+3.
+die Vermittlung von aktuellen und korrekten Informationen im Zusammenhang mit dopingfreiem Sport;
+4.
+Schulungen zu Anti-Doping-Themen, um informierte Entscheidungen für ein dopingfreies Sportverhalten treffen zu können.
+(4) Maßnahmen für jene Zielgruppen, für die im Dopingpräventionsplan gemäß Abs. 2 höchste Priorität festgelegt wurde, haben insbesondere zu umfassen:
+1.
+Prinzipien und Werte des sauberen Sports;
+2.
+Rechte und Pflichten der Sportlerinnen und Sportler sowie sonstiger Personen;
+3.
+Prinzip der verschuldensunabhängigen Haftung;
+4.
+Konsequenzen von Doping, beispielsweise physische und psychische, soziale und ökonomische Effekte sowie Sanktionen;
+5.
+Verstöße gegen Anti-Doping-Regelungen;
+6.
+Verbotene Substanzen und Methoden gemäß § 1;
+7.
+Risiken eines unbeabsichtigten Verstoßes gegen Anti-Doping-Regelungen, etwa im Zusammenhang mit der Verwendung von Nahrungsergänzungsmitteln;
+8.
+Umgang mit Medikamenten und medizinischen Ausnahmegenehmigungen;
+9.
+Dopingkontrollverfahren, Urin- und Blutkontrollen sowie der biologische Sportlerinnen- bzw. Sportlerpass;
+10.
+Anforderungen für den nationalen Testpool, insbesondere Aufenthaltsinformationen und Verwendung des gemäß § 25 Abs. 5 für Sportlerinnen oder Sportler zur Verfügung gestellten elektronischen Meldesystems (§ 2 Z 24);
+11.
+Hinweisgebersysteme zu potenziellen Verstößen gegen Anti-Doping-Regelungen;
+12.
+Governance-System im Bereich Anti-Doping.
+(5) Vor internationalen Wettkämpfen sind die zur Entsendung vorgesehenen Sportlerinnen und Sportler sowie sonstige Personen nachweislich gemäß Abs. 4 zu schulen. Bei Sportorganisationen, für die entsprechend der sportartbezogenen Risikoabschätzung gemäß § 9 Abs. 2 die höchste Priorität festgelegt wurde, sind diese Maßnahmen von Anti-Doping-Referentinnen oder -Referenten der Unabhängigen Dopingkontrolleinrichtung durchzuführen. Bei allen anderen Sportorganisationen können diese Maßnahmen von Anti-Doping-Referentinnen oder Anti-Doping-Referenten der Sportorganisationen oder von Anti-Doping-Referentinnen oder -Referenten der Unabhängigen Dopingkontrolleinrichtung durchgeführt werden.
+(6) Maßnahmen des zuständigen Internationalen Sportfachverbandes oder der WADA können von der Unabhängigen Dopingkontrolleinrichtung bzw. den zuständigen Sportorganisationen anerkannt werden, falls diese zu den Maßnahmen im jeweiligen Dopingpräventionsplan gemäß Abs. 2 vergleichbar sind. Die Unabhängige Dopingkontrolleinrichtung ist zum Zweck der Vereinheitlichung von Dopingpräventionsmaßnahmen befugt, personenbezogene Daten (zur Identifikation und Erreichbarkeit der Person, sowie zu Schulungsinhalten und zur Teilnahme an Schulungen) an andere Sportorganisationen, internationale Sportfachverbände, andere Anti-Doping-Organisationen sowie die WADA zu übermitteln.
+(7) Die Informations-, Aufklärungs- und Bewusstseinsbildungsprogramme gemäß Abs. 1 dürfen nur von Anti-Doping-Referentinnen oder -Referenten durchgeführt werden.
+(8) Die Unabhängige Dopingkontrolleinrichtung hat zur Aus-, Fort- und Weiterbildung der Anti-Doping-Beauftragten gemäß § 23 Abs. 2 Z 13 geeignete Schulungsmaßnahmen anzubieten.
+(9) Die Informationen gemäß Abs. 4 hat die Unabhängige Dopingkontrolleinrichtung in geeigneter Form unentgeltlich der Allgemeinheit bereitzustellen.
+Maßnahmen des Bundes zur Einhaltung der Anti-Doping-Regelungen
+§ 4.
+(1) Förderungen auf Grund des BSFG 2017 dürfen Sportorganisationen nur unter den zusätzlich zu vereinbarenden Bedingungen zur Einhaltung der Regelungen des 1., 2. und 3. Abschnitts dieses Bundesgesetzes, insbesondere Abs. 2 bis 5 sowie § 3 Abs. 2 bis 5 und der §§ 7 bis 26, gewährt werden.
+(2) Werden die in Abs. 1 angeführten Regelungen durch Sportorganisationen verletzt, erlischt ab Verletzung der Anspruch auf bereits gewährte Förderungen und die ab diesem Zeitpunkt ausbezahlten Förderungen sind rückzuerstatten. Weiters ist ab Kenntnis der Verletzung die weitere Auszahlung bereits gewährter Förderungen einzustellen. Auf die Dauer der Verletzung der Regelungen ist die betreffende Sportorganisation von der Gewährung von Förderungen nach dem BSFG 2017 sowie nach der Verordnung der Bundesministerin bzw. des Bundesministers für Finanzen über allgemeine Richtlinien für die Gewährung von Förderungen aus Bundesmitteln (ARR 2014), BGBl. II Nr. 208/2014, ausgeschlossen. Die Fördergeberin oder der Fördergeber ist von der Unabhängigen Dopingkontrolleinrichtung über die Verletzung der Verpflichtungen nach Abs. 1 durch die Fördernehmerin oder den Fördernehmer zu informieren.
+(3) Sportlerinnen und Sportler sowie sonstige Personen, die wegen eines Verstoßes gegen Anti-Doping-Regelungen gesperrt wurden, sind für die Dauer der Sperre, zum Zeitpunkt des Verstoßes gegen Anti-Doping-Regelungen volljährige Sportlerinnen und Sportler sowie sonstige Personen grundsätzlich auf Dauer von der Förderung nach dem BSFG 2017 ausgeschlossen. Stehen die betroffenen Sportlerinnen oder Sportler und sonstige Personen in einem Dienstverhältnis zum Bund, dürfen ihnen auf die Dauer des Ausschlusses von der Förderung nach dem BSFG 2017 keine Dienstfreistellungen für die aktive Ausübung des Sports, Teilnahme an Wettkämpfen oder Betreuung von Sportlerinnen oder Sportlern gewährt werden. Die Auszahlung bereits gewährter Förderungen ist einzustellen. Die für den Zeitraum ab dem Verstoß gegen Anti-Doping-Regelungen ausgezahlten Förderungen sind zurückzuzahlen. Vom dauerhaften Ausschluss von Förderungen nach dem BSFG 2017 oder der Rückzahlung kann, sofern dies nicht den Zeitraum der Sperre betrifft, dann ganz oder zum Teil abgesehen werden, wenn die nach den anzuwendenden Anti-Doping-Regelungen grundsätzlich zu verhängende Sperre wegen des Vorliegens besonderer Milderungsgründe entsprechend dem Anti-Doping-Standard herabgesetzt wurde. Über das Vorliegen besonderer Milderungsgründe ist in der Entscheidung im Rahmen des Dopingkontrollverfahrens abzusprechen.
+(4) Je nach Schwere und Häufigkeit der Verletzung der in Abs. 1 angeführten Regelungen kann der Ausschluss von Förderungen nach dem BSFG 2017 sowie nach den ARR 2014 über den Zeitraum nach Abs. 2 und 3 hinaus verlängert werden.
+(5) Die für Angelegenheiten des Sports zuständige Bundesministerin bzw. der für Angelegenheiten des Sports zuständige Bundesminister kann zu den Regelungen gemäß Abs. 2 bis 4 Richtlinien erlassen.
+(6) Die Leiterinnen und Leiter der Bundesdienststellen haben sicherzustellen, dass Vertreterinnen und Vertretern der Unabhängigen Dopingkontrolleinrichtung und der Anti-Doping-Organisationen der Zugang für die Durchführung von Dopingkontrollen bei den auf ihrer Dienststelle tätigen oder untergebrachten Sportlerinnen und Sportlern gewährt wird.
+(7) Inhalte der Informations-, Aufklärungs- und Bewusstseinsbildungsprogramme gemäß § 3 Abs. 1 sind in geeigneter Form in die Lehrpläne und Curricula zur Aus-, Fort- und Weiterbildung sämtlicher Personengruppen, die mithilfe öffentlicher Mittel für die Arbeit mit Sportlerinnen und Sportlern aus-, fort- oder weitergebildet werden, zu integrieren. Dies umfasst insbesondere Betreuungspersonen, Bewegungserzieherinnen und -erzieher sowie Sportlehrerinnen und -lehrer.
+(8) Inhalte der Informations-, Aufklärungs- und Bewusstseinsbildungsprogramme gemäß § 3 Abs. 1 sind in geeigneter Form insbesondere in die Lehrpläne und Curricula von Leistungssportschulen, Nachwuchsleistungssportmodellen und Schulen mit sportlichem Schwerpunkt zu integrieren.
+(9) Der Bund hat geeignete Maßnahmen zu setzen, damit Sportlerinnen und Sportler in Leistungssportkadern von öffentlichen Einrichtungen, insbesondere Bundesheer, Justiz, Polizei, Zoll und sonstige Personen sowie Mitarbeiterinnen und Mitarbeiter in Sporteinrichtungen, die mithilfe öffentlicher Mittel finanziert werden, zivilrechtlich an die Bestimmungen dieses Bundesgesetzes gebunden sind.
+(10) Die Unabhängige Dopingkontrolleinrichtung hat im Bereich des Fitnesssports für die Mitarbeiterinnen und Mitarbeiter sowie Kundinnen und Kunden von Fitnesssporteinrichtungen Informations-, Aufklärungs- und Bewusstseinsbildungsprogramme zur Prävention von Doping und Substanzmissbrauch im Breiten- und Freizeitsport anhand eines Kriterienkatalogs zu entwickeln und umzusetzen.
+Unabhängige Dopingkontrolleinrichtung
+§ 5.
+(1) Die Aufgaben der Unabhängigen Dopingkontrolleinrichtung sind insbesondere:
+1.
+Maßnahmen zur Dopingprävention gemäß § 3;
+2.
+Überwachung der Einhaltung der Förderungsbedingungen gemäß § 4 Abs. 1 und damit zusammenhängend die Anordnung und Durchführung von Dopingkontrollen sowie Berichterstattung über die Einhaltung der Anti-Doping-Regelungen im Sinne dieses Bundesgesetzes;
+3.
+Entscheidung über Anträge auf eine medizinische Ausnahmegenehmigung gemäß § 12;
+4.
+Abschließende Feststellung von einzelnen Kontroll- oder Meldepflichtversäumnissen und der damit verbundenen Kosten;
+5.
+Sichtung, Analyse und Bewertung von Informationen bezüglich potenzieller Verstöße gegen Anti-Doping-Regelungen;
+6.
+Einbringung von Prüfanträgen gemäß § 16;
+7.
+Wahrnehmung der Parteistellung gemäß der §§ 18 Abs. 2 und 21 Abs. 2;
+8.
+Vertretung in Angelegenheiten des Anti-Dopings bei internationalen Einrichtungen auf Expertenebene.
+Die Unabhängige Dopingkontrolleinrichtung ist bei der inhaltlich operativen Ausübung ihrer Aufgaben unabhängig von staatlichen Organen, Sportorganisationen und Privaten. Insbesondere ist zu gewährleisten, dass eine Person, die darüber entschieden hat, ob ein Prüfantrag gegen eine Sportlerin oder einen Sportler eingebracht wird, nicht auch an der Entscheidung dieses Verfahrens bzw. an der Überprüfung der Entscheidung beteiligt sein darf. Von Feststellungen gemäß Z 4 sind die betroffene Person, der jeweils zuständige Bundes-Sportfachverband, der jeweils zuständige internationale Sportfachverband sowie die WADA nachweislich zu informieren.
+(2) Die Unabhängige Dopingkontrolleinrichtung hat folgende inhaltlich unabhängige Kommissionen einzurichten, wobei jeder mindestens 50 vH Frauen anzugehören haben, in die entsendet wird:
+1.
+die Ethikkommission, die aus mindestens fünf, maximal jedoch zehn fachlich geeigneten und in der Anti-Doping-Arbeit erfahrenen Personen besteht, zur Unterstützung bei Maßnahmen zur Dopingprävention sowie zur Information und Aufklärung über Doping;
+2.
+die medizinische Kommission, die aus mindestens fünf, maximal jedoch zehn Ärztinnen bzw. Ärzten mit entsprechender Erfahrung und zwei Expertinnen oder Experten der Pharmazie besteht. Die Unabhängige Dopingkontrolleinrichtung entscheidet unter Heranziehung der medizinischen Kommission unter anderem über Anträge auf medizinische Ausnahmegenehmigungen gemäß § 12. Die Unabhängige Dopingkontrolleinrichtung kann die medizinische Kommission zur Beratung in medizinischen Angelegenheiten heranziehen.
+3.
+die Sportlerinnen- und Sportlerkommission, die aus mindestens fünf, maximal zehn fachlich geeigneten Personen besteht, zur Unterstützung bei der Umsetzung von Anti-Doping-Regelungen.
+(3) Die Mitglieder dieser Kommissionen sind von der Unabhängigen Dopingkontrolleinrichtung auf vier Jahre zu bestellen. Wiederbestellungen sind zulässig. Von den Mitgliedern ist ein Mitglied für den Vorsitz und ein Mitglied als ihre bzw. seine Stellvertretung zu wählen und zu bestellen. Eine vorzeitige Abberufung ist aus wichtigen Gründen durch die Unabhängige Dopingkontrolleinrichtung zulässig, insbesondere wenn
+1.
+eine der Voraussetzungen bzw. Befähigungen für die Mitgliedschaft in der jeweiligen Kommission entfällt,
+2.
+eine Verhinderung an der Erfüllung der Aufgaben von mehr als zwölf Wochen besteht,
+3.
+die persönliche bzw. fachliche Eignung für die Erfüllung der Aufgaben nicht mehr gegeben ist oder Unfähigkeit zur ordnungsgemäßen Aufgabenerfüllung besteht,
+4.
+eine grobe Pflichtverletzung erfolgt ist,
+5.
+eine Entziehung des Vertrauens aus objektiv sachlichen Gründen erfolgt,
+6.
+ein Verstoß gegen Anti-Doping-Regelungen gemäß § 1 Abs. 2 rechtskräftig festgestellt wurde oder
+7.
+eine rechtskräftige Verurteilung gemäß dem Suchtmittelgesetz (SMG), BGBl. I Nr. 112/1997, § 28, oder Amtsverlust erfolgt ist.
+Die Mitglieder haben das Vorliegen eines wichtigen Grundes der Unabhängigen Dopingkontrolleinrichtung unverzüglich zu melden. Die Mitglieder können jederzeit die Funktion zurücklegen. Scheidet ein Mitglied vorzeitig aus, ist auf die Restdauer der Funktionsdauer von der Unabhängigen Dopingkontrolleinrichtung ein neues zu bestellen. Die Mitglieder der Kommissionen entscheiden unabhängig von staatlichen Organen, Sportorganisationen, Privaten und der Unabhängigen Dopingkontrolleinrichtung. Sie entscheiden mit Stimmenmehrheit und sind beschlussfähig, wenn mindestens die Hälfte der Mitglieder anwesend ist. Bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden. Die Kommissionen können Beschlüsse auch im Umlaufverfahren fassen, wenn aufgrund der klaren Sachlage eine Erörterung in einer Sitzung nicht erforderlich ist und kein Mitglied einer Beschlussfassung auf diesem Wege widerspricht.
+(4) Von der bzw. dem Vorsitzenden der jeweiligen Kommission sind zwei weitere Mitglieder der jeweiligen Kommission für einen Senat zu nominieren. Die Mitglieder eines Senats entscheiden unabhängig von staatlichen Organen, Sportorganisationen, Privaten und der Unabhängigen Dopingkontrolleinrichtung. Sie entscheiden mit Stimmenmehrheit und sind beschlussfähig, wenn alle Mitglieder des Senats anwesend sind. Im Senat können Beschlüsse auch im Umlaufverfahren gefasst werden, wenn aufgrund der klaren Sachlage eine Erörterung in einer Sitzung nicht erforderlich ist und kein Mitglied einer Beschlussfassung auf diesem Wege widerspricht. Die bzw. der Vorsitzende hat die Beschlussfähigkeit des Senats gegebenenfalls durch Nachnominierung eines Mitgliedes der jeweiligen Kommission sicherzustellen. Die Beratung bzw. Unterstützung hat durch mindestens ein, jedoch maximal drei Mitglieder zu erfolgen, welche von der bzw. dem Vorsitzenden unter Berücksichtigung der für die Beratung bzw. Unterstützung erforderlichen Expertise zu nominieren sind.
+(5) Die für Angelegenheiten des Sports zuständige Bundesministerin bzw. der für Angelegenheiten des Sports zuständige Bundesminister hat für die Vorsitzende oder den Vorsitzenden und für die Senatsmitglieder eine angemessene Funktionsgebühr für die von den Mitgliedern einer unabhängigen Kommission erbrachten Leistungen im Rahmen der Entscheidung beziehungsweise Beratung pauschal festzulegen. Den Sachaufwand trägt die Unabhängige Dopingkontrolleinrichtung. Weiters gebühren allenfalls anfallende Reisekosten. Das in einem Verfahren anfallende Entgelt sowie der Ersatz der Reisekosten sind Teil der Kosten des Verfahrens.
+(6) Die inhaltlich unabhängigen Kommissionen gemäß Abs. 2 haben sich eine Geschäftsordnung im Einklang mit dem Anti-Doping-Standard zu geben, die die näheren Bestimmungen über die Aufgabenerfüllung zu enthalten hat. Die Geschäftsordnung ist durch die Unabhängige Dopingkontrolleinrichtung in einer für jedermann zugänglichen Art und Weise auf ihrer Website zu veröffentlichen.
+(7) Die Organe sowie Mitarbeiterinnen und Mitarbeiter der Unabhängigen Dopingkontrolleinrichtung, Anti-Doping-Referentinnen und -Referenten (§ 2 Z 2) sowie Mitglieder des Kontrollteams (§ 14 Abs. 2) und der Kommissionen gemäß Abs. 2 haben alle ausschließlich aus ihrer Tätigkeit bekannt gewordenen Tatsachen und Informationen auch nach Ende ihres Beschäftigungsverhältnisses oder ihrer Funktion geheim zu halten, soweit und solange die Geheimhaltung gemäß diesem Bundesgesetz vorgeschrieben ist oder dies aus den in Art. 22a Abs. 2 zweiter Satz des Bundes-Verfassungsgesetzes – B-VG, BGBl. Nr. 1/1930 genannten Gründen erforderlich und verhältnismäßig ist. Sie haben sich der Ausübung ihrer Tätigkeit zu enthalten und ihre Vertretung zu veranlassen, wenn einer der Befangenheitsgründe gemäß § 7 des Allgemeinen Verwaltungsverfahrensgesetzes 1991 (AVG), BGBl. Nr. 51, vorliegt. Sie haben vor ihrer Bestellung bzw. im Rahmen der Ausübung ihrer Aufgaben Interessenkonflikte unverzüglich der Unabhängigen Dopingkontrolleinrichtung offenzulegen. Die Verschwiegenheitspflicht gilt nicht gegenüber dem im Anlassfall zur Verhängung von Sicherungs- und Disziplinarmaßnahmen zuständigen Organ, der USK (§ 8), den Gerichten und Verwaltungsbehörden sowie den jeweils zuständigen Anti-Doping-Organisationen, die gemäß den geltenden Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes zuständig sind. Die Unabhängige Dopingkontrolleinrichtung, die ÖADR (§ 7) und die USK (§ 8) können unter der Voraussetzung des öffentlichen Interesses an sachlicher Information über Verfahren von öffentlicher Bedeutung als Reaktion auf öffentliche Stellungnahmen der betroffenen Sportlerin bzw. des betroffenen Sportlers oder der betroffenen sonstigen Person oder der betroffenen Sportorganisation über die Bestimmungen des Abs. 10 Z 4 hinausgehend gegenüber der Öffentlichkeit zu einem Verfahren Stellung nehmen. Eine Stellungnahme und eine allfällige Veröffentlichung dieser ist nur zulässig, wenn durch ihren Zeitpunkt und Inhalt die Persönlichkeitsrechte der betroffenen Person, insbesondere im Zusammenhang mit besonderen Kategorien personenbezogener Daten, oder der höchstpersönliche Lebensbereich gemäß § 7 des Mediengesetzes (MedienG), BGBl. Nr. 314/1981, der Grundsatz der Unschuldsvermutung gemäß § 7b MedienG sowie der Anspruch auf ein faires Verfahren nicht verletzt sind.
+(8) Für die Mitglieder der Kontrollteams (§ 14 Abs. 2) sind von der Unabhängigen Dopingkontrolleinrichtung Lichtbildausweise zur Legitimation für Dopingkontrollen auszustellen.
+(9) Zur Wahrnehmung der Aufgaben der Unabhängigen Dopingkontrolleinrichtung besteht eine gemeinnützige Gesellschaft mit beschränkter Haftung mit der Firma „Nationale Anti Doping Agentur Austria GmbH“ mit der Kurzbezeichnung „NADA Austria“. An ihrem Stammkapital ist der Bund mit mehr als der Hälfte beteiligt. Sofern in diesem Bundesgesetz nichts anderes bestimmt ist, sind auf diese Gesellschaft die Bestimmungen des GmbH-Gesetzes (GmbHG), RGBl. Nr. 58/1906, anzuwenden. Die Verwaltung der Anteile des Bundes an der Gesellschaft obliegt der für Angelegenheiten des Sports zuständigen Bundesministerin bzw. dem für Angelegenheiten des Sports zuständigen Bundesminister. Zur Deckung der Administrativkosten und Wahrnehmung der Aufgaben der Gesellschaft leistet der Bund, vertreten durch die für Angelegenheiten des Sports zuständige Bundesministerin bzw. den für Angelegenheiten des Sports zuständigen Bundesminister, jährlich einen Zuschuss in der Höhe von mindestens 2 Millionen Euro.
+(10) Die Unabhängige Dopingkontrolleinrichtung hat die BSO, Sportorganisationen, Sportlerinnen und Sportler, sonstige Personen und Wettkampfveranstalterinnen und -veranstalter in Ergänzung zu § 3 über Folgendes zu informieren und unentgeltlich der Allgemeinheit bereit zu stellen:
+1.
+die Kriterien für die Aufnahme in den Nationalen Testpool (§ 9);
+2.
+den Kostenersatz des Dopingkontrollverfahrens;
+3.
+nach individueller Abwägung der beteiligten Interessen unter Wahrung der Zielsetzungen dieses Bundesgesetzes unbeschadet der Bestimmungen der §§ 19 Abs. 3 und 21 Abs. 14 die der Unabhängigen Dopingkontrolleinrichtung zur Kenntnis gelangte Sperren von Sportlerinnen oder Sportlern und sonstigen Personen und deren Aufhebung unter Angabe der Namen der betroffenen Personen, der Dauer der Sperre und Gründe hierfür, ohne dass auf besondere Kategorien personenbezogener Daten, insbesondere Gesundheitsdaten der betroffenen Personen rückgeschlossen werden kann. Dabei ist zu beachten, dass insbesondere bei besonders schutzbedürftigen Personen sowie Freizeitsportlerinnen und Freizeitsportlern diese Information sowie die Bereitstellung dieser Information gemäß Anti-Doping-Standard unterbleiben kann. Ein besonderes, dabei zu beachtendes Offenlegungsinteresse kann bei Freizeitsportlerinnen und Freizeitsportlern bestehen, wenn ein Verstoß gegen Anti-Doping-Regelungen gemäß § 1 Abs. 2 Z 7 bis 9 und 11 festgestellt wurde.
+4.
+welche Daten, insbesondere welche personenbezogenen Daten und besonderen Kategorien personenbezogener Daten, und zu welchem Zweck diese im Rahmen der Anti-Doping-Arbeit beziehungsweise eines Dopingkontrollverfahrens verarbeitet werden.
+Datenschutzrechtliche Bestimmungen
+§ 6.
+(1) Die Unabhängige Dopingkontrolleinrichtung ist als Verantwortliche gemäß Art. 4 Z 7 DSGVO ermächtigt, soweit dies zur Wahrnehmung ihrer Aufgaben nach diesem Bundesgesetz und zum Zwecke der Vollziehung dieses Bundesgesetzes erforderlich ist, insbesondere im Rahmen der Aufgaben der ÖADR (§ 7) und der USK (§ 8) personenbezogene Daten zu verarbeiten, insbesondere einander zu übermitteln. Diese Ermächtigung bezieht sich, soweit zumindest einer der in Art. 9 Abs. 2 DSGVO angeführten Fälle vorliegt, auch auf besondere Kategorien personenbezogener Daten gemäß Art. 9 Abs. 1 DSGVO, insbesondere Gesundheitsdaten im Zusammenhang mit einem Verfahren über einen Verstoß gegen Anti-Doping-Regelungen, sowie auf, soweit einer der in Art. 6 Abs. 1 DSGVO angeführten Fälle vorliegt, die Verarbeitung von personenbezogenen Daten über strafrechtliche Verurteilungen und Straftaten gemäß Art. 10 DSGVO. Die Unabhängige Dopingkontrolleinrichtung darf sich zur Wahrnehmung ihrer Aufgaben nach diesem Bundesgesetz und zum Zwecke der Vollziehung dieses Bundesgesetzes Auftragsverarbeitern gemäß Art. 4 Z 8 in Verbindung mit Art. 28 DSGVO bedienen, die insbesondere jeweils die Datenschutzpflichten gemäß Art. 28 Abs. 3 lit. a bis h DSGVO wahrzunehmen haben.
+(2) Die Ermächtigung zur Verarbeitung bzw. Übermittlung bzw. zum Gestatten des Zuganges gemäß dieser Bestimmung umfasst Daten:
+1.
+zur Umsetzung der Zielsetzungen gemäß § 1 im Rahmen dieses Bundesgesetzes sowie des BSFG 2017,
+2.
+zur Dopingprävention und Bekämpfung eines Verstoßes gegen Anti-Doping-Regelungen,
+3.
+zur Einleitung, Anordnung und Durchführung von Dopingkontrollen bzw. Dopingkontrollverfahren,
+4.
+im Zusammenhang mit medizinischen Ausnahmegenehmigungen gemäß § 12,
+5.
+der für ein Tier verantwortlichen Person und der Eigentümerin oder des Eigentümers des Tieres im Kontext des § 26,
+6.
+im Zusammenhang mit der Erfüllung der Übereinkommen bzw. Konventionen gemäß § 1 Abs. 1,
+7.
+im Zusammenhang mit der Zusammenarbeit mit sowie Erfüllung von Verpflichtungen gegenüber anderen Sportorganisationen, internationalen Sportfachverbänden, anderen Anti-Doping-Organisationen sowie der WADA,
+8.
+zur Setzung geeigneter Maßnahmen des Bundes gemäß § 4 Abs. 9,
+9.
+zur Einrichtung, Administration und Erfüllung der Aufgaben der Unabhängigen Dopingkontrolleinrichtung, insbesondere im Rahmen der Aufgaben der inhaltlich unabhängigen Kommissionen, der ÖADR (§ 7) und der USK (§ 8),
+10.
+im Zusammenhang mit der Erfüllung der datenschutzrechtlichen Pflichten, insbesondere der Rechte betroffener Personen,
+11.
+im Kontext des Nationalen Testpools (§ 9),
+12.
+im Zusammenhang mit Kostenersatz nach diesem Bundesgesetz,
+13.
+zur Erstellung und Vorlage des Berichts über die Einhaltung der Anti-Doping-Regelungen (§ 11),
+14.
+im Zusammenhang mit den Pflichten der Sportorganisationen, der Sportlerinnen und Sportler, der Mannschaften sowie Betreuungspersonen,
+15.
+betreffend die Informationspflicht der Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Tierärztinnen und Tierärzte,
+16.
+betreffend gerichtliche Strafbestimmungen gemäß § 28 sowie strafrechtliche Verurteilungen und Straftaten im Kontext dieses Bundesgesetzes sowie des BSFG 2017,
+17.
+im Zusammenhang mit der Sicherstellungsbefugnis und den Informationspflichten der Zollbehörden,
+18.
+zur Zusammenarbeit zwischen den zuständigen Behörden gemäß § 36 Abs. 2 Z 7 des Datenschutzgesetzes – DSG, BGBl. I Nr. 165/1999, und der Unabhängigen Dopingkontrolleinrichtung,
+19.
+zur Gewährleistung der berufsrechtlichen Folgen von Doping,
+20.
+zur Vollziehung dieses Bundesgesetzes sowie
+21.
+zur Wahrnehmung der sonstigen durch dieses Bundesgesetz übertragenen Aufgaben.
+(3) Der Zweck der Wahrnehmung der im Zusammenhang mit diesem Bundesgesetz übertragenen Aufgaben umfasst die Prävention und Bekämpfung von Doping, sowie die Erfüllung von Verpflichtungen und die Zusammenarbeit im internationalen Kontext des Sports.
+(4) Die Unabhängige Dopingkontrolleinrichtung hat insbesondere gemäß Art. 32 bis 34 DSGVO für die Sicherheit der personenbezogenen Daten und der besonderen Kategorien personenbezogener Daten zu sorgen. Die Erforderlichkeit zur Datenverarbeitung ergibt sich aus der wirksamen Umsetzung des Anti-Doping-Standards und der Bestimmungen dieses Bundesgesetzes, sofern sich die betroffenen Personen vertraglich zur Einhaltung des Anti-Doping-Standards verpflichtet haben sowie aus der Erfüllung der Informationspflichten. Besondere Kategorien personenbezogener Daten, insbesondere Gesundheitsdaten, dürfen nur verarbeitet, insbesondere übermittelt, werden, sofern dies auf Grund der Bestimmungen dieses Bundesgesetzes oder des Anti-Doping-Standards unbedingt erforderlich ist.
+(5) Die Unabhängige Dopingkontrolleinrichtung ist ermächtigt, insbesondere im Rahmen der Aufgaben der ÖADR (§ 7) und der USK (§ 8), unbeschadet der Bestimmung des § 30 Abs. 1, die bei der Vollziehung dieses Bundesgesetzes verarbeiteten personenbezogenen Daten auf begründetes und zu dokumentierendes Ersuchen einer zuständigen Behörde gemäß § 36 Abs. 2 Z 7 DSG oder einer sonstigen Behörde erforderlichenfalls zu verarbeiten, wenn die personenbezogenen Daten für die Vollziehung der jeweiligen gesetzlich übertragenen Aufgaben eine wesentliche Voraussetzung bilden und die Verarbeitung bundes- oder landesgesetzlich vorgesehen ist. Sobald das Informieren der betroffenen Person gemäß Art. 12 bis 14 DSGVO dem Zweck des Ersuchens nicht mehr zuwiderläuft oder zuwiderlaufen kann, hat die ersuchende Behörde dies der Unabhängigen Dopingkontrolleinrichtung mitzuteilen. Die betroffene Person ist sodann von dieser nachweislich über das Ersuchen zu informieren. Sie hat das Recht, gegenüber der Unabhängigen Dopingkontrolleinrichtung eine zu dokumentierende Stellungnahme abzugeben. Art. 12 bis 22 DSGVO sind vom Zeitpunkt des Einlangens eines Ersuchens bis zum Zeitpunkt der Information der betroffenen Person insoweit beschränkt, als diese Rechte voraussichtlich die Verwirklichung der Zwecke des Ersuchens unmöglich machen oder ernsthaft beeinträchtigen und die Beschränkung für die Erfüllung der Zwecke des Ersuchens notwendig und verhältnismäßig ist.
+(6) Die Unabhängige Dopingkontrolleinrichtung ist ermächtigt, insbesondere im Rahmen der Aufgaben der ÖADR (§ 7) und der USK (§ 8), Analyseergebnisse von Dopingkontrollen, Sachverhalte mit begründetem, schriftlich zu dokumentierendem Verdacht auf einen Verstoß gegen Anti-Doping-Regelungen, insbesondere Entscheidungen in Anti-Doping-Verfahren, und erteilte medizinische Ausnahmegenehmigungen (§ 12) an die jeweils zuständige Nationale Anti-Doping-Organisation, den jeweils zuständigen internationalen Sportfachverband und die WADA, soweit dies im Anti-Doping-Standard vorgesehen ist, gemäß Abs. 4 zu übermitteln.
+(7) Die Unabhängige Dopingkontrolleinrichtung ist ermächtigt, insbesondere im Rahmen der Aufgaben der ÖADR (§ 7) und der USK (§ 8), einer zuständigen nationalen Stelle aus eigenem bzw. auf begründetes und zu dokumentierendes Ersuchen ebendieser personenbezogene Daten und besondere Kategorien personenbezogener Daten gemäß Abs. 4 zur Erfüllung mindestens eines der Zwecke im Sinne des Abs. 3 zu übermitteln.
+(8) Die Unabhängige Dopingkontrolleinrichtung ist ermächtigt, insbesondere im Rahmen der Aufgaben der ÖADR (§ 7) und der USK (§ 8), der WADA auf begründetes und zu dokumentierendes Ersuchen der WADA personenbezogene Daten und besondere Kategorien personenbezogener Daten, insbesondere Gesundheitsdaten, die einer erteilten medizinischen Ausnahmegenehmigung (§ 12) zugrunde gelegt wurden, soweit dies im Anti-Doping-Standard vorgesehen ist, gemäß Abs. 4 zu übermitteln.
+(9) Verantwortliche, die Daten verarbeiten, die zum Zweck der Wahrnehmung der in diesem Bundesgesetz übertragenen Aufgaben erforderlich sind, sind unter Einhaltung der weiteren Übermittlungsvoraussetzungen sowie etwaiger besonderer gesetzlicher Bestimmungen ermächtigt, Daten gemäß dieser Bestimmung zu verarbeiten und zu übermitteln oder verpflichtet, einer Aufforderung zur Übermittlung solcher Daten nachzukommen, sofern die Erforderlichkeit der Daten für die jeweilige Aufgabenwahrnehmung nach diesem Bundesgesetz offenkundig ist oder dargelegt wird. Kriminalpolizei, Staatsanwaltschaften und Gerichte haben Daten, die gemäß der Strafprozeßordnung 1975 – StPO, BGBl. Nr. 631/1975, ermittelt wurden, nach Maßgabe des § 76 Abs. 4 StPO an die Unabhängige Dopingkontrolleinrichtung zu übermitteln. Verwaltungsgerichte und Verwaltungsbehörden haben die das Verfahren abschließend beendende Entscheidung unter Einhaltung etwaiger Übermittlungsvoraussetzungen nach Rechtskraft an die Unabhängige Dopingkontrolleinrichtung zu übermitteln. Erforderlichenfalls ist Akteneinsicht zu gewähren.
+(10) Übt eine betroffene Person ihre Rechte nach der DSGVO bzw. dem DSG gegenüber der Unabhängigen Dopingkontrolleinrichtung als unzuständigem Verantwortlichen aus, so hat diese sie an den zuständigen Verantwortlichen zu verweisen. Macht eine betroffene Person ein gemäß Abs. 11 bis 16 beschränktes Recht geltend, so ist sie darauf hinzuweisen und die oder der zuständige Datenschutzbeauftragte ist darüber in Kenntnis zu setzen.
+(11) Die Informationspflichten gemäß Art. 12 bis 14 DSGVO werden hinsichtlich der Verarbeitung und insbesondere Übermittlung personenbezogener Daten und besonderer Kategorien personenbezogener Daten insoweit beschränkt, als diese Pflichten voraussichtlich die Verwirklichung der wirksamen Umsetzung der Anti-Doping-Regelungen oder des Anti-Doping-Standards unmöglich machen oder ernsthaft beeinträchtigen.
+(12) Das Recht auf Auskunft gemäß Art. 15 DSGVO bzw. § 1 Abs. 3 Z 1 DSG wird hinsichtlich der Verarbeitung und Übermittlung personenbezogener Daten und besonderer Kategorien personenbezogener Daten insoweit beschränkt, als dieses Recht voraussichtlich die Verwirklichung der wirksamen Umsetzung der Anti-Doping-Regelungen oder des Anti-Doping-Standards unmöglich macht oder ernsthaft beeinträchtigt.
+(13) Der Grundsatz der Richtigkeit gemäß Art. 5 Abs. 1 lit. d DSGVO und das Recht auf Berichtigung gemäß Art. 16 DSGVO bzw. auf Richtigstellung gemäß § 1 Abs. 3 Z 2 DSG werden bezüglich unrichtiger oder unvollständiger personenbezogener Daten oder besonderer Kategorien personenbezogener Daten insoweit beschränkt, als einer Berichtigung die Rechtskraft oder die Verjährung entgegenstehen, oder wenn für die betroffene Person die Möglichkeit einer Klärung der Richtigkeit und Vollständigkeit auf einem zumutbaren Rechtsweg besteht oder bestand. Macht die betroffene Person glaubhaft, dass diese personenbezogenen Daten oder besonderen Kategorien personenbezogener Daten sie erheblich in ihren Rechten beeinträchtigen, so kann sie dazu eine nicht inhaltsändernde, zu dokumentierende Stellungnahme abgeben.
+(14) Das Recht auf Löschung gemäß Art. 17 DSGVO bzw. § 1 Abs. 3 Z 2 DSG wird insoweit beschränkt, als durch Gesetz eine Aufbewahrungspflicht oder Archivierung vorgesehen ist. Auf Antrag einer betroffenen Person sind ihre personenbezogenen Daten oder besonderen Kategorien personenbezogener Daten für die verbleibende Dauer der Aufbewahrungspflicht ohne Aufbereitung zu speichern, wenn die betroffene Person glaubhaft macht, dass die Aufbewahrung ihrer personenbezogenen Daten oder besonderen Kategorien personenbezogener Daten sie erheblich in ihren Rechten beeinträchtigt und keine weitere Verarbeitung für die verbleibende Dauer der Aufbewahrungspflicht vorgesehen ist.
+(15) Das Recht auf Einschränkung der Verarbeitung gemäß Art. 18 DSGVO wird für die Dauer einer Überprüfung der von der betroffenen Person bestrittenen Richtigkeit ihrer personenbezogenen Daten oder besonderen Kategorien personenbezogener Daten sowie für den Zeitraum, in dem die betroffene Person ihr Recht auf Widerspruch geltend gemacht hat und noch nicht feststeht, ob die berechtigten Gründe des Verantwortlichen gegenüber denen der betroffenen Person überwiegen, beschränkt.
+(16) Das Recht auf Widerspruch gemäß Art. 21 DSGVO wird hinsichtlich der Verarbeitung personenbezogener Daten und besonderer Kategorien personenbezogener Daten für Zeiten einer durch Gesetz vorgesehenen Aufbewahrungspflicht oder Archivierung beschränkt, sofern die betroffene Person nicht Gründe nachweisen kann, die sich aus ihrer besonderen Situation ergeben und welche die Ziele der Beschränkung des Rechtes auf Widerspruch überwiegen. Die oder der zuständige Datenschutzbeauftragte ist über die Vornahme und das Ergebnis einer solchen Abwägung in Kenntnis zu setzen.
+(17) Zum Zweck der Rechtsverfolgung, der Verhinderung der Teilnahme an sportlichen Bewerben bzw. der Betreuung von Sportlerinnen bzw. Sportlern, der Sicherung der Dokumentation bzw. Archivierung sowie der wirksamen Umsetzung der Anti-Doping-Regelungen oder des Anti-Doping-Standards verarbeitete oder übermittelte Daten, insbesondere personenbezogene Daten und besondere Kategorien personenbezogener Daten, sind von der Unabhängigen Dopingkontrolleinrichtung ab der letztmaligen Verarbeitung, insbesondere Übermittlung, zehn Jahre aufzubewahren. Hinsichtlich der Aufbewahrungsfristen von Gesundheitsdaten im Rahmen eines Verfahrens über eine medizinische Ausnahmegenehmigung wird auf die Bestimmungen des § 12 Abs. 5 verwiesen. Hinsichtlich der Aufbewahrung von Proben wird auf § 15 Abs. 5 verwiesen. Sofern eine betroffene Person ihre Rechte gemäß Kapitel III der DSGVO bzw. gemäß DSG geltend macht, sind die ausschließlich aufgrund dieser Geltendmachung verarbeiteten personenbezogenen Daten und besonderen Kategorien personenbezogener Daten drei Jahre und drei Monate ab der Geltendmachung aufzubewahren.
+(18) Die Unabhängige Dopingkontrolleinrichtung verpflichtet sich, längstens alle drei Jahre Datensicherheitsaudits durch eine externe IT-Dienstleisterin oder einen externen IT-Dienstleister durchführen zu lassen.
+Unabhängige Österreichische Anti-Doping Rechtskommission (ÖADR)
+§ 7.
+(1) Die unabhängige Österreichische Anti-Doping Rechtskommission (ÖADR) ist eine von staatlichen Organen, Sportorganisationen, Privaten und der Unabhängigen Dopingkontrolleinrichtung unabhängige Kommission und entscheidet in einem Senat. Die Mitglieder des Senats der ÖADR dürfen weder an den Ermittlungen gegen eine Sportlerin oder einen Sportler oder an der Entscheidung beteiligt gewesen sein, ob ein Prüfantrag gegen eine Sportlerin oder einen Sportler oder eine sonstige Person eingebracht wird, noch an der Überprüfung der Entscheidung der ÖADR durch die USK (§ 8). Sie hat Disziplinarverfahren als Senat der unabhängigen Kommission gemäß den geltenden Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes durchzuführen (Anti-Doping-Verfahren). Der jeweils zuständige Bundes-Sportfachverband ist über das Ergebnis der Entscheidung zu informieren.
+(2) Die ÖADR hat, unter Berücksichtigung bei der Besetzung von zumindest 50 vH Frauen, aus einer oder einem Vorsitzenden und mindestens sechs, maximal jedoch zehn Mitgliedern mit folgender Qualifikation zu bestehen, in die entsendet wird:
+1.
+die oder der Vorsitzende, deren oder dessen Stellvertretung und mindestens zwei weitere Mitglieder müssen ein abgeschlossenes Studium der Rechtswissenschaften und Erfahrung in der Durchführung von förmlichen Ermittlungsverfahren aufweisen;
+2.
+mindestens zwei Mitglieder müssen Expertinnen oder Experten der Sportmedizin sein.
+Für jedes Verfahren hat die oder der Vorsitzende oder deren oder dessen Stellvertretung aus den Mitgliedern der ÖADR ein Mitglied mit abgeschlossenem Studium der Rechtswissenschaften und Erfahrung in der Durchführung von förmlichen Ermittlungsverfahren und ein Mitglied als Expertin oder Experten der Sportmedizin für den Senat für die Durchführung des Verfahrens zu benennen.
+(3) Die Mitglieder der ÖADR sind von der Unabhängigen Dopingkontrolleinrichtung auf vier Jahre zu bestellen. Wiederbestellungen sind zulässig. Von den Mitgliedern ist ein Mitglied für den Vorsitz und ein Mitglied als Stellvertretung zu wählen und von der Unabhängigen Dopingkontrolleinrichtung zu bestellen. Eine vorzeitige Abberufung ist aus wichtigen Gründen durch die Unabhängige Dopingkontrolleinrichtung zulässig, insbesondere wenn
+1.
+eine der Voraussetzungen bzw. Befähigungen für die Mitgliedschaft in der ÖADR entfällt,
+2.
+eine Verhinderung an der Erfüllung der Aufgaben von mehr als zwei Wochen besteht,
+3.
+die persönliche bzw. fachliche Eignung für die Erfüllung der Aufgaben nicht mehr gegeben ist oder Unfähigkeit zur ordnungsgemäßen Aufgabenerfüllung besteht,
+4.
+eine grobe Pflichtverletzung erfolgt ist,
+5.
+eine Entziehung des Vertrauens aus objektiv sachlichen Gründen erfolgt,
+6.
+ein Verstoß gegen Anti-Doping-Regelungen gemäß § 1 Abs. 2 rechtskräftig festgestellt wurde oder
+7.
+eine rechtskräftige Verurteilung gemäß SMG, § 28, oder Amtsverlust erfolgt ist.
+Die Mitglieder haben das Vorliegen eines wichtigen Grundes der Unabhängigen Dopingkontrolleinrichtung unverzüglich zu melden. Die Mitglieder können jederzeit die Funktion zurücklegen. Scheidet ein Mitglied vorzeitig aus, ist auf die Restdauer der Funktionsdauer von der Unabhängigen Dopingkontrolleinrichtung ein neues zu bestellen. Die Mitglieder der ÖADR entscheiden unabhängig von staatlichen Organen, Sportorganisationen, Privaten und der Unabhängigen Dopingkontrolleinrichtung. Sie entscheiden mit Stimmenmehrheit und sind beschlussfähig, wenn mindestens die Hälfte der Mitglieder anwesend ist. Bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden, bei Stimmengleichheit bei der Wahl der oder des Vorsitzenden entscheidet das Los. Die ÖADR kann Beschlüsse auch im Umlaufverfahren fassen, wenn aufgrund der klaren Sachlage eine Erörterung in einer Sitzung nicht erforderlich ist und kein Mitglied einer Beschlussfassung auf diesem Wege widerspricht. Die ÖADR hat sich eine Verfahrensordnung im Einklang mit dem Anti-Doping-Standard zu geben, die die näheren Bestimmungen über den Ablauf des Verfahrens zu enthalten hat. Die Verfahrensordnung ist durch die Unabhängige Dopingkontrolleinrichtung in einer für jedermann zugänglichen Art und Weise auf ihrer Website zu veröffentlichen.
+(4) Von der bzw. dem Vorsitzenden sind zwei weitere Mitglieder der ÖADR für einen Senat zu nominieren. Die Mitglieder eines Senats entscheiden unabhängig von staatlichen Organen, Sportorganisationen, Privaten und der Unabhängigen Dopingkontrolleinrichtung. Sie entscheiden mit Stimmenmehrheit und sind beschlussfähig, wenn alle Mitglieder des Senats anwesend sind. Im Senat können Beschlüsse auch im Umlaufverfahren gefasst werden, wenn aufgrund der klaren Sachlage eine Erörterung in einer Sitzung nicht erforderlich ist und kein Mitglied einer Beschlussfassung auf diesem Wege widerspricht. Die bzw. der Vorsitzende hat die Beschlussfähigkeit des Senats gegebenenfalls durch Nachnominierung eines Mitgliedes der jeweiligen Kommission sicherzustellen.
+(5) Den Sachaufwand der ÖADR und ihrer Senate trägt die Unabhängige Dopingkontrolleinrichtung. Die für Angelegenheiten des Sports zuständige Bundesministerin bzw. der für Angelegenheiten des Sports zuständige Bundesminister hat für die Vorsitzende oder den Vorsitzenden und für die am Verfahren teilnehmenden Mitglieder eine angemessene Funktionsgebühr für die Vorbereitung des Verfahrens, Teilnahme an der mündlichen Verhandlung, Vorsitzführung und Verfassung der Entscheidung festzulegen, für die Vorbereitung und Verfassung der Entscheidung pauschal und für die mündliche Verhandlung nach Zeitaufwand. Weiters gebühren allenfalls anfallende Reisekosten. Das in einem Verfahren anfallende Entgelt sowie der Ersatz der Reisekosten sind Teil der Kosten des Verfahrens.
+(6) § 5 Abs. 7 gilt sinngemäß für die Organe sowie Mitarbeiterinnen und Mitarbeiter der Unabhängigen Dopingkontrolleinrichtung sowie der ÖADR.
+(7) Die ÖADR ist bei der Unabhängigen Dopingkontrolleinrichtung eingerichtet.
+Unabhängige Schiedskommission (USK)
+§ 8.
+(1) Die Unabhängige Schiedskommission (USK) ist eine von staatlichen Organen, Sportorganisationen, Privaten und der Unabhängigen Dopingkontrolleinrichtung unabhängige Kommission. Die Mitglieder der USK dürfen weder an den Ermittlungen gegen eine Sportlerin oder einen Sportler oder eine sonstige Person noch an einer vorhergehenden Entscheidung oder sonstigen Vorbefassung in der betreffenden Angelegenheit noch an einer vorläufigen Suspendierung oder sonstigen Maßnahme noch an der Entscheidung, ob gegen eine Sportlerin oder einen Sportler oder eine sonstige Person ein Prüfantrag einzubringen war, noch an der von ihnen überprüften Entscheidung durch die ÖADR selbst beteiligt gewesen sein. Sie ist für die Überprüfung der Entscheidungen der ÖADR in Anti-Doping-Verfahren gemäß Anti-Doping-Standard eingerichtet.
+(2) Die USK hat, unter Berücksichtigung bei der Besetzung von zumindest 50 vH Frauen, aus einer oder einem Vorsitzenden und sieben Mitgliedern mit folgender Qualifikation zu bestehen, in die entsendet wird:
+1.
+die bzw. der Vorsitzende und deren bzw. dessen Stellvertretung müssen die Richteramts- oder Rechtsanwaltsprüfung aufweisen;
+2.
+zwei Mitglieder müssen ein abgeschlossenes Studium der Rechtswissenschaften und Erfahrung in der Durchführung von förmlichen Ermittlungsverfahren aufweisen;
+3.
+zwei Mitglieder müssen Expertinnen oder Experten der analytischen Chemie oder Toxikologie sein;
+4.
+zwei Mitglieder müssen Expertinnen oder Experten der Sportmedizin sein.
+Für jedes Verfahren hat die bzw. der Vorsitzende oder deren bzw. dessen Stellvertretung aus den Mitgliedern der USK zumindest ein Mitglied mit abgeschlossenem Studium der Rechtswissenschaften und Erfahrung in der Durchführung von förmlichen Ermittlungsverfahren, zumindest eine Expertin oder einen Experten der analytischen Chemie oder Toxikologie und zumindest ein Mitglied als Expertin oder Experten der Sportmedizin für die Durchführung des Verfahrens zu benennen. Für Überprüfungen gemäß § 12 Abs. 7 ist anstelle eines Mitglieds mit abgeschlossenem Studium der Rechtswissenschaften eine weitere Expertin oder ein weiterer Experte der Sportmedizin zu benennen.
+(3) Die oder der Vorsitzende, deren oder dessen Stellvertretung und die Mitglieder der USK sind von der für Angelegenheiten des Sports zuständigen Bundesministerin bzw. dem für Angelegenheiten des Sports zuständigen Bundesminister auf vier Jahre zu bestellen. Wiederbestellungen sind zulässig. Eine vorzeitige Abberufung ist aus wichtigen Gründen durch die für Angelegenheiten des Sports zuständige Bundesministerin bzw. den für Angelegenheiten des Sports zuständigen Bundesminister zulässig, insbesondere wenn
+1.
+eine der Voraussetzungen bzw. Befähigungen für die Mitgliedschaft in der USK entfällt,
+2.
+eine Verhinderung an der Erfüllung der Aufgaben von mehr als zwei Wochen besteht,
+3.
+die persönliche bzw. fachliche Eignung für die Erfüllung der Aufgaben nicht mehr gegeben ist oder Unfähigkeit zur ordnungsgemäßen Aufgabenerfüllung besteht,
+4.
+eine grobe Pflichtverletzung erfolgt ist,
+5.
+eine Entziehung des Vertrauens aus objektiv sachlichen Gründen erfolgt,
+6.
+ein Verstoß gegen Anti-Doping-Regelungen gemäß § 1 Abs. 2 rechtskräftig festgestellt wurde oder
+7.
+eine rechtskräftige Verurteilung gemäß SMG, § 28, oder Amtsverlust erfolgt ist.
+Die Mitglieder haben das Vorliegen eines wichtigen Grundes der Unabhängigen Dopingkontrolleinrichtung sowie der für Angelegenheiten des Sports zuständigen Bundesministerin bzw. dem für Angelegenheiten des Sports zuständigen Bundesminister unverzüglich zu melden. Die Mitglieder können jederzeit die Funktion zurücklegen. Scheidet ein Mitglied vorzeitig aus, ist auf die Restdauer der Funktionsdauer von der für Angelegenheiten des Sports zuständigen Bundesministerin bzw. dem für Angelegenheiten des Sports zuständigen Bundesminister ein neues zu bestellen. Die Mitglieder der Kommissionen entscheiden unabhängig von staatlichen Organen, Sportorganisationen, Privaten und der Unabhängigen Dopingkontrolleinrichtung. Sie entscheiden mit Stimmenmehrheit und sind beschlussfähig, wenn mindestens die Hälfte der Mitglieder anwesend ist. Bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden. Die USK kann Beschlüsse auch im Umlaufverfahren fassen, wenn aufgrund der klaren Sachlage eine Erörterung in einer Sitzung nicht erforderlich ist und kein Mitglied einer Beschlussfassung auf diesem Wege widerspricht. Die USK hat sich eine Verfahrensordnung im Einklang mit dem Anti-Doping-Standard zu geben, die die näheren Bestimmungen über den Ablauf des Verfahrens zu enthalten hat. Die Verfahrensordnung ist durch die Unabhängige Dopingkontrolleinrichtung in einer für jedermann zugänglichen Art und Weise auf ihrer Website zu veröffentlichen.
+(4) Der Sachaufwand der USK ist aus öffentlichen Mitteln, die der Unabhängigen Dopingkontrolleinrichtung bereitgestellt werden, zu tragen. Die für Angelegenheiten des Sports zuständige Bundesministerin bzw. der für Angelegenheiten des Sports zuständige Bundesminister hat für die Vorsitzende oder den Vorsitzenden und für die am Verfahren teilnehmenden Mitglieder eine angemessene Funktionsgebühr für die Vorbereitung des Verfahrens, Teilnahme an der mündlichen Verhandlung, Vorsitzführung und Verfassung der Entscheidung festzulegen, für die Vorbereitung und Verfassung der Entscheidung pauschal und für die mündliche Verhandlung nach Zeitaufwand. Weiters gebühren allenfalls anfallende Reisekosten. Das in einem Verfahren anfallende Entgelt sowie der Ersatz der Reisekosten sind Teil der Kosten des Verfahrens.
+(5) § 5 Abs. 7 gilt sinngemäß für die Organe sowie Mitarbeiterinnen und Mitarbeiter der Unabhängigen Dopingkontrolleinrichtung sowie der USK.
+Nationaler Testpool
+§ 9.
+(1) Die Unabhängige Dopingkontrolleinrichtung hat für die zielgerichtete Anti-Doping-Arbeit einen Nationalen Testpool einzurichten. Dieser Nationale Testpool gliedert sich in ein Topsegment, ein Basissegment und ein Mannschaftssegment. Für die Aufnahme von Sportlerinnen und Sportlern in den Nationalen Testpool und die jeweiligen Segmente ist durch die Unabhängige Dopingkontrolleinrichtung eine sportartbezogene und eine individuelle Risikoabschätzung durchzuführen.
+(2) Die sportartbezogene Risikoabschätzung ist insbesondere aufgrund folgender Faktoren durchzuführen:
+1.
+die physiologischen Anforderungen, die eine Sportart mit sich bringt;
+2.
+die möglichen leistungssteigernden Effekte, die Doping für eine Sportart zu bringen vermag;
+3.
+das durch seine Geschichte belegte Dopingrisiko einer Sportart;
+4.
+der durch Expertise belegte Dopingtrend einer Sportart;
+5.
+die auffällige Häufung von Verdachtsmomenten hinsichtlich Dopingpraktiken in einer Sportart;
+6.
+die Ergebnisse der vergangenen Testzyklen;
+7.
+die möglicherweise in den verschiedenen Leistungsstufen einer Sportart zu erreichenden Preisgelder oder erzielbaren Förderungen;
+8.
+die für den Leistungssport in Österreich besondere Bedeutung einer Sportart.
+(3) Die individuelle Risikoabschätzung ist insbesondere aufgrund folgender Faktoren durchzuführen:
+1.
+das aktuelle Leistungsniveau der Sportlerin oder des Sportlers in der jeweiligen Sportart;
+2.
+die potenzielle Leistungsentwicklung der Sportlerin oder des Sportlers in der jeweiligen Sportart;
+3.
+die Preisgelder und Förderungen, die mit dem Leistungsniveau gemäß Z 1 üblicherweise verbunden sind.
+(4) Dem Topsegment des Nationalen Testpools werden Sportlerinnen und Sportler zugeteilt, für die die Abschätzungen gemäß Abs. 2 und 3 in hohem Ausmaß zutreffen. Alle anderen ausgewählten Sportlerinnen und Sportler gehören dem Basissegment des Nationalen Testpools an.
+(5) Für Mannschaftssportarten der Bundes-Sportfachverbände wird ein Mannschaftssegment eingerichtet, wobei die Auswahl der aufzunehmenden Mannschaften in das Mannschaftssegment mittels einer sportartbezogenen Risikoabschätzung gemäß Abs. 2 und gemäß der Leistungsentwicklung der in Frage kommenden Mannschaften erfolgt. Diese Risikoabschätzung betrifft lediglich Mannschaften, die zum Zeitpunkt der Risikoabschätzung der höchsten Klasse und der zweithöchsten Klasse in Sportarten, die für den Leistungssport in Österreich von besonderer Bedeutung sind, angehören.
+(6) Sportlerinnen und Sportler, die während der Zugehörigkeit zum Nationalen Testpool suspendiert oder zeitlich befristet gesperrt worden sind, verbleiben für die Dauer der Suspendierung bzw. Sperre im Nationalen Testpool, sofern die Risikoabschätzung gemäß Abs. 3 einen solchen Verbleib begründet.
+(7) Aus dem Nationalen Testpool sind auszuscheiden:
+1.
+Sportlerinnen und Sportler, die aufgrund der sportartbezogenen und individuellen Risikoabschätzung gemäß Abs. 2 und 3 die Voraussetzungen für die Aufnahme nicht mehr erfüllen oder
+2.
+Sportlerinnen und Sportler, die der Unabhängigen Dopingkontrolleinrichtung die Beendigung der aktiven Laufbahn schriftlich mitteilen oder
+3.
+Mannschaften, die aufgrund der sportartbezogenen Risikoabschätzung die Voraussetzung für die Aufnahme nicht mehr erfüllen.
+(8) Die Unabhängige Dopingkontrolleinrichtung hat die betroffene Sportlerin bzw. den betroffenen Sportler bzw. die betroffene Mannschaft und den jeweiligen Bundes-Sportfachverband von der Aufnahme in den und vom Ausscheiden aus dem Nationalen Testpool bzw. dessen Segment zu informieren. Bei der Aufnahme sind der Sportlerin bzw. dem Sportler bzw. der Mannschaft durch die Unabhängige Dopingkontrolleinrichtung, die Gesetzesbestimmung, aufgrund welcher sie bzw. er in den Nationalen Testpool aufgenommen worden ist bzw. sind, und die damit verbundenen Meldepflichten bekannt zu geben. Mit der Information der Sportlerin bzw. des Sportlers bzw. der Mannschaft durch die Unabhängige Dopingkontrolleinrichtung entstehen ihre bzw. seine Meldepflichten gemäß § 25. Die Verpflichtungserklärung gemäß § 25 Abs. 1 ist vom jeweiligen Bundes-Sportfachverband einzuholen.
+Kostenersatz
+§ 10.
+(1) Die Unabhängige Dopingkontrolleinrichtung darf folgenden Kostenersatz verlangen:
+1.
+vom zuständigen Bundes-Sportfachverband bei einer verhängten Disziplinarmaßnahme gegenüber Sportlerinnen bzw. Sportlern oder sonstigen Personen die Kosten der Dopingkontrolle, des Labors und des Verfahrens vor der ÖADR;
+2.
+von der Sportlerin bzw. vom Sportler die Kosten der Analyse der „B-Probe“, wenn diese von ihr bzw. ihm verlangt wurde und normabweichend ist;
+3.
+von der Sportlerin bzw. vom Sportler die Kosten der auf ihr bzw. sein Verlangen hergestellten Labordokumentation;
+4.
+vom jeweils zuständigen Bundes-Sportfachverband die Kosten der Dopingkontrolle, die der Unabhängigen Dopingkontrolleinrichtung aufgrund einer versäumten Dopingkontrolle in Zusammenhang mit fehlerhaften Angaben gemäß § 25 Abs. 3, 4 bzw. 6 durch eine Sportlerin bzw. einen Sportler des Basissegments, Topsegments bzw. einer Mannschaft des Mannschaftssegments;
+5.
+von Organisationen gemäß § 13 Abs. 1, die die Dopingkontrolle bestellt haben, die Kosten der Dopingkontrolle und die des Labors;
+6.
+in den Fällen gemäß Z 5 ausnahmsweise von einem Dritten, wenn das auf den jeweiligen Wettkampf oder die jeweilige Wettkampfveranstaltung anzuwendende Reglement diesen zum Kostenersatz verpflichtet.
+7.
+vom Rechtsträger einer Mannschaft die Kosten eines diese Mannschaft betreffenden Verfahrens vor der ÖADR oder der USK.
+(2) Die Kosten gemäß Abs. 1 Z 2 und 3 sind der Unabhängigen Dopingkontrolleinrichtung von der Sportlerin bzw. dem Sportler im Voraus zu entrichten. Bei einem nicht normabweichenden Analyseergebnis der „B-Probe“ ist der Sportlerin bzw. dem Sportler der hierfür entrichtete Kostenersatz rückzuerstatten.
+(3) Die Kosten gemäß Abs. 1 Z 1 und 4 sind, soweit die Kosten nicht gemäß Abs. 1 Z 5 oder 6 ersetzt worden sind, vom Bundes-Sportfachverband und die Kosten gemäß Abs. 1 Z 5 oder 6 von der betreffenden Organisation innerhalb von vier Wochen nach Zahlungsaufforderung der Unabhängigen Dopingkontrolleinrichtung zu ersetzen.
+(4) Die Unabhängige Dopingkontrolleinrichtung hat den gemäß Abs. 3 erhaltenen Kostenersatz rückzuerstatten, wenn bei Anrufung der USK diese oder bei Anrufung des CAS dieser oder ein Zivilgericht festgestellt hat, dass kein Verstoß gegen Anti-Doping-Regelungen vorliegt.
+Bericht über die Einhaltung der Anti-Doping-Regelungen
+§ 11.
+Die Unabhängige Dopingkontrolleinrichtung hat jährlich bis Ende März der für Angelegenheiten des Sports zuständigen Bundesministerin bzw. dem für Angelegenheiten des Sports zuständigen Bundesminister einen Tätigkeitsbericht über das vorangegangene Kalenderjahr zu übermitteln und in diesem über die Einhaltung der Anti-Doping-Regelungen zu berichten. Im Tätigkeitsbericht sind gegliedert nach Sportorganisation und Sportarten jedenfalls anzuführen:
+1.
+die im betreffenden Kalenderjahr durchgeführten Dopingkontrollen;
+2.
+die Ergebnisse der Dopingkontrollen und die dabei festgestellten verbotenen Substanzen und Methoden;
+3.
+die Art der festgestellten Verstöße gegen Anti-Doping-Regelungen sowie die dabei verhängten Sicherungs- und Disziplinarmaßnahmen;
+4.
+die Entscheidungen über medizinische Ausnahmegenehmigungen;
+5.
+die Evaluierung der Maßnahmenpakete zur Dopingprävention gemäß § 3 Abs. 2;
+6.
+die Evaluierung der Pflichten der Sportorganisationen gemäß § 23 Abs. 2.
+Personenbezogene Daten sind zu anonymisieren, es hat lediglich eine Zuordnung zum jeweiligen Bundes-Sportfachverband zu erfolgen. Die für Angelegenheiten des Sports zuständige Bundesministerin bzw. der für Angelegenheiten des Sports zuständige Bundesminister hat diesen Bericht dem Nationalrat vorzulegen. Der Bericht ist durch die Unabhängige Dopingkontrolleinrichtung in einer für jedermann zugänglichen Art und Weise auf ihrer Website zu veröffentlichen.
+Medizinische Ausnahmegenehmigungen
+§ 12.
+(1) Ist die Einnahme von Arzneimitteln mit verbotenen Substanzen oder die Anwendung verbotener Methoden nach ärztlicher oder zahnärztlicher Diagnose aufgrund des medizinischen Zustandes, insbesondere bei Krankheit oder Verletzung der Sportlerin bzw. des Sportlers oder einer Sportlerin bzw. eines Sportlers einer Mannschaft, die oder der dem Nationalen Testpool angehört, erforderlich, muss vorab bei der Unabhängigen Dopingkontrolleinrichtung ein Antrag auf medizinische Ausnahmegenehmigung gestellt werden, sofern nach den geltenden Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes nicht dieser zuständig ist oder keine gültige Ausnahmegenehmigung einer Anti-Doping-Organisation vorliegt. Für diesen Antrag ist keine Gebühr zu entrichten.
+(2) Nationale Sportlerinnen und Nationale Sportler gemäß § 2 Z 26 lit. a bis c können vor der Einnahme von Arzneimittel mit verbotenen Substanzen oder der Anwendung verbotener Methoden nach ärztlicher oder zahnärztlicher Diagnose bei der Unabhängigen Dopingkontrolleinrichtung gegen Entrichtung eines pauschalen Kostenersatzes in der Höhe von 360 Euro eine medizinische Ausnahmegenehmigung beantragen.
+(3) Sportlerinnen und Sportler gemäß § 2 Z 31, für die Abs. 1 bzw. Abs. 2 nicht zur Anwendung gelangen, können einen Antrag auf medizinische Ausnahmegenehmigung erst in Zusammenhang mit einem eingeleiteten Dopingkontrollverfahren stellen. Für diesen Antrag ist keine Gebühr zu entrichten.
+(4) Der Antrag hat sämtliche Unterlagen zu enthalten, die gemäß dem Anti-Doping-Standard notwendig sind. Dies sind jedenfalls:
+1.
+das ärztliche, gegebenenfalls zahnärztliche Attest mit der Diagnose des medizinischen Zustandes, insbesondere der Krankheit oder Verletzung, und sämtliche relevante Befunde;
+2.
+die Ergebnisse der für die Diagnose durchgeführten Tests;
+3.
+der Name des zur Verabreichung vorgesehenen Arzneimittels oder die Beschreibung der vorgesehenen Behandlungsmethode;
+4.
+die medizinische Indikation, aufgrund der Arzneimittel mit verbotenen Substanzen verabreicht oder verbotene Behandlungsmethoden angewendet werden müssen;
+5.
+die Dosierung sowie die Art und Dauer der notwendigen Anwendung des Arzneimittels oder der Behandlungsmethode;
+6.
+die nach dem Anti-Doping-Standard erforderlichen Informationen und Daten sowie
+7.
+sonstige Informationen und Daten im Zusammenhang mit dem gesundheitlichen Zustand, sofern dies gemäß § 1 unbedingt erforderlich und verhältnismäßig ist;
+(5) Zur Entscheidung über Anträge auf eine medizinische Ausnahmegenehmigung hat die Unabhängige Dopingkontrolleinrichtung die medizinische Kommission (§ 5 Abs. 2 Z 2) heranzuziehen. Die medizinische Ausnahmegenehmigung ist nur dann zu erteilen, wenn die Einnahme von Arzneimitteln mit verbotenen Substanzen oder die Anwendung verbotener Methoden nach ärztlicher oder zahnärztlicher Diagnose aufgrund des medizinischen Zustandes, insbesondere bei Krankheit oder Verletzung der Sportlerin bzw. des Sportlers zum Zeitpunkt der Probennahme indiziert und durch entsprechende Belege begründet war. Die Entscheidung ist entsprechend dem Anti-Doping-Standard und innerhalb von 21 Tagen ab Einlangen des vollständigen Antrages zu treffen und der Sportlerin bzw. dem Sportler schriftlich mitzuteilen. Die Genehmigung ist befristet auf die Dauer der notwendigen Verabreichung oder Behandlung zu erteilen und erlischt danach automatisch. Die Befristung einer medizinischen Ausnahmegenehmigung darf zehn Jahre nicht überschreiten. Gesundheitsdaten der Sportlerin bzw. des Sportlers werden längstens bis zu zwölf Monate nach Widerruf bzw. Erlöschen der medizinischen Ausnahmegenehmigung aufbewahrt. Die Genehmigung sowie der Widerruf der medizinischen Ausnahmegenehmigung dürfen längstens für die Dauer von zehn Jahren nach Widerruf bzw. Erlöschen aufbewahrt werden. Ein Widerruf ist nur nach diesen Regelungen zulässig. Die Unabhängige Dopingkontrolleinrichtung hat hinsichtlich der Datenverarbeitung Maßnahmen zur Gewährleistung der Datensicherheit und des Datengeheimnisses, insbesondere diesbezügliche Belehrungen der Mitarbeiterinnen und Mitarbeiter, zu treffen.
+(6) Ausnahmsweise kann gemäß Anti-Doping-Standard die medizinische Ausnahmegenehmigung im Sinne des Abs. 1 nachträglich beantragt werden, wenn die Einnahme von Arzneimitteln mit verbotenen Substanzen oder die Anwendung verbotener Methoden nach ärztlicher oder zahnärztlicher Diagnose aufgrund des medizinischen Zustandes, insbesondere bei Krankheit oder Verletzung der Sportlerin bzw. des Sportlers erforderlich war. Die Notfallbehandlung ist unverzüglich schriftlich bei der gemäß Abs. 1 zuständigen Einrichtung anzuzeigen. Sobald es der Gesundheitszustand der Sportlerin bzw. des Sportlers zulässt, ist der Antrag auf medizinische Ausnahmegenehmigung zu stellen. Eine nachträgliche Beantragung im Sinne des Abs. 2 oder 3 ist auch aus sonstigen gemäß dem Anti-Doping-Standard berechtigten weiteren Gründen zulässig.
+(7) Wird keine medizinische Ausnahmegenehmigung gewährt, kann die betroffene Person innerhalb von 21 Tagen ab Zustellung der Entscheidung die Überprüfung ausschließlich bei der USK begehren, sofern nach den geltenden Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes nicht dieser zuständig ist.
+(8) Entscheidungen über medizinische Ausnahmegenehmigungen, die von einer anderen Anti-Doping-Organisation gefällt wurden, können von der Unabhängigen Dopingkontrolleinrichtung entsprechend den geltenden Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes bei der WADA beeinsprucht werden. Das Recht, die Entscheidung vor dem CAS entsprechend dem Anti-Doping-Standard anzufechten, bleibt von dieser Bestimmung unberührt.
+Einleitung und Anordnung von Dopingkontrollverfahren
+§ 13.
+(1) Dopingkontrollverfahren dienen der Überprüfung der Einhaltung der Anti-Doping-Regelungen und den Zielen des § 1. Dopingkontrollen als Teil des Dopingkontrollverfahrens können jederzeit innerhalb oder außerhalb von Wettkämpfen eingeleitet werden durch
+1.
+die Unabhängige Dopingkontrolleinrichtung und
+2.
+Anti-Doping-Organisationen (§ 2 Z 1).
+(2) Die Unabhängige Dopingkontrolleinrichtung hat für die Einleitung von Dopingkontrollverfahren einen Dopingkontrollplan (§ 2 Z 13) zu erstellen und diesen regelmäßig zu aktualisieren. Bei hinreichendem Verdacht der Verabreichung oder Einnahme verbotener Substanzen oder der Anwendung verbotener Methoden oder eines sonstigen Verstoßes gegen Anti-Doping-Regelungen ist eine Dopingkontrolle zwingend einzuleiten. Die Dopingkontrolle ist so vorzunehmen, dass sie den Sportlerinnen bzw. Sportlern erst im letztmöglichen Zeitpunkt ohne Vorankündigung bekannt wird.
+(3) Die Anordnung einer Dopingkontrolle der Unabhängigen Dopingkontrolleinrichtung aus eigenem oder über Bestellung einer in Abs. 1 angeführten Einrichtung hat schriftlich oder elektronisch zu erfolgen und mindestens den oder die Namen sowie das jeweilige Geburtsdatum der Sportlerinnen bzw. Sportler, den Zeitraum (maximal sieben Tage), in dem die Dopingkontrollen durchzuführen sind und die Leiterin bzw. den Leiter des Kontrollteams zu enthalten. Erfolgt die Einleitung durch eine nach Abs. 1 berechtigte andere Stelle, gilt deren Anordnung.
+(4) Bei Wettkämpfen kann die Leiterin bzw. der Leiter des Kontrollteams nach Legitimation Dopingkontrollen gegenüber Betreuungspersonen oder Wettkampfverantwortlichen ankündigen. Diese dürfen Sportlerinnen oder Sportler nicht direkt oder indirekt informieren.
+Durchführung von Dopingkontrollen
+§ 14.
+(1) Dopingkontrollen können durch die Unabhängige Dopingkontrolleinrichtung und Anti-Doping-Organisationen bzw. deren Dienstleisterinnen bzw. Dienstleister durchgeführt werden. Die Unabhängige Dopingkontrolleinrichtung ist insbesondere zuständig für:
+1.
+Dopingkontrollen bei Sportlerinnen bzw. Sportlern (§ 2 Z 31) und Tieren (§ 26);
+2.
+für Dopingkontrollen, die von den in § 13 Abs. 1 Z 2 genannten Stellen bestellt werden.
+(2) Dopingkontrollen, welche durch die Unabhängige Dopingkontrolleinrichtung durchgeführt werden, sind durch ein zumindest aus zwei Personen bestehendes und entsprechend akkreditiertes Kontrollteam durchzuführen. Proben im Rahmen der Dopingkontrolle dienen den in diesem Bundesgesetz festgelegten Zwecken. Mindestens eine Person des Kontrollteams, welche die Probennahme direkt beobachtet, muss dem Geschlecht der zu kontrollierenden Sportlerinnen bzw. Sportler angehören oder gegebenenfalls der Geschlechtszuordnung entsprechen, in der die Sportlerin oder der Sportler am Wettkampf teilnimmt oder teilzunehmen plant.
+(3) Blutproben im Rahmen der Dopingkontrolle dienen den in diesem Bundesgesetz festgelegten Zwecken und sind durch eine zur selbständigen Berufsausübung berechtigte Ärztin oder einen zur selbständigen Berufsausübung berechtigten Arzt oder von einer oder einem Angehörigen eines anderen Gesundheitsberufes auf ärztliche Anordnung (§ 49 Abs. 3 des Ärztegesetzes 1998 – ÄrzteG 1998, BGBl. I Nr. 169/1998) abzunehmen. Eine Ärztin mit entsprechender Erfahrung bzw. ein Arzt mit entsprechender Erfahrung kann die Abnahme von Blutproben im Rahmen der Dopingkontrolle für einen im Vorhinein festgelegten und eng begrenzten Personenkreis anordnen.
+(4) Vor Beginn der Dopingkontrolle haben sich die Mitglieder des Kontrollteams gegenüber den betroffenen Personen mittels Lichtbildausweis zu legitimieren und die auf den Namen lautende schriftliche oder elektronische Anordnung zur Dopingkontrolle vorzuweisen. Bei Minderjährigen, besonders schutzbedürftigen Personen gemäß § 2 Z 5 lit. c bzw. Menschen mit einer Sehbehinderung hat die Legitimation und Vorlage der Anordnung sowie die Ausfolgung der Gleichschrift gegebenenfalls auch gegenüber deren Bezugsperson (gesetzliche Vertreterin bzw. gesetzlicher Vertreter, Trainerin bzw. Trainer, Funktionärin bzw. Funktionär des Vereins, dem die Sportlerin bzw. der Sportler angehört) zu erfolgen.
+(5) Dopingkontrollen außerhalb von Wettkämpfen dürfen außer in begründeten Ausnahmefällen nicht zwischen 23:00 Uhr und 5:00 Uhr begonnen werden. Dopingkontrollen sind unter Achtung der Menschenwürde der betroffenen Personen vorzunehmen.
+(6) Über jede Kontrolle ist ein schriftliches oder elektronisches Protokoll aufzunehmen und von der Leiterin bzw. dem Leiter des Kontrollteams sowie der betroffenen Person zu unterfertigen. Die betroffene Person hat eine elektronische oder postalische Zustelladresse anzugeben. Der Inhalt der Anordnung sowie eine Gleichschrift des schriftlichen oder elektronischen Protokolls ist der betroffenen Person zeitnah auszuhändigen bzw. zu übermitteln.
+(7) Dopingkontrollen, die abweichend von den Abs. 2 bis 6 und § 13 durchgeführt wurden, sind ungültig, wenn die Abweichung ein von der Norm abweichendes Analyseergebnis oder einen anderen Verstoß gegen eine Anti-Doping-Regelung oder mehrere Anti-Doping-Regelungen verursacht hat. Hat die Sportlerin bzw. der Sportler nachgewiesen, dass die Dopingkontrolle nicht entsprechend den Regelungen durchgeführt wurde und die Abweichung nach vernünftigem Ermessen das von der Norm abweichende Analyseergebnis oder einen anderen Verstoß gegen Anti-Doping-Regelungen verursacht haben könnte, obliegt der Unabhängigen Dopingkontrolleinrichtung der Nachweis, dass die Abweichung nicht die Ursache für das von der Norm abweichende Analyseergebnis war oder die Tatsachengrundlage für einen Verstoß gegen Anti-Doping-Regelungen darstellte.
+(8) Ergibt sich bei Dopingkontrollen der Verdacht eines Verstoßes gegen Anti-Doping-Regelungen, hat das Kontrollteam der Unabhängigen Dopingkontrolleinrichtung den Sachverhalt mit den Beweismitteln unverzüglich mitzuteilen. Wird bei der Dopingkontrolle der unzulässige Besitz von verbotenen Substanzen oder von technischen Ausstattungen für die Anwendung verbotener Methoden festgestellt, hat auch die jeweilige Sportorganisation mitzuwirken, dass die betroffenen Sportlerinnen bzw. Sportler oder die betroffenen sonstigen Personen diese gegen Bestätigung dem Kontrollteam zur Verwahrung bei der Unabhängigen Dopingkontrolleinrichtung zwecks Beweissicherung mit Zustimmung aushändigen und dass das Eigentum daran bei Verhängung einer Disziplinarmaßnahme aus diesem Grunde an die Unabhängige Dopingkontrolleinrichtung übergeht. Ansonsten hat ab diesem Zeitpunkt eine Einstellung oder Rückforderung von etwaigen Förderungen aufgrund des BSFG 2017 der betroffenen Sportlerin bzw. des betroffenen Sportlers bzw. der betroffenen sonstigen Person bzw. bei Nichtmitwirkung auch der Sportorganisation, der die betroffene Sportlerin bzw. der betroffene Sportler bzw. die betroffene sonstige Person zurechenbar ist, zu erfolgen und ist keine weitere Förderung aufgrund des BSFG 2017 zu gewähren. Die Unabhängige Dopingkontrolleinrichtung hat das Eigentum der bisherigen Eigentümerin bzw. dem bisherigen Eigentümer bzw. den bisherigen Eigentümerinnen bzw. Eigentümern wieder zu übertragen, wenn nachgewiesen wird, dass weder Besitz noch Verwendung durch die betroffenen Sportlerinnen bzw. Sportler oder die betroffenen sonstigen Personen ermöglicht wurde.
+(9) Das Recht von ausländischen Sportorganisationen und ausländischen nationalen Anti-Doping-Organisationen, gemäß dem UNESCO-Übereinkommen in Österreich Dopingkontrollen bei Sportlerinnen bzw. Sportlern ihres Heimatlandes durchzuführen, bleibt unberührt. Dies gilt auch, wenn aufgrund der Vereinbarung zur Durchführung eines internationalen Wettkampfes in Österreich für die Vornahme von Dopingkontrollen andere Einrichtungen als jene in Abs. 1 vorgesehen sind.
+Analyse der Proben und Benachrichtigung der Sportlerin bzw. des Sportlers
+§ 15.
+(1) Für die Analyse der bei der Dopingkontrolle abgegebenen Proben auf verbotene Substanzen und Methoden darf die Unabhängige Dopingkontrolleinrichtung nur Labors heranziehen, die von der WADA hierfür akkreditiert oder anerkannt sind. „A-Probe“ und „B-Probe“ werden Probennummern zugeteilt, mit welcher sie dem Labor zugeleitet werden. Mit dem Labor hat die Unabhängige Dopingkontrolleinrichtung zu vereinbaren, dass die Proben entsprechend dem Anti-Doping-Standard, den die von der WADA akkreditierten oder anerkannten Labors anzuwenden haben, zu analysieren und zu dokumentieren sind. Dies gilt insbesondere auch für weiterführende Analysen aufgrund von auffälligen Analyseergebnissen.
+(2) Bei einem von der Norm abweichenden Analyseergebnis der „A-Probe“ hat die Unabhängige Dopingkontrolleinrichtung zunächst zu prüfen, ob eine einschlägige medizinische Ausnahmegenehmigung vorliegt oder offensichtlich keine Abweichung entsprechend dem Anti-Doping-Standard vorliegt, welche die Richtigkeit des von der Norm abweichenden Analyseergebnisses in Frage stellt oder es sonst offensichtlich ist, dass das abweichende Analyseergebnis aus einer Einnahme der jeweiligen verbotenen Substanz, die im konkreten Fall jedoch nicht verboten ist, resultiert. Wurde ein Antrag auf eine medizinische Ausnahmegenehmigung gestellt, ist über ihn unverzüglich gemäß § 12 zu entscheiden. Liegt keiner dieser Gründe vor oder ist die Unabhängige Dopingkontrolleinrichtung der Ansicht, dass eine Sportlerin oder ein Sportler oder eine sonstige Person einen sonstigen, nicht-analytischen Verstoß gegen Anti-Doping-Regelungen begangen hat, hat sie die Sportlerin oder den Sportler oder die sonstige Person unverzüglich nachweislich über diese Tatsache zu informieren und dieser oder diesem die Möglichkeit zu geben, innerhalb einer angemessenen Frist eine Stellungnahme abzugeben.
+(3) Verlangt die Sportlerin oder der Sportler rechtzeitig die Analyse der „B-Probe“, so hat die Unabhängige Dopingkontrolleinrichtung diese unverzüglich zu veranlassen. Sobald das Analyseergebnis vorliegt, ist dieses ohne Verzug der Sportlerin bzw. dem Sportler bekannt zu geben und dieser oder diesem eine angemessene Frist zur Stellungnahme einzuräumen.
+(4) Jede Mitteilung an die Sportlerin oder den Sportler oder eine sonstige Person gemäß dieser Bestimmung wird gleichzeitig von der Unabhängigen Dopingkontrolleinrichtung an die nationale Anti-Doping-Organisation der Sportlerin oder des Sportlers oder der sonstigen Person, den internationalen Sportfachverband und an die WADA übermittelt sowie unverzüglich an das Meldesystem gemäß § 2 Z 24 gemeldet.
+(5) Mit der Probennahme im Rahmen einer Dopingkontrolle durch die Unabhängige Dopingkontrolleinrichtung geht das Eigentum an der Probe auf die Unabhängige Dopingkontrolleinrichtung über. Proben sind von der Unabhängigen Dopingkontrolleinrichtung entsprechend dem Anti-Doping-Standard mindestens 1 Monat, jedenfalls aber für die Dauer der Sperre, längstens jedoch 10 Jahre ab dem Erhalt des Analyseergebnisses aufzubewahren. Dopingkontrollverfahren, Strafverfahren sowie diesen Verfahren vorgelagerte Ermittlungen nach diesem Bundesgesetz unterbrechen diese Aufbewahrungsfrist.
+2. Abschnitt
+Verfahrensbestimmungen
+Prüfantrag
+§ 16.
+Sofern die Unabhängige Dopingkontrolleinrichtung trotz Stellungnahme der Sportlerin oder des Sportlers oder nach verstrichener Frist gemäß § 15 Abs. 2 weiterhin der Ansicht ist, dass ein Verstoß gegen Anti-Doping-Regelungen oder gegen § 25 Abs. 8 bis 10 begangen wurde, hat diese unverzüglich ein Verfahren einschließlich der in den Regelungen des jeweiligen internationalen Sportfachverbandes vorgesehenen Sicherungsmaßnahmen bei der ÖADR zu beantragen (Prüfantrag). Der Prüfantrag ist unverzüglich an die betroffene Person zu übermitteln. Der jeweils zuständige Bundes-Sportfachverband ist nachweislich vom Einbringen eines Prüfantrages zu informieren.
+Einvernehmliche Beilegung
+§ 17.
+(1) Die von einem Prüfantrag gemäß § 16 betroffene Person kann den zur Last gelegten Verstoß gegen geltende Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes ab Zustellung des Prüfantrages vorbehaltlos eingestehen und die nach dem Anti-Doping-Standard dafür vorgesehene Disziplinarmaßnahme anerkennen.
+(2) Entsprechend dem Anti-Doping-Standard kann nach Antrag gemäß Abs. 1 die Dauer der Disziplinarmaßnahme gemindert werden und bereits mit dem Tag der Probennahme oder dem Tag des letzten weiteren Verstoßes gegen Anti-Doping-Regelungen beginnen. Der Antrag ist bei der ÖADR einzubringen.
+(3) Über den Antrag gemäß Abs. 1 entscheidet die oder der Vorsitzende der ÖADR. Die Zustimmung durch die WADA über diese Vorgehensweise richtet sich nach dem Anti-Doping-Standard.
+(4) § 18 Abs. 2 bis 8 und § 21 finden keine Anwendung.
+Verfahren vor der unabhängigen Österreichischen Anti-Doping Rechtskommission
+§ 18.
+(1) Die ÖADR hat nach Prüfantrag (§ 16) durch die Unabhängige Dopingkontrolleinrichtung (§ 5) ein Anti-Doping-Verfahren (§ 7 Abs. 1) unter Zugrundelegung der geltenden Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes einzuleiten. Hierüber sind die Parteien gemäß Abs. 2 und der jeweils zuständige Bundes-Sportfachverband sowie jene Anti-Doping-Organisationen, die ein Recht auf Überprüfung gegen die Entscheidung der ÖADR haben, nachweislich zu informieren.
+(2) Parteien des Verfahrens vor der ÖADR sind
+1.
+die vom Verdacht eines Verstoßes gegen Anti-Doping-Regelungen betroffene Person oder der Rechtsträger bzw. die vertretungsbefugte Person einer betroffenen Mannschaft und
+2.
+die Unabhängige Dopingkontrolleinrichtung als die den Prüfantrag (§ 16) betreibende Stelle und
+3.
+die WADA und
+4.
+die durch die geltenden Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes berechtigten juristischen Personen.
+(3) Bei Einleitung eines Anti-Doping-Verfahrens sind gegen die Partei gemäß Abs. 2 Z 1 die nach den geltenden Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes vorgesehenen Sicherungsmaßnahmen (z. B. Suspendierung) zu verhängen. Von der Entscheidung über die verhängte Sicherungsmaßnahme sowie der Verfahrensordnung der ÖADR sind die Parteien gemäß Abs. 2 Z 1 und 2 sowie der jeweils zuständige Bundes-Sportfachverband nachweislich zu informieren.
+(4) Sollte die Partei gemäß Abs. 2 Z 1 nicht bereits eine Stellungnahme gemäß § 15 Abs. 2 abgegeben haben, ist diese mit der Einleitung des Anti-Doping-Verfahrens darauf hinzuweisen, dass sie innerhalb von zwei Wochen ab Einleitung des Anti-Doping-Verfahrens
+1.
+sich schriftlich zu dem Vorwurf eines Verstoßes gegen Anti-Doping-Regelungen oder gegen § 25 Abs. 8 bis 10 äußern und
+2.
+auf eine mündliche Verhandlung verzichten
+kann. Verweigert die Partei gemäß Abs. 2 Z 1 beharrlich die Mitwirkung am Anti-Doping-Verfahren, so kann die mündliche Verhandlung unterbleiben. Wird von der Partei eine mündliche Verhandlung beantragt, ist diese unverzüglich von der ÖADR anzuberaumen. Sofern die Partei gemäß Abs. 2 Z 1 weder den ihr vorgeworfenen Verstoß gegen Anti-Doping-Regelungen sowie die daraus resultierenden Konsequenzen bekämpft noch eine mündliche Verhandlung verlangt, kann die ÖADR von einer mündlichen Verhandlung absehen. Die ÖADR kann in einem solchen Fall, sofern der Sachverhalt klar ist, ohne Anhörung eine schriftliche Entscheidung treffen.
+(5) Die ÖADR hat – unbeschadet der Regelungen gemäß Abs. 4 – eine mündliche Verhandlung durchzuführen. Die mündliche Verhandlung ist von der bzw. dem Vorsitzenden anzuberaumen und zu leiten. Erscheint eine Partei unentschuldigt nicht zu einer mündlichen Verhandlung, kann sie ohne die Teilnahme dieser Partei durchgeführt werden. Die Parteien gemäß Abs. 2 haben das Recht, Beweismittel vorzubringen, Zeuginnen und Zeugen zu benennen und zu befragen sowie einen Rechtsbeistand zuzuziehen. Eine Öffentlichkeit des Verfahrens kann von den Verfahrensparteien gemäß Abs. 2 beantragt werden, wobei es jedenfalls einer Zustimmung der Partei gemäß Abs. 2 Z 1 bedarf. Die ÖADR kann im Einzelfall aus sachlichen Gründen den gänzlichen oder teilweisen Ausschluss der Öffentlichkeit verfügen. Die Parteien gemäß Abs. 2 haben die Kosten ihrer Vertretung, der auf ihr Verlangen zugezogenen Sachverständigen, Dolmetscherinnen oder Dolmetscher und Zeuginnen und Zeugen sowie der von ihnen vorgelegten sonstigen Beweismittel zu tragen. Die ÖADR kann ebenfalls Sachverständige, Dolmetscherinnen oder Dolmetscher und Zeuginnen und Zeugen beiziehen, wobei die dafür anfallenden Kosten Teil der Verfahrenskosten sind.
+(6) Beweise, die unter Vortäuschung falscher Tatsachen oder rechtswidrig beschafft wurden, dürfen für die Feststellung eines Verstoßes gegen Anti-Doping-Regelungen nicht herangezogen werden.
+(7) Binnen acht Wochen ab Einbringung des Prüfantrages gemäß § 16 hat entweder eine schriftliche Entscheidung über die Einstellung bzw. den Ausgang des Anti-Doping-Verfahrens oder die Ausschreibung einer mündlichen Verhandlung zu erfolgen. Nach dem mündlichen Verfahren und damit einhergehendem Abschluss des Beweisverfahrens ist die endgültige Entscheidung binnen vier Wochen schriftlich und begründet zu erlassen. Das Verfahren ist binnen sechs Monaten nach Einleitung abzuschließen, wobei von der betroffenen Person oder dem Rechtsträger bzw. der vertretungsbefugten Person bzw. den Mitgliedern der betroffenen Mannschaft verursachte Verzögerungen in diese Frist einzurechnen sind. Bei einer Erweiterung des Prüfantrages beginnen die Fristen von neuem zu laufen.
+Sonstige Verfahrensbestimmungen
+§ 19.
+(1) In ihrer Entscheidung hat die ÖADR auch eine Bestimmung der Kosten gemäß § 10 vorzunehmen. Hinsichtlich dieser Kostenbestimmung können die Parteien gemäß § 18 Abs. 2 sowie der jeweils zuständige Bundes-Sportfachverband, sofern die Kosten nicht gemäß § 10 der betroffenen Person zum Ersatz auferlegt wurden, innerhalb von 21 Tagen ab Zustellung der Entscheidung die Überprüfung durch die USK begehren.
+(2) Die bzw. der Vorsitzende hat den Parteien am Ende des Verfahrens diese Kosten und deren Berechnung offen zu legen.
+(3) Die ÖADR hat spätestens 20 Tage nach Rechtskraft des Erkenntnisses die BSO, Sportorganisationen, Sportlerinnen bzw. Sportler, sonstige Personen und Wettkampfveranstalterinnen und -veranstalter sowie die Allgemeinheit über Entscheidungen in Anti-Doping-Verfahren unter Angabe des Namens der betroffenen Person, der Dauer der Sperre und Gründe hierfür, ohne dass auf besondere Kategorien personenbezogener Daten, insbesondere Gesundheitsdaten der betroffenen Person rückgeschlossen werden kann, nach individueller Abwägung der beteiligten Interessen unter Wahrung der Zielsetzungen dieses Bundesgesetzes unverzüglich zu informieren. Dabei ist zu beachten, dass insbesondere bei besonders schutzbedürftigen Personen sowie Freizeitsportlerinnen und Freizeitsportlern diese Information gemäß Anti-Doping-Standard unterbleiben kann. Ein besonderes, dabei zu beachtendes Offenlegungsinteresse kann bei Freizeitsportlerinnen und Freizeitsportlern bestehen, wenn ein Verstoß gegen Anti-Doping-Regelungen gemäß § 1 Abs. 2 Z 7 bis 9 und 11 festgestellt wurde.
+(4) Die ÖADR hat über einen Verstoß gegen Anti-Doping-Regelungen oder gegen § 25 Abs. 8 bis 10 und für die Festsetzung einer Sicherungs- oder Disziplinarmaßnahme entsprechend den Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes zu entscheiden. Insbesondere sind die Regelungen auch bei besonders schutzbedürftigen Personen, Minderjährigen, Freizeitsportlerinnen und Freizeitsportlern, oder bei Verstößen in Zusammenhang mit Substanzen mit Missbrauchspotenzial gemäß § 2 Z 33 heranzuziehen. Für eine allfällige Milderung der Disziplinarmaßnahme in Zusammenhang mit Substanzen mit Missbrauchspotenzial kann von der Sportlerin bzw. vom Sportler auf eigene Kosten entsprechend den Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes eine von der Unabhängigen Dopingkontrolleinrichtung anerkannte Betreuungseinrichtung aufgesucht werden.
+(5) Jede Mitteilung gemäß diesem Abschnitt an die betroffene Person wird gleichzeitig von der Unabhängigen Dopingkontrolleinrichtung an die jeweilige Anti-Doping-Organisation, an den internationalen Sportfachverband, die WADA sowie an jede Anti-Doping-Organisation, welcher entsprechend den Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes ein Recht auf Überprüfung der Entscheidung zukommt, übermittelt und unverzüglich in das Meldesystem gemäß § 2 Z 24 eingetragen. Der jeweilige Bundes-Sportfachverband wird seitens der Unabhängigen Dopingkontrolleinrichtung über den Spruch der Entscheidung der ÖADR informiert.
+Verjährung
+§ 20.
+Gegen die betroffene Person kann ein Anti-Doping-Verfahren aufgrund eines Verstoßes gegen Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes oder gegen § 25 Abs. 8 bis 10 nur dann eingeleitet werden, wenn die betroffene Person innerhalb von zehn Jahren ab dem Zeitpunkt des zur Last gelegten Verstoßes über diesen benachrichtigt wurde oder ein angemessener Versuch unternommen wurde, die betroffene Person zu benachrichtigen.
+Verfahren vor der Unabhängigen Schiedskommission
+§ 21.
+(1) Gegen Entscheidungen gemäß Anti-Doping-Standard, jedenfalls gegen Entscheidungen gemäß § 18 Abs. 7 und § 19 Abs. 1 können die Parteien gemäß Abs. 2 innerhalb von 21 Tagen ab Zustellung deren Überprüfung durch die USK begehren. Die Unabhängige Dopingkontrolleinrichtung hat der Partei gemäß Abs. 2 Z 3 mit Fristende den vollständigen Akt zu übermitteln. Die Partei gemäß Abs. 2 Z 3 kann innerhalb von 21 Tagen ab Zustellung die Überprüfung der Entscheidung durch die USK begehren. Die Entscheidung ist von der USK auf Rechtmäßigkeit zu überprüfen und kann wegen Rechtswidrigkeit ersatzlos behoben oder in jede Richtung abgeändert werden. Das Begehren auf Überprüfung hat keine aufschiebende Wirkung auf die Entscheidung gemäß § 18 Abs. 7, außer eine solche wird von der USK festgelegt.
+(2) Parteien des Verfahrens vor der USK sind
+1.
+die von der Entscheidung der ÖADR betroffene Person oder der Rechtsträger bzw. die vertretungsbefugte Person der betroffenen Mannschaft und
+2.
+die Unabhängige Dopingkontrolleinrichtung und
+3.
+die WADA und
+4.
+die durch die geltenden Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes berechtigten juristischen Personen.
+(3) Auf das Verfahren vor der USK finden die Bestimmungen der §§ 580 Abs. 1 und 2, 588 Abs. 2, 592 Abs. 1 und 2, 594 und 595, 597 bis 602, 604, 606 Abs. 1 bis 5, 608 Abs. 1 und 2 und 610 der Zivilprozessordnung (ZPO), RGBl. Nr. 113/1895, sinngemäß Anwendung. Die USK hat das Verfahren unter Zugrundelegung der geltenden Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes durchzuführen. Eine Öffentlichkeit des Verfahrens kann von den Verfahrensparteien gemäß Abs. 2 beantragt werden, wobei es jedenfalls einer Zustimmung der Partei gemäß Abs. 2 Z 1 bedarf. Die USK kann im Einzelfall aus sachlichen Gründen den gänzlichen oder teilweisen Ausschluss der Öffentlichkeit verfügen. § 19 Abs. 4 ist sinngemäß auf das Verfahren vor der USK anzuwenden.
+(4) Die USK hat binnen sechs Wochen ab Erhalt des Überprüfungsantrages entweder eine Entscheidung zu treffen oder eine mündliche Verhandlung auszuschreiben. Nach dem mündlichen Verfahren ist die endgültige Entscheidung binnen vier Wochen schriftlich und begründet zu erlassen. Das Verfahren ist binnen sechs Monaten nach Erhalt des Überprüfungsantrages abzuschließen, wobei von der Partei gemäß Abs. 2 Z 1 verursachte Verzögerungen in diese Frist einzurechnen sind. Bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden. Entscheidungen haben schriftlich zu ergehen und sind zu begründen. Für die Lösung zivilrechtlicher Streitigkeiten, steht nach Ausschöpfung des internen Instanzenzuges im Anti-Doping-Verfahren der Zivilrechtsweg weiterhin offen.
+(5) Die Parteien haben die Kosten ihrer Vertretung, der auf ihr Verlangen zugezogenen Sachverständigen und Zeuginnen und Zeugen sowie der von ihnen vorgelegten sonstigen Beweismittel zu tragen. Wird das Verfahren auf Antrag der betroffenen Person eingeleitet, so ist von dieser vorab ein Betrag in der Höhe der Einbringungsgebühr für einen Streitwert von über 7.000 Euro bis 35.000 Euro nach § 32 Tarifpost 2 des Gerichtsgebührengesetzes (GGG), BGBl. Nr. 501/1984, an die Unabhängige Dopingkontrolleinrichtung zu entrichten. Die entrichtete Einbringungsgebühr ist auf die Kosten des Verfahrens anzurechnen. Die Parteien haben, im Falle, dass diese einen Überprüfungsantrag vor der USK gemäß Abs. 1 eingebracht haben, die anteiligen Kosten für die Vorbereitung des Verfahrens, nach Festlegung durch die USK zu ersetzen, wenn der Überprüfungsantrag zurückgezogen wurde.
+(6) In ihrer Entscheidung hat die USK auch eine Bestimmung der Kosten des Verfahrens vorzunehmen. Die oder der Vorsitzende hat den Parteien am Ende des Verfahrens diese Kosten und deren Berechnung offen zu legen.
+(7) Bei einem bestätigten Verstoß gegen Anti-Doping-Regelungen sind die Kosten gemäß Abs. 6 um den in Abs. 5 bezeichneten, vorab geleisteten Betrag vermindert der betroffenen Person bis zu einem Höchstbetrag von 6.500 Euro zum Ersatz an die Unabhängige Dopingkontrolleinrichtung aufzuerlegen.
+(8) Wurde das Verfahren auf Antrag der Unabhängigen Dopingkontrolleinrichtung durchgeführt, sind die Verfahrenskosten dem jeweils zuständigen Bundes-Sportfachverband bis zu einem Höchstbetrag von 6.500 Euro aufzuerlegen.
+(9) Die Verfahrenskosten sind von der Unabhängigen Dopingkontrolleinrichtung rückzuerstatten, wenn kein Verstoß gegen Anti-Doping-Regelungen vorliegt oder dies bei nachfolgender Anrufung des CAS oder eines Zivilgerichts festgestellt wird.
+(10) Die USK hat, unbeschadet ihrer Zuständigkeit gemäß Abs. 1, zu entscheiden:
+1.
+gemäß § 12 Abs. 7 über die Nichtgewährung einer medizinischen Ausnahmegenehmigung unverzüglich, spätestens innerhalb von zwei Wochen ab Erhalt des Überprüfungsbegehrens, sofern keine der Parteien gemäß Abs. 2 eine längere Frist beantragt; Abs. 5 bis 9 gelten sinngemäß mit der Maßgabe, dass ein Betrag in der Höhe der Einbringungsgebühr für einen Streitwert von über 3.500 Euro bis 7.000 Euro nach § 32 Tarifpost 2 GGG vorab zu entrichten ist und der Höchstbetrag 3.250 Euro beträgt;
+2.
+gemäß § 19 Abs. 1 über die Bestimmung der Kosten unverzüglich, spätestens innerhalb einer Frist von acht Wochen ab Erhalt des Überprüfungsbegehrens abschließend zu entscheiden. Die Partei gemäß Abs. 2 Z 2 oder der jeweils zuständige Bundes-Sportfachverband kann bei der USK eine Verlängerung der Frist beantragen. Über die Verlängerung der Frist ist seitens der USK abschließend zu entscheiden. Abs. 5 bis 9 gelten sinngemäß mit der Maßgabe, dass ein Betrag in der Höhe der Einbringungsgebühr für einen Streitwert von über 3.500 Euro bis 7.000 Euro nach § 32 Tarifpost 2 GGG vorab zu entrichten ist. Der Höchstbetrag für ein solches Verfahren beträgt 3.250 Euro.
+(11) Parteien in den Angelegenheiten gemäß Abs. 10 sind:
+1.
+hinsichtlich der Entscheidung über die Nichtgewährung einer medizinischen Ausnahmegenehmigung die Parteien gemäß Abs. 2;
+2.
+hinsichtlich der Entscheidung über die Bestimmung der Kosten der jeweils zuständige Bundes-Sportfachverband und die Unabhängige Dopingkontrolleinrichtung.
+(12) Die näheren Bestimmungen über das Verfahren in den Angelegenheiten gemäß Abs. 10 sind in der Verfahrensordnung gemäß § 8 Abs. 3 zu treffen.
+(13) Die Entscheidungen der USK sind den Parteien des Verfahrens, dem jeweils zuständigen Bundes-Sportfachverband sowie den Anti-Doping-Organisationen, die ein Recht auf Überprüfung der Entscheidung der ÖADR haben, zuzustellen.
+(14) Die USK hat spätestens 20 Tage nach Rechtskraft des Erkenntnisses die BSO, Sportorganisationen, Sportlerinnen bzw. Sportler, sonstige Personen und Wettkampfveranstalterinnen und -veranstalter sowie die Allgemeinheit über Entscheidungen in Anti-Doping-Verfahren unter Angabe des Namens der betroffenen Person, der Dauer der Sperre und Gründe hierfür, ohne dass auf besondere Kategorien personenbezogener Daten, insbesondere Gesundheitsdaten der betroffenen Person rückgeschlossen werden kann, nach individueller Abwägung der beteiligten Interessen unter Wahrung der Zielsetzungen dieses Bundesgesetzes unverzüglich zu informieren. Dabei ist zu beachten, dass insbesondere bei besonders schutzbedürftigen Personen sowie Freizeitsportlerinnen und Freizeitsportlern diese Information gemäß Anti-Doping-Standard unterbleiben kann. Ein besonderes, dabei zu beachtendes Offenlegungsinteresse kann bei Freizeitsportlerinnen und Freizeitsportlern bestehen, wenn ein Verstoß gegen Anti-Doping-Regelungen gemäß § 1 Abs. 2 Z 7 bis 9 und 11 festgestellt wurde.
+Internationaler Sportgerichtshof (CAS)
+§ 22.
+Ungeachtet des Schiedsspruchs der USK können die Verfahrensparteien gemäß § 21 Abs. 2 beim CAS Berufung gegen die Entscheidung der USK einlegen. In Fällen, die im Zusammenhang mit der Teilnahme an einem internationalen Wettkampf stehen oder in Fällen von internationalen Sportlerinnen oder Sportlern, können Entscheidungen der ÖADR unmittelbar vor dem CAS angefochten werden.
+3. Abschnitt
+Sonderbestimmungen
+Besondere Pflichten der Sportorganisationen
+§ 23.
+(1) Sportorganisationen haben in ihrem Bereich mit den ihnen zu Gebote stehenden Mitteln die Dopingkontrollen zu unterstützen und die Einhaltung der verhängten Sicherungs- und Disziplinarmaßnahmen zu überwachen und durchzusetzen. Sie haben sicherzustellen, dass die Anti-Doping-Regelungen für alle zugehörigen Organisationen und deren Mitglieder Anwendung finden.
+(2) Sportorganisationen haben:
+1.
+die geltenden Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes oder der zuständigen internationalen Sportorganisation und die für den jeweiligen internationalen Wettkampf, zu dem eine Entsendung von Sportlerinnen bzw. Sportlern erfolgt, geltenden Anti-Doping-Regelungen anzuerkennen;
+2.
+die Bestimmungen dieses Bundesgesetzes anzuerkennen;
+3.
+ihre Mitglieder und die ihnen zugehörigen Sportlerinnen und Sportler, Betreuungspersonen sowie sonstige Personen regelmäßig über die Anti-Doping-Regelungen und insbesondere im Sinne des § 3 Abs. 2 bis 5 zu informieren;
+4.
+ihre Mitglieder sowie deren Sportlerinnen und Sportler und sonstige Personen anzuhalten, alle Informationen, die einen Verdacht auf einen Verstoß gegen Anti-Doping-Regelungen darstellen, an die Unabhängige Dopingkontrolleinrichtung oder andere Anti-Doping-Organisationen zu melden;
+5.
+in ihrem Bereich entsprechend dem Dopingrisiko und -muster der jeweiligen Sportart angemessene Dopingpräventionsmaßnahmen zu treffen und deren Einhaltung laufend zu überwachen;
+6.
+in ihren Teilnahmebedingungen für Wettkämpfe oder Wettkampfveranstaltungen vorzusehen:
+a)
+die Nichtzulassung von Sportlerinnen bzw. Sportlern und sonstigen Personen, die wegen Dopings suspendiert oder gesperrt sind;
+b)
+die Nichtzulassung von Sportlerinnen bzw. Sportlern während der in § 25 Abs. 8 und 9 genannten Zeiträume;
+c)
+die Verpflichtung der Sportlerin bzw. des Sportlers, die Bestimmungen gemäß § 25 anzuerkennen;
+d)
+die Anerkennung der Verpflichtungen aus diesem Bundesgesetz durch die Teilnehmenden.
+Sieht eine Vereinbarung gemäß § 14 Abs. 9 Abweichendes vor, so sind die Teilnahmebedingungen entsprechend anzupassen;
+7.
+der Unabhängigen Dopingkontrolleinrichtung das Ruhen, die Änderung, den Verlust oder die Niederlegung der Mitgliedschaft von Sportlerinnen oder Sportlern des Nationalen Testpools unverzüglich anzuzeigen, die für die Erstellung des nationalen Testpools jeweils aktualisierten Kaderlisten zu übermitteln sowie bei der Erstellung des Nationalen Testpools auf Anfrage zu unterstützen;
+8.
+ihre Mitglieder zu veranlassen, dass die ihnen zugehörigen Sportlerinnen und Sportler sowie sonstigen Personen den Aufforderungen der ÖADR und der USK Folge leisten und am Verfahren ordnungsgemäß mitwirken. Die Mitglieder haben zu gewährleisten, dass in ihren Reglements im Fall einer unbegründeten Nichtbefolgung einer Aufforderung oder einer verweigerten Mitwirkung durch die ihnen zugehörigen Sportlerinnen bzw. Sportler und sonstige Personen ein angemessener und wirksamer Sanktionsmechanismus vorgesehen ist;
+9.
+die Entscheidungen der ÖADR und der USK in den jeweiligen Auswirkungen auf ihren Wirkungsbereich anzuerkennen und umzusetzen;
+10.
+ihren Mitgliedern oder zugehörigen Organisationen sowie deren Sportlerinnen, Sportler und sonstige Personen die Verpflichtungen gemäß Z 1 bis 9 sowie § 25 Abs. 1, soweit sachlich in Frage kommend, durch Bestimmungen im Reglement oder vertraglich zu überbinden;
+11.
+der Unabhängigen Dopingkontrolleinrichtung auf Anfrage unverzüglich die Verpflichtungserklärung gemäß § 25 von Sportlerinnen bzw. Sportlern und sonstigen Personen zu übermitteln;
+12.
+sicherzustellen, dass Personen, die eine Sicherungs- oder Disziplinarmaßnahme verbüßen, nicht als Betreuungspersonen eingesetzt werden;
+13.
+eine Anti-Doping-Beauftragte oder einen Anti-Doping-Beauftragten zu ernennen, die oder der die Umsetzung der Maßnahmenpakete gemäß § 3 Abs. 2 in Abstimmung mit der Unabhängigen Dopingkontrolleinrichtung koordiniert. Diese oder dieser Anti-Doping-Beauftragte hat sich im Rahmen von speziellen Schulungsmaßnahmen, die von der Unabhängigen Dopingkontrolleinrichtung zu diesem Zweck angeboten werden, jährlich fortzubilden;
+14.
+angemessene und wirksame Sanktionsmechanismen in ihrem Reglement im Falle eines Verstoßes von Mannschaften gegen die Verpflichtungen gemäß § 25 Abs. 6 und 7 vorzusehen und die Unabhängige Dopingkontrolleinrichtung über den Ausgang zu informieren;
+15.
+angemessene und wirksame Sanktionsmechanismen in ihrem Reglement im Falle eines Verstoßes gegen die Verpflichtungen gemäß § 14 Abs. 8 vorzusehen und die Unabhängige Dopingkontrolleinrichtung über den Ausgang zu informieren;
+16.
+dafür zu sorgen, dass Betreuungspersonen oder sonstige Personen gemäß § 24 Abs. 2 nicht eingesetzt werden.
+(3) Sportorganisationen haben die zur Vornahme von Dopingkontrollen berechtigten Einrichtungen bei den Dopingkontrollen im erforderlichen Umfang zu unterstützen. Sie haben insbesondere im Rahmen ihres Zuständigkeitsbereiches:
+1.
+der Unabhängigen Dopingkontrolleinrichtung alle Ausschreibungen von Staatsmeisterschaften und österreichischen Meisterschaften unter Anführung der Bewerbe und des Zeitplans spätestens vier Wochen vor deren Beginn, bei Terminverschiebungen unverzüglich nach Kenntnis, spätestens einen Tag vor Beginn des Wettkampfes, schriftlich zu melden;
+2.
+der Unabhängigen Dopingkontrolleinrichtung die Zeiten und Orte der vorgesehenen Trainingslager, der Nationalteamlehrgänge, der Aufenthalte des Nationalteams, der Mannschaftstrainings sowie jede Änderung dieser Daten unverzüglich zu melden;
+3.
+vorzusorgen, dass während der Meisterschaften gemäß Z 1 und der internationalen Wettkämpfe und Wettkampfveranstaltungen in Österreich vor Ort die erforderliche räumliche Infrastruktur für die Dopingkontrollstation bereitsteht;
+4.
+Vertreterinnen und Vertretern der Unabhängigen Dopingkontrolleinrichtung und anderer berechtigter Anti-Doping-Organisationen nach deren Legitimation ungehinderten Zutritt zu den Wettkampf- und Trainingsstätten, Räumlichkeiten gemäß Z 3 sowie zu den Umkleideräumlichkeiten zu gewähren.
+(4) Bezüglich sonstiger Personen, die Sportlerinnen und Sportlern in Ausübung ihrer sportlichen Tätigkeit unterstützen, haben die Sportorganisationen sicher zu stellen, dass diese ihren jeweiligen Anti-Doping-Regelungen unterliegen.
+(5) Sportorganisationen dürfen nur gemäß § 24 zulässige Betreuungspersonen und nur Sportlerinnen bzw. Sportler, die die Verpflichtungserklärung gemäß § 25 abgegeben haben und nicht aufgrund einer Sicherungs- oder Disziplinarmaßnahme von der Teilnahme ausgeschlossen sind, zu Wettkämpfen entsenden. Sie haben alle Handlungen zu unterlassen, die den Anschein der Unterstützung von der Entsendung ausgeschlossener Personen für Tätigkeiten im Nahbereich der Mannschaft (nominierte Sportlerinnen bzw. Sportler und Begleitpersonen) erwecken können. Bei Vorliegen der Voraussetzungen gemäß Abs. 4 dürfen die betreffenden Sportlerinnen oder Sportler und Betreuungspersonen außerdem von den Sportorganisationen nicht unterstützt werden. Sportlerinnen bzw. Sportlern von Mannschaftssportarten kann vom zuständigen Bundes-Sportfachverband zwei Monate vor Ablauf der Sperre die Teilnahme am Training mit der Mannschaft gestattet werden. Ist das letzte Viertel der verhängten Sperre kürzer als zwei Monate, so gilt der kürzere Zeitraum für die Möglichkeit der Teilnahme am Training. Der Zeitraum für die Möglichkeit der Teilnahme am Training vor Ablauf der Sperre entspricht für im Zeitpunkt des Verstoßes gegen Anti-Doping-Regelungen besonders schutzbedürftige Personen der zweiten Hälfte der verhängten Sperre.
+(6) Sportorganisationen und die BSO dürfen nur Organisationen als Mitglieder aufnehmen, deren Reglements zusätzlich zu den Verpflichtungen gemäß Abs. 2 Z 10 den Vorgaben der Abs. 2 bis 5 entsprechen. Wenn aufgenommene Organisationen diese Regelungen wiederholt und die Anpassungsverpflichtung beharrlich verletzen, ist ihre Mitgliedschaft aufzulösen.
+(7) Bundes-Sportfachverbände und der Österreichische Behindertensportverband haben von Sportlerinnen und Sportlern, die in den Nationalen Testpool aufzunehmen sind, die Verpflichtungserklärung gemäß § 25 einzuholen. Nach deren Vorliegen haben sie der Unabhängigen Dopingkontrolleinrichtung deren Namen, Geburtsdatum, Foto, Sportart, Sportdisziplin, Kaderzugehörigkeit, Erreichbarkeit (Wohnadressen, postalische oder elektronische Zustelladressen, Telefonnummern) sowie deren Verein bekannt zu geben.
+(8) Bundes-Sportfachverbände und der Österreichische Behindertensportverband haben von Betreuungspersonen von Nationalen Sportlerinnen bzw. Nationalen Sportlern gemäß § 2 Z 26, die Verpflichtungserklärung gemäß § 24 einzuholen. Nach deren Vorliegen haben sie der Unabhängigen Dopingkontrolleinrichtung, zum Zweck der Dopingprävention gemäß § 3, deren Namen, Geburtsdatum und Erreichbarkeit (postalische oder elektronische Zustelladressen) bekannt zu geben.
+(9) Sportlerinnen und Sportler, die in den Nationalen Testpool aufzunehmen sind, dürfen durch Bundes-Sportfachverbände und den Österreichischen Behindertensportverband nur unterstützt und zu den von ihnen veranstalteten Wettkämpfen und Wettkampfveranstaltungen nur zugelassen werden, wenn sie die Verpflichtungserklärung gemäß § 25 abgegeben haben.
+(10) Die Organe, Mitarbeiterinnen und Mitarbeiter, sonstige Personen, Anti-Doping-Beauftragte und sonstige Funktionärinnen und Funktionäre von Sportorganisationen sind zur Verschwiegenheit über ihre Tätigkeit im Sinne dieses Bundesgesetzes verpflichtet, sofern gesetzlich nichts anderes vorgesehen ist. Die Verschwiegenheitspflicht gilt nicht gegenüber dem im Anlassfall zur Verhängung von Sicherungs- und Disziplinarmaßnahmen zuständigen Organ, der USK, den Gerichten und Verwaltungsbehörden sowie den Anti-Doping-Organisationen, die gemäß den geltenden Anti-Doping-Regelungen des zuständigen internationalen Sportfachverbandes zuständig sind.
+Besondere Pflichten der Betreuungspersonen
+§ 24.
+(1) Betreuungspersonen, welche Sportlerinnen bzw. Sportler in Zusammenhang mit der Vorbereitung oder Teilnahme an Wettkämpfen in Ausübung ihrer sportlichen Tätigkeit unterstützen oder mit ihnen zusammenarbeiten, unterliegen folgenden Verpflichtungen:
+1.
+Kenntnis und Einhaltung der jeweils aktuellen Anti-Doping-Regelungen des Bundes-Sportfachverbandes und der Regelungen dieses Bundesgesetzes, soweit sachlich in Frage kommend;
+2.
+den für den jeweiligen internationalen Wettkampf, zu dem ihre Entsendung erfolgt, geltenden Anti-Doping-Regelungen;
+3.
+Verstöße gegen Anti-Doping-Regelungen im Sinne des § 1 Abs. 2 zu unterlassen.
+4.
+keine verbotenen Substanzen oder Methoden ohne triftigen Grund zu verwenden oder zu besitzen;
+5.
+bei den Dopingkontrollen gemäß der §§ 14 und 15 jederzeit und an jedem Ort Unterstützung zu leisten;
+6.
+den Aufforderungen der ÖADR und der USK Folge zu leisten und an allfälligen Verfahren bzw. Maßnahmen ordnungsgemäß mitzuwirken;
+7.
+an Maßnahmen zur Dopingprävention gemäß § 3 teilzunehmen;
+8.
+der Unabhängigen Dopingkontrolleinrichtung und dem zuständigen internationalen Sportfachverband jede Entscheidung einer Organisation offenzulegen, wonach sie innerhalb der letzten zehn Jahre einen Verstoß gegen Anti-Doping-Regelungen oder gegen § 25 Abs. 8 bis 10 begangen haben, und in diesem Zusammenhang mit der Unabhängigen Dopingkontrolleinrichtung zu kooperieren;
+9.
+sich für Schulungen zur Verfügung zu stellen, um die Vermittlung von Anti-Doping-Informationen an die von ihnen betreuten Sportlerinnen bzw. Sportler zu unterstützen, insbesondere im Falle von besonders schutzbedürftigen Personen und Minderjährigen;
+10.
+ihren Einfluss auf die Werte und das Verhalten der Sportlerinnen bzw. Sportler zu nutzen, um die Dopingprävention gemäß § 3 zu fördern;
+11.
+für die Dauer einer Sperre, keine Tätigkeiten als Betreuungsperson für Sportlerinnen bzw. Sportler oder sonstige Personen zu erbringen, welche diesem Bundesgesetz unterliegen;
+12.
+die größtmögliche Sorgfalt bei der Unterstützung von Sportlerinnen bzw. Sportlern aufzubringen, um sie vor dem Risiko eines unbeabsichtigten Verstoßes gegen Anti-Doping-Regelungen zu schützen.
+Die Verpflichtungserklärung dieser Bestimmung sowie jene gemäß Abs. 2 sind von Betreuungspersonen Nationaler Sportlerinnen bzw. Nationaler Sportler gemäß § 2 Z 26 binnen zwei Wochen nach Aufforderung dem Bundes-Sportfachverband zu übermitteln. Die jeweilige Verpflichtungserklärung gilt für die Dauer des Betreuungsverhältnis zu Sportlerinnen und Sportlern.
+(2) Betreuungspersonen sind von ihrer Tätigkeit für Sportorganisationen und Sportlerinnen und Sportler ausgeschlossen
+1.
+wenn sie aufgrund eines Anti-Doping-Verfahrens gesperrt sind, für die Dauer der Sperre, wobei sie bei einer Sperre von mehr als 24 Monaten insgesamt sechs Jahre ab Beginn der Sperre nicht tätig werden dürfen;
+2.
+wenn sie aufgrund eines straf- oder standesrechtlichen Verfahrens für eine Handlung, die einen Verstoß gegen Anti-Doping-Regelungen dargestellt hätte, sanktioniert wurden, für die Dauer der Sanktion, mindestens jedoch für sechs Jahre seit der entsprechenden Entscheidung;
+3.
+wenn sie sich nicht schriftlich gegenüber der jeweils zuständigen Sportorganisation verpflichtet haben,
+a)
+sich den Anti-Doping-Regelungen des jeweiligen nationalen und internationalen Sportfachverbandes oder der jeweiligen internationalen Sportorganisation zu unterwerfen,
+b)
+die mit den Grundsätzen der Fairness im sportlichen Wettbewerb sowie dem Sportsgeist unvereinbaren Handlungsweisen zu unterlassen und
+c)
+der Sportorganisation eine postalische Zustelladresse oder elektronische Zustelladresse bekannt zu geben.
+Besondere Pflichten der Sportlerinnen und Sportler sowie Mannschaften
+§ 25.
+(1) Sportlerinnen und Sportler unterliegen folgenden Verpflichtungen:
+1.
+den jeweils aktuellen Anti-Doping-Regelungen des Bundes-Sportfachverbandes und den Regelungen dieses Bundesgesetzes, soweit sachlich in Frage kommend;
+2.
+den für den jeweiligen internationalen Wettkampf, zu dem ihre Entsendung erfolgt, geltenden Anti-Doping-Regelungen;
+3.
+Verstöße gegen Anti-Doping-Regelungen zu unterlassen und mit allen ihnen zu Gebote stehenden Mittel zu sorgen, dass keine verbotenen Substanzen in ihr Körpergewebe oder in ihre Körperflüssigkeit gelangen und keine verbotenen Methoden an ihnen angewendet werden;
+4.
+bei den Dopingkontrollen gemäß der §§ 14 und 15 jederzeit und an jedem Ort mitzuwirken;
+5.
+die Identität einer sonstigen Person, welche die Sportlerin oder den Sportler in Ausübung der sportlichen Tätigkeit unterstützt, auf Anfrage der Unabhängigen Dopingkontrolleinrichtung, eines nationalen Verbandes oder einer sonstigen für die jeweilige Sportlerin oder den jeweiligen Sportler zuständigen Anti-Doping-Organisation, offenzulegen;
+6.
+bei ärztlichen oder zahnärztlichen Behandlungen der Ärztin bzw. dem Arzt oder Zahnärztin bzw. Zahnarzt vor Verabreichung von Arzneimitteln oder Anwendung von Behandlungsmethoden mitzuteilen, dass sie den Bestimmungen dieses Bundesgesetzes unterliegen;
+7.
+zur Betreuung nur Personen heranzuziehen, die gemäß § 24 nicht hiervon ausgeschlossen sind;
+8.
+den Aufforderungen der ÖADR und der USK Folge zu leisten und an allfälligen Verfahren ordnungsgemäß mitzuwirken;
+9.
+an Maßnahmen zur Dopingprävention gemäß § 3 Abs. 2 teilzunehmen;
+10.
+der Unabhängigen Dopingkontrolleinrichtung und dem zuständigen internationalen Sportfachverband jede Entscheidung einer Organisation offenzulegen, wonach sie innerhalb der letzten zehn Jahre einen Verstoß gegen Anti-Doping-Regelungen begangen haben.
+(2) Sportlerinnen und Sportler, die gemäß § 9 in das Top- oder Basissegment des Nationalen Testpools aufzunehmen sind, haben sich gegenüber dem Bundes-Sportfachverband schriftlich zu verpflichten, die in Abs. 1 genannten und im Folgenden zusätzlich angeführten Verpflichtungen einzuhalten:
+1.
+die Beendigung der aktiven Laufbahn unverzüglich der Unabhängigen Dopingkontrolleinrichtung und dem Bundes-Sportfachverband zu melden;
+2.
+die Meldepflichten gemäß Abs. 3 oder 4, je nach Zugehörigkeit zum Top- oder Basissegment des Nationalen Testpools zu erfüllen;
+3.
+die Wohnadresse, postalische Zustelladressen oder elektronische Zustelladressen sowie jede Namensänderung unverzüglich der Unabhängigen Dopingkontrolleinrichtung und dem Bundes-Sportfachverband zu melden.
+Die Verpflichtungserklärung dieser Bestimmung sowie jene gemäß Abs. 1 sind von der Sportlerin bzw. vom Sportler binnen zwei Wochen nach Aufforderung dem Bundes-Sportfachverband zu übermitteln. Die Verpflichtungserklärung gilt für die Zeit der Zugehörigkeit der Sportlerin bzw. des Sportlers zum Nationalen Testpool.
+(3) Sportlerinnen und Sportler, die gemäß § 9 dem Topsegment des Nationalen Testpools angehören, haben zusätzlich zu den Verpflichtungen gemäß Abs. 1 und 2 bis jeweils 15. März, 15. Juni, 15. September und 15. Dezember oder, in Ausnahmefällen, in denen eine Sportlerin bzw. ein Sportler während des Quartals in den Nationalen Testpool aufgenommen wird, bis zu der von der Unabhängigen Dopingkontrolleinrichtung festgelegten Frist von maximal 15 Tagen, für das jeweils nachfolgende Quartal folgende personenbezogene Daten zu melden:
+1.
+für jeden Tag des folgenden Quartals ein bestimmtes 60-minütiges Zeitfenster zwischen 5.00 Uhr und 23.00 Uhr, zu dem sie bzw. er jedenfalls an einem bestimmten Ort für Dopingkontrollen erreichbar ist und zur Verfügung steht.
+2.
+für jeden Tag des folgenden Quartals den Ort und die vollständige Adresse, an der die Sportlerin bzw. der Sportler übernachten wird;
+3.
+für jeden Tag des folgenden Quartals den Ort und die vollständige Adresse, an der die Sportlerin bzw. der Sportler plant zu trainieren;
+4.
+ihren bzw. seinen Wettkampfplan für das folgende Quartal, einschließlich Ort und vollständiger Adresse, an der die Sportlerin bzw. der Sportler während des Quartals an Wettkämpfen teilnehmen wird.
+Alle Änderungen des Aufenthaltsorts oder der Erreichbarkeit während des Quartals sind unverzüglich nach Kenntnis bekannt zu geben, sofern diese Änderungen vor dem maßgeblichen Zeitfenster bzw. Zeitraum bzw. Ereignis gemäß Z 1 bis 4 erfolgen.
+(4) Auf Sportlerinnen und Sportler, die gemäß § 9 dem Basissegment des Nationalen Testpools angehören, findet Abs. 3 mit Ausnahme der Z 1 Anwendung.
+(5) Die Unabhängige Dopingkontrolleinrichtung hat den Sportlerinnen und Sportlern, die gemäß § 9 in das Top- oder Basissegment des Nationalen Testpools aufzunehmen sind, zur Wahrnehmung ihrer Meldepflichten gemäß Abs. 1 Z 5, Abs. 2 Z 3 sowie Abs. 3 und 4 ein elektronisches Meldesystem (§ 2 Z 24) zur Verfügung zu stellen. Die Sportlerinnen und Sportler haben ihre Meldepflichten über dieses System wahrzunehmen und zur Identitätsfeststellung ein dem Anti-Doping-Standard entsprechendes Foto zu hinterlegen. Diese personenbezogenen Daten und besonderen Kategorien personenbezogener Daten dürfen nur so lange verarbeitet werden, als dies für die Erfüllung der Aufgaben der Unabhängigen Dopingkontrolleinrichtung gemäß § 5 Abs. 1 Z 2 bis 8 erforderlich bzw. bei besonderen Kategorien personenbezogener Daten unbedingt erforderlich ist.
+(6) Mannschaften, die in den Nationalen Testpool aufgenommen wurden, haben zusätzlich zu den Verpflichtungen gemäß Abs. 1 Z 1 bis 9 durch den Rechtsträger bzw. die vertretungsbefugte Person bzw. die Mitglieder der Mannschaft wöchentlich, spätestens bis Sonntag, 23:59 Uhr in schriftlicher oder elektronischer Form, personenbezogene Daten (Name, Geburtsdatum, Foto, Sportart, Sportdisziplin, Kaderzugehörigkeit, Mannschaftszugehörigkeit, Erreichbarkeit (Wohnadressen, postalische Zustelladressen oder elektronische Zustelladressen, Telefonnummern) sowie Verein) sowie folgende personenbezogene Informationen an die Unabhängige Dopingkontrolleinrichtung zu übermitteln und im Bedarfsfall zu aktualisieren:
+1.
+für jeden Tag der folgenden Woche Ort und vollständige Adresse, an der die Mannschaft jeweils trainieren oder einer anderen sportlichen Tätigkeit nachgehen wird;
+2.
+die Wettkämpfe für die kommende Woche, einschließlich Ort und vollständiger Adresse, an der die Mannschaft während dieser Woche jeweils an Wettkämpfen teilnehmen wird;
+3.
+die für die Erstellung des nationalen Testpools jeweils aktualisierten Kaderlisten und die jeweilige Wohnadresse, postalische bzw. gegebenenfalls elektronische Zustelladresse sowie jede Namensänderung der Sportlerinnen und Sportler der Mannschaft.
+(7) Mannschaften, welche die Kriterien für die Aufnahme in den Nationalen Testpool nicht erfüllen, haben durch den Rechtsträger bzw. die vertretungsbefugte Person bzw. die Mitglieder der Mannschaft personenbezogene Daten (Name, Geburtsdatum, Foto, Sportart, Sportdisziplin, Kaderzugehörigkeit, Mannschaftszugehörigkeit, Erreichbarkeit (Wohnadressen, postalische Zustelladressen oder elektronische Zustelladressen, Telefonnummern) sowie Verein) sowie folgende personenbezogene Informationen auf Anfrage der Unabhängigen Dopingkontrolleinrichtung zu übermitteln:
+1.
+für jeden Tag der folgenden Woche Ort und vollständige Adresse, an der die Mannschaft jeweils trainieren oder einer anderen sportlichen Tätigkeit nachgehen wird;
+2.
+die Wettkämpfe für die kommende Woche, einschließlich Ort und vollständiger Adresse, an der die Mannschaft während dieser Woche jeweils an Wettkämpfen teilnehmen wird;
+(8) Sportlerinnen und Sportler, die zum Zeitpunkt der Beendigung der aktiven Laufbahn dem Topsegment des Nationalen Testpools gemäß § 9 Abs. 4 angehört haben, haben sechs Monate vor dem ersten internationalen oder nationalen Wettkampf die Wiederaufnahme der aktiven Laufbahn der Unabhängigen Dopingkontrolleinrichtung und dem zuständigen internationalen Sportfachverband schriftlich zu melden und nach erneuter Verpflichtungserklärung gemäß Abs. 1 für Dopingkontrollen zur Verfügung zu stehen. Alle wettkampfbezogenen Ergebnisse, die ohne vorherige Meldung der Wiederaufnahme der aktiven Laufbahn an die Unabhängige Dopingkontrolleinrichtung erzielt wurden, sind zu annullieren.
+(9) Sportlerinnen und Sportler, die während der vorläufigen Suspendierung beziehungsweise Sperre ihre aktive Laufbahn beenden, haben dies derjenigen Anti-Doping-Organisation schriftlich mitzuteilen, die gegen die Sportlerin bzw. den Sportler die Sperre verhängt hat. Möchte die Sportlerin bzw. der Sportler später wieder an Wettkämpfen auf nationaler Ebene bzw. an Internationalen Wettkämpfen teilnehmen, darf sie oder er solange nicht bei diesen Wettkämpfen starten, bis die Sportlerin bzw. der Sportler für Dopingkontrollen zur Verfügung steht, indem sie oder er den zuständigen internationalen Sportfachverband und die jeweilige nationale Anti-Doping-Organisation sechs Monate im Voraus schriftlich benachrichtigt hat (oder in einem Zeitraum, welcher der ab dem Tag ihres bzw. seines Ausscheidens aus dem Sport verbliebenen Dauer der Sperre entspricht, wenn dieser Zeitraum länger als sechs Monate beträgt).
+(10) Sportlerinnen bzw. Sportler, die einer Sicherungsmaßnahme (vorläufige Suspendierung) unterliegen oder über die eine Disziplinarmaßnahme (Sperre) verhängt wurde, dürfen während des Zeitraums der vorläufigen Suspendierung bzw. der Sperre nicht
+1.
+in irgendeiner Funktion an einem Wettkampf oder einer Aktivität teilnehmen (ausgenommen an genehmigten Programmen zur Dopingprävention oder Rehabilitationsprogrammen), die von einer Anti-Doping-Organisation oder einem Verein oder einer sonstigen Mitgliedsorganisation genehmigt, organisiert oder finanziert werden;
+2.
+an Wettkämpfen oder Trainingstätigkeiten in irgendeiner Funktion teilnehmen, die von einem Wettkampfveranstalter oder einer Organisation von internationalen Wettkämpfen oder Wettkämpfen auf nationaler Ebene genehmigt oder organisiert werden;
+3.
+an Wettkämpfen oder Trainingstätigkeiten in irgendeiner Funktion teilnehmen, die aus Bundes-Sportförderungsmitteln finanziert werden;
+4.
+sportbezogene Dienstleistungen erbringen, insbesondere (aber nicht beschränkt auf) die Tätigkeit als Trainerin bzw. Trainer oder Betreuungsperson für Sportlerinnen bzw. Sportler oder sonstige Personen, die zur Einhaltung der Anti-Doping-Regelungen verpflichtet sind;
+5.
+als Vorstandsmitglied, Funktionärin bzw. Funktionär, Direktorin bzw. Direktor, Offizielle bzw. Offizieller oder leitende Angestellte bzw. leitender Angestellter – oder in einer Position, die das Dopingkontrollverfahren oder den direkten Kontakt mit Sportlerinnen bzw. Sportlern betrifft – für eine Anti-Doping-Organisation oder deren Mitgliedsorganisationen tätig sein;
+6.
+Vergütungen von einer Anti-Doping-Organisation, einer Mitgliedsorganisation einer Anti-Doping-Organisation oder einem zugehörigen Verein beziehen, ausgenommen Vergütungen für Arbeitsleistungen, die nicht unter Z 5 verboten sind.
+Sonderbestimmungen für Tiere
+§ 26.
+(1) Die Bestimmungen dieses Bundesgesetzes sind auch auf Tiere sinngemäß anzuwenden, wobei allfällige Rechte und Pflichten gegenüber der Sportlerin bzw. dem Sportler, die bzw. der mit dem Tier den Sport ausübt, der für das Tier verantwortlichen Person und der Eigentümerin bzw. dem Eigentümer des Tieres gelten.
+(2) Bei Sportarten, in denen Tiere an Wettkämpfen teilnehmen, gilt außerdem Folgendes:
+1.
+für das Tier sind die verbotenen Substanzen und Methoden sowie jene Labors, die der zuständige internationale Sportfachverband festgelegt hat, maßgebend;
+2.
+die Meldepflicht gemäß § 25 Abs. 1 Z 5 umfasst auch den Einstellungsort, die Trainingszeiten und -orte des Tieres und obliegt der Sportlerin bzw. dem Sportler, die bzw. der mit dem Tier den Sport ausübt, der für das Tier verantwortlichen Person sowie der Eigentümerin bzw. dem Eigentümer des Tieres;
+3.
+bei Dopingkontrollen am Tier haben jene Personen gemäß Z 2 mitzuwirken, die zum Zeitpunkt des Beginns der Dopingkontrolle anwesend sind;
+4.
+das Verbot des Besitzes (§ 1 Abs. 2 Z 6 und Z 6a) und der Einflussnahme bei Dopingkontrollen am Tier (§ 1 Abs. 2 Z 5) sowie die Regelung gemäß § 1 Abs. 2 Z 9 gelten für alle in Z 2 angeführten Personen;
+5.
+die Personen gemäß Z 2 haben dafür zu sorgen, dass keine verbotenen Substanzen in den Körper des Tieres gelangen und keine verbotenen Methoden am Tier angewendet werden.
+(3) § 10 Abs. 1 Z 2 und 3 ist mit der Maßgabe auf Tiere anzuwenden, dass den Kostenersatz die Person zu leisten hat, die die Analyse der „B-Probe“ oder die Labordokumentation verlangt.
+(4) Die Rechte gemäß § 15 Abs. 2 und 3 kann eine der in Abs. 2 Z 2 angeführten Personen wahrnehmen.
+(5) Die Disziplinarmaßnahmen gemäß § 18 haben sich auch auf das Tier zu erstrecken. Die Unabhängige Dopingkontrolleinrichtung hat die in Abs. 2 Z 2 angeführten Personen und den zuständigen Bundes-Sportfachverband vom Spruch der ÖADR zu informieren.
+(6) § 7 Abs. 2 Z 2 und § 8 Abs. 2 Z 4 gelten jeweils mit der Maßgabe, dass anstelle der Expertinnen bzw. Experten der Sportmedizin zwei Expertinnen bzw. Experten der Veterinärmedizin dem Kreis der Mitglieder angehören zu haben, wobei für die Durchführung eines Verfahrens eine Expertin bzw. ein Experte als Mitglied zu nominieren ist.
+4. Abschnitt
+Besondere Informations- und Strafbestimmungen, berufsrechtliche Folgen von Doping
+Informationspflicht der Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Tierärztinnen und Tierärzte
+§ 27.
+(1) Ist bei der Behandlung durch eine Ärztin oder einen Arzt oder eine Zahnärztin oder einen Zahnarzt, die oder der für einen Sportverein oder eine Organisation gemäß § 3 Z 3, 9 oder 10 BSFG 2017 tätig ist oder die oder der eine Sportlerin oder einen Sportler, ärztlich oder zahnärztlich betreut, die Verabreichung von Arzneimitteln mit verbotenen Substanzen oder die Anwendung von verbotenen Methoden aufgrund des Mangels einer erlaubten Alternative erforderlich, so hat sie oder er die betroffene Person darüber zu informieren, sofern sie sich als Sportlerin oder Sportler (§ 2 Z 31) gegenüber der oder dem behandelnden Ärztin oder Arzt oder der oder dem behandelnden Zahnärztin oder Zahnarzt deklariert hat. Die behandelnde Ärztin bzw. der behandelnde Arzt oder die behandelnde Zahnärztin bzw. der behandelnde Zahnarzt hat der Sportlerin oder dem Sportler, auf ihr oder sein Verlangen darüber eine Bestätigung auszustellen.
+(2) Die Informationspflicht gemäß Abs. 1 besteht nicht in Notfällen.
+(3) Abs. 1 und 2 gelten sinngemäß für Tierärztinnen und Tierärzte, die für einen Sportverein oder eine Organisation gemäß § 3 Z 3, 9 oder 10 BSFG 2017 tätig sind oder die veterinärmedizinisch die für den Wettkampfeinsatz vorgesehenen Tiere betreuen. Die Informations- und Bestätigungspflicht besteht gegenüber der Sportlerin oder dem Sportler, der Tierhalterin oder dem Tierhalter oder der für das Tier verantwortlichen Person.
+Gerichtliche Strafbestimmungen
+§ 28.
+(1) Wer zu Zwecken des Dopings im Zusammenhang mit jeglicher sportlichen Aktivität
+1.
+für alle Sportarten verbotene Substanzen gemäß Referenzliste der Anti-Doping-Konvention (Verbotsliste), soweit diese nicht Suchtmittel im Sinne des SMG sind, in Verkehr setzt, bei Sportlerinnen und Sportlern oder anderen anwendet oder
+2.
+in der Verbotsliste genannte verbotene Methoden zur Manipulation von Blut bzw. Blutbestandteilen oder Gendoping (die nicht therapeutische Anwendung von Zellen, Genen, Genelementen oder der Regulierung der Genexpression zur Erhöhung der sportlichen Leistungsfähigkeit) bei Sportlerinnen und Sportlern oder anderen anwendet, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+(2) Ebenso ist zu bestrafen, wer in der Verbotsliste genannte anabole Wirkstoffe, Peptidhormone, Wachstumsfaktoren, verwandte Substanzen und Mimetika, Hormone und Stoffwechsel-Modulatoren in einer die Grenzmenge (Abs. 7) übersteigenden Menge mit dem Vorsatz besitzt, dass sie zu Zwecken des Dopings im Zusammenhang mit jeglicher sportlichen Aktivität in Verkehr gesetzt oder bei Sportlerinnen und Sportlern oder anderen angewendet werden.
+(3) Wer eine Straftat nach Abs. 1 Z 1 in Bezug auf in der Verbotsliste genannte anabole Wirkstoffe, Peptidhormone, Wachstumsfaktoren, verwandte Substanzen und Mimetika, Hormone und Stoffwechsel-Modulatoren begeht, ist mit Freiheitsstrafe bis zu einem Jahr zu bestrafen.
+(4) Wer
+1.
+eine Straftat nach Abs. 1 in Bezug auf besonders schutzbedürftige Personen begeht und im Fall, dass das Opfer minderjährig ist, selbst volljährig und mehr als zwei Jahre älter als die oder der Minderjährige ist, oder
+2.
+entweder eine Straftat nach Abs. 1 gewerbsmäßig nach § 70 des Strafgesetzbuches (StGB), BGBl. Nr. 60/1974 begeht, oder eine Straftat nach Abs. 1 begeht, innerhalb der letzten zwölf Monate vor der Tat zumindest drei solche Taten begangen hat und in der Absicht handelt, sich durch ihre wiederkehrende Begehung eine fortlaufende Einnahme zu verschaffen,
+ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+(5) Wer eine Straftat nach Abs. 4 in Bezug auf in der Verbotsliste genannte anabole Wirkstoffe, Peptidhormone, Wachstumsfaktoren, verwandte Substanzen und Mimetika, Hormone und Stoffwechsel-Modulatoren begeht, ist mit Freiheitsstrafe bis zu drei Jahren, handelt es sich jedoch um eine die Grenzmenge (Abs. 7) übersteigende Menge, mit Freiheitsstrafe bis zu fünf Jahren zu bestrafen.
+(6) Nach Abs. 1 bis 5 ist der Täter nur zu bestrafen, wenn die Tat nicht nach anderen Bestimmungen mit strengerer Strafe bedroht ist.
+(7) Die für Angelegenheiten des Sports zuständige Bundesministerin bzw. der für Angelegenheiten des Sports zuständige Bundesminister hat im Einvernehmen mit der für Angelegenheiten des Gesundheitswesens zuständigen Bundesministerin bzw. dem für Angelegenheiten des Gesundheitswesens zuständigen Bundesminister und der für Angelegenheiten der Justiz zuständigen Bundesministerin bzw. dem für Angelegenheiten der Justiz zuständigen Bundesminister mit Verordnung für die einzelnen in der Verbotsliste genannten anabolen Wirkstoffen, Peptidhormone, Wachstumsfaktoren, verwandte Substanzen und Mimetika, Hormone und Stoffwechsel-Modulatoren, bezogen auf die Reinsubstanz der Substanz, die Untergrenze jener Menge festzusetzen, die geeignet ist, in großem Ausmaß eine Gefahr für das Leben oder die Gesundheit von Menschen herbeizuführen (Grenzmenge).
+Sicherstellungsbefugnis und Informationspflichten der Zollbehörden
+§ 29.
+(1) Wenn bestimmte Tatsachen darauf schließen lassen, dass in der Verbotsliste genannte anabole Wirkstoffe, Peptidhormone, Wachstumsfaktoren, verwandte Substanzen und Mimetika, Hormone und Stoffwechsel-Modulatoren, die in einer die Grenzmenge (§ 28 Abs. 7) übersteigenden Menge über die Grenzen des Bundesgebietes verbracht werden, zu Zwecken des Dopings im Zusammenhang mit jeglicher sportlicher Aktivität in Verkehr gesetzt oder bei Sportlerinnen und Sportlern oder anderen angewendet werden sollen, so sind die Zollorgane befugt, die Gegenstände sicher zu stellen. Von der Sicherstellung haben sie unverzüglich der zuständigen Staatsanwaltschaft und der zuständigen Kriminalpolizei zu berichten. Erklärt diese, dass die Voraussetzungen einer Sicherstellung (§ 110 StPO) nicht vorliegen, ist die Sicherstellung sogleich aufzuheben.
+(2) Im Zusammenhang mit der Kontrolle der in Abs. 1 genannten Gegenstände, die in das, durch das oder aus dem Bundesgebiet verbracht werden, dürfen die Zollbehörden personenbezogene Daten gemäß Art. 4 Z 2 DSGVO verarbeiten und diese den zuständigen Behörden gemäß § 36 Abs. 2 Z 7 DSG übermitteln, soweit dies zur Erfüllung deren gesetzlicher Aufgaben erforderlich ist.
+Zusammenarbeit zwischen den zuständigen Behörden gemäß § 36 Abs. 2 Z 7 DSG und der Unabhängigen Dopingkontrolleinrichtung
+§ 30.
+(1) Die Unabhängige Dopingkontrolleinrichtung hat den zuständigen Behörden gemäß § 36 Abs. 2 Z 7 DSG die ihr zur Kenntnis gelangten Sachverhalte und die ihr zur Kenntnis gebrachten Entscheidungen, in denen ein Verstoß gegen Anti-Doping-Regelungen festgestellt wurde, und das Protokoll der mündlichen Verhandlung – auf Verlangen auch die übrigen Verfahrensunterlagen – zu übermitteln, wenn der begründete Verdacht einer von Amtswegen zu verfolgenden gerichtlich strafbaren Handlung besteht.
+(2) Die Staatsanwaltschaft ist nach Beendigung des Ermittlungsverfahrens verpflichtet, der Unabhängigen Dopingkontrolleinrichtung Namen, Geschlecht, Geburtsdatum und -ort, Staatsangehörigkeit und Wohnanschrift sowie die im Zuge des Ermittlungsverfahrens erhobenen Beweise zum Zwecke der Durchführung von Dopingkontrollverfahren jener Personen zu übermitteln, bei denen aufgrund der Ermittlungen der konkrete Verdacht besteht, dass diese einen Verstoß gegen Anti-Doping-Regelungen begangen haben. Die Übermittlung kann jedoch aufgeschoben werden, solange durch sie der Zweck des Verfahrens oder eines damit im Zusammenhang stehenden Verfahrens gefährdet wäre. Liegt eine solche Gefahr nicht vor, sind die zuständigen Behörden gemäß § 36 Abs. 2 Z 7 DSG auch vor Beendigung des Ermittlungsverfahrens ermächtigt, solche Auskünfte auf Verlangen der Unabhängigen Dopingkontrolleinrichtung im Sinne des Abs. 3 zu erteilen. Die Entscheidung zur Information obliegt den zuständigen Behörden gemäß § 36 Abs. 2 Z 7 DSG.
+(3) Sobald das Informieren der betroffenen Person gemäß Art. 12 bis 14 DSGVO den in Abs. 2 genannten Zwecken nicht mehr zuwiderläuft oder zuwiderlaufen kann, ist die betroffene Person nachweislich durch die Unabhängige Dopingkontrolleinrichtung über die Übermittlung zu informieren. Die betroffene Person hat das Recht, gegenüber der Unabhängigen Dopingkontrolleinrichtung eine zu dokumentierende Stellungnahme abzugeben. Art. 12 bis 22 DSGVO sind vom Zeitpunkt des Einlangens eines Ersuchens bis zum Zeitpunkt der Information der betroffenen Person insoweit beschränkt, als diese Rechte voraussichtlich die Verwirklichung der Zwecke gemäß Abs. 2 unmöglich machen oder ernsthaft beeinträchtigen und die Beschränkung für die Erfüllung der Zwecke des Ersuchens notwendig und verhältnismäßig ist.
+(4) Die Unabhängige Dopingkontrolleinrichtung hat in Strafverfahren wegen einer Straftat nach § 147 Abs. 1a StGB, oder nach § 28 sowie in mit Verstößen gegen Anti-Doping-Regelungen in unmittelbarem Zusammenhang stehenden Strafverfahren jedenfalls ein begründetes rechtliches Interesse auf Akteneinsicht gemäß § 77 Abs. 1 StPO.
+Berufsrechtliche Folgen von Doping
+§ 31.
+(1) Sofern dies nicht bereits durch eine entsprechende gesundheitsberufsrechtliche Regelung normiert wird, sind zur Durchführung des Verfahrens wegen des Verlustes der für die Ausübung des Gesundheitsberufes erforderlichen Vertrauenswürdigkeit gegen einen Angehörigen eines Gesundheitsberufes einschließlich des tierärztlichen Berufs die für die vorläufige Untersagung der Berufsausübung, Entziehung der Berechtigung zur Berufsausübung bzw. Verhängung einer Disziplinarstrafe in dem Gesundheitsberuf zuständigen Behörden sowie zuständige Disziplinarbehörden zu informieren:
+1.
+von der Staatsanwaltschaft über die Einleitung eines gerichtlichen Strafverfahrens nach diesem Bundesgesetz gegen eine oder einen Angehörigen des entsprechenden Gesundheitsberufs,
+2.
+von den Gerichten über eine rechtskräftige Verurteilung einer oder eines Angehörigen des entsprechenden Gesundheitsberufs wegen Verstoßes gegen eine Strafbestimmung nach diesem Bundesgesetz und
+3.
+von der Unabhängigen Dopingkontrolleinrichtung über die Verhängung einer Disziplinarstrafe gegen eine oder einen Angehörigen des entsprechenden Gesundheitsberufes oder wenn sich im Disziplinarverfahren Anhaltspunkte ergeben haben, dass eine solche Angehörige oder ein solcher Angehöriger bei der Begehung des Dopingvergehens beteiligt war.
+(2) Mit der Information gemäß Abs. 1 haben zu übermitteln:
+1.
+die Gerichte und die Unabhängige Dopingkontrolleinrichtung die Entscheidung und die Protokolle der mündlichen Verhandlung – auf Verlangen auch die übrigen Verfahrensunterlagen;
+2.
+die Staatsanwaltschaft alle Unterlagen, soweit dem nicht überwiegende öffentliche Interessen entgegenstehen.
+(3) Zur Durchführung des Verfahrens wegen des Verlustes der Zuverlässigkeit gemäß § 87 Abs. 1 Z 3 der Gewerbeordnung 1994 (GewO 1994), BGBl. Nr. 194, ist die zuständige Bezirksverwaltungsbehörde im Sinne der Abs. 1 und 2 zu informieren, wenn gegen eine Inhaberin oder einen Inhaber einer Gewerbeberechtigung für Fitnessbetriebe das gerichtliche Strafverfahren eingeleitet wird, die rechtskräftige Verurteilung erfolgte bzw. ein solcher bei der Begehung des Dopingvergehens beteiligt war.
+5. Abschnitt
+Schlussbestimmungen
+Abgrenzung zu anderen Gesetzen
+§ 32.
+Landesgesetzliche Regelungen im Sinne dieses Bundesgesetzes sowie die Regelungen des Arzneimittelgesetzes, BGBl. Nr. 185/1983, des Rezeptpflichtgesetzes, BGBl. Nr. 413/1972, sowie § 5 Abs. 2 Z 7 und § 38 des Tierschutzgesetzes, BGBl. I Nr. 118/2004, bleiben unberührt.
+Verweisung auf andere Rechtsvorschriften
+§ 33.
+Soweit in diesem Bundesgesetz auf andere Bundesgesetze verwiesen wird, bezieht sich dieser Verweis auf die jeweils geltende Fassung.
+Vollziehung
+§ 34.
+Mit der Vollziehung dieses Bundesgesetzes ist betraut:
+1.
+hinsichtlich des § 3 Abs. 1 die jeweils zuständige Bundesministerin bzw. der jeweils zuständige Bundesminister;
+2.
+hinsichtlich § 5 Abs. 9 die für Angelegenheiten des Sports zuständige Bundesministerin bzw. der für Angelegenheiten des Sports zuständige Bundesminister im Einvernehmen mit der Bundesministerin bzw. dem Bundesminister für Finanzen;
+3.
+hinsichtlich des § 28 Abs. 1 bis 6 die für Angelegenheiten der Justiz zuständige Bundesministerin bzw. der für Angelegenheiten der Justiz zuständige Bundesminister;
+4.
+hinsichtlich des § 28 Abs. 7 die für Angelegenheiten des Sports zuständige Bundesministerin bzw. der für Angelegenheiten des Sports zuständige Bundesminister im Einvernehmen mit der für Angelegenheiten des Gesundheitswesens zuständigen Bundesministerin bzw. dem für Angelegenheiten des Gesundheitswesens zuständigen Bundesminister und der für Angelegenheiten der Justiz zuständigen Bundesministerin bzw. dem für Angelegenheiten der Justiz zuständigen Bundesminister;
+5.
+hinsichtlich des § 29 die Bundesministerin bzw. der Bundesminister für Finanzen;
+6.
+hinsichtlich der §§ 30 und 31 die jeweils zuständige Bundesministerin bzw. der jeweils zuständige Bundesminister;
+7.
+im Übrigen die für Angelegenheiten des Sports zuständige Bundesministerin bzw. der für Angelegenheiten des Sports zuständige Bundesminister.
+In- und Außerkrafttreten
+§ 35.
+Dieses Bundesgesetz tritt mit 1. Jänner 2027 in Kraft. Zugleich tritt das Anti-Doping-Bundesgesetz 2021 – ADBG 2021, BGBl. I Nr. 152/2020, außer Kraft.
+Übergangsbestimmungen
+§ 36.
+(1) Alle mit Ablauf des 31. Dezember 2026 anhängigen Verfahren wegen eines Verstoßes gegen Anti-Doping-Regelungen richten sich nach dem zur Zeit des Verstoßes gegen Anti-Doping-Regelungen geltenden Recht, es sei denn, dass das zur Zeit der Entscheidung geltende Recht für die betroffene Person oder die betroffene Mannschaft günstiger wäre.
+(2) Verfahren wegen Verstößen gegen das ADBG 2021, BGBl. I Nr. 152/2020, richten sich nach den zum Zeitpunkt des Verstoßes gültigen Verfahrensbestimmungen, es sei denn, dass das zur Zeit der Entscheidung geltende Recht für die betroffene Person oder die betroffene Mannschaft günstiger wäre.
+(3) Sportorganisationen gemäß § 2 Z 32 und die BSO haben bis zum Ablauf des 30. Juni 2027 ihren Verpflichtungen gemäß § 23 nachzukommen und ihr Reglement (zB Statuten) entsprechend anzupassen. Falls Sportorganisationen Wettkämpfe oder Meisterschaften veranstalten, haben deren Teilnahmebedingungen ab dem 1. Juli 2027 § 23 Abs. 2 Z 6 zu entsprechen.
+Artikel 2
+Änderung des Bundes-Sportförderungsgesetzes 2017
+Das Bundes-Sportförderungsgesetz 2017 – BSFG 2017, BGBl. I Nr. 100/2017, zuletzt geändert durch das Budgetbegleitgesetz 2027-2028, BGBl. I Nr. 62/2026, wird wie folgt geändert:
+1. Dem § 1 Abs. 1 wird folgender Satz angefügt:
+„Die Prävention und Bekämpfung von Doping im Sport ist als gesamtgesellschaftliche Aufgabe im Rahmen der Förderung des Sports in Österreich gemäß § 1 des Bundesgesetzes zur Prävention und Bekämpfung von Doping im Sport – ADBG 2027, BGBl. I Nr. xxx/20XX, sicherzustellen.“
+2. In § 2 Abs. 1 wird der Punkt am Ende der Z 13 durch einen Strichpunkt ersetzt und folgende Z 14 angefügt:
+„14. Die Prävention und Bekämpfung von Doping im Sport gemäß ADBG 2027.“
+3. Nach § 26 Abs. 2 wird folgender Abs. 2a eingefügt:
+„(2a) Die Bundes-Sport GmbH hat der für Angelegenheiten des Sports zuständigen Bundesministerin bzw. dem für Angelegenheiten des Sports zuständigen Bundesminister die zur Erfüllung der Aufgaben nach diesem Bundesgesetz sowie dem ADBG 2027 erforderlichen personenbezogenen Daten zu übermitteln. Die für Angelegenheiten des Sports zuständige Bundesministerin bzw. der für Angelegenheiten des Sports zuständige Bundesminister ist ermächtigt, der Bundes-Sport GmbH die zur Erfüllung der Aufgaben nach diesem Bundesgesetz sowie dem ADBG 2027 erforderlichen personenbezogenen Daten zu übermitteln. Dies umfasst jeweils im Falle unbedingter Erforderlichkeit auch besondere Kategorien personenbezogener Daten.“
+4. Dem § 26 Abs. 11 wird folgender Abs. 12 angefügt:
+„(12) Abweichend von Abs. 10 gelten für die für Angelegenheiten des Sports zuständige Bundesministerin bzw. den für Angelegenheiten des Sports zuständigen Bundesminister folgende Aufbewahrungsfristen:
+1.
+im Rahmen der Gewährung bzw. Nichtgewährung von Förderverträgen für Sportinfrastruktur, Sportgroßveranstaltungen beziehungsweise Sportwissenschaft und Sporttechnologie mindestens fünfzehn Jahre, längstens dreißig Jahre,
+2.
+im Zusammenhang mit Verleihungen von Staatsbürgerschaften achtzig Jahre,
+3.
+im Zusammenhang mit staatlichen Auszeichnungen mindestens dreißig Jahre, längstens einhundertzwanzig Jahre,
+4.
+im Zusammenhang mit Sportleistungsabzeichen mindestens dreißig Jahre, längstens einhundertzwanzig Jahre,
+5.
+im Zusammenhang mit Maßnahmen des Bundes zur Einhaltung der Anti-Doping-Regelungen gemäß § 4 Abs. 2 bis 4 ADBG 2027 mindestens dreißig Jahre, längstens einhundertzwanzig Jahre.“
+5. Dem § 44 wird folgender Abs. 9 angefügt:
+„(9) § 1 Abs. 1 letzter Satz, § 2 Abs. 1 Z 13 und 14 sowie § 26 Abs. 2a und 12 in der Fassung des Bundesgesetzes BGBl. I Nr. xxx/20XX treten mit 1. Jänner 2027 in Kraft.“

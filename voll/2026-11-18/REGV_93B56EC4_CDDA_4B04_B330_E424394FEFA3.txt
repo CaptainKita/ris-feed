@@ -1,0 +1,83 @@
+RIS Dokument Regierungsvorlage
+Bundesgesetz, mit dem die Jurisdiktionsnorm, die Zivilprozessordnung und die Exekutionsordnung geändert werden (Anti-SLAPP-Richtlinie-Umsetzungsnovelle – ASRUN)
+Der Nationalrat hat beschlossen:
+Artikel 1
+Änderung der Jurisdiktionsnorm
+Die Jurisdiktionsnorm (JN), RGBl. Nr. 111/1895, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 61/2022, wird wie folgt geändert:
+1. Die §§ 92b und 92c erhalten die Paragraphenbezeichnungen „§ 92c.“ und „§ 92d.“ .
+2. Nach § 92a wird folgender § 92b samt Überschrift eingefügt:
+„Gerichtsstand für Klagen auf Kosten- und Schadenersatz aufgrund eines missbräuchlichen ausländischen Verfahrens gegen öffentliche Beteiligung
+§ 92b.
+Klagen auf Ersatz der Kosten und Klagen auf Ersatz des Schadens gegen einen Beklagten mit Wohnsitz außerhalb der Europäischen Union aufgrund eines missbräuchlichen Verfahrens gegen öffentliche Beteiligung vor dem Gericht eines Drittstaats können beim Gericht des allgemeinen Gerichtsstands des Klägers angebracht werden.“
+3. In § 104 Abs. 4 wird das Zitat „92b“ durch das Zitat „92d“ ersetzt.
+4. In der Überschrift des Vierten Teiles wird nach dem Wort „Übergangsbestimmungen“ die Wortfolge „sowie Umsetzungshinweise“ angefügt.
+5. Dem § 123 wird folgender Abs. 3 angefügt:
+„(3) §§ 92b, 92c, 92d und 104 Abs. 4 jeweils samt Überschriften in der Fassung der Anti-SLAPP-Richtlinie-Umsetzungsnovelle, BGBl. I, Nr. XX/202X, treten mit Ablauf des Tages der Kundmachung in Kraft. § 92b samt Überschrift ist in dieser Fassung auf Klagen anzuwenden, die nach dem Tag der Kundmachung eingebracht werden.“
+6. § 124 lautet:
+„ § 124. Mit der Anti-SLAPP-Richtlinie-Umsetzungsnovelle – ASRUN, BGBl I Nr. XX/202X, wird die Richtlinie (EU) 2024/1069 des Europäischen Parlaments und des Rates vom 11. April 2024 über den Schutz von Personen, die sich öffentlich beteiligen, vor offensichtlich unbegründeten Klagen oder missbräuchlichen Gerichtsverfahren („strategische Klagen gegen öffentliche Beteiligung“), ABl. Nr. L 1069 vom 16. April 2024 S. 1 umgesetzt.“
+Artikel 2
+Änderung der Zivilprozessordnung
+Die Zivilprozessordnung (ZPO), RGBl. Nr. 113/1895, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 85/2024, wird wie folgt geändert:
+1. Nach § 62 wird folgender § 62a eingefügt:
+„ § 62a. (1) Stellt der Beklagte einen Antrag auf Sicherheitsleistung für Prozesskosten gemäß § 239 Abs. 3 Z 3 2. Fall oder einen Antrag auf Sicherheitsleistung für Entschädigung gemäß §§ 239 Abs. 3 Z 3 3. Fall und 408, so sind die Bestimmungen der §§ 56, 57 Abs. 1, 59 Abs. 2 und §§ 60 bis 62 mit der Maßgabe anzuwenden, dass eine Sicherheitsleistung unabhängig von der Staatsangehörigkeit des Klägers aufzuerlegen ist, wenn hinreichende Anhaltspunkte dafür vorliegen, dass die Klage offensichtlich unbegründet ist oder die Klageerhebung missbräuchlich gegen öffentliche Beteiligung erfolgte.
+(2) Das Gericht hat dabei alle Prozesshandlungen mit der gebotenen Eile vorzunehmen.“
+2. Nach § 73b wird folgender Zehnter Titel eingefügt:
+„Zehnter Titel
+Unterstützung des Beklagten im Prozess
+§ 73c.
+(1) Stellt der Beklagte einen Antrag gemäß § 239 Abs. 3 Z 1a oder Z 3 2. oder 3. Fall, so kann er dem Verfahren zu seiner persönlichen Unterstützung Funktionäre, Arbeitnehmer oder ehrenamtliche Mitarbeiter einer gesetzlichen oder freiwilligen Berufsvereinigung, einer Interessenvertretung, eines Verbands, eines Vereins oder einer anderen geeigneten Einrichtung beiziehen, zu deren Aufgabenbereich jeweils die Unterstützung eines Beklagten in einem solchen Verfahren gehört.
+(2) Die unterstützende Person hat im Verfahren die Stellung einer Vertrauensperson. Sie darf den Beklagten auf dessen Wunsch zu allen Verhandlungen und Vernehmungen begleiten und ist vom Gericht von diesen Terminen zu verständigen.
+(3) Ein Kostenersatz für die Tätigkeit der unterstützenden Person findet nicht statt.“
+3. Nach § 239 Abs. 3 Z 1 wird folgende Z 1a eingefügt:
+„1a
+. zur Stellung des Antrages auf gänzliche oder teilweise Klagsabweisung bei offensichtlich unbegründeten Klagen gegen öffentliche Beteiligung,“
+4. In § 239 Abs. 3 Z 3 wird nach dem Wort „Prozesskosten“ die Wendung „, zur Stellung des Antrages auf Sicherheitsleistung für Prozesskosten wegen offensichtlich unbegründeter Klage oder missbräuchlicher Klageerhebung gegen öffentliche Beteiligung, zur Stellung des Antrages auf Sicherheitsleistung für Entschädigung wegen offensichtlich unbegründeter Klage oder missbräuchlicher Klageerhebung gegen öffentliche Beteiligung“ eingefügt.
+5. Nach § 261 wird folgender § 262 eingefügt:
+„ § 262. (1) Vor Entscheidung über einen Antrag nach § 239 Abs. 3 Z 1a hat das Gericht den Kläger anzuhören und ihm Gelegenheit zu weiterem Tatsachenvorbringen die Begründetheit der Klage betreffend zu geben. Es hat dabei alle Prozesshandlungen mit der gebotenen Eile vorzunehmen.
+(2) Gegen die Abweisung eines Antrags nach § 239 Abs. 3 Z 1a ist kein abgesondertes Rechtsmittel zulässig.“
+6. § 408 Abs. 1 lautet:
+„(1) Findet das Gericht, dass die unterliegende Partei offenbar mutwillig oder missbräuchlich gegen öffentliche Beteiligung Prozess geführt hat oder dass die Klage gegen öffentliche Beteiligung als offensichtlich unbegründet anzusehen ist, so kann es die unterliegende Partei auf Antrag der siegenden Partei zur Leistung eines entsprechenden Entschädigungsbetrages verurteilen.“
+7. Nach § 408 Abs. 1 wird folgender Abs. 1a eingefügt:
+„(1a) Der Entschädigungsbetrag umfasst auch Kosten der Rechtsvertretung, sofern diese nicht bereits vom Prozesskostenersatz abgedeckt oder überhöht sind.“
+8. Nach § 408 wird folgender § 408a eingefügt:
+„ § 408a. Das Gericht kann einen Entschädigungsbetrag nach § 408 auch in Verfahren über Klagen auf Ersatz der Kosten und Klagen auf Ersatz des Schadens aufgrund eines missbräuchlichen Verfahrens gegen öffentliche Beteiligung vor dem Gericht eines Drittstaats oder eines Verfahrens vor dem Gericht eines Drittstaats über eine Klage gegen öffentliche Beteiligung, die nach inländischem Recht als offensichtlich unbegründet anzusehen ist, bestimmen.“
+9. Die §§ 423 und 424 erhalten die Paragraphenbezeichnungen „§ 420.“ und „§ 421.“ .
+10. Nach § 421 wird folgender § 422 samt Überschrift eingefügt:
+„Urteilsveröffentlichung bei offensichtlich unbegründeter Klage oder missbräuchlicher Klageerhebung gegen öffentliche Beteiligung
+§ 422.
+(1) Bei offensichtlich unbegründeter Klage oder missbräuchlicher Klageerhebung gegen öffentliche Beteiligung hat das Gericht dem Beklagten auf dessen Antrag die Befugnis zuzusprechen, das Urteil oder Teile des Urteils innerhalb bestimmter Frist auf Kosten des Klägers zu veröffentlichen. Die Art der Veröffentlichung ist im Urteil zu bestimmen.
+(2) Dieser Antrag ist spätestens vier Wochen nach Rechtskraft des Urteils zu stellen. Ist der Antrag nach Schluss der mündlichen Streitverhandlung gestellt worden, so hat das Gericht erster Instanz hierüber nach Rechtskraft des Urteils mit Beschluss zu entscheiden.
+(3) Das Gericht erster Instanz hat auf Antrag des Beklagten die Kosten der Veröffentlichung festzusetzen und dem Kläger deren Ersatz aufzutragen. Auf Antrag des Beklagten kann es dem Kläger auch die Vorauszahlung der voraussichtlich für die Veröffentlichung auflaufenden Kosten binnen einer Frist von vier Wochen auftragen. Der Lauf der Frist zur Urteilsveröffentlichung wird durch einen Antrag auf Erlag der voraussichtlichen Veröffentlichungskosten bis zum Tag des Einlangens der Vorauszahlung oder der Abweisung dieses Antrags gehemmt. Der Beklagte hat dem Kläger nach erfolgter Veröffentlichung unter Bekanntgabe der tatsächlich aufgelaufenen Kosten einen allfälligen Mehrbetrag samt Zinsen zurückzuerstatten.
+(4) Die Veröffentlichung auf Grund eines rechtskräftigen Urteils oder eines anderen vollstreckbaren Exekutionstitels ist vom Medienunternehmer ohne unnötigen Aufschub vorzunehmen.“
+11. Nach § 422 wird folgender § 423 samt Überschrift eingefügt:
+„Sanktion bei offensichtlich unbegründeter Klage oder missbräuchlicher Klageerhebung gegen öffentliche Beteiligung
+§ 423.
+(1) Bei offensichtlich unbegründeter Klage oder missbräuchlicher Klageerhebung gegen öffentliche Beteiligung hat das Gericht dem Kläger zugleich mit dem Urteil eine wirksame, verhältnismäßige und abschreckende Geldstrafe aufzuerlegen.
+(2) Die Höhe der Geldstrafe beträgt das Dreifache des Streitwerts.
+(3) § 220 Abs. 2 und 4 gelten sinngemäß.“
+12. Dem § 636 wird folgender Abs. 5 angefügt:
+„(5) § 62a, § 73c samt Überschrift, § 239 Abs. 3 Z 1a und Z 3, § 262, § 408 Abs. 1, 1a und 3, § 408a, § 420, § 421, § 422 samt Überschrift und § 423 samt Überschrift jeweils in der Fassung der Anti-SLAPP-Richtlinie-Umsetzungsnovelle, BGBl. I, Nr. XX/202X, treten mit Ablauf des Tages der Kundmachung in Kraft. § 62a, § 73c samt Überschrift, § 239 Abs. 3 Z 1a und Z 3, § 262, § 408 Abs. 1, 1a und 3, § 408a, § 422 samt Überschrift und § 423 samt Überschrift in dieser Fassung sind auf Verfahren anzuwenden, in denen die Klage nach dem Tag der Kundmachung eingebracht wurde.“
+13. Der bisherige § 637 erhält die Absatzbezeichnung „(1)“ . Als neuer Abs. 2 wird angefügt:
+„(2) Mit der Anti-SLAPP-Richtlinie-Umsetzungsnovelle – ASRUN, BGBl I Nr. XX/202X, wird die Richtlinie (EU) 2024/1069 des Europäischen Parlaments und des Rates vom 11. April 2024 über den Schutz von Personen, die sich öffentlich beteiligen, vor offensichtlich unbegründeten Klagen oder missbräuchlichen Gerichtsverfahren („strategische Klagen gegen öffentliche Beteiligung“), ABl. Nr. L 1069 vom 16. April 2024 S. 1 umgesetzt.“
+Artikel 3
+Änderung der Exekutionsordnung
+Die Exekutionsordnung (EO), RGBl. Nr. 79/1896, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 136/2023, wird wie folgt geändert:
+1. Dem § 408 wird folgende Z 4 angefügt:
+„4.
+wenn durch die Vollstreckbarerklärung eine Entscheidung aus einem Verfahren gegen öffentliche Beteiligung durchgesetzt werden soll und nach inländischem Recht die dem Verfahren zugrundeliegende Klage als offensichtlich unbegründet oder die Klageerhebung als missbräuchlich anzusehen ist.“
+2. Nach § 505 wird folgender § 506 samt Überschrift angefügt:
+„Inkrafttretens- und Übergangsbestimmung sowie Umsetzungshinweis zur Anti-SLAPP-Richtlinie-Umsetzungsnovelle
+§ 506.
+(1) § 408 Z 4 in der Fassung der Anti-SLAPP-Richtlinie-Umsetzungsnovelle, BGBl. I, Nr. XX/202X, tritt mit Ablauf des Tages der Kundmachung in Kraft.
+(2) Mit der Anti-SLAPP-Richtlinie-Umsetzungsnovelle – ASRUN, BGBl I Nr. XX/202X, wird die Richtlinie (EU) 2024/1069 des Europäischen Parlaments und des Rates vom 11. April 2024 über den Schutz von Personen, die sich öffentlich beteiligen, vor offensichtlich unbegründeten Klagen oder missbräuchlichen Gerichtsverfahren („strategische Klagen gegen öffentliche Beteiligung“), ABl. Nr. L 1069 vom 16. April 2024 S. 1 umgesetzt.“
+Artikel 4
+Strategische Klage gegen öffentliche Beteiligung (SLAPP)
+§ 1.
+(1) Strategische Klagen gegen öffentliche Beteiligung („SLAPPs“) sind Klagen, die vom Kläger als Mittel der Einschüchterung oder Schikane gegen den Beklagten eingesetzt werden und deren Hauptzweck darin besteht, die freie Meinungsäußerung zu Angelegenheiten von öffentlichem Interesse sowie die Ausübung der damit verbundenen Rechte zu verhindern, zu behindern, einzuschränken oder zu sanktionieren.
+(2) Öffentliche Beteiligung umfasst jede Äußerung, Tätigkeit, vorbereitende Handlung oder Unterstützungsmaßnahme einer natürlichen oder juristischen Person, die der Ausübung der Freiheit der Meinungsäußerung und Informationsfreiheit, der Freiheit der Kunst und Wissenschaft, der Versammlungs- und Vereinigungsfreiheit oder der demokratischen Teilhabe dient und sich auf eine Angelegenheit von öffentlichem Interesse bezieht.
+(3) Eine Angelegenheit von öffentlichem Interesse ist jede Angelegenheit, die die Allgemeinheit in einem solchen Ausmaß betrifft, dass die Öffentlichkeit ein berechtigtes Interesse an Information, Diskussion oder Kontrolle haben kann.
+(4) Eine Klage ist offensichtlich unbegründet, wenn sie ohne nähere Prüfung nach objektiver Betrachtung und unter Berücksichtigung aller Umstände keine hinreichende rechtliche oder tatsächliche Grundlage hat oder erkennbar nicht der Durchsetzung eines legitimen Anspruchs dient.
+(5) Ein Verfahren ist missbräuchlich, wenn es nicht der tatsächlichen Durchsetzung eines Rechtsanspruchs dient, sondern sein Hauptzweck darin besteht, öffentliche Beteiligung zu verhindern, zu behindern, einzuschränken oder zu sanktionieren.
+Inkrafttreten
+§ 2.
+Artikel 4 des Bundesgesetzes BGBl. I Nr. XX/202X tritt mit Ablauf des Tages der Kundmachung in Kraft.

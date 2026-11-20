@@ -1,0 +1,12 @@
+RIS Dokument Gericht
+Verwaltungsgerichtshof
+Entscheidungsdatum
+19.10.2026
+Geschäftszahl
+Ra 2026/15/0062
+Hinweis auf Stammrechtssatz
+GRS wie Ra 2026/15/0142 B 29. September 2026 RS 1
+Stammrechtssatz
+Für die Wirksamkeit einer Amtssignatur kommt es nicht darauf an, ob den Bescheiden auch die Beweiskraft einer öffentlichen Urkunde gemäß § 20 E-GovG zukommt, sondern es genügt, dass die Voraussetzungen des § 19 Abs. 3 E-GovG zum Vorliegen einer Amtssignatur erfüllt sind (vgl. VwGH 27.3.2023, Ro 2022/12/0028).
+European Case Law Identifier
+ECLI:AT:VWGH:2026:RA2026150062.L02

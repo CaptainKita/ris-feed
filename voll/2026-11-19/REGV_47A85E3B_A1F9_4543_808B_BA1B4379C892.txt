@@ -1,0 +1,145 @@
+RIS Dokument Regierungsvorlage
+Bundesgesetz, mit dem das Informationssicherheitsgesetz geändert wird
+Der Nationalrat hat beschlossen:
+Das Bundesgesetz über die Umsetzung völkerrechtlicher Verpflichtungen zur sicheren Verwendung von Informationen (Informationssicherheitsgesetz, InfoSiG), BGBl. I Nr. 23/2002, zuletzt geändert durch das Informationsfreiheits-Anpassungsgesetz, BGBl. I Nr. 50/2025, wird wie folgt geändert:
+1. Der Titel lautet:
+„Bundesgesetz über den Schutz klassifizierter Informationen sowie die Umsetzung völkerrechtlicher Verpflichtungen zur sicheren Verwendung von Informationen (Informationssicherheitsgesetz – InfoSiG)“
+2. Vor dem ersten Abschnitt wird folgendes Inhaltsverzeichnis eingefügt:
+„1. Abschnitt
+Allgemeine Bestimmungen
+§ 1.
+Ziel und Anwendungsbereich
+§ 2.
+Klassifizierung von Informationen
+§ 3.
+Voraussetzungen für die Weitergabe klassifizierter Informationen
+§ 4.
+Verschwiegenheitspflicht
+§ 5.
+Amtshilfe
+§ 6.
+Informationssicherheitsverordnung
+§ 7.
+Informationssicherheitsbeauftragte
+§ 8.
+Informationssicherheitskommission
+§ 9.
+Gerichtlich strafbare Handlungen
+§ 10.
+Verwaltungsübertretung
+2. Abschnitt
+Industrielle Sicherheit
+§ 11.
+Sicherheitsunbedenklichkeitsbescheinigungen für Unternehmen, Einrichtungen und Anlagen
+§ 12.
+Ausstellung und Widerruf von Sicherheitsunbedenklichkeitsbescheinigungen
+§ 13.
+Kostenersatzpflicht
+3. Abschnitt
+Gemeinsame Bestimmungen
+§ 14.
+Internationale Übereinkommen
+§ 15.
+Sprachliche Gleichbehandlung
+§ 16.
+Verweisungen
+§ 17.
+Vollziehung
+§ 18.
+Inkrafttreten“
+3. Nach der Bezeichnung des 1. Abschnitts wird folgende Abschnittsüberschrift eingefügt:
+„Allgemeine Bestimmungen“
+4.§§ 1 bis 4 samt Überschriften lauten:
+„Ziel und Anwendungsbereich
+§ 1.
+(1) Das Gesetz findet zum Schutz klassifizierter Informationen Anwendung auf den Bereich der Dienststellen des Bundes sowie auf Dritte, an die klassifizierte Informationen im Rahmen dieses Gesetzes weitergegeben werden.
+(2) § 3 gilt nicht für die Weitergabe klassifizierter Informationen an den Bundespräsidenten, die Mitglieder der Bundesregierung, die Staatssekretäre, die Richter und Staatsanwälte, die Mitglieder und Ersatzmitglieder des Verfassungsgerichtshofes, den Präsidenten des Rechnungshofes und die Volksanwälte in Ausübung ihrer verfassungsgemäßen Aufgaben. Die Weitergabe klassifizierter Informationen an diese Personen unterliegt keinen Beschränkungen nach diesem Bundesgesetz. Die Vorgaben zum Schutz klassifizierter Informationen dieses Bundesgesetzes sind in jedem Fall auch von diesen Personen einzuhalten.
+(3) Die Weitergabe klassifizierter Informationen nach § 3 an den Nationalrat und den Bundesrat sowie der Umgang mit klassifizierten Informationen im Bereich des Nationalrates und des Bundesrates richten sich nach dem Informationsordnungsgesetz – InfOG, BGBl. I Nr.102/2014.
+Klassifizierung von Informationen
+§ 2.
+(1) Klassifizierte Informationen sind materielle und immaterielle Informationen, die unabhängig von Darstellungsform und Datenträger auf Grund eines besonderen Geheimhaltungsinteresses schutzbedürftig und einer der Klassifizierungsstufen des Abs. 2 zugeordnet sind.
+(2) Schutzbedürftige Informationen sind entsprechend den Auswirkungen einer Preisgabe in Hinblick auf das Ausmaß und die Eintrittswahrscheinlichkeit eines Schadens den folgenden Klassifizierungsstufen zuzuordnen:
+1.
+„EINGESCHRÄNKT“, wenn die Preisgabe der Informationen zwingenden integrations- oder außenpolitischen Interessen, Interessen der nationalen Sicherheit, der umfassenden Landesverteidigung oder der Aufrechterhaltung der öffentlichen Ordnung und Sicherheit, der Vorbereitung einer Entscheidung, der Abwehr eines erheblichen wirtschaftlichen oder finanziellen Schadens einer Gebietskörperschaft oder eines sonstigen Selbstverwaltungskörpers oder überwiegenden berechtigten Interessen eines anderen zuwiderlaufen würde und die Informationen eines besonderen organisatorischen Schutzes bedürfen;
+2.
+„VERTRAULICH“, wenn die Preisgabe der Informationen die Gefahr einer Schädigung der in Z 1 genannten Interessen schaffen würde;
+3.
+„GEHEIM“, wenn die Preisgabe der Informationen die Gefahr einer erheblichen Schädigung der in Z 1 genannten Interessen schaffen würde;
+4.
+„STRENG GEHEIM“, wenn die Preisgabe der Informationen eine schwere Schädigung der in Z 1 genannten Interessen wahrscheinlich machen würde.
+(3) Auf klassifizierte Informationen findet § 5 des Bundesarchivgesetzes, BGBl. I Nr. 162/1999, keine Anwendung.
+(4) Eine Klassifizierung hat durch den Urheber der Information oder auf dessen Veranlassung zu erfolgen und ist im Anlassfall zu überprüfen. Urheber im Sinne dieses Bundesgesetzes können ausschließlich gesetzlich eingerichtete Organe des Bundes sein.
+(5) Im Bereich der Dienststellen des Bundes dürfen Klassifizierungen nur von jenen Bediensteten des Bundes vorgenommen werden, die über eine Ermächtigung zur Approbation für den jeweiligen Dienststellenleiter verfügen, die Voraussetzungen des § 3 Abs. 1 Z 2 und 3 erfüllen und in der Lage sind, die Zuordnungen zu den in Abs. 2 angeführten Klassifizierungsstufen vorzunehmen.
+(6) Die Weitergabe klassifizierter Informationen, die eine Person in Österreich im Einklang mit völkerrechtlichen Regelungen erhalten hat, ist in dem von den übermittelnden Stellen vorgesehenen Maß und für die von diesen vorgesehene Dauer zu beschränken. Dafür sind sie den Klassifizierungsstufen in Abs. 2 in Übereinstimmung mit der in der völkerrechtlichen Verpflichtung enthaltenen Äquivalenztabelle zuzuordnen und entsprechend zu schützen.
+Voraussetzungen für die Weitergabe klassifizierter Informationen
+§ 3.
+(1) Klassifizierte Informationen dürfen an einen Bediensteten des Bundes nur weitergegeben werden, wenn
+1.
+diese Informationen für die Erfüllung seiner dienstlichen Aufgaben erforderlich sind,
+2.
+er nachweislich ausreichend über die Handhabung mit klassifizierten Informationen unterwiesen wurde und,
+3.
+soweit Informationen betroffen sind, die als „VERTRAULICH“, „GEHEIM“ oder „STRENG GEHEIM“ klassifiziert wurden, eine Sicherheitsüberprüfung gemäß den §§ 55 bis 55b des Bundesgesetzes über die Organisation der Sicherheitsverwaltung und die Ausübung der Sicherheitspolizei (Sicherheitspolizeigesetz – SPG), BGBl. Nr. 566/1991, oder, sofern gesetzlich vorgesehen, eine Verlässlichkeitsprüfung gemäß den §§ 23 und 24 des Bundesgesetzes über Aufgaben und Befugnisse im Rahmen der militärischen Landesverteidigung (Militärbefugnisgesetz – MBG), BGBl. I Nr. 86/2000, durchgeführt wurde.
+(2) An Dritte dürfen klassifizierte Informationen nur weitergegeben werden, wenn sämtliche Voraussetzungen der §§ 11 und 12 erfüllt sind.
+(3) In besonders dringlichen Fällen kann von dem Erfordernis einer Sicherheitsüberprüfung bzw. einer Verlässlichkeitsüberprüfung gemäß Abs. 1 Z 3 abgesehen werden, wenn sonst eine rechtzeitige Verarbeitung einer Information der Klassifizierungsstufen VERTRAULICH und GEHEIM nicht möglich ist, die Verzögerung zu einem Schaden führen kann, der das mit dem Fehlen einer Sicherheitsüberprüfung bzw. einer Verlässlichkeitsüberprüfung verbundene Schadensrisiko deutlich übersteigt und kein Zweifel an der Vertrauenswürdigkeit der Person besteht. In solchen Fällen muss die Weitergabe jeder klassifizierten Information schriftlich vermerkt, durch den zuständigen Bundesminister genehmigt sowie eine Sicherheitsüberprüfung bzw. eine Verlässlichkeitsüberprüfung unverzüglich eingeleitet werden.
+Verschwiegenheitspflicht
+§ 4.
+Jede Person, an die gemäß § 3 klassifizierte Informationen weitergegeben werden,
+1.
+ist zur Verschwiegenheit über die ihr dadurch zur Kenntnis gelangten klassifizierten Informationen verpflichtet und
+2.
+hat durch Einhaltung der vorgesehenen Schutzstandards dafür Sorge zu tragen, dass kein Unbefugter Kenntnis von den klassifizierten Informationen erlangt.“
+5. § 6 lautet:
+„ § 6.
+Die Bundesregierung hat durch Verordnung Vorschriften über die Informationssicherheit zu erlassen. Diese haben jedenfalls zu regeln:
+1.
+die Kennzeichnung von klassifizierten Informationen,
+2.
+Maßnahmen und Verhaltensregeln für die Handhabung von klassifizierten Informationen, insbesondere hinsichtlich ihrer Erzeugung, Übermittlung, Vervielfältigung, Aufbewahrung und Vernichtung,
+3.
+Verhaltensregeln im Fall der Wahrnehmung eines Mangels im Bereich der Informationssicherheit,
+4.
+Weitergabebeschränkungen, die nach Klassifizierungsstufen zu unterscheiden sind,
+5.
+Maßnahmen zur Gewährleistung der Feststellbarkeit der Weitergabe klassifizierter Informationen,
+6.
+Maßnahmen zur Überprüfung der weiteren Notwendigkeit der Klassifizierung,
+7.
+zu Zwecken der Informationssicherheit erforderliche technische Datensicherheitsmaßnahmen,
+8.
+die Vorgangsweise bei der Deklassifizierung von Informationen,
+9.
+Vorgaben im Bereich der Industriellen Sicherheit sowie
+10.
+Vorgaben zur Erstellung von Klassifizierungsrichtlinien.“
+6. § 7 Abs. 3 lautet:
+„(3) Der Informationssicherheitsbeauftragte trägt dafür Sorge, dass in seinem Ressortbereich alle Personen, auf die die Voraussetzungen des § 3 Abs. 1 und 2 zutreffen, sicherheitsüberprüft werden.“
+7. § 9 lautet:
+„ § 9.
+(1) Wer entgegen den Bestimmungen dieses Bundesgesetzes eine an ihn ausschließlich gemäß § 3 weitergegebene klassifizierte Information offenbart oder verwertet und dadurch ein in § 2 Abs. 2 Z 1 genanntes Interesse gefährdet, ist, sofern die Tat nicht nach anderen Bundesgesetzen mit gleicher oder strengerer Strafe bedroht ist, vom Gericht mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+(2) Medieninhaber, Herausgeber, Medienmitarbeiter und Arbeitnehmer eines Medienunternehmens oder Mediendienstes sind nicht als Beitragstäter im Sinne von § 12 dritter Fall Strafgesetzbuch – StGB, BGBl. Nr. 60/1974, zu behandeln, soweit sich ihre Handlung auf die Entgegennahme, Auswertung oder Veröffentlichung der Information beschränkt.“
+8. Nach der Bezeichnung des 2. Abschnitts wird folgende Abschnittsüberschrift eingefügt:
+„Industrielle Sicherheit“
+9. § 11 samt Überschrift lautet:
+„Sicherheitsunbedenklichkeitsbescheinigungen für Unternehmen, Einrichtungen und Anlagen
+§ 11.
+Für Unternehmen, Einrichtungen und Anlagen, welche zur Erfüllung staatlicher Aufgaben, zur Erlangung von Aufträgen oder im Zuge der Teilnahme an industriellen Tätigkeiten oder Forschungstätigkeiten klassifizierte Informationen benötigen, ist vor der Weitergabe jeglicher klassifizierten Information an diese eine Sicherheitsunbedenklichkeitsbescheinigung unter Anwendung von §§ 12 und 13 erforderlich.“
+10. § 12 Abs. 3 bis 4b lautet:
+„(3) Bei der Mitwirkung an der Entscheidung nach Abs. 2 ist sicherzustellen, dass alle Personen, an die zur Erfüllung ihrer beruflichen Pflichten klassifizierte Informationen weitergegeben werden, die Voraussetzungen des § 3 Abs. 1 Z 2 und 3 erfüllen. Das Ergebnis allfälliger Überprüfungen gemäß § 3 Abs. 1 Z 3 ist dem zuständigen Bundesminister (Abs. 1) mitzuteilen.
+(4) Die Voraussetzungen für die Ausstellung einer Sicherheitsunbedenklichkeitsbescheinigung sind gegeben, wenn die in der jeweiligen rechtlichen Verpflichtung vorgesehenen Auflagen und Bedingungen vom Antragsteller erfüllt werden. Der zuständige Bundesminister hat die Einhaltung dieser Auflagen und Bedingungen regelmäßig durch Sicherheitsinspektionen zu überprüfen. Dabei ist der Bundesminister für Inneres zu hören. Die Sicherheitsunbedenklichkeitsbescheinigung ist zu widerrufen, wenn
+1.
+die Voraussetzungen ihrer Ausstellung weggefallen sind oder
+2.
+das Unternehmen oder die Einrichtung den Sicherheitsinspektionsorganen den Zutritt in dem für die Überprüfung notwendigen Ausmaß innerhalb der üblichen Geschäfts- oder Arbeitszeit zu ihren Grundstücken, Geschäfts- und Betriebsräumen zu Unrecht verweigert oder die erforderliche Mitwirkung bei der Überprüfung unterlässt.
+(4a) Die Ausstellung und der Widerruf der Sicherheitsunbedenklichkeitsbescheinigung erfolgen auf Vorschlag des zuständigen Bundesministers (Abs. 1) durch die Informationssicherheitskommission beim Bundeskanzleramt (§ 8). Für die Ausstellung und den Widerruf von Sicherheitsunbedenklichkeitsbescheinigungen im Zusammenhang mit Vorhaben, die der Erfüllung von Aufgaben des Bundesheeres gemäß Art. 79 Abs. 1 B-VG dienen, ist die nationale Zertifizierungsstelle eine vom Bundesminister für Landesverteidigung für zuständig erklärte Dienststelle seines Wirkungsbereiches. Der Antragsteller ist über die Ausstellung oder den Widerruf zu verständigen.
+(4b) Wenn Personen im Ausland klassifizierte Informationen oder Zutritt zu Örtlichkeiten einer erhöhten Sicherheitsstufe erhalten sollen, dürfen im Rahmen des internationalen Besuchskontrollverfahrens die sie betreffenden personenbezogenen Daten mit ihrer Einwilligung der Einrichtung, die für die Sicherheit der Weitergabe der betreffenden Informationen oder der Örtlichkeiten zuständig ist, übermittelt werden. § 25 MBG bleibt unberührt.“
+11. In § 12 Abs. 6 wird die Wortfolge „gemäß §§ 23 und 24 Militärbefugnisgesetz, BGBl. I Nr. 86/2000,“ durch die Wortfolge „gemäß den §§ 23 und 24 MBG“ ersetzt.
+12. § 14 Abs. 2 Z 1 lautet:
+„1.
+die Weitergabe klassifizierter Informationen an Personen der jeweils anderen Vertragspartei,“.
+13. In § 15 wird die Wortfolge „, soweit es inhaltlich in Betracht kommt, Frauen und Männer“ durch die Wortfolge „alle Geschlechter“ ersetzt.
+14. § 17 lautet:
+„ § 17.
+Mit der Vollziehung dieses Bundesgesetzes ist der Bundeskanzler, jedoch in Angelegenheiten, die nur den Wirkungsbereich eines Mitglieds der Bundesregierung betreffen, dieses betraut. Mit der Vollziehung des § 6 ist die Bundesregierung betraut.“
+15. Dem § 18 wird folgender Abs. 3 angefügt:
+„(3) Der Titel, das Inhaltsverzeichnis, die Überschrift des 1. Abschnitts, die §§ 1 bis 4 samt Überschriften, § 6, § 7 Abs. 3, § 9, die Überschrift des 2. Abschnitts, § 11 samt Überschrift, § 12 Abs. 3 bis 4b und 6, § 14 Abs. 2 Z 1, § 15 und § 17 in der Fassung des Bundesgesetzes BGBl. I Nr. xxx/2026 treten mit dem der Kundmachung folgenden Tag in Kraft.“

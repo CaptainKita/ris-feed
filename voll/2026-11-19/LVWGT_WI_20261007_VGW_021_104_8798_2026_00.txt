@@ -1,0 +1,52 @@
+RIS Dokument Gericht
+Landesverwaltungsgericht Wien
+Entscheidungsdatum
+07.10.2026
+Geschäftszahl
+VGW-021/104/8798/2026
+Text
+IM NAMEN DER REPUBLIK
+Das Verwaltungsgericht Wien hat durch seinen Richter Mag. POSCH über die Beschwerde der Frau A. B. gegen den Zurückweisungsbescheid des Magistrates der Stadt Wien, Zl. …, mit welchem der Einspruch gegen die Strafverfügung vom 31.12.2025 zur selben Zahl als verspätet zurückgewiesen wurde,
+zu Recht erkannt:
+I. Gemäß § 50 Abs. 1 VwGVG wird der Beschwerde Folge gegeben und der angefochtene Bescheid ersatzlos behoben.
+II. Gegen dieses Erkenntnis ist gemäß § 25a VwGG eine ordentliche Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4 B-VG unzulässig.
+Entscheidungsgründe
+I. Verfahrensgang
+1. Mit Strafverfügung vom 31.12.2025 verhängte der Magistrat der Stadt Wien (im Folgenden: "belangte Behörde") über die Beschwerdeführerin, A. B., als gewerberechtliche Geschäftsführerin der C. GmbH, wegen jeweiliger Übertretung des § 23 Abs. 1 Z 2 GütbefG drei Geldstrafen in Höhe von jeweils € 560,– und für den Fall ihrer Uneinbringlichkeit drei Ersatzfreiheitsstrafen im Ausmaß von jeweils 12 Stunden gemäß § 23 Abs. 1 und 4 GütbefG.
+2. Mit Bescheid vom 17.04.2026 (im Folgenden: "angefochtener Bescheid") wies die belangte Behörde den gegen die Strafverfügung erhobenen Einspruch vom 20.01.2026 gemäß § 49 Abs. 1 VStG wegen Verspätung als unzulässig zurück.
+3. Mit Eingabe vom 07.05.2026 erhob die Beschwerdeführerin Beschwerde gegen den angefochtenen Bescheid im Wesentlichen mit der Begründung, sie habe sich zum Zeitpunkt der von der belangten Behörde angenommenen Zustellung im Ausland befunden.
+4. Die belangte Behörde traf keine Beschwerdevorentscheidung und legte dem Verwaltungsgericht Wien die Beschwerde sowie den Akt des Verwaltungsverfahrens einlangend am 15.05.2026 vor.
+II. Sachverhalt
+Für das Verwaltungsgericht Wien steht folgender entscheidungswesentlicher Sachverhalt als erwiesen fest:
+1. Die Strafverfügung vom 31.12.2025 wurde im Wege eines elektronischen Zustelldienstes übermittelt, wovon die Beschwerdeführerin am 01.01.2026 zum ersten Mal und am 03.01.2026 ein zweites Mal verständigt wurde. Die Abholfrist begann am 01.01.2026. Das Schriftstück wurde von der Beschwerdeführerin am 07.01.2026 tatsächlich übernommen.
+2. Der Hauptwohnsitz der Beschwerdeführerin ist – wie auch der Sitz und Standort der Gewerbeberechtigung der C. GmbH – in der A.-Straße, Wien.
+3. Die Beschwerdeführerin befand sich von 09.12.2025 bis 17.02.2026 in Kairo in Ägypten bzw. Medina und Mekka in (Saudi-Arabien).
+4. Mit Eingabe vom 20.01.2026 wurde Einspruch gegen die Strafverfügung vom 31.12.2025 erhoben.
+III. Beweiswürdigung
+1. Die Feststellungen (II.1.) zur Übermittlung der Strafverfügung im Wege eines elektronischen Zustelldienstes, zu den Verständigungen, der Abholfrist und tatsächlichen Übernahme ergeben sich aus dem im verwaltungsbehördlichen Akt befindlichen Zustellnachweis (AS 63).
+2. Die Feststellungen (II.2.) zu Hauptwohnsitz und Sitz bzw. Standort der Gewerbeberechtigung ergeben sich aus den Auszügen aus dem ZMR, dem Firmenbuch und dem Gewerbeinformationssystem (ON 2, 5 des Gerichtsaktes).
+3. Die Feststellung (II.3.) zum Auslandsaufenhalt der Beschwerdeführerin ergibt sich aus den schon im Zuge der Beantwortung des Verspätungsvorhaltes an die belangte Behörde übermittelten Flugtickets/Boardingkarten (AS 103 ff.). Es ist kein Grund hervorgekommen, an den diesbezüglichen Angaben der Beschwerdeführerin und der Authentizität der Nachweise zu zweifeln.
+4. Die Feststellung (II.4.) zum Datum der Eingabe des Einspruchs ergibt sich aus der im verwaltungsbehördlichen Akt befindlichen Eingabe (AS 66).
+III. Rechtliche Beurteilung
+1. Gemäß § 35 Abs. 1 ZustG hat der im Auftrag der Behörde tätige Zustelldienst im Fall einer Zustellung mit Zustellnachweis bzw. nachweislichen Zusendung bei Vorliegen der Voraussetzungen des § 34 Abs. 1 erster Satz die Daten gemäß § 29 Abs. 1 Z 6 an das Anzeigemodul zu übermitteln. Das Anzeigemodul hat den Empfänger unverzüglich davon zu verständigen, dass ein Dokument für ihn zur Abholung bereitliegt. Diese elektronische Verständigung ist an die dem Teilnehmerverzeichnis gemäß § 28b Abs. 1 Z 4 bekanntgegebene elektronische Adresse des Empfängers zu versenden. Hat der Empfänger mehrere solcher Adressen bekanntgegeben, so ist die elektronische Verständigung an alle Adressen zu versenden; für die Berechnung der Frist gemäß Abs. 2 erster Satz ist der Zeitpunkt der frühesten Versendung maßgeblich.
+Wird das Dokument gemäß § 35 Abs. 2 ZustG nicht innerhalb von 48 Stunden abgeholt, so hat eine zweite elektronische Verständigung zu erfolgen; Abs. 1 vierter Satz ist sinngemäß anzuwenden.
+Der Zustelldienst hat das Dokument gemäß § 35 Abs. 4 ZustG zwei Wochen zur Abholung bereitzuhalten und nach Ablauf weiterer acht Wochen zu löschen.
+Ein zur Abholung bereitgehaltenes Dokument gilt gemäß § 35 Abs. 5 ZustG jedenfalls mit seiner Abholung als zugestellt.
+Die Zustellung gilt gemäß § 35 Abs. 6 ZustG als am ersten Werktag nach der Versendung der ersten elektronischen Verständigung bewirkt, wobei Samstage nicht als Werktage gelten. Sie gilt als nicht bewirkt, wenn sich ergibt, dass die elektronischen Verständigungen nicht beim Empfänger eingelangt waren, doch wird sie mit dem dem Einlangen einer elektronischen Verständigung folgenden Tag innerhalb der Abholfrist (Abs. 1 Z 3) wirksam.
+Die Zustellung gilt gemäß § 35 Abs. 7 ZustG als nicht bewirkt, wenn sich ergibt, dass der Empfänger entweder von den elektronischen Verständigungen keine Kenntnis hatte (Z 1) oder von diesen zwar Kenntnis hatte, aber während der Abholfrist von allen Abgabestellen (§ 2 Z 4) nicht bloß vorübergehend abwesend war, doch wird die Zustellung an dem der Rückkehr an eine der Abgabestellen folgenden Tag innerhalb der Abholfrist wirksam, an dem das Dokument abgeholt werden könnte (Z 2).
+Gemäß § 2 Z 4 ZustG gilt als Abgabestelle die Wohnung oder sonstige Unterkunft, die Betriebsstätte, der Sitz, der Geschäftsraum, die Kanzlei oder auch der Arbeitsplatz des Empfängers, im Falle einer Zustellung anlässlich einer Amtshandlung auch deren Ort, oder ein vom Empfänger der Behörde für die Zustellung in einem laufenden Verfahren angegebener Ort.
+Der Beschuldigte kann gemäß § 49 Abs. 1 VStG gegen die Strafverfügung binnen zwei Wochen nach deren Zustellung Einspruch erheben und dabei die seiner Verteidigung dienlichen Beweismittel vorbringen. Der Einspruch kann auch mündlich erhoben werden. Er ist bei der Behörde einzubringen, die die Strafverfügung erlassen hat.
+2. Hat die Behörde einen Antrag zurückgewiesen, dann ist "Sache" eines Beschwerdeverfahrens vor dem Verwaltungsgericht ausschließlich die Rechtmäßigkeit der Zurückweisung (VwGH 18.06.2026, Ro 2025/03/0009).
+Wie das Beweisverfahren ergeben hat, war die Beschwerdeführerin in der vom 01.01.2026 bis 15.01.2026 laufenden Abholfrist im Ausland und sohin von sämtlichen Abgabestellen im Sinne des § 2 Z 4 ZustG nicht bloß vorübergehend abwesend.
+Anders als von der Behörde angenommen, ist im Fall der nicht bloß vorübergehenden Abwesenheit von der Abgabestelle im Sinne des § 35 Abs. 7 Z 2 ZustG nicht relevant, ob die Beschwerdeführerin Kenntnis von der Verständigung und folglich elektronischen Zugriff auf das Dokument hatte, sondern ausschließlich, ob eine nicht bloß vorübergehende Abwesenheit von der Abgabestelle vorlag. Somit hätte gemäß der Zustellfiktion des § 35 Abs. 7 Z 2 letzte beide Halbsätze ZustG die Zustellung frühestens an dem der Rückkehr an eine Abgabestelle folgenden Tag wirksam werden können. Da die Beschwerdeführerin jedoch bereits am 07.01.2026 das Dokument tatsächlich übernahm, gilt die Zustellung gemäß § 35 Abs. 5 ZustG mit seiner Abholung, sohin mit 07.01.2026 als bewirkt (vgl. dazu auch Bumberger/Schmid , Praxiskommentar zum Zustellgesetz § 35, Stand 1.1.2018, rdb.at, K 55 und 56).
+Vor diesem Hintergrund erweist sich der am 20.01.2026, sohin 13 Tage nach Zustellung, erfolgte Einspruch im Sinne des § 49 Abs. 1 VStG als rechtzeitig.
+Vor diesem Hintergrund war der Beschwerde stattzugeben und der angefochtene Bescheid ersatzlos zu beheben.
+3. Liegt der in erster Instanz angenommene Zurückweisungsgrund (Verspätung) nicht vor, so hat das Verwaltungsgericht den Zurückweisungsbescheid ersatzlos mit der Konsequenz zu beheben, dass die Behörde über den Antrag unter Abstandnahme von dem zunächst gebrauchten Zurückweisungsgrund zu entscheiden hat (VwGH 27.08.2020, Ra 2020/15/0035; 17.12.2020, Ra 2020/15/0127; vgl. auch Ro 2023/16/0007, 12.06.2026).
+Die belangte Behörde wird im fortgesetzten Verfahren vorweg auch zu klären haben, ob der von der C. GmbH verfasste Einspruch im Namen der C. GmbH oder als Vertreterin der Beschwerdeführerin in deren Namen erhoben wurde. Im letzten Fall wird auch die Frage des Vorliegens einer entsprechenden Vollmacht zu klären sein.
+5. Gemäß § 44 Abs. 2 VwGVG entfällt die Verhandlung, wenn bereits auf Grund der Aktenlage feststeht, dass der mit Beschwerde angefochtene Bescheid aufzuheben ist.
+6. Die ordentliche Revision ist unzulässig, da keine Rechtsfrage im Sinne des Art. 133 Abs. 4 B-VG zu beurteilen war, der grundsätzliche Bedeutung zukommt. Weder weicht die gegenständliche Entscheidung von der bisherigen Rechtsprechung des Verwaltungsgerichtshofes ab, noch fehlt es an einer Rechtsprechung des Verwaltungsgerichtshofes. Weiters ist die dazu vorliegende Rechtsprechung des Verwaltungsgerichtshofes auch nicht als uneinheitlich zu beurteilen. Ebenfalls liegen keine sonstigen Hinweise auf eine grundsätzliche Bedeutung der zu lösenden Rechtsfrage vor.
+Verwaltungsgericht Wien
+Mag. POSCH
+Richter
+European Case Law Identifier
+ECLI:AT:LVWGWI:2026:VGW.021.104.8798.2026

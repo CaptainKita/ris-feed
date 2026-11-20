@@ -1,0 +1,475 @@
+{
+ "erzeugt": "2026-11-17T05:30:01+01:00",
+ "fenster": "EinerWoche",
+ "quellen": {
+  "Bundesrecht/BgblAuth": {
+   "neu": 1,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/Begut": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/RegV": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Justiz": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vfgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vwgh": {
+   "neu": 13,
+   "abgeschnitten": false
+  },
+  "Judikatur/Lvwg": {
+   "neu": 7,
+   "abgeschnitten": false
+  }
+ },
+ "fehler": [],
+ "dokumente": [
+  {
+   "id": "BGBLA_2026_II_329",
+   "app": "BgblAuth",
+   "Kurztitel": "Änderung der WFA-Finanzielle-Auswirkungen-Verordnung",
+   "Titel": "Verordnung des Bundesministers für Finanzen, mit der die WFA-Finanzielle-Auswirkungen-Verordnung geändert wird",
+   "Ausgabedatum": "2026-11-16",
+   "Typ": "Verordnung",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_II_329/BGBLA_2026_II_329.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_II_329",
+   "text_datei": "voll/2026-11-17/BGBLA_2026_II_329.txt",
+   "zeichen": 7119,
+   "text": "RIS Dokument BUNDESGESETZBLATT\nFÜR DIE REPUBLIK ÖSTERREICH\nJahrgang 2026\nAusgegeben am 16. November 2026\nTeil II\n329. Verordnung:\nÄnderung der WFA-Finanzielle-Auswirkungen-Verordnung\n329. Verordnung des Bundesministers für Finanzen, mit der die WFA-Finanzielle-Auswirkungen-Verordnung geändert wird\nAuf Grund des § 17 Abs. 4 Z 3 des Bundeshaushaltsgesetzes 2013 BHG 2013, BGBl. I Nr. 139/2009, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 25/2025, wird verordnet:\nDie WFA-Finanzielle-Auswirkungen-Verordnung – WFA-FinAV, BGBl. II Nr. 490/2012, zuletzt geändert durch die Verordnung BGBl. II Nr. 173/2025, wird wie folgt geändert:\n1. § 13 Abs. 1 lautet:\n„(1) Bei einer internen Evaluierung gemäß § 11 WFA-GV sind die tatsächlichen finanziellen Auswirkungen von Regelungsvorhaben und Vorhaben gemäß § 58 Abs. 2 BHG 2013 zu ermitteln und mit den Annahmen der Abschätzung der finanziellen Auswirkungen in der wirkungsorientierten Folgenabschätzung zu vergleichen.“\n2. Dem § 15 wird folgender Abs. 4 angefügt:\n„(4) § 13 Abs. 1 sowie die Anlagen 2 und 3 in der Fassung der Verordnung BGBl. II Nr. 329/2026 treten mit dem der Kundmachung folgenden Tag in Kraft.“\n3. Die Anlagen 2 und 3 lauten:\n„\nAnlage 2\nFolgende Werte sind für die Valorisierung des Personalaufwands heranzuziehen:\nValorisierung des Personalaufwands\nJahr\n2026\n2027\n2028\n2029\n2030\n≥ 2031\nWert\n1,02\n1,02\n1,02\n1,02\n1,02\n1,02\nFolgende Werte sind für die Berechnung des Personalaufwands heranzuziehen:\nDurchschnittlicher Personalaufwand  [...]"
+  },
+  {
+   "id": "JWR_2026200481_20261021L01",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2026/20/0481",
+   "Entscheidungsdatum": "2026-10-21",
+   "Veroeffentlicht": "2026-11-16",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "AVG §62 Abs4",
+    "VwGVG 2014 §17"
+   ],
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2026200481_20261021L01/JWR_2026200481_20261021L01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2026200481_20261021L01",
+   "text_datei": "voll/2026-11-17/JWR_2026200481_20261021L01.txt",
+   "zeichen": 768,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n21.10.2026\nGeschäftszahl\nRa 2026/20/0481\nRechtssatz\nHat das VwG seine Entscheidung gemäß § 62 Abs. 4 AVG iVm § 17 VwGVG berichtigt und wurde gegen diesen Berichtigungsbeschluss keine Revision erhoben, so hat der VwGH als Prüfungsgegenstand die angefochtene Entscheidung in der Fassung des Berichtigungsbeschlusses zugrunde zu legen (vgl. VwGH 26.4.2022, Ra 2020/05/0210); dies gilt auch dann, wenn der Berichtigungsbeschluss an sich rechtswidrig, aber mangels Bekämpfung rechtswirksam ist (vgl. VwGH 26.11.2015, 2012/07/0237, mwN; vgl. zu den Grenzen einer zulässigen Berichtigung gemäß § 62 Abs. 4 AVG etwa VwGH 5.11.2020, Ra 2020/10/0060).\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2026200481.L02"
+  },
+  {
+   "id": "JWR_2026010151_20261020L01",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2026/01/0151",
+   "Entscheidungsdatum": "2026-10-20",
+   "Veroeffentlicht": "2026-11-10",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "FSG 1997 §24 Abs1 Z1",
+    "FSG 1997 §7 Abs1",
+    "FSG 1997 §7 Abs3 Z11"
+   ],
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2026010151_20261020L01/JWR_2026010151_20261020L01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2026010151_20261020L01",
+   "text_datei": "voll/2026-11-17/JWR_2026010151_20261020L01.txt",
+   "zeichen": 540,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n20.10.2026\nGeschäftszahl\nRa 2026/01/0151\nRechtssatz\nEs spielt für die Entziehung der Lenkerberechtigung keine entscheidende Rolle, dass ein Suchtgiftdelinquent bei der Begehung der strafbaren Handlungen kein Kraftfahrzeug verwendet hat, da das Inverkehrsetzen von Suchtmitteln typischerweise durch die Verwendung von Kraftfahrzeugen wesentlich erleichtert wird (vgl. etwa bereits VwGH 24.8.1999, 99/11/0166, mwN).\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2026010151.L01"
+  },
+  {
+   "id": "JWR_2025150097_20261019L01",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2025/15/0097",
+   "Entscheidungsdatum": "2026-10-19",
+   "Veroeffentlicht": "2026-11-16",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "AVG §18 Abs3",
+    "B-VG Art133 Abs4",
+    "VwGG §34 Abs1"
+   ],
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2025150097_20261019L01/JWR_2025150097_20261019L01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2025150097_20261019L01",
+   "text_datei": "voll/2026-11-17/JWR_2025150097_20261019L01.txt",
+   "zeichen": 717,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n19.10.2026\nGeschäftszahl\nRa 2025/15/0097\nHinweis auf Stammrechtssatz\nGRS wie Ra 2017/20/0095 B 20. April 2017 RS 2\nStammrechtssatz\nBei der Beurteilung, ob eine konkrete Unterschrift lesbar ist oder nicht, handelt es sich um eine einzelfallbezogene Frage, die nur dann revisibel ist, wenn diese Beurteilung in einer die Rechtssicherheit beeinträchtigenden unvertretbaren Weise erfolgt ist (Hinweis B vom 7. Oktober 2016, Ra 2016/08/0147). Nichts anderes gilt für die Beurteilung, ob ein Schriftgebilde entsprechend charakteritische Merkmale aufweist und daher als Unterschrift anzusehen ist.\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2025150097.L02"
+  },
+  {
+   "id": "JWR_2026150056_20261019L01",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2026/15/0056",
+   "Entscheidungsdatum": "2026-10-19",
+   "Veroeffentlicht": "2026-11-10",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Beschluss",
+   "Normen": "AVG §18 Abs3",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2026150056_20261019L01/JWR_2026150056_20261019L01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2026150056_20261019L01",
+   "text_datei": "voll/2026-11-17/JWR_2026150056_20261019L01.txt",
+   "zeichen": 874,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n19.10.2026\nGeschäftszahl\nRa 2026/15/0056\nHinweis auf Stammrechtssatz\nGRS wie Ra 2017/20/0095 B 20. April 2017 RS 1 (hier ohne den letzten Satz)\nStammrechtssatz\nEine Unterschrift im Sinn des § 18 Abs. 3 AVG ist ein Gebilde aus Buchstaben einer üblichen Schrift, aus der ein Dritter, der den Namen des Unterzeichneten kennt, diesen Namen aus dem Schriftbild noch herauslesen kann; eine Unterschrift muss nicht lesbar, aber ein \"individueller Schriftzug\" sein, der entsprechend charakteristische Merkmale aufweist. Die Anzahl der Schriftzeichen muss der Anzahl der Buchstaben des Namens nicht entsprechen (Hinweis Erkenntnisse vom 4. September 2000, 98/10/0013 und 0014, und vom 27. September 2005, 2004/06/0217). Eine Paraphe ist keine Unterschrift.\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2026150056.L01"
+  },
+  {
+   "id": "JWR_2026150056_20261019L02",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2026/15/0056",
+   "Entscheidungsdatum": "2026-10-19",
+   "Veroeffentlicht": "2026-11-10",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "AVG §18 Abs3",
+    "B-VG Art133 Abs4",
+    "VwGG §34 Abs1"
+   ],
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2026150056_20261019L02/JWR_2026150056_20261019L02.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2026150056_20261019L02",
+   "text_datei": "voll/2026-11-17/JWR_2026150056_20261019L02.txt",
+   "zeichen": 717,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n19.10.2026\nGeschäftszahl\nRa 2026/15/0056\nHinweis auf Stammrechtssatz\nGRS wie Ra 2017/20/0095 B 20. April 2017 RS 2\nStammrechtssatz\nBei der Beurteilung, ob eine konkrete Unterschrift lesbar ist oder nicht, handelt es sich um eine einzelfallbezogene Frage, die nur dann revisibel ist, wenn diese Beurteilung in einer die Rechtssicherheit beeinträchtigenden unvertretbaren Weise erfolgt ist (Hinweis B vom 7. Oktober 2016, Ra 2016/08/0147). Nichts anderes gilt für die Beurteilung, ob ein Schriftgebilde entsprechend charakteritische Merkmale aufweist und daher als Unterschrift anzusehen ist.\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2026150056.L02"
+  },
+  {
+   "id": "JWR_2026150062_20261019L01",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2026/15/0062",
+   "Entscheidungsdatum": "2026-10-19",
+   "Veroeffentlicht": "2026-11-10",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "AVG §18 Abs4",
+    "E-GovG 2004 §19 Abs3",
+    "E-GovG 2004 §20"
+   ],
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2026150062_20261019L01/JWR_2026150062_20261019L01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2026150062_20261019L01",
+   "text_datei": "voll/2026-11-17/JWR_2026150062_20261019L01.txt",
+   "zeichen": 572,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n19.10.2026\nGeschäftszahl\nRa 2026/15/0062\nHinweis auf Stammrechtssatz\nGRS wie Ra 2026/15/0142 B 29. September 2026 RS 1\nStammrechtssatz\nFür die Wirksamkeit einer Amtssignatur kommt es nicht darauf an, ob den Bescheiden auch die Beweiskraft einer öffentlichen Urkunde gemäß § 20 E-GovG zukommt, sondern es genügt, dass die Voraussetzungen des § 19 Abs. 3 E-GovG zum Vorliegen einer Amtssignatur erfüllt sind (vgl. VwGH 27.3.2023, Ro 2022/12/0028).\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2026150062.L02"
+  },
+  {
+   "id": "JWR_2026150066_20261019L01",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2026/15/0066",
+   "Entscheidungsdatum": "2026-10-19",
+   "Veroeffentlicht": "2026-11-10",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "AVG §18 Abs4",
+    "E-GovG 2004 §19 Abs3",
+    "E-GovG 2004 §20"
+   ],
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2026150066_20261019L01/JWR_2026150066_20261019L01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2026150066_20261019L01",
+   "text_datei": "voll/2026-11-17/JWR_2026150066_20261019L01.txt",
+   "zeichen": 572,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n19.10.2026\nGeschäftszahl\nRa 2026/15/0066\nHinweis auf Stammrechtssatz\nGRS wie Ra 2026/15/0142 B 29. September 2026 RS 1\nStammrechtssatz\nFür die Wirksamkeit einer Amtssignatur kommt es nicht darauf an, ob den Bescheiden auch die Beweiskraft einer öffentlichen Urkunde gemäß § 20 E-GovG zukommt, sondern es genügt, dass die Voraussetzungen des § 19 Abs. 3 E-GovG zum Vorliegen einer Amtssignatur erfüllt sind (vgl. VwGH 27.3.2023, Ro 2022/12/0028).\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2026150066.L01"
+  },
+  {
+   "id": "JWR_2026150074_20261019L01",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2026/15/0074",
+   "Entscheidungsdatum": "2026-10-19",
+   "Veroeffentlicht": "2026-11-10",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "AVG §18 Abs3",
+    "B-VG Art133 Abs4",
+    "VwGG §34 Abs1"
+   ],
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2026150074_20261019L01/JWR_2026150074_20261019L01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2026150074_20261019L01",
+   "text_datei": "voll/2026-11-17/JWR_2026150074_20261019L01.txt",
+   "zeichen": 717,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n19.10.2026\nGeschäftszahl\nRa 2026/15/0074\nHinweis auf Stammrechtssatz\nGRS wie Ra 2017/20/0095 B 20. April 2017 RS 2\nStammrechtssatz\nBei der Beurteilung, ob eine konkrete Unterschrift lesbar ist oder nicht, handelt es sich um eine einzelfallbezogene Frage, die nur dann revisibel ist, wenn diese Beurteilung in einer die Rechtssicherheit beeinträchtigenden unvertretbaren Weise erfolgt ist (Hinweis B vom 7. Oktober 2016, Ra 2016/08/0147). Nichts anderes gilt für die Beurteilung, ob ein Schriftgebilde entsprechend charakteritische Merkmale aufweist und daher als Unterschrift anzusehen ist.\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2026150074.L01"
+  },
+  {
+   "id": "JWR_2025010042_20261008L01",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2025/01/0042",
+   "Entscheidungsdatum": "2026-10-08",
+   "Veroeffentlicht": "2026-11-10",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "AVG §8",
+    "NÄG 1988 §2 Abs1 Z9",
+    "NÄG 1988 §3 Abs1 Z6",
+    "NÄG 1988 §8 Abs1"
+   ],
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2025010042_20261008L01/JWR_2025010042_20261008L01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2025010042_20261008L01",
+   "text_datei": "voll/2026-11-17/JWR_2025010042_20261008L01.txt",
+   "zeichen": 992,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n08.10.2026\nGeschäftszahl\nRa 2025/01/0042\nHinweis auf Stammrechtssatz\nGRS wie 2013/01/0105 E 17. Dezember 2013 RS 1\nStammrechtssatz\nStändige Rechtsprechung des Verwaltungsgerichtshofes zur Rechtslage des NÄG seit dem Namensrechtsänderungsgesetz BGBl. Nr. 25/1995 ist es, dass der (eheliche) nicht obsorgeberechtigte Elternteil mit Aussicht auf Erfolg nur solche Gründe gegen die beantragte Namensänderung vorbringen kann, aus denen sich ergibt, dass die Führung des bisherigen Namens dem Wohl des Kindes besser entspricht und daher die Änderung des Namens dem Kindeswohl \"abträglich\" wäre; dies entspricht der eingeschränkten Parteistellung dieses Elternteiles (vgl. zu all dem das hg. Erkenntnis vom 20. März 2013, Zl. 2012/01/0054, mit Hinweisen auf die Vorjudikatur; vgl. für außereheliche Kinder auch das hg. Erkenntnis vom 17. September 2002, Zl. 2002/01/0377).\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2025010042.L01"
+  },
+  {
+   "id": "JWR_2025210082_20261007L01",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2025/21/0082",
+   "Entscheidungsdatum": "2026-10-07",
+   "Veroeffentlicht": "2026-11-16",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "AVG §56",
+    "BFA-VG 2014 §34 Abs3 Z3",
+    "BFA-VG 2014 §40 Abs1 Z1"
+   ],
+   "Schlagworte": "Maßgebende Rechtslage maßgebender Sachverhalt",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2025210082_20261007L01/JWR_2025210082_20261007L01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2025210082_20261007L01",
+   "text_datei": "voll/2026-11-17/JWR_2025210082_20261007L01.txt",
+   "zeichen": 901,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n07.10.2026\nGeschäftszahl\nRa 2025/21/0082\nHinweis auf Stammrechtssatz\nGRS wie Ra 2021/21/0014 B 25. Mai 2023 RS 1\nStammrechtssatz\nDie gegenständliche Festnahme erfolgte nach § 40 Abs. 1 Z 1 BFA-VG 2014 aufgrund eines vom BFA erlassenen Festnahmeauftrages gemäß § 34 Abs. 3 Z 3 BFA-VG 2014. Dieser Festnahmetatbestand ist dann erfüllt, wenn die Absicht besteht, eine Anordnung zur Abschiebung unmittelbar nach der Festnahme zu erlassen, wobei die (lediglich) geplante Abschiebung genügt (vgl. VwGH 29.6.2017, Ra 2017/21/0005; VwGH 21.12.2022, Ra 2020/21/0471). Ob die Voraussetzungen für die beabsichtigte Anordnung zur Abschiebung dann tatsächlich vorliegen, ist vom BFA nach der Festnahme zu überprüfen (vgl. VwGH 21.12.2022, Ra 2020/21/0471; VwGH 20.12.2013, 2012/21/0118).\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2025210082.L01"
+  },
+  {
+   "id": "JWR_2025210082_20261007L02",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2025/21/0082",
+   "Entscheidungsdatum": "2026-10-07",
+   "Veroeffentlicht": "2026-11-16",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "AVG §56",
+    "BFA-VG 2014 §40 Abs1 Z1"
+   ],
+   "Schlagworte": "Maßgebende Rechtslage maßgebender Sachverhalt",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2025210082_20261007L02/JWR_2025210082_20261007L02.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2025210082_20261007L02",
+   "text_datei": "voll/2026-11-17/JWR_2025210082_20261007L02.txt",
+   "zeichen": 603,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n07.10.2026\nGeschäftszahl\nRa 2025/21/0082\nHinweis auf Stammrechtssatz\nGRS wie Ra 2021/21/0014 B 25. Mai 2023 RS 2\nStammrechtssatz\nVoraussetzung für die Rechtmäßigkeit der Festnahme nach § 40 Abs. 1 Z 1 BFA-VG 2014 ist nur, dass das BFA im Zeitpunkt der Erlassung des Festnahmeauftrages und dessen Vollzugs fallbezogen mit gutem Grund annehmen konnte, es könnten die Voraussetzungen für die geplante Anordnung einer Abschiebung vorliegen (vgl. VwGH 21.12.2022, Ra 2020/21/0471).\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2025210082.L02"
+  },
+  {
+   "id": "JWR_2025210082_20261007L04",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2025/21/0082",
+   "Entscheidungsdatum": "2026-10-07",
+   "Veroeffentlicht": "2026-11-16",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "BFA-VG 2014 §40",
+    "BFA-VG 2014 §41 Abs1",
+    "MRK Art5 Abs2",
+    "PersFrSchG 1988 Art4 Abs6",
+    "VwRallg"
+   ],
+   "Schlagworte": "Individuelle Normen und Parteienrechte Diverses VwRallg9/5",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2025210082_20261007L04/JWR_2025210082_20261007L04.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2025210082_20261007L04",
+   "text_datei": "voll/2026-11-17/JWR_2025210082_20261007L04.txt",
+   "zeichen": 714,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n07.10.2026\nGeschäftszahl\nRa 2025/21/0082\nHinweis auf Stammrechtssatz\nGRS wie Ra 2023/21/0091 E 13. Dezember 2023 RS 1\nStammrechtssatz\nRechtswidrigkeit einer auf § 40 BFA-VG 2014 gestützten Festnahme bzw. Anhaltung kann vorliegen, wenn die festgenommene Person entgegen der im Einklang mit den Verfassungsbestimmungen des Art. 4 Abs. 6 PersFrSchG 1988 und des Art. 5 Abs. 2 MRK stehenden Anordnung des § 41 Abs. 1 BFA-VG 2014 nicht ehestens in einer ihm verständlichen Sprache über die Gründe der Anhaltung informiert wurde (VwGH 31.8.2023, Ra 2023/21/0044; VwGH 12.4.2005, 2003/01/0490).\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2025210082.L04"
+  },
+  {
+   "id": "JWR_2025210082_20261007L05",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2025/21/0082",
+   "Entscheidungsdatum": "2026-10-07",
+   "Veroeffentlicht": "2026-11-16",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "BFA-VG 2014 §40",
+    "BFA-VG 2014 §41 Abs1",
+    "MRK Art5 Abs2",
+    "PersFrSchG 1988 Art4 Abs6",
+    "VwRallg"
+   ],
+   "Schlagworte": "Individuelle Normen und Parteienrechte Diverses VwRallg9/5",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2025210082_20261007L05/JWR_2025210082_20261007L05.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2025210082_20261007L05",
+   "text_datei": "voll/2026-11-17/JWR_2025210082_20261007L05.txt",
+   "zeichen": 961,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n07.10.2026\nGeschäftszahl\nRa 2025/21/0082\nHinweis auf Stammrechtssatz\nGRS wie Ra 2023/21/0165 E 3. April 2025 RS 2 (hier nur der erste Satz)\nStammrechtssatz\nZweck der Informationspflicht über die Gründe der Festnahme bzw. Anhaltung ist es, den Festgenommenen in die Lage zu versetzen, die Rechtmäßigkeit der Festnahme zu beurteilen und gegebenenfalls einen entsprechenden Rechtsbehelf zu erheben, also effektiven Rechtsschutz gegen die Festnahme (und die darauf gegründete Anhaltung) zu erlangen (VwGH 13.12.2023, Ra 2023/21/0091; VfGH 29.9.1997, B 3059/96). Die konkrete Information über den Grund der Festnahme ist nicht nur eine Voraussetzung, um einen effektiven Rechtsschutz gegen die der Festnahme unmittelbar folgende Anhaltung zu gewährleisten, sondern auch hinsichtlich der Festnahme selbst (VwGH 22.10.2024, Ra 2024/01/0289).\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2025210082.L03"
+  },
+  {
+   "id": "LVWGT_NI_20261104_LVwG_M_64_001_2026_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-M-64/001-2026",
+   "Entscheidungsdatum": "2026-11-04",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "B-VG Art130 Abs1 Z2",
+    "B-VG Art131 Abs3",
+    "BFGG 2014 §1 Abs2 Z2",
+    "ABBG 2019 §3",
+    "AVG 1991 §6 Abs1"
+   ],
+   "Schlagworte": "Maßnahmenbeschwerde; Finanzpolizei; Kontrolle; Verfahrensrecht; Zuständigkeit; Zurückweisung; Weiterleitung; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_NI_20261104_LVwG_M_64_001_2026_00/LVWGT_NI_20261104_LVwG_M_64_001_2026_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_NI_20261104_LVwG_M_64_001_2026_00",
+   "text_datei": "voll/2026-11-17/LVWGT_NI_20261104_LVwG_M_64_001_2026_00.txt",
+   "zeichen": 10675,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n04.11.2026\nGeschäftszahl\nLVwG-M-64/001-2026\nText\nDas Landesverwaltungsgericht Niederösterreich fasst durch Dr. in Enengel-Binder als Einzelrichterin über die Maßnahmenbeschwerde des A, geb. ***, wohnhaft in ***, betreffend eine am 11.09.2026 durch Organe des Amtes für Betrugsbekämpfung (Geschäftsbereich Finanzpolizei) in den Geschäftsräumlichkeiten der Fahrschule B in der ***, ***, durchgeführte Amtshandlung, den\nBESCHLUSS\n1.\nDie Beschwerde wird mangels Zuständigkeit des Landesverwaltungsgerichts Niederösterreich zurückgewiesen und diese gemäß § 17 VwGVG iVm. § 6 Abs. 1 AVG zuständigkeitshalber an das Bundesfinanzgericht zur weiteren Veranlassung übermittelt.\n2.\nGegen diesen Beschluss ist gemäß § 25a Abs. 1 VwGG eine ordentliche Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4 B-VG unzulässig.\nBegründung:\n1.\nZum Verfahrensgang:\nMit Maßnahmenbeschwerde vom 20.10.2026 richtete sich A (in der Folge: Beschwerdeführer) gegen ein Vorgehen der Finanzpolizei (Amt für Betrugsbekämpfung) vom 11.09.2026 in den Geschäftsräumlichkeiten in der ***, ***. Gleichzeitig brachte der Beschwerdeführer gleichlautende Beschwerde beim BFG ein. Inhaltlich führte er aus, die Fahrschule B in *** als Einzelunternehmer zu führen. Am genannten Tag seien gegen 10:45 Uhr drei Organe der Finanzpolizei unangekündigt in seinen Büroräumlichkeiten erschienen. Er selbst sei nicht anwesend gewesen. Die Organe hätten seinen [...]"
+  },
+  {
+   "id": "LVWGR_NI_20261104_LVwG_M_64_001_2026_01",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-M-64/001-2026",
+   "Entscheidungsdatum": "2026-11-04",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "B-VG Art130 Abs1 Z2",
+    "B-VG Art131 Abs3",
+    "BFGG 2014 §1 Abs2 Z2",
+    "ABBG 2019 §3",
+    "AVG 1991 §6 Abs1"
+   ],
+   "Schlagworte": "Maßnahmenbeschwerde; Finanzpolizei; Kontrolle; Verfahrensrecht; Zuständigkeit; Zurückweisung; Weiterleitung; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_NI_20261104_LVwG_M_64_001_2026_01/LVWGR_NI_20261104_LVwG_M_64_001_2026_01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_NI_20261104_LVwG_M_64_001_2026_01",
+   "text_datei": "voll/2026-11-17/LVWGR_NI_20261104_LVwG_M_64_001_2026_01.txt",
+   "zeichen": 705,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n04.11.2026\nGeschäftszahl\nLVwG-M-64/001-2026\nRechtssatz\n§ 1 Abs 2 Z 2 BFGG stellt nach den Materialien sicher, dass für Maßnahmenbeschwerden (Art 130 Abs 1 Z 2 B-VG) gegen Amtshandlungen von Abgabenbehörden in Angelegenheiten finanzpolizeilicher Befugnisse auch dann das BFG zuständig ist, wenn die Angelegenheit keine Abgaben, sondern ordnungspolitische Maßnahmen (zB nach dem AuslBG, AVRAG, GSpG) betreffen. Für solche Maßnahmenbeschwerden gilt nicht die BAO, sondern das VwGVG (vgl RV 360 BlgNR 25. GP, S 24; vgl zur Zuständigkeit: BFG RM/7100008/2016).\nEuropean Case Law Identifier\nECLI:AT:LVWGNI:2026:LVwG.M.64.001.2026"
+  },
+  {
+   "id": "LVWGT_BU_20260918_E_F01_13_2026_007_009_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "E F01/13/2026.007/009",
+   "Entscheidungsdatum": "2026-09-18",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Burgenland",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "FSG §7",
+    "FSG §24 Abs1",
+    "FSG §25 Abs1",
+    "FSG §25 Abs3",
+    "TilgG 1972 §1"
+   ],
+   "Schlagworte": "Verkehrsrecht; Lenkberechtigung; Entziehung; strafgerichtliche Verurteilungen; Verwaltungsstrafen; Tilgung; Bemessung Entziehungsdauer",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_BU_20260918_E_F01_13_2026_007_009_00/LVWGT_BU_20260918_E_F01_13_2026_007_009_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_BU_20260918_E_F01_13_2026_007_009_00",
+   "text_datei": "voll/2026-11-17/LVWGT_BU_20260918_E_F01_13_2026_007_009_00.txt",
+   "zeichen": 33218,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Burgenland\nEntscheidungsdatum\n18.09.2026\nGeschäftszahl\nE F01/13/2026.007/009\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Burgenland erkennt durch seine Richterin Mag. Rubak über die Beschwerde des BF, ***, ***, vertreten durch Rechtsanwalt RA in ***, gegen den Bescheid der Bezirkshauptmannschaft *** vom 18.05.2026, Zl. ***, betreffend Entziehung der Lenkberechtigung zu Recht:\nI.\nDer Beschwerde wird teilweise Folge gegeben und der Spruch des angefochtenen Bescheides dahingehend abgeändert, dass die Entziehung der Lenkberechtigung für die Dauer von vier Monaten und zehn Tagen, gerechnet ab der Zustellung des angefochtenen Bescheides, erfolgt, somit von 21.05.2026 bis zum Ablauf des 30.09.2026.\nII. Die Revision ist gemäß Art. 133 Abs. 4 B-VG nicht zulässig.\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensgang:\nMit dem angefochtenen Bescheid wurde dem Beschwerdeführer gemäß § 24 Abs. 1 iVm § 7 Abs. 3 Z 9 und § 25 Abs. 3 FSG seine Lenkberechtigung für die Klassen für die Klassen A, AM und B wegen mangelnder Verkehrszuverlässigkeit für die Dauer von sechs Monaten ab Zustellung dieses Bescheides entzogen. Die aufschiebende Wirkung einer Beschwerde gegen diesen Bescheid wurde ausgeschlossen.\nDie belangte Behörde stützte die Annahme der Verkehrsunzuverlässigkeit des Beschwerdeführers insbesondere auf das rechtskräftige Urteil des Landesgerichtes *** vom 27.03.2026, Zahl: ***, dem zufolge der Beschwerdeführer in der Nacht vom [...]"
+  },
+  {
+   "id": "LVWGT_VO_20260702_LVwg_2_5_2026_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwg-2-5/2026",
+   "Entscheidungsdatum": "2026-07-02",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Vorarlberg",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "SPG 1991 §35 Abs1 Z6",
+    "SPG 1991 §35 Abs1 Z7"
+   ],
+   "Schlagworte": "Sicherheitspolizeirecht, Ausweiskontrolle, nicht alleine, weil Zug<br/>Endstation im EU-Ausland",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_VO_20260702_LVwg_2_5_2026_00/LVWGT_VO_20260702_LVwg_2_5_2026_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_VO_20260702_LVwg_2_5_2026_00",
+   "text_datei": "voll/2026-11-17/LVWGT_VO_20260702_LVwg_2_5_2026_00.txt",
+   "zeichen": 38609,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Vorarlberg\nEntscheidungsdatum\n02.07.2026\nGeschäftszahl\nLVwg-2-5/2026\nText\nZahl: LVwG-2-5/2026 -R8\nBregenz, am 02.07.2026\nIm Namen der Republik!\nErkenntni s\nDas Landesverwaltungsgericht Vorarlberg hat durch den Richter Dr. Dietmar Ellensohn über die Beschwerde der A R, B, wegen einer behaupteten Rechtswidrigkeit und Identitätsfeststellung am xx.03.2026 auf Grundlage des § 35 SPG, zu Recht erkannt:\nGemäß § 28 Abs 6 Verwaltungsgerichtsverfahrensgesetz (VwGVG) wird der Beschwerde wegen einer behaupteten rechtswidrigen Identitätsfeststellung am xx.03.2026 auf Grundlage des\n§ 35 SPG stattgegeben, diese für rechtswidrig erklärt und aufgehoben.\nGemäß § 35 VwGVG wird der der Beschwerdeführerin gebührende Kostensatz mit 1.689,60 Euro bestimmt. Die belangte Behörde (der Bund) ist verpflichtet, den angeführten Betrag der Beschwerdeführerin binnen zwei Wochen bei sonstigem Zwang zu bezahlen. Der Kostenersatzantrag der belangten Behörde wird abgewiesen.\nGegen dieses Erkenntnis ist gemäß § 25a VwGG eine ordentliche Revision an den Verwaltungsgerichtshof nach Art 133 Abs 4 BVG unzulässig.\nBegründung\n1. Mit Maßnahmenbeschwerde vom xx.04.2026 bringt die Beschwerdeführerin im Wesentlichen vor, dass sie am xx.03.2026 während einer Zugfahrt von D nach B von Polizeibeamten rechtsgrundlos zur Identitätsfeststellung aufgefordert worden sei.\nDie einschreitenden Organe hätten lediglich pauschal auf § 35 SPG verwiesen, ohne die konkrete gesetzliche Grundlag [...]"
+  },
+  {
+   "id": "LVWGT_ST_20260619_LVwG_30_18_1033_2026_4_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG 30.18-1033/2026-4",
+   "Entscheidungsdatum": "2026-06-19",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Steiermark",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "LSicherheitsG Stmk 2005 §4 Abs3 Z1",
+    "LSicherheitsG Stmk 2005 §3b Abs3"
+   ],
+   "Schlagworte": "öffentlich zugänglich, Ort, Hund, Leinenpflicht, Beherrschbarkeit , Leine und Maulkorb, Steiermärkisches Landes-Sicherheitsgesetz",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_ST_20260619_LVwG_30_18_1033_2026_4_00/LVWGT_ST_20260619_LVwG_30_18_1033_2026_4_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_ST_20260619_LVwG_30_18_1033_2026_4_00",
+   "text_datei": "voll/2026-11-17/LVWGT_ST_20260619_LVwG_30_18_1033_2026_4_00.txt",
+   "zeichen": 18213,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Steiermark\nEntscheidungsdatum\n19.06.2026\nGeschäftszahl\nLVwG 30.18-1033/2026-4\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Steiermark hat durch den Richter Dr. Ortner über die Beschwerde des Herrn A, geboren am ****, gegen das Straferkenntnis der Bürgermeisterin der Stadt Graz, Referat für Strafen und Vollstreckungen, vom 29.01.2026, GZ: GRAZ/601250016670/2025,\nz u R e c h t e r k a n n t:\nI. Gemäß § 50 Abs 1 iVm § 28 Abs 1 Verwaltungsgerichtsverfahrensgesetz (im Folgenden VwGVG) wird die Beschwerde dem Grunde nach\nabgewiesen .\nII. Hinsichtlich des Strafausmaßes wird der Beschwerde dahingehend Folge gegeben , als die Geldstrafe gemäß § 19 VStG iVm § 38 VwGVG mit € 200,00 zu Spruchpunkt I. (im Uneinbringlichkeitsfall 14 Stunden Ersatzfreiheitsstrafe) sowie € 200,00 zu Spruchpunkt II. (im Uneinbringlichkeitsfall 14 Stunden Ersatzfreiheits-strafe) neu festgesetzt wird. Die Gesamtstrafe beträgt daher € 400,00 (28 Stunden Ersatzfreiheitsstrafe).\nDadurch vermindert sich der Kostenbeitrag für das Verwaltungsstrafverfahren der belangten Behörde auf den Betrag von € 40,00.\nIII. Gegen dieses Erkenntnis ist gemäß § 25a Verwaltungsgerichtshofgesetz (im Folgenden VwGG) eine ordentliche Revision an den Verwaltungsgerichtshof nach Art. 133 Abs 4 B-VG unzulässig .\nE n t s c h e i d u n g s g r ü n d e\nI.\nVerfahrensgang:\nMit dem im Spruch angeführten Straferkenntnis der belangten Behörde vom 29.01.2023 wurden dem Beschwerdeführer folgen [...]"
+  },
+  {
+   "id": "LVWGR_ST_20260619_LVwG_30_18_1033_2026_4_01",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG 30.18-1033/2026-4",
+   "Entscheidungsdatum": "2026-06-19",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Steiermark",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "LSicherheitsG Stmk 2005 §4 Abs3 Z1",
+    "LSicherheitsG Stmk 2005 §3b Abs3"
+   ],
+   "Schlagworte": "öffentlich zugänglich, Ort, Hund, Steiermärkisches Landes-Sicherheitsgesetz",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_ST_20260619_LVwG_30_18_1033_2026_4_01/LVWGR_ST_20260619_LVwG_30_18_1033_2026_4_01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_ST_20260619_LVwG_30_18_1033_2026_4_01",
+   "text_datei": "voll/2026-11-17/LVWGR_ST_20260619_LVwG_30_18_1033_2026_4_01.txt",
+   "zeichen": 475,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Steiermark\nEntscheidungsdatum\n19.06.2026\nGeschäftszahl\nLVwG 30.18-1033/2026-4\nRechtssatz\nEine frei zugängliche und tatsächlich von mehreren Personen genutzte Wiese oder ein Waldrand ist als „öffentlich zugänglicher Ort“ im Sinne des § 3b Abs 3 StLSG anzusehen, wenn dort mit dem Kontakt des Hundes mit einer größeren Zahl von Menschen gerechnet werden muss.\nEuropean Case Law Identifier\nECLI:AT:LVWGST:2026:LVwG.30.18.1033.2026.4"
+  },
+  {
+   "id": "LVWGR_ST_20260619_LVwG_30_18_1033_2026_4_02",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG 30.18-1033/2026-4",
+   "Entscheidungsdatum": "2026-06-19",
+   "Geaendert": "2026-11-16",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Steiermark",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "LSicherheitsG Stmk 2005 §4 Abs3 Z1",
+    "LSicherheitsG Stmk 2005 §3b Abs3"
+   ],
+   "Schlagworte": "Leinenpflicht, Beherrschbarkeit , Leine und Maulkorb, Steiermärkisches Landes-Sicherheitsgesetz",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_ST_20260619_LVwG_30_18_1033_2026_4_02/LVWGR_ST_20260619_LVwG_30_18_1033_2026_4_02.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_ST_20260619_LVwG_30_18_1033_2026_4_02",
+   "text_datei": "voll/2026-11-17/LVWGR_ST_20260619_LVwG_30_18_1033_2026_4_02.txt",
+   "zeichen": 492,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Steiermark\nEntscheidungsdatum\n19.06.2026\nGeschäftszahl\nLVwG 30.18-1033/2026-4\nRechtssatz\nDie bloße jederzeitige Beherrschbarkeit eines Hundes vermag die in §3b Abs 3 StLSG normierte Leinen- bzw. Maulkorbpflicht nicht zu ersetzen. Die gesetzlich geforderte jederzeitige Beherrschung setzt bei der Alternative der Leinenführung voraus, dass der Hund tatsächlich angeleint ist.\nEuropean Case Law Identifier\nECLI:AT:LVWGST:2026:LVwG.30.18.1033.2026.4"
+  }
+ ]
+}
