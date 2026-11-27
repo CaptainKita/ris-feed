@@ -1,0 +1,16 @@
+RIS Dokument Gericht
+OGH
+Rechtssatznummer
+RS0153213
+Entscheidungsdatum
+22.09.2026
+Geschäftszahl
+14Os64/26g
+Norm
+StGB §274
+Rechtssatz
+Begeht ein Teilnehmer oder Beteiligter an einer Zusammenkunft vieler Menschen iSd § 274 Abs 1 StGB eine der von § 274 StGB erfassten strafbaren Handlungen als unmittelbarer Täter, Bestimmungs- oder Beitragstäter, treten diese beiden Tatbestände zueinander in echte Idealkonkurrenz.
+Entscheidungstexte
+TE OGH 2026-09-22 14 Os 64/26g
+European Case Law Identifier
+ECLI:AT:OGH0002:2026:RS0153213

@@ -1,0 +1,142 @@
+{
+ "erzeugt": "2026-11-20T05:30:01+01:00",
+ "fenster": "EinerWoche",
+ "quellen": {
+  "Bundesrecht/BgblAuth": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/Begut": {
+   "neu": 3,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/RegV": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Justiz": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vfgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vwgh": {
+   "neu": 2,
+   "abgeschnitten": false
+  },
+  "Judikatur/Lvwg": {
+   "neu": 1,
+   "abgeschnitten": false
+  }
+ },
+ "fehler": [],
+ "dokumente": [
+  {
+   "id": "BEGUT_40CE7C75_2711_449E_8A90_16DD68583864",
+   "app": "Begut",
+   "Kurztitel": "Änderung der Hochschülerinnen- und Hochschülerschaftswahlordnung 2014",
+   "Titel": "Verordnung der Bundesministerin für Frauen, Wissenschaft und Forschung, mit der die Hochschülerinnen- und Hochschülerschaftswahlordnung 2014 geändert wird",
+   "Geaendert": "2026-11-19",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Begut/BEGUT_40CE7C75_2711_449E_8A90_16DD68583864/BEGUT_40CE7C75_2711_449E_8A90_16DD68583864.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Begut&Dokumentnummer=BEGUT_40CE7C75_2711_449E_8A90_16DD68583864",
+   "text_datei": "voll/2026-11-20/BEGUT_40CE7C75_2711_449E_8A90_16DD68583864.txt",
+   "zeichen": 3060,
+   "text": "RIS Dokument Entwurf\nVerordnung der Bundesministerin für Frauen, Wissenschaft und Forschung, mit der die Hochschülerinnen- und Hochschülerschaftswahlordnung 2014 geändert wird\nAuf Grund des § 43 Abs. 7, des § 44 Abs. 2 und des § 60 Abs. 1 und 2 des Hochschülerinnen- und Hochschülerschaftsgesetzes 2014 – HSG 2014, BGBl. I Nr. 45/2014, zuletzt geändert durch die Kundmachung BGBl. I Nr. 80/2025, wird verordnet:\nDie Hochschülerinnen- und Hochschülerschaftswahlordnung 2014, BGBl. II Nr. 376/2014, zuletzt geändert durch die Verordnung BGBl. II Nr. 12/2025, wird wie folgt geändert:\n1. In § 12 Abs. 2 wird der Punkt am Ende der Z 7 durch einen Beistrich ersetzt und folgende Z 8 angefügt:\n„8.\nVerwaltung von Kandidaturen im elektronischen Wahladministrationssystem, soweit dies für die Durchführung der Wahlen erforderlich ist.“\n2. In § 19 Abs. 3a sowie § 52 Abs. 3 Z 3 wird jeweils die Wort- und Zeichenfolge „der Bürgerkarte, einschließlich jener mittels Mobiltelefon (Handy-Signatur),“ durch die Wort- und Buchstabenfolge „der eID“ ersetzt.\n3. In § 47 Abs. 3 wird die Wort- und Zeichenfolge „für alle bei der Wahlkommission (Unterkommission) wählbaren Organe“ durch die Wortfolge „für alle bei der Wahlkommission, Unterwahlkommission oder Unterkommission wählbaren Organe“ ersetzt.\n4. § 48 Abs. 3 Z 1 lautet:\n„1.\ndie Gesamtsumme der abgegebenen Stimmen einschließlich der gemäß § 47 Abs. 3 als ungültig zu wertenden Stimmen,“\n5. § 48 Abs. 5 lautet:\n„(5) Die Mitglieder der Wahlkommissionen, der Unt [...]"
+  },
+  {
+   "id": "BEGUT_9DFFA520_F2B7_40CA_9982_F555847077CA",
+   "app": "Begut",
+   "Kurztitel": "Wahltageverordnung 2027",
+   "Titel": "Verordnung der Bundesministerin für Frauen, Wissenschaft und Forschung über die Wahltage der Hochschülerinnen- und Hochschülerschaftswahlen 2027",
+   "Geaendert": "2026-11-19",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Begut/BEGUT_9DFFA520_F2B7_40CA_9982_F555847077CA/BEGUT_9DFFA520_F2B7_40CA_9982_F555847077CA.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Begut&Dokumentnummer=BEGUT_9DFFA520_F2B7_40CA_9982_F555847077CA",
+   "text_datei": "voll/2026-11-20/BEGUT_9DFFA520_F2B7_40CA_9982_F555847077CA.txt",
+   "zeichen": 6977,
+   "text": "RIS Dokument Entwurf\nVerordnung der Bundesministerin für Frauen, Wissenschaft und Forschung über die Wahltage der Hochschülerinnen- und Hochschülerschaftswahlen 2027\nAuf Grund des § 43 Abs. 2 des Hochschülerinnen- und Hochschülerschaftsgesetzes 2014 – HSG 2014, BGBl. I Nr. 45/2014, zuletzt geändert durch die Kundmachung BGBl. I Nr. 80/2025, wird verordnet:\nWahltage\n§ 1.\nAls Wahltage für die Hochschülerinnen- und Hochschülerschaftswahlen 2027 werden Dienstag, 11. Mai 2027, Mittwoch, 12. Mai 2027 und Donnerstag, 13. Mai 2027, festgelegt.\nFristen und Zeitpunkte\n§ 2.\nFolgende Fristen und Zeitpunkte sind einzuhalten:\n23. März 2027 (sieben Wochen vor dem ersten Wahltag)\n– Stichtag für die Wahlberechtigung (§ 47 Abs. 5 des Hochschülerinnen- und Hochschüler-schaftsgesetzes 2014 – HSG 2014, BGBl. I Nr. 45/2014, in der jeweils geltenden Fassung und § 14 der Hochschülerinnen- und Hochschülerschaftswahlordnung 2014 – HSWO 2014, in der jeweils geltenden Fassung)\n– Beginn der Einbringungsfrist für Wahlvorschläge (§ 22 HSWO 2014)\n– Beginn der Einbringungsfrist für Kandidaturen (§ 28 HSWO 2014)\n25. März 2027 (zweiter Werktag nach Ablauf des Stichtages)\nEnde der Frist für die Übermittlung der Daten gemäß § 15 Abs. 2 HSWO 2014 an die Wahlkommission der Österreichischen Hochschülerinnen- und Hochschülerschaft (§ 16 Abs. 1 HSWO 2014)\n1. April 2027 (sechs Wochen vor dem letzten Wahltag)\n– Beginn der Frist zur Einsichtnahme in die Wählerinnen- und Wählerverzeichnisse (§ 19 Abs. 3 in Verbindung mit [...]"
+  },
+  {
+   "id": "BEGUT_84B5133E_4903_446B_A50C_5DB6F63B4B29",
+   "app": "Begut",
+   "Kurztitel": "Änderung des Erneuerbaren-Ausbau-Gesetzes und des Ökostromgesetzes 2012",
+   "Titel": "Bundesgesetz, mit dem das Erneuerbaren-Ausbau-Gesetz und das Ökostromgesetz 2012 geändert werden",
+   "Geaendert": "2026-11-19",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Begut/BEGUT_84B5133E_4903_446B_A50C_5DB6F63B4B29/BEGUT_84B5133E_4903_446B_A50C_5DB6F63B4B29.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Begut&Dokumentnummer=BEGUT_84B5133E_4903_446B_A50C_5DB6F63B4B29",
+   "text_datei": "voll/2026-11-20/BEGUT_84B5133E_4903_446B_A50C_5DB6F63B4B29.txt",
+   "zeichen": 71106,
+   "text": "RIS Dokument Entwurf\nBundesgesetz, mit dem das Erneuerbaren-Ausbau-Gesetz und das Ökostromgesetz 2012 geändert werden\nDer Nationalrat hat beschlossen:\nArtikel 1\nÄnderung des Erneuerbaren-Ausbau-Gesetzes\nDas Erneuerbaren-Ausbau-Gesetz (EAG), BGBl. I Nr. 150/2021, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 47/2026, wird wie folgt geändert:\n1. Im Inhaltsverzeichnis entfällt der Eintrag zu § 17a.\n2. Im Inhaltsverzeichnis lauten die Einträge zu den §§ 56, 56a und 57:\n„§ 56.\nInvestitionszuschüsse für multifunktionale Photovoltaikanlagen\n§ 56a.\nInvestitionszuschüsse für Stromspeicher\n§ 57.\nInvestitionszuschüsse für Wasserkraftanlagen“\n3. Im Inhaltsverzeichnis entfallen die Einträge zum 2. Hauptstück des 7. Teils.\n4. Im Inhaltsverzeichnis wird dem Eintrag zu § 88 die Wortfolge „und der Gesamtenergieeffizienz“ angefügt.\n5. Im Inhaltsverzeichnis wird nach dem Eintrag zu § 97 folgender Eintrag eingefügt:\n„§ 97a.\nGemeinsame Projekte zwischen Mitgliedstaaten“\n6. (Verfassungsbestimmung) § 1 samt Überschrift lautet:\n„Kompetenzgrundlage und Vollziehung\n§ 1.\n(Verfassungsbestimmung) Die Erlassung, Aufhebung und Vollziehung von Vorschriften, wie sie in diesem Bundesgesetz enthalten sind, sind auch in den Belangen Bundessache, hinsichtlich deren das B-VG etwas anderes bestimmt. Die in diesen Vorschriften geregelten Angelegenheiten können unmittelbar von den in diesem Bundesgesetz vorgesehenen Einrichtungen versehen werden.“\n7. In § 2 Abs. 1 wird der Strichpunkt am Ende der Z 5 durch ein [...]"
+  },
+  {
+   "id": "JWR_2026050105_20261023L03",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2026/05/0105",
+   "Entscheidungsdatum": "2026-10-23",
+   "Veroeffentlicht": "2026-11-19",
+   "Geaendert": "2026-11-19",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "AVG §6 Abs1",
+    "VwGG §24 Abs1 Z2",
+    "VwGG §26 Abs1",
+    "VwGG §61",
+    "VwGG §61 Abs3",
+    "VwRallg"
+   ],
+   "Schlagworte": "Rechtsgrundsätze Fristen VwRallg6/5 Weiterleitung an die zuständige Behörde auf Gefahr des Einschreiters",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2026050105_20261023L03/JWR_2026050105_20261023L03.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2026050105_20261023L03",
+   "text_datei": "voll/2026-11-20/JWR_2026050105_20261023L03.txt",
+   "zeichen": 1003,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n23.10.2026\nGeschäftszahl\nRa 2026/05/0105\nBeachte\nMiterledigung (miterledigt bzw zur gemeinsamen Entscheidung verbunden):\nRa 2026/05/0106\nHinweis auf Stammrechtssatz\nGRS wie Ra 2025/08/0101 B 22. Dezember 2025 RS 1 (hier: ohne den fallspezifischen Zusatz am Ende)\nStammrechtssatz\nWird ein fristgebundenes Anbringen bei einer unzuständigen Stelle eingebracht, so erfolgt die Weiterleitung auf Gefahr des Einschreiters. Die Frist ist nur dann gewahrt, wenn die unzuständige Stelle das Anbringen zur Weiterleitung an die zuständige Stelle spätestens am letzten Tag der Frist zur Post gibt (bzw. - nunmehr - im Wege des ERV versendet) oder das Anbringen bis zu diesem Zeitpunkt bei der zuständigen Stelle einlangt (vgl. etwa VwGH 12.9.2023, Ra 2023/22/0126, mwN) (hier: betreffend einen Antrag auf Bewilligung der Verfahrenshilfe für die Erhebung einer außerordentlichen Revision).\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2026050105.L03"
+  },
+  {
+   "id": "JWR_2025130063_20260924L01",
+   "app": "Vwgh",
+   "Geschaeftszahl": "Ra 2025/13/0063",
+   "Entscheidungsdatum": "2026-09-24",
+   "Veroeffentlicht": "2026-11-19",
+   "Geaendert": "2026-11-19",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verwaltungsgerichtshof (VwGH)",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "ALSAG 1989 §10",
+    "AVG §68 Abs1",
+    "AWG 2002 §6",
+    "VwRallg"
+   ],
+   "Schlagworte": "Individuelle Normen und Parteienrechte Rechtswirkungen von Bescheiden Rechtskraft VwRallg9/3 Rechtskraft Umfang der Rechtskraftwirkung Allgemein Bindung der Behörde",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vwgh/JWR_2025130063_20260924L01/JWR_2025130063_20260924L01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2025130063_20260924L01",
+   "text_datei": "voll/2026-11-20/JWR_2025130063_20260924L01.txt",
+   "zeichen": 713,
+   "text": "RIS Dokument Gericht\nVerwaltungsgerichtshof\nEntscheidungsdatum\n24.09.2026\nGeschäftszahl\nRa 2025/13/0063\nHinweis auf Stammrechtssatz\nGRS wie 2010/07/0238 E 26. April 2013 RS 3 (hier keine Bezugnahme auf § 4 AWG 1990)\nStammrechtssatz\nDie Rechtsordnung stellt in Gestalt des § 4 AWG 1990 bzw nunmehr des § 6 AWG 2002 Verfahren zur Verfügung, in welchen die Frage des Vorliegens von Abfällen in einem auf dieses Thema zugeschnittenen und darauf spezialisierten Verfahren zu beantworten ist. Solche Feststellungsbescheide sind auch für die das ALSAG 1989 vollziehende Behörde bindend (vgl. E 25. Jänner 2007, 2005/07/0139; E 26. Juli 2012, 2011/07/0173).\nEuropean Case Law Identifier\nECLI:AT:VWGH:2026:RA2025130063.L01"
+  },
+  {
+   "id": "LVWGT_NI_20261110_LVwG_S_1809_001_2024_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-S-1809/001-2024",
+   "Entscheidungsdatum": "2026-11-10",
+   "Geaendert": "2026-11-19",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "StVO 1960 §52 lita Z10a",
+    "StVO 1960 §99 Abs2e",
+    "B-VG Art139 Abs6"
+   ],
+   "Schlagworte": "Verkehrsrecht; Straßenverkehr; Verwaltungsstrafe; Höchstgeschwindigkeit; Überschreitung; Verordnung; Gesetzwidrigkeit; Sache des Verfahrens; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_NI_20261110_LVwG_S_1809_001_2024_00/LVWGT_NI_20261110_LVwG_S_1809_001_2024_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_NI_20261110_LVwG_S_1809_001_2024_00",
+   "text_datei": "voll/2026-11-20/LVWGT_NI_20261110_LVwG_S_1809_001_2024_00.txt",
+   "zeichen": 19460,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n10.11.2026\nGeschäftszahl\nLVwG-S-1809/001-2024\nText\nTEILERKENNTNIS 2\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Niederösterreich erkennt durch seinen Richter Dr. Marvin Novak, LL.M., als Einzelrichter über die Beschwerde von Herrn A, vertreten durch Rechtsanwalt B, ***, ***, gegen Spruchpunkt 2. des Straferkenntnisses der Bezirkshauptmannschaft St. Pölten vom 17. Juli 2024, Zl. ***, betreffend Bestrafung nach der StVO 1960, zu Recht:\n1.\nDer Beschwerde wird Folge gegeben und es wird Spruchpunkt 2. des angefochtenen Straferkenntnisses samt der dazugehörigen Kostenvorschreibung aufgehoben.\n2.\nDas Verwaltungsstrafverfahren wird gemäß § 45 Abs. 1 Z 2 des Verwaltungsstrafgesetzes 1991 (VStG) eingestellt.\n3.\nGegen dieses Erkenntnis ist eine ordentliche Revision nicht zulässig.\nWeitere Rechtsgrundlagen :\n§ 50 Abs. 1 des Verwaltungsgerichtsverfahrensgesetzes (VwGVG)\n§ 25a des Verwaltungsgerichtshofgesetzes 1985 (VwGG)\nArt. 133 Abs. 4 des Bundes-Verfassungsgesetzes (B-VG)\nEntscheidungsgründe:\n1.\nMaßgeblicher Verfahrensgang und Feststellungen :\n1.1. Mit Straferkenntnis der Bezirkshauptmannschaft St. Pölten vom 17. Juli 2024, Zl. ***, wurde der Beschwerdeführer, Herr A, wegen Nichterteilung der Lenkerauskunft und Geschwindigkeitsüberschreitung wie folgt bestraft (Wiedergabe ohne die im Original enthaltenen Hervorhebungen):\n„Sie haben als Fahrzeuglenker folgende Verwaltungsübertretung begangen:\nZeit:  [...]"
+  }
+ ]
+}

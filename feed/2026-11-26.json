@@ -1,0 +1,388 @@
+{
+ "erzeugt": "2026-11-26T05:30:02+01:00",
+ "fenster": "EinerWoche",
+ "quellen": {
+  "Bundesrecht/BgblAuth": {
+   "neu": 2,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/Begut": {
+   "neu": 1,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/RegV": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Justiz": {
+   "neu": 4,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vfgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vwgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Lvwg": {
+   "neu": 11,
+   "abgeschnitten": false
+  }
+ },
+ "fehler": [],
+ "dokumente": [
+  {
+   "id": "BGBLA_2026_II_332",
+   "app": "BgblAuth",
+   "Kurztitel": "APF-Kostenbeitragsverordnung 2026",
+   "Titel": "Verordnung des Bundesministers für Innovation, Mobilität und Infrastruktur über die Höhe der Beiträge der von Schlichtungsverfahren betroffenen Unternehmen (APF-Kostenbeitragsverordnung 2026)",
+   "Ausgabedatum": "2026-11-25",
+   "Typ": "Verordnung",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_II_332/BGBLA_2026_II_332.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_II_332",
+   "text_datei": "voll/2026-11-26/BGBLA_2026_II_332.txt",
+   "zeichen": 1014,
+   "text": "RIS Dokument BUNDESGESETZBLATT\nFÜR DIE REPUBLIK ÖSTERREICH\nJahrgang 2026\nAusgegeben am 25. November 2026\nTeil II\n332. Verordnung:\nAPF-Kostenbeitragsverordnung 2026\n332. Verordnung des Bundesministers für Innovation, Mobilität und Infrastruktur über die Höhe der Beiträge der von Schlichtungsverfahren betroffenen Unternehmen (APF-Kostenbeitragsverordnung 2026)\nAufgrund des § 4 Abs. 3 des Bundesgesetzes über die Agentur für Passagier- und Fahrgastrechte, BGBI. I Nr. 114/2024, wird verordnet:\n§ 1.\nDie Höhe des gemäß § 4 Abs. 3 des Bundesgesetzes über die Agentur für Passagier- und Fahrgastrechte, BGBI. I Nr. 114/2024, festzulegenden Beitrages der Unternehmen beträgt 111 Euro.\n§ 2.\nDiese Verordnung tritt mit dem Ablauf des Tages der Kundmachung in Kraft. Gleichzeitig tritt die Verordnung des Bundesministers für Verkehr, lnnovation und Technologie über die Höhe der Beiträge der von Schlichtungsverfahren betroffenen Unternehmer (PFAG-Kostenbeitragsverordnung 2015), BGBl. II Nr. 150/2015, außer Kraft.\nHanke"
+  },
+  {
+   "id": "BGBLA_2026_II_331",
+   "app": "BgblAuth",
+   "Kurztitel": "Mauttarifverordnung 2026",
+   "Titel": "Verordnung des Bundesministers für Innovation, Mobilität und Infrastruktur über die Festsetzung der Mauttarife (Mauttarifverordnung 2026)",
+   "Ausgabedatum": "2026-11-25",
+   "Typ": "Verordnung",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_II_331/BGBLA_2026_II_331.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_II_331",
+   "text_datei": "voll/2026-11-26/BGBLA_2026_II_331.txt",
+   "zeichen": 6208,
+   "text": "RIS Dokument BUNDESGESETZBLATT\nFÜR DIE REPUBLIK ÖSTERREICH\nJahrgang 2026\nAusgegeben am 25. November 2026\nTeil II\n331. Verordnung:\nMauttarifverordnung 2026\n[CELEX-Nr.: 32022L0362]\n331. Verordnung des Bundesministers für Innovation, Mobilität und Infrastruktur über die Festsetzung der Mauttarife (Mauttarifverordnung 2026)\nAuf Grund des § 8c Abs. 8 und des § 9 des Bundesstraßen-Mautgesetzes 2002 – BStMG, BGBl. I Nr. 109/2002, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 83/2025, wird, hinsichtlich der §§ 1 bis 9 und 11 im Einvernehmen mit dem Bundesminister für Finanzen, verordnet:\n§ 1.\nDie Tarife zur Anlastung der Infrastrukturkosten werden nach folgenden Tarifgruppen differenziert:\nTarifgruppe\nKraftfahrzeuge\nE\nCO 2 -Emissionsklasse 5\nA\nandere CO 2 -Emissionsklassen\n§ 2.\nDie Tarife zur Anlastung der Infrastrukturkosten betragen in Cent ohne Umsatzsteuer:\nTarifgruppe\nKat. 2\nKat. 3\nKat. 4\nE\n5,66\n7,92\n11,89\nA\n22,65\n31,71\n47,57\nKat.\n2 = Kraftfahrzeuge mit zwei Achsen\nKat.\n3 = Kraftfahrzeuge und Fahrzeugkombinationen mit drei Achsen\nKat.\n4 = Kraftfahrzeuge und Fahrzeugkombinationen mit vier und mehr Achsen\n§ 3.\nDie Tarife zur Anlastung der Infrastrukturkosten gemäß § 2 erhöhen sich gemäß § 9 Abs. 7 Z 2 des Bundesstraßen-Mautgesetzes 2002 – BStMG, BGBl. I Nr. 109/2002, in der Fassung des Bundesgesetzes BGBl. I Nr. 83/2025, für die Strecke der A 12 zwischen der Staatsgrenze bei Kufstein und dem Knoten Innsbruck/Amras (A 13) um einen Aufschlag in der Höhe von 25 %.\n§ 4.\nDie Maut [...]"
+  },
+  {
+   "id": "BEGUT_5BFFF38C_2342_4372_B4F4_9971A1632117",
+   "app": "Begut",
+   "Kurztitel": "Maßnahmenkatalog Bio-Verordnung",
+   "Titel": "Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz über den gemeinsamen Katalog an Maßnahmen bei Verdachtsfällen und festgestellten Verstößen gemäß Art. 41 Abs. 4 der Verordnung (EU) 2018/848",
+   "Geaendert": "2026-11-25",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Begut/BEGUT_5BFFF38C_2342_4372_B4F4_9971A1632117/BEGUT_5BFFF38C_2342_4372_B4F4_9971A1632117.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Begut&Dokumentnummer=BEGUT_5BFFF38C_2342_4372_B4F4_9971A1632117",
+   "text_datei": "voll/2026-11-26/BEGUT_5BFFF38C_2342_4372_B4F4_9971A1632117.txt",
+   "zeichen": 25091,
+   "text": "RIS Dokument Entwurf\nVerordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz über den gemeinsamen Katalog an Maßnahmen bei Verdachtsfällen und festgestellten Verstößen gemäß Art. 41 Abs. 4 der Verordnung (EU) 2018/848 (Maßnahmenkatalog Bio-Verordnung – MK Bio-V)\nAuf Grund des § 9 Abs. 1 Z 10 des EU-Qualitätsregelungen-Durchführungsgesetzes (EU-QuaDG), BGBl. I Nr. 130/2015, zuletzt geändert durch das Informationsfreiheits-Anpassungsgesetz, BGBl. I Nr. 50/2025, wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft verordnet:\nAnwendungsbereich und Ziel\n§ 1.\n(1) Diese Verordnung legt den Rahmen für den gemäß Art. 41 Abs. 4 der Verordnung (EU) 2018/848 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates, ABl. Nr. L 150 vom 14.06.2018 S. 1, zu erstellenden gemeinsamen Katalog an Maßnahmen, die bei Verdachtsfällen und insbesondere bei festgestellten Verstößen zu ergreifen sind, fest. Der gemäß § 5 Abs. 2 Z 4 lit. b. EU-QuaDG auszuarbeitende Maßnahmenkatalog ist von den Behörden gemäß § 3 Abs. 1 und 6 EU-QuaDG (der Landeshauptmann sowie das Bundesamt für Verbrauchergesundheit, kurz BAVG), sowie den Kontrollstellen gemäß § 3 Abs. 2 Z 3 EU-QuaDG anzuwenden.\n(2) Ferner legt diese Verordnung jene Verstöße fest, die jedenfalls als kritisch im Sinne des § 7 e [...]"
+  },
+  {
+   "id": "JJR_20261019_OGH0002_0150OS00109_26G0000_000",
+   "app": "Justiz",
+   "Geschaeftszahl": "15Os109/26g",
+   "Entscheidungsdatum": "2026-10-19",
+   "Veroeffentlicht": "2026-11-25",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "OGH",
+   "Normen": "MedG §8a Abs2",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Justiz/JJR_20261019_OGH0002_0150OS00109_26G0000_000/JJR_20261019_OGH0002_0150OS00109_26G0000_000.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJR_20261019_OGH0002_0150OS00109_26G0000_000",
+   "text_datei": "voll/2026-11-26/JJR_20261019_OGH0002_0150OS00109_26G0000_000.txt",
+   "zeichen": 542,
+   "text": "RIS Dokument Gericht\nOGH\nRechtssatznummer\nRS0153219\nEntscheidungsdatum\n19.10.2026\nGeschäftszahl\n15Os109/26g\nNorm\nMedG §8a Abs2\nRechtssatz\nBegründet die Veröffentlichung in mehreren Medien (auch) verschiedener Medieninhaber mehrere Ansprüche nach den §§ 6 ff MedienG (Anspruchskumulation), ist auch die Frage der Fristauslösung nach § 8a Abs 2 MedienG jeweils gesondert, nämlich in Ansehung jedes einzelnen Medieninhabers zu prüfen.\nEntscheidungstexte\nTE OGH 2026-10-19 15 Os 109/26g\nEuropean Case Law Identifier\nECLI:AT:OGH0002:2026:RS0153219"
+  },
+  {
+   "id": "JJR_20261019_OGH0002_0150OS00109_26G0000_001",
+   "app": "Justiz",
+   "Geschaeftszahl": "15Os109/26g",
+   "Entscheidungsdatum": "2026-10-19",
+   "Veroeffentlicht": "2026-11-25",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "OGH",
+   "Normen": [
+    "MedG §6",
+    "MedG §7",
+    "MedG §7a",
+    "MedG §7b",
+    "MedG §7c"
+   ],
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Justiz/JJR_20261019_OGH0002_0150OS00109_26G0000_001/JJR_20261019_OGH0002_0150OS00109_26G0000_001.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJR_20261019_OGH0002_0150OS00109_26G0000_001",
+   "text_datei": "voll/2026-11-26/JJR_20261019_OGH0002_0150OS00109_26G0000_001.txt",
+   "zeichen": 658,
+   "text": "RIS Dokument Gericht\nOGH\nRechtssatznummer\nRS0153220\nEntscheidungsdatum\n19.10.2026\nGeschäftszahl\n15Os109/26g\nNorm\nMedG §6\nMedG §7\nMedG §7a\nMedG §7b\nMedG §7c\nRechtssatz\nDer Entschädigungsanspruch gegen einen bestimmten Medieninhaber entsteht durch eine Veröffentlichung in einem Medium, dessen Medieninhaber er ist; erfolgt eine inhaltsgleiche Veröffentlichung in verschiedenen Medien, so begründet dies demnach jeweils einen Anspruch gegen den jeweiligen Medieninhaber, wodurch es zur Anspruchshäufung gegenüber demselben Medieninhaber kommen kann.\nEntscheidungstexte\nTE OGH 2026-10-19 15 Os 109/26g\nEuropean Case Law Identifier\nECLI:AT:OGH0002:2026:RS0153220"
+  },
+  {
+   "id": "JJR_20260903_OGH0002_0150OS00003_26V0000_000",
+   "app": "Justiz",
+   "Geschaeftszahl": "15Os3/26v",
+   "Entscheidungsdatum": "2026-09-03",
+   "Veroeffentlicht": "2026-11-25",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "OGH",
+   "Normen": "StGB §278b Abs1",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Justiz/JJR_20260903_OGH0002_0150OS00003_26V0000_000/JJR_20260903_OGH0002_0150OS00003_26V0000_000.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJR_20260903_OGH0002_0150OS00003_26V0000_000",
+   "text_datei": "voll/2026-11-26/JJR_20260903_OGH0002_0150OS00003_26V0000_000.txt",
+   "zeichen": 685,
+   "text": "RIS Dokument Gericht\nOGH\nRechtssatznummer\nRS0153218\nEntscheidungsdatum\n03.09.2026\nGeschäftszahl\n15Os3/26v\nNorm\nStGB §278b Abs1\nRechtssatz\nIn Bezug auf § 278b Abs 1 StGB entspricht bereits eine Weisungskompetenz in einem maßgebenden Teilbereich des Gesamtgefüges der Vereinigung oder eine maßgebliche Mitwirkung an deren Führung im Sinn einer selbst unterhalb der ersten Führungsebene ausgeübten Kompetenz, deren Aktivitäten verbindlich festzulegen bzw selbständig im Rahmen der Vereinigung zur Erreichung ihrer Zielsetzungen disponieren zu können, dem Begriff des \"Anführens\".\nEntscheidungstexte\nTE OGH 2026-09-03 15 Os 3/26v\nEuropean Case Law Identifier\nECLI:AT:OGH0002:2026:RS0153218"
+  },
+  {
+   "id": "JJR_20260903_OGH0002_0150OS00067_26F0000_000",
+   "app": "Justiz",
+   "Geschaeftszahl": "15Os67/26f",
+   "Entscheidungsdatum": "2026-09-03",
+   "Veroeffentlicht": "2026-11-25",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "OGH",
+   "Normen": "EU-JZG §55d Abs7",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Justiz/JJR_20260903_OGH0002_0150OS00067_26F0000_000/JJR_20260903_OGH0002_0150OS00067_26F0000_000.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJR_20260903_OGH0002_0150OS00067_26F0000_000",
+   "text_datei": "voll/2026-11-26/JJR_20260903_OGH0002_0150OS00067_26F0000_000.txt",
+   "zeichen": 494,
+   "text": "RIS Dokument Gericht\nOGH\nRechtssatznummer\nRS0153221\nEntscheidungsdatum\n03.09.2026\nGeschäftszahl\n15Os67/26f\nNorm\nEU-JZG §55d Abs7\nRechtssatz\nAus § 55d Abs 7 EU-JZG kann kein Beweisverwendungsverbot für Informationen abgeleitet werden, die von ausländischen Behörden bereits vor der Unterrichtung der österreichischen Staatsanwaltschaft im Sinn der genannten Bestimmung gewonnen wurden.\nEntscheidungstexte\nTE OGH 2026-09-03 15 Os 67/26f\nEuropean Case Law Identifier\nECLI:AT:OGH0002:2026:RS0153221"
+  },
+  {
+   "id": "LVWGT_TI_20261119_LVwG_2026_45_2504_2_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-2026/45/2504-2",
+   "Entscheidungsdatum": "2026-11-19",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Tirol",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "VStG §49 Abs1",
+    "AVG §32"
+   ],
+   "Schlagworte": "Zurückweisungsbescheid<br/>Frist<br/>Einspruchsfrist<br/>",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_TI_20261119_LVwG_2026_45_2504_2_00/LVWGT_TI_20261119_LVwG_2026_45_2504_2_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_TI_20261119_LVwG_2026_45_2504_2_00",
+   "text_datei": "voll/2026-11-26/LVWGT_TI_20261119_LVwG_2026_45_2504_2_00.txt",
+   "zeichen": 13961,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Tirol\nEntscheidungsdatum\n19.11.2026\nGeschäftszahl\nLVwG-2026/45/2504-2\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Tirol erkennt durch seine Richterin Dr. in Stemmer über die Beschwerde des AA, wohnhaft in Adresse 1, **** Z, gegen den Zurückweisungsbescheid der Bezirkshauptmannschaft Y vom 12.08.2026, ***, wegen Verspätung,\nzu Recht:\n1. Die Beschwerde wird als unbegründet abgewiesen .\n2. Die ordentliche Revision ist gemäß Art 133 Abs 4 B-VG nicht zulässig.\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensgang:\nMit Strafverfügung der belangten Behörde vom 30.06.2026 wurde dem Beschwerdeführer eine Übertretung des § 22 Abs 2 Z 6 iVm § 7 Abs 6 MeldeG zur Last gelegt und über ihn eine Geldstrafe in der Höhe von Euro 150,00, Ersatzfreiheitsstrafe 5 Tage 20 Stunden, verhängt. Diese Strafverfügung wurde dem Beschwerdeführer durch nachweisliche persönliche Übergabe am 03.07.2026 zugestellt.\nAm 29.07.2026 erhob der Beschwerdeführer per E-Mail Einspruch gegen diese Strafverfügung. Im Einspruch verwies er darauf, dass er „gestern“ (somit am 28.07.2026) vorgesprochen habe und wegen Urlaubs abgewiesen worden sei.\nIm verwaltungsbehördlichen Akt findet sich ein Aktenvermerk, wonach der Beschwerdeführer am 27.07.2026 im Amt vorgesprochen habe und ihm mitgeteilt worden sei, dass sich der zuständige Sachbearbeiter im Urlaub befinde.\nMit dem nunmehr angefochtenen Bescheid der belangten Behörde vom 12.08.2026 wurde der Einspruch vom 29.0 [...]"
+  },
+  {
+   "id": "LVWGT_TI_20261117_LVwG_205_46_2283_6_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-205/46/2283-6",
+   "Entscheidungsdatum": "2026-11-17",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Tirol",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "StVO 1960 §52 lita Z10a",
+    "FSG 1997 §14 Abs1 Z1"
+   ],
+   "Schlagworte": "Verordnung<br/>Messung<br/>TruSpeed<br/>Verwendungsbestimmung<br/>Beweiswürdigung<br/>Ortsgebiet<br/>Geschwindigkeitsüberschreitung<br/>",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_TI_20261117_LVwG_205_46_2283_6_00/LVWGT_TI_20261117_LVwG_205_46_2283_6_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_TI_20261117_LVwG_205_46_2283_6_00",
+   "text_datei": "voll/2026-11-26/LVWGT_TI_20261117_LVwG_205_46_2283_6_00.txt",
+   "zeichen": 26780,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Tirol\nEntscheidungsdatum\n17.11.2026\nGeschäftszahl\nLVwG-205/46/2283-6\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Tirol hat durch seine Richterin Mag. a Wieser über die Beschwerde des AA, vertreten durch BB, Adresse 1, **** Z, gegen das Straferkenntnis der Bezirkshauptmannschaft Z vom 04.08.2025, Zl ***, betreffend zwei Verwaltungsübertretungen nach der StVO und dem FSG, nach durchgeführter öffentlicher Verhandlung,\nzu Recht erkannt:\n1. Die Beschwerde wird als unbegründet abgewiesen .\n2. Der Beschwerdeführer hat einen Beitrag zu den Kosten des Beschwerdeverfahrens zu Spruchpunkt 1. des angefochtenen Straferkenntnisses in der Höhe von Euro 98,00 und zu Spruchpunkt 2. des angefochtenen Straferkenntnisses in der Höhe von Euro 10,00 zu leisten.\n3. Die ordentliche Revision ist gemäß Art 133 Abs 4 B-VG nicht zulässig.\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensgang:\nMit Straferkenntnis der Bezirkshauptmannschaft Z vom 04.08.2025, Zl ***, wurde dem Beschwerdeführer folgender Sachverhalt zur Last gelegt:\n1. Datum/Zeit: 29.05.2025, 12:47 Uhr\nOrt: **** Y, am Yerberg auf der B*** bei Str.km **, auf Höhe des\nStrKm **, in Richtung X\nBetroffenes Fahrzeug: PKW, Kennzeichen: ***\nSie haben im angeführten Bereich, welcher außerhalb eines Ortsgebietes liegt, die durch Straßenverkehrszeichen in diesem Bereich kundgemachte zulässige Höchstgeschwindigkeit von 80 km/h um 53 km/h überschritten. Die in Betracht kommende Messtoleranz wur [...]"
+  },
+  {
+   "id": "LVWGT_TI_20261114_LVwG_2026_49_2009_8_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-2026/49/2009-8",
+   "Entscheidungsdatum": "2026-11-14",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Tirol",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "FSG 1997 §24 Abs4",
+    "FSG-PV 1997 §13",
+    "FSG-PV 1997 §14"
+   ],
+   "Schlagworte": "Ausnahmezustand<br/>Verhaltensauffälligkeiten<br/>UbG-Unterbringung<br/>Psychotische Störung<br/>Hyponatriämie<br/>Benzodiazepinabusus<br/>Amtsärztliche Untersuchung<br/>Gesundheitliche Eignungsbedenken<br/>",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_TI_20261114_LVwG_2026_49_2009_8_00/LVWGT_TI_20261114_LVwG_2026_49_2009_8_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_TI_20261114_LVwG_2026_49_2009_8_00",
+   "text_datei": "voll/2026-11-26/LVWGT_TI_20261114_LVwG_2026_49_2009_8_00.txt",
+   "zeichen": 68031,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Tirol\nEntscheidungsdatum\n14.11.2026\nGeschäftszahl\nLVwG-2026/49/2009-8\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Tirol erkennt durch seinen Richter Dr. Außerlechner über die Beschwerde der AA, Adresse 1, **** Z, vertreten durch Rechtsanwältin BB, Adresse 2, **** Z, gegen den Bescheid der Bezirkshauptmannschaft Z vom 1.6.2026, ***, wegen Anordnung einer besonderen Maßnahme nach dem Führerscheingesetz (FSG), nach Durchführung einer öffentlichen mündlichen Verhandlung,\nzu Recht:\n1.\nDie Beschwerde wird mit der Maßgabe als unbegründet abgewiesen , als der amtsärztlichen Untersuchung binnen zwei Monaten nach Zustellung dieses Erkenntnisses nachzukommen ist und die Wortfolge „und die für die Erstellung des Gutachtens erforderlichen Befunde vorzulegen“ im Spruch des angefochtenen Bescheides gestrichen wird.\n2. Die (ordentliche) Revision ist gemäß Art 133 Abs 4 B-VG nicht zulässig .\nE n t s c h e i d u n g s g r ü n d e\nI.\nVerfahrensgang\nDie PI Z erstattete an die Bezirkshauptmannschaft Z (belangte Behörde) die Meldung vom 19.5.2026, ***. Darin wird ausgeführt, dass die nunmehrige Beschwerdeführerin am 19.5.2026 gegen 19:51 Uhr eine Privatanzeige gegen CC machen wolle. Sie sei mit diesem heute in V gewesen und habe dieser mehrmals in der Stadt uriniert. Zudem sei er auch unbegründet mit 20 km/h über den Y gefahren. Sie sei aufgrund ihres aktuellen Gesundheitszustandes auf Krücken angewiesen und könne daher nicht auf die PI Z k [...]"
+  },
+  {
+   "id": "LVWGT_BU_20260723_E_002_13_2025_089_013_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "E 002/13/2025.089/013",
+   "Entscheidungsdatum": "2026-07-23",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Burgenland",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "StVO 1960 §1 Abs1",
+    "StVO 1960 §1 Abs2",
+    "StVO 1960 §5 Abs1",
+    "StVO 1960 §99 Abs1 lita",
+    "VStG §7",
+    "AVG §19",
+    "VwGVG §45 Abs2"
+   ],
+   "Schlagworte": "Straßenverkehrsrecht, Überlassen eines Fahrzeugs an einen alkoholisierten Lenker, Fernbleiben von der Verhandlung",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_BU_20260723_E_002_13_2025_089_013_00/LVWGT_BU_20260723_E_002_13_2025_089_013_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_BU_20260723_E_002_13_2025_089_013_00",
+   "text_datei": "voll/2026-11-26/LVWGT_BU_20260723_E_002_13_2025_089_013_00.txt",
+   "zeichen": 23348,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Burgenland\nEntscheidungsdatum\n23.07.2026\nGeschäftszahl\nE 002/13/2025.089/013\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Burgenland erkennt durch seine Richterin Mag. Rubak über die Beschwerde des BF, ***, ***, gegen das Straferkenntnis der Bezirkshauptmannschaft *** vom 01.08.2025, Zl. ***, wegen Übertretung der Straßenverkehrsordnung 1960 (StVO 1960) zu Recht:\nI.\nDie Beschwerde wird als unbegründet abgewiesen.\nII.\nDer Beschwerdeführer hat einen Beitrag zu den Kosten des Beschwerdeverfahrens von 320 Euro zu leisten.\nIII.\nDie Revision ist gemäß Art. 133 Abs. 4 B-VG nicht zulässig.\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensgang:\nDer Spruch des angefochtenen Straferkenntnisses lautet:\n„1. Datum/Zeit: 29.11.2024, 03:53 Uhr\nOrt:\nim Gemeindegebiet von ***, auf der A*** auf Höhe Straßenkilometer ***\nBetroffenes Fahrzeug: PKW, Kennzeichen: *** (A)\nSie haben vorsätzlich Beihilfe zu einer Verwaltungsübertretung geleistet, da Sie das Fahrzeug Herrn BB, geboren ***, zum Lenken überlassen haben, obwohl sich dieser in einem durch Alkohol beeinträchtigten Zustand befunden hat. Das Fahrzeug wurde zum angeführten Zeitpunkt am angeführten Ort mit einem Alkoholgehalt der Atemluft von 0,89 mg/l gelenkt.\nSie haben dadurch folgende Rechtsvorschrift(en) verletzt:\n1.\n§ 7 Verwaltungsstrafgesetz 1991 - VStG, BGBl. Nr. 52/1991 i.V.m. § 99 Abs. 1 lit. a i.V.m. § 5 Abs. 1 StVO 1960, BGBl. Nr. 159/1960 i.d.F. BGBl. l Nr. 6/2017\nWegen dies [...]"
+  },
+  {
+   "id": "LVWGT_KA_20250416_KLVwG_1861_2_2024_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "KLVwG-1861/2/2024",
+   "Entscheidungsdatum": "2025-04-16",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Kärnten",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "AVG §33 Abs4 ",
+    "AVG §69"
+   ],
+   "Schlagworte": "Verwaltungsverfahrensrecht, Wiederaufnahmeantrag, objektive Befristung, subjektive Frist, Gemeindewasserversorgungsanlage, Anschlussbescheid",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_KA_20250416_KLVwG_1861_2_2024_00/LVWGT_KA_20250416_KLVwG_1861_2_2024_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_KA_20250416_KLVwG_1861_2_2024_00",
+   "text_datei": "voll/2026-11-26/LVWGT_KA_20250416_KLVwG_1861_2_2024_00.txt",
+   "zeichen": 12175,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Kärnten\nEntscheidungsdatum\n16.04.2025\nGeschäftszahl\nKLVwG-1861/2/2024\nText\nDas Landesverwaltungsgericht Kärnten erkennt durch seine Richterin xxx über die Beschwerde der xxx, xxx, xxx, vertreten durch xxx, xxx, xxx, xxx, gegen den Bescheid des Gemeindevorstandes der Marktgemeinde xxx vom 10.09.2024, Zahl: xxx, wegen Versagung der Wiederaufnahme des Verfahrens gemäß § 69 AVG, zu Recht:\nI. Die Beschwerde wird als unbegründet\na b g e w i e s e n .\nII.\nEine ordentliche Revision nach Art. 133 Abs. 4 B-VG ist\nu n z u l ä s s i g .\nE n t s c h e i d u n g s g r ü n d e\nI. Sachverhalt:\nMit Verordnung des Gemeinderates der Marktgemeinde xxx vom 28.08.2017,\nZahl: xxx, wurde der Versorgungsbereich der Wasserversorgungsanlage der Marktgemeinde xxx bestimmt.\nDie Beschwerdeführerin wurde mit Bescheid des Bürgermeisters der Marktgemeinde xxx vom 18.06.2019, Zahl: xxx, verpflichtet, ihre Grundstücke (EZ xxx, xxx, xxx und xxx, alle KG xxx) an die Gemeindewasserversorgungsanlage xxx anzuschließen. Der Bescheid wurde der Beschwerdeführerin nachweislich am 24.06.2019 zugestellt und ist mit Zurückziehung ihres dagegen erhobenen „Einspruchs“ am 15.09.2019 in Rechtskraft erwachsen.\nMit Schriftsatz vom 08.07.2019 beantragte die Beschwerdeführerin die Ausnahme von der Anschlusspflicht. Mit Bescheid vom 08.03.2022, Zahl: xxx wies der Bürgermeister der Marktgemeinde xxx den Antrag ab. Mit Bescheid vom 19.04.2023, Zahl: xxx, wies der Gemeindevorstand die Ber [...]"
+  },
+  {
+   "id": "LVWGT_KA_20250415_KLVwG_1367_2_2024_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "KLVwG-1367/2/2024",
+   "Entscheidungsdatum": "2025-04-15",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Kärnten",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "StVO §84 Abs2",
+    "StVO §84 Abs3"
+   ],
+   "Schlagworte": "Verkehrsrecht, Werbung, Hinweistafel, Ausnahmegenehmigung, Beeinträchtigung des Straßenverkehrs<br/>",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_KA_20250415_KLVwG_1367_2_2024_00/LVWGT_KA_20250415_KLVwG_1367_2_2024_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_KA_20250415_KLVwG_1367_2_2024_00",
+   "text_datei": "voll/2026-11-26/LVWGT_KA_20250415_KLVwG_1367_2_2024_00.txt",
+   "zeichen": 14856,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Kärnten\nEntscheidungsdatum\n15.04.2025\nGeschäftszahl\nKLVwG-1367/2/2024\nText\nDas Landesverwaltungsgericht Kärnten erkennt durch seine Richterin xxx über die Beschwerde der xxx, xxx, xxx, vertreten durch xxx, xxx, xxx, gegen den Bescheid der Bezirkshauptmannschaft xxx vom 19.07.2024, Zahl: xxx (xxx), mit dem der Antrag der xxx auf Erteilung einer Ausnahmebewilligung zur Anbringung einer Werbung bzw. Ankündigung (Hinweistafel) auf einem Objekt auf dem Grundstück xxx, KG xxx xxx, im Ausmaß von 10 m x 4,5 m abgewiesen wurde sowie ein Entfernungsauftrag dieser bereits angebrachten Werbeeinrichtung erteilt wurde, zu Recht:\nI. Die Beschwerde wird als unbegründet\na b g e w i e s e n .\nII.\nGegen dieses Erkenntnis ist eine ordentliche Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4 B-VG\nu n z u l ä s s i g .\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensgang:\nMit Bescheid der Bezirkshauptmannschaft xxx vom 19.07.2024, Zahl: xxx (xxx), wurde wie folgt entschieden:\n„Über Antrag vom 07.02.2024, eingelangt bei der Bezirkshauptmannschaft xxx am 08.02.2024, ergeht folgender\nSpruch:\nI.\nDer Antrag der xxx mit dem Sitz in xxx, xxx, vom 07.02.2024, nunmehr vertreten durch Herrn Rechtsanwalt xxx, xxx, xxx, um Erteilung einer Ausnahmebewilligung zur Anbringung einer Werbung bzw. Ankündigung (Hinweistafel) im Ausmaß von 10 m x 4,5 m mit den Aufschriften „xxx, xxx, xxx, xxx \", in der Ausführung laut beiliegendem Layout, welches einen integ [...]"
+  },
+  {
+   "id": "LVWGT_KA_20250217_KLVwG_2616_2624_7_2023_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "KLVwG-2616-2624/7/2023",
+   "Entscheidungsdatum": "2025-02-17",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Kärnten",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "ASVG §33 Abs1 ",
+    "ASVG §111 Abs1 Z1",
+    "ASVG §111 Abs2",
+    "ASVG §111a",
+    "VStG §19",
+    "VStG §20",
+    "VStG §45 Abs1 Z4"
+   ],
+   "Schlagworte": "Sozialversicherung, Pflichtversicherung, Gesundheitskasse, Anmeldung, Ferienhotel",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_KA_20250217_KLVwG_2616_2624_7_2023_00/LVWGT_KA_20250217_KLVwG_2616_2624_7_2023_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_KA_20250217_KLVwG_2616_2624_7_2023_00",
+   "text_datei": "voll/2026-11-26/LVWGT_KA_20250217_KLVwG_2616_2624_7_2023_00.txt",
+   "zeichen": 33252,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Kärnten\nEntscheidungsdatum\n17.02.2025\nGeschäftszahl\nKLVwG-2616-2624/7/2023\nText\nDas Landesverwaltungsgericht Kärnten erkennt durch seine Richterin xxx über die Beschwerde des xxx, xxx, xxx, vertreten durch xxx, pA Wirtschaftskammer Kärnten, xxx, xxx, gegen das Straferkenntnis der Bezirkshauptmannschaft xxx vom 24.11.2023, Zahl: xxx, nach Durchführung einer öffentlichen mündlichen Verhandlung, zu Recht:\nI.\nDie Beschwerde wird in Bezug auf die Spruchpunkte 1., 4., 5. und 9. als unbegründet\na b g e w i e s e n .\nII.\nDer Beschwerde wird in Bezug auf die Spruchpunkte 2., 3., 6., 7. und 8.\ninsoweit F o l g e g e g e b e n ,\nals die im angefochtenen Straferkenntnis zu diesen Spruchpunkten verhängten Geldstrafen auf je € 365,--, im Uneinbringlichkeitsfall die Ersatzfreiheitsstrafen auf je zwei Tage und 8 Stunden\nh e r a b g e s e t z t werden .\nDas angefochtene Straferkenntnis wird mit der Maßgabe bestätigt , als in den Spruchpunkten 7. und 8. die Wortfolge „Arbeitsantritt: 14.12.2022, 07:00 Uhr“ jeweils durch die Wortfolge „Arbeitsantritt: 16.12.2022, 07.00 Uhr“ ersetzt wird.\nIII.\nGemäß § 64 Abs. 1 und 2 VStG beträgt in Bezug auf die Spruchpunkte\n2., 3., 6., 7. und 8. der Kostenbeitrag für das Verfahren erster Instanz 10 % der neu festgesetzten Geldstrafen, sohin € 182,50,--,\nIV.\nGemäß § 52 Abs. 1 und 2 VwGVG hat der Beschwerdeführer in Bezug auf die Spruchpunkte 1., 4., 5. und 9. einen Beitrag zu den Kosten des Beschwerdeverfahrens in d [...]"
+  },
+  {
+   "id": "LVWGT_KA_20241023_KLVwG_1684_2_2024_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "KLVwG-1684/2/2024",
+   "Entscheidungsdatum": "2024-10-23",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Kärnten",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "AVG §13 Abs3",
+    "EpidemieG 1950 §32"
+   ],
+   "Schlagworte": "Epidemierecht, COVID-19, Verdienstentgang, Verbesserungsauftrag, Mangel",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_KA_20241023_KLVwG_1684_2_2024_00/LVWGT_KA_20241023_KLVwG_1684_2_2024_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_KA_20241023_KLVwG_1684_2_2024_00",
+   "text_datei": "voll/2026-11-26/LVWGT_KA_20241023_KLVwG_1684_2_2024_00.txt",
+   "zeichen": 8816,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Kärnten\nEntscheidungsdatum\n23.10.2024\nGeschäftszahl\nKLVwG-1684/2/2024\nText\nDas Landesverwaltungsgericht Kärnten fasst durch seinen Richter xxx über die Beschwerde der xxx, xxx, xxx, vertreten durch xxx, xxx, xxx, gegen den Bescheid der Bezirkshauptmannschaft xxx vom 05.06.2024, Zahl: xxx (xxx), mit welchem der Antrag auf Vergütung des Verdienstentganges hinsichtlich der Absonderung von Herrn xxx gem. §13 Abs. 3 AVG 1991 zurückgewiesen wurde, folgenden\nB E S C H L U S S :\nI. Der Beschwerde wird\nF o l g e g e g e b e n ,\nund der angefochtene Bescheid ersatzlos\na u f g e h o b e n .\nII.\nGegen diese Entscheidung ist eine ordentliche Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4 B-VG\nu n z u l ä s s i g .\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensgang:\nMit Bescheid vom 27.04.2022, Zahl: xxx (xxx), wurde Herrn xxx, geboren am xxx, ohne dass im Spruch ein Beginn der Absonderung festgehalten wurde, bis zum 04.05.2022, 24:00 Uhr abgesondert.\nMit E-Mail vom 08.06.2022 wurde durch die xxx, xxx (in weiterer Folge: beschwerdeführende Partei) bei der Bezirkshauptmannschaft xxx (in weiterer Folge: belangte Behörde) ein Antrag gemäß § 32 Epidemiegesetz 1950 eingebracht. Dem Antrag selbst wurde das Berechnungsblatt für den Verdienstentgang für den Zeitraum 01.04.2022 bis 31.05.2022 angefügt. Des Weiteren ein Auszug aus dem Lohnkonto per 06.08.2022.\nMit E-Mail vom 13.05.2024 wurde von Seiten der belangten Behörde gegenüber de [...]"
+  },
+  {
+   "id": "LVWGT_KA_20240624_KLVwG_916_11_2024_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "KLVwG-916/11/2024",
+   "Entscheidungsdatum": "2024-06-24",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Kärnten",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "StVO §52 lita Z10a ",
+    "StVO §99 Abs2e"
+   ],
+   "Schlagworte": "Verkehrsrecht, Geschwindigkeitsübertretung, Radarmessung, Lichtspiegelung ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_KA_20240624_KLVwG_916_11_2024_00/LVWGT_KA_20240624_KLVwG_916_11_2024_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_KA_20240624_KLVwG_916_11_2024_00",
+   "text_datei": "voll/2026-11-26/LVWGT_KA_20240624_KLVwG_916_11_2024_00.txt",
+   "zeichen": 25967,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Kärnten\nEntscheidungsdatum\n24.06.2024\nGeschäftszahl\nKLVwG-916/11/2024\nText\nDas Landesverwaltungsgericht Kärnten erkennt durch seine Richterin xxx über die Beschwerde der xxx, xxx, xxx, vertreten durch Rechtsanwalt Dr. xxx, xxx, xxx vom 26.04.2024 gegen das Straferkenntnis der Landespolizeidirektion Kärnten, PK xxx vom 26.03.2024, GZ: xxx, wegen einer Verwaltungsübertretung gemäß\n§ 52 lit a Z 10a Straßenverkehrsordnung 1960 (StVO 1960), nach Durchführung einer mündlichen Beschwerdeverhandlung, zu Recht:\nI.\nDie Beschwerde wird als unbegründet\na b g e w i e s e n .\nII.\nGemäß § 52 Abs. 1 und 2 VwGVG hat die Beschwerdeführerin einen Beitrag zu den Kosten des Beschwerdeverfahrens in der Höhe von € 210,00 zu leisten.\nIII.\nEine ordentliche Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4 B-VG ist\nu n z u l ä s s i g .\nE n t s c h e i d u n g s g r ü n d e:\nI.\nSachverhalt\na.\nVerfahrensgang\nMit dem angefochtenen Straferkenntnis der Landespolizeidirektion Kärnten, PK xxx vom 26.03.2024, GZ: xxx, wurde xxx, xxx, xxx, (fortan: Beschwerdeführerin), zH ihres Rechtsvertreters Rechtsanwalt Dr. xxx, xxx, xxx nachstehende Verwaltungsübertretung zur Last gelegt:\n„1. Datum/Zeit:\n04.11.2023, 12:44 Uhr\nOrt:\nxxx, xxx, xxx, xxx,xxx, Richtung xxx\nBetroffenes Fahrzeug: PKW Kennzeichen: xxx\nSie haben die durch Straßenverkehrszeichen in diesem Bereich kundgemachte zulässige Höchstgeschwindigkeit von 100 km/h um 56 km/h überschritten. Die in Betrach [...]"
+  },
+  {
+   "id": "LVWGT_KA_20240226_KLVwG_241_4_2024_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "KLVwG-241/4/2024",
+   "Entscheidungsdatum": "2024-02-26",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Kärnten",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "AVG §19",
+    "VStG §24",
+    "VStG §41",
+    "VwGVG 2014 §7 Abs1",
+    "VwGVG 2014 §31 Abs1",
+    "VwGVG 2014 §38"
+   ],
+   "Schlagworte": "Verwaltungsstrafverfahren, Ladungsbescheid, Bescheidcharakter<br/>",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_KA_20240226_KLVwG_241_4_2024_00/LVWGT_KA_20240226_KLVwG_241_4_2024_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_KA_20240226_KLVwG_241_4_2024_00",
+   "text_datei": "voll/2026-11-26/LVWGT_KA_20240226_KLVwG_241_4_2024_00.txt",
+   "zeichen": 14026,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Kärnten\nEntscheidungsdatum\n26.02.2024\nGeschäftszahl\nKLVwG-241/4/2024\nText\nDas Landesverwaltungsgericht Kärnten fasst durch seinen Richter\nxxx über die Beschwerde des xxx, xxx, xxx, vertreten durch xxx, Rechtsanwalt, xxx, xxx, gegen die als Ladungsbescheid bezeichnete Erledigung des Bürgermeisters der Stadt xxx vom 15.01.2024, Zahl: xxx, in einem Verwaltungsstrafverfahren nach dem Kärntner Landessicherheitsgesetz – K-LSiG, den\nB E S C H L U S S\nI. Die Beschwerde wird als unzulässig\nz u r ü c k g e w i e s e n.\nII.\nGegen diesen Beschluss ist gemäß § 25a Verwaltungsgerichtshofgesetz 1985 – VwGG eine ordentliche Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4 B-VG\nu n z u l ä s s i g .\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensgang:\nAufgrund der Anzeige der Landespolizeidirektion Kärnten, Stadtpolizeikommando xxx, Polizeiinspektion xxx, Zahl: xxx, leitet der Bürgermeister der Stadt xxx (fortan: belangte Behörde) gegen xxx (fortan: Beschwerdeführer) ein Verwaltungsstrafverfahren nach\n§ 15 Abs. 1 lit. a iVm § 6 Abs. 2 lit. a Kärntner Landessicherheitsgesetz – K-LSiG, LGBl Nr 74/1977 idF. LGBl Nr 85/2013 ein. Am 04.10.2023 um 17:00 Uhr soll ein Übergriff auf die Hühner von xxx durch den Hund (Rauhaardackel) des Beschwerdeführers erfolgt sein.\nDer Beschwerdeführer, vertreten durch RA xxx, teilte auf Aufforderung durch die belangte Behörde mit Schreiben vom 30.11.2023 im Wesentlichen zusammengefasst mit, dass er von de [...]"
+  },
+  {
+   "id": "LVWGT_KA_20230607_KLVwG_419_423_4_2023_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "KLVwG-419-423/4/2023",
+   "Entscheidungsdatum": "2023-06-07",
+   "Geaendert": "2026-11-25",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Kärnten",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "FSG 1997 §1 Abs3",
+    "FSG 1997 §37 Abs1",
+    "KFG 1967 §36 lita",
+    "KFG 1967 §36 litd",
+    "KFG 1997 §102 Abs1",
+    "KFG 1967 §102 Abs10",
+    "KFG 1967 §134 Abs1",
+    "StVO 1960 §52 lita Z11a",
+    "StVO 1960 §99 Abs3 lita",
+    "VStG §19"
+   ],
+   "Schlagworte": "Verkehrsrecht, Straßenverkehrsordnung, Geschwindigkeitsübertretung, Lenkberechtigung <br/>",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_KA_20230607_KLVwG_419_423_4_2023_00/LVWGT_KA_20230607_KLVwG_419_423_4_2023_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_KA_20230607_KLVwG_419_423_4_2023_00",
+   "text_datei": "voll/2026-11-26/LVWGT_KA_20230607_KLVwG_419_423_4_2023_00.txt",
+   "zeichen": 20439,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Kärnten\nEntscheidungsdatum\n07.06.2023\nGeschäftszahl\nKLVwG-419-423/4/2023\nText\nDas Landesverwaltungsgericht Kärnten erkennt durch seinen Richter xxx über die Beschwerde des xxx, geboren am xxx, xxx, gegen das Straferkenntnis der Landespolizeidirektion Kärnten vom 27.01.2023, Zahl: xxx, wegen Verwaltungsübertretungen nach § 52 lit. a Z 11a StVO, § 37 Abs. 1 iVm\n§ 1 Abs. 3 FSG, § 102 Abs. 1 iVm § 36 lit. a KFG, § 36 lit. d KFG und\n§ 102 Abs. 10 KFG, zu Recht:\nI. Die Beschwerde wird als unbegründet\na b g e w i e s e n .\nII.\nGemäß § 52 Abs. 1 und 2 VwGVG hat der Beschwerdeführer einen Beitrag zu den Kosten des Beschwerdeverfahrens in der Höhe von € 142,-- zu leisten.\nIII.\nEine ordentliche Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4\nB-VG ist\nu n z u l ä s s i g .\nE n t s c h e i d u n g s g r ü n d e\nI. Bisheriger Verfahrensgang:\nMit dem angefochtenen Straferkenntnis der Landespolizeidirektion Kärnten (im Folgenden: belangte Behörde) vom 27.01.2023, Zahl: xxx, wurde dem Beschwerdeführer vorgeworfen, mit einem E-Scooter, die durch Zonenbeschränkung im Ortsgebiet in diesem Bereich kundgemachte zulässige Höchstgeschwindigkeit von 30 km/h, um 21 km/h überschritten zu haben. Weiters dass er dieses Kraftfahrzeug auf einer Straße mit öffentlichem Verkehr gelenkt habe, obwohl er nicht im Besitze einer von der Behörde erteilten gültigen Lenkberechtigung und der E-Scooter, nicht zum Verkehr auf öffentlichen Straßen zugelassen, war [...]"
+  }
+ ]
+}

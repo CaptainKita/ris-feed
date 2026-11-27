@@ -1,0 +1,16 @@
+RIS Dokument Gericht
+OGH
+Rechtssatznummer
+RS0153221
+Entscheidungsdatum
+03.09.2026
+Geschäftszahl
+15Os67/26f
+Norm
+EU-JZG §55d Abs7
+Rechtssatz
+Aus § 55d Abs 7 EU-JZG kann kein Beweisverwendungsverbot für Informationen abgeleitet werden, die von ausländischen Behörden bereits vor der Unterrichtung der österreichischen Staatsanwaltschaft im Sinn der genannten Bestimmung gewonnen wurden.
+Entscheidungstexte
+TE OGH 2026-09-03 15 Os 67/26f
+European Case Law Identifier
+ECLI:AT:OGH0002:2026:RS0153221

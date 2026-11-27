@@ -1,0 +1,16 @@
+RIS Dokument Gericht
+OGH
+Rechtssatznummer
+RS0153216
+Entscheidungsdatum
+20.10.2026
+Geschäftszahl
+14Os106/26h
+Norm
+DSG §63
+Rechtssatz
+Der Tatbildvorsatz des § 63 DSG muss sich einerseits auf die vom Gesetz geforderte Beschaffenheit der Daten (hier deren widerrechtliches Verschaffen), deren Benützen und das schutzwürdige Geheimhaltungsinteresse des Opfers beziehen, während der erweiterte Vorsatz in Form der Absicht darauf gerichtet sein muss, das Opfer gerade durch die (hier im Benützen bestehende) Tathandlung (arg: „dadurch“), nicht etwa durch späteres Verhalten oder das Verschaffen selbst in seinem von § 1 Abs 1 DSG garantierten Recht auf Datenschutz zu schädigen.
+Entscheidungstexte
+TE OGH 2026-10-20 14 Os 106/26h
+European Case Law Identifier
+ECLI:AT:OGH0002:2026:RS0153216

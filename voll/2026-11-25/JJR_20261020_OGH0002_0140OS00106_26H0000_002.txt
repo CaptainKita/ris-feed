@@ -1,0 +1,16 @@
+RIS Dokument Gericht
+OGH
+Rechtssatznummer
+RS0153217
+Entscheidungsdatum
+20.10.2026
+Geschäftszahl
+14Os106/26h
+Norm
+DSG §63
+Rechtssatz
+Das widerrechtliche Sich-Verschaffen personenbezogener Daten stellt keine Tathandlung des § 63 DSG dar, spricht vielmehr bloß die tatbestandsspezifische Beschaffenheit der Daten als Voraussetzung der Tatbegehung an.
+Entscheidungstexte
+TE OGH 2026-10-20 14 Os 106/26h
+European Case Law Identifier
+ECLI:AT:OGH0002:2026:RS0153217

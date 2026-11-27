@@ -1,0 +1,20 @@
+RIS Dokument Gericht
+OGH
+Rechtssatznummer
+RS0153220
+Entscheidungsdatum
+19.10.2026
+Geschäftszahl
+15Os109/26g
+Norm
+MedG §6
+MedG §7
+MedG §7a
+MedG §7b
+MedG §7c
+Rechtssatz
+Der Entschädigungsanspruch gegen einen bestimmten Medieninhaber entsteht durch eine Veröffentlichung in einem Medium, dessen Medieninhaber er ist; erfolgt eine inhaltsgleiche Veröffentlichung in verschiedenen Medien, so begründet dies demnach jeweils einen Anspruch gegen den jeweiligen Medieninhaber, wodurch es zur Anspruchshäufung gegenüber demselben Medieninhaber kommen kann.
+Entscheidungstexte
+TE OGH 2026-10-19 15 Os 109/26g
+European Case Law Identifier
+ECLI:AT:OGH0002:2026:RS0153220

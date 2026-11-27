@@ -1,0 +1,252 @@
+{
+ "erzeugt": "2026-11-24T05:30:01+01:00",
+ "fenster": "EinerWoche",
+ "quellen": {
+  "Bundesrecht/BgblAuth": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/Begut": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/RegV": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Justiz": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vfgh": {
+   "neu": 2,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vwgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Lvwg": {
+   "neu": 7,
+   "abgeschnitten": false
+  }
+ },
+ "fehler": [],
+ "dokumente": [
+  {
+   "id": "JFR_20261006_26A00005_01",
+   "app": "Vfgh",
+   "Geschaeftszahl": "A5/2026",
+   "Entscheidungsdatum": "2026-10-06",
+   "Geaendert": "2026-11-23",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verfassungsgerichtshof (VfGH)",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "B-VG Art137 / sonstige Klagen",
+    "EU-Grundrechte-Charta Art47, Art51",
+    "EUV Art19",
+    "StPO §43, §45",
+    "VfGG §7 Abs1"
+   ],
+   "Schlagworte": "VfGH / Klagen, Staatshaftung, Schadenersatz, EU-Recht, Richter, Befangenheit, Strafrecht, Insolvenzrecht",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vfgh/JFR_20261006_26A00005_01/JFR_20261006_26A00005_01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20261006_26A00005_01",
+   "text_datei": "voll/2026-11-24/JFR_20261006_26A00005_01.txt",
+   "zeichen": 4426,
+   "text": "RIS Dokument Gericht\nVerfassungsgerichtshof\nEntscheidungsdatum\n06.10.2026\nGeschäftszahl\nA5/2026\nLeitsatz\nZurückweisung einer Staatshaftungsklage wegen judikativen Unrechts mangels Begründung der Prozessvoraussetzungen für die Geltendmachung eines unionsrechtlichen Staatshaftungsanspruchs\nRechtssatz\nKein Verstoß gegen Art47 Abs2 GRC: Die Anwendbarkeit der Grundrechte-Charta setzt gemäß Art51 Abs1 GRC die \"Durchführung des Rechts der Union\" voraus. Eine solche Durchführung von Unionsrecht ist in den der Klage zugrunde liegenden Verfahren vor dem VfGH und dem OGH nicht ersichtlich und wird in der Klage auch nicht schlüssig behauptet.\nKein Verstoß gegen Art19 Abs1 UAbs2 EUV:\nDie Bestimmung gibt vor, dass die Mitgliedstaaten die erforderlichen Rechtsbehelfe schaffen, damit ein wirksamer Rechtsschutz in den vom Unionsrecht erfassten Bereichen gewährleistet ist. Der sachliche Anwendungsbereich der Bestimmung betrifft die \"vom Unionsrecht erfassten Bereich[e]\", ohne dass es insoweit darauf ankäme, in welchem Kontext die Mitgliedstaaten Unionsrecht durchführen. Gemäß Art19 Abs1 UAbs2 EUV hat jeder Mitgliedstaat dafür zu sorgen, dass \"Einrichtungen, die als 'Gerichte' im Sinne des Unionsrechts Bestandteil seines Rechtsbehelfssystems in den vom Unionsrecht erfassten Bereichen sind und daher möglicherweise in dieser Eigenschaft über die Anwendung oder Auslegung des Unionsrechts entscheiden, den Anforderungen an einen wirksamen gerichtlichen Rechtsschutz gerecht werden\". Diese Anforderung [...]"
+  },
+  {
+   "id": "JFR_20260921_25E02313_01",
+   "app": "Vfgh",
+   "Geschaeftszahl": "E2313/2025",
+   "Entscheidungsdatum": "2026-09-21",
+   "Geaendert": "2026-11-23",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Verfassungsgerichtshof (VfGH)",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "B-VG Art144 Abs1 / Anlassfall",
+    "StVO 1960 §43",
+    "ParkverbotsV der Gemeindevertretung Köstendorf vom 13.09.2002",
+    "VfGG §7 Abs2"
+   ],
+   "Schlagworte": "VfGH / Anlassfall, Halte(Park-)verbot",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Vfgh/JFR_20260921_25E02313_01/JFR_20260921_25E02313_01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260921_25E02313_01",
+   "text_datei": "voll/2026-11-24/JFR_20260921_25E02313_01.txt",
+   "zeichen": 566,
+   "text": "RIS Dokument Gericht\nVerfassungsgerichtshof\nEntscheidungsdatum\n21.09.2026\nGeschäftszahl\nE2313/2025\nLeitsatz\nAufhebung des angefochtenen Erkenntnisses im Anlassfall\nRechtssatz\nMit E v 21.09.2026, V27/2026, hob der VfGH die Verordnung der Gemeindevertretung Köstendorf vom 13.09.2002, Z120/20-EAP/2002, als gesetzwidrig auf. Das LVwG Salzburg hat eine gesetzwidrige Verordnung angewendet. Es ist nach Lage des Falles offenkundig, dass ihre Anwendung für die Rechtsstellung des Beschwerdeführers nachteilig war.\nEuropean Case Law Identifier\nECLI:AT:VFGH:2026:E2313.2025"
+  },
+  {
+   "id": "LVWGT_VO_20261106_LVwG_2_2_2026_R10_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-2-2/2026-R10",
+   "Entscheidungsdatum": "2026-11-06",
+   "Geaendert": "2026-11-23",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Vorarlberg",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "SMG 1997 §5 Abs1",
+    "SuchtgiftV 1997 §24 Abs1",
+    "SuchtgiftV 1997 §24 Abs2",
+    "SuchtgiftV 1997 §24 Abs6",
+    "StPO 1975 §110 Abs3 Z2"
+   ],
+   "Schlagworte": "Maßnahmenbeschwerde, Suchtmittelrecht, Sicherstellung von aus medizinischen Gründen im Ausland verschriebenem Cannabiskraut",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_VO_20261106_LVwG_2_2_2026_R10_00/LVWGT_VO_20261106_LVwG_2_2_2026_R10_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_VO_20261106_LVwG_2_2_2026_R10_00",
+   "text_datei": "voll/2026-11-24/LVWGT_VO_20261106_LVwG_2_2_2026_R10_00.txt",
+   "zeichen": 38259,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Vorarlberg\nEntscheidungsdatum\n06.11.2026\nGeschäftszahl\nLVwG-2-2/2026-R10\nText\nIm Namen der Republik!\nErkenntni s\nDas Landesverwaltungsgericht Vorarlberg hat durch seine Richterin Dr. Wischenbart über die Beschwerde des M G, D-H, wegen behaupteter Rechtswidrigkeit einer Maßnahme unmittelbarer behördlicher Befehls- und Zwangsgewalt, betreffend die Sicherstellung von in Deutschland medizinisch verordnetem Cannabis, zu Recht erkannt:\nGemäß § 28 Abs 6 Verwaltungsgerichtsverfahrensgesetz (VwGVG) wird die Beschwerde als unbegründet abgewiesen.\nGemäß § 35 VwGVG wird der der belangten Behörde (dem Bund) gebührende Kostenersatz mit 887,20 Euro bestimmt. Der Beschwerdeführer ist verpflichtet, den angeführten Betrag der belangten Behörde (der Bund) binnen zwei Wochen bei sonstigem Zwang zu bezahlen. Der Kostenersatzantrag des Beschwerdeführers wird abgewiesen.\nGegen dieses Erkenntnis ist gemäß § 25a Verwaltungsgerichtshofgesetz 1985 (VwGG) eine Revision an den Verwaltungsgerichtshof unzulässig.\nBegründung\n1. In seiner Beschwerde vom xx.xx.2026 bringt der Beschwerdeführer vor, er erhebe hiermit Maßnahmenbeschwerde gegen eine polizeiliche Amtshandlung in Vorarlberg, bei der ihm medizinisch verordnetes Cannabis vollständig sichergestellt worden sei. Die Maßnahme sei ohne schriftlichen Bescheid und ausschließlich mündlich erfolgt, ein Rechtsmittelhinweis sei nicht erteilt worden. Am xx.xx.2026 sei er in Vorarlberg polizeilich kontrolliert worden. [...]"
+  },
+  {
+   "id": "LVWGT_WI_20260821_VGW_106_087_11342_2024_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "VGW-106/087/11342/2024",
+   "Entscheidungsdatum": "2026-08-21",
+   "Geaendert": "2026-11-23",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Wien",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "AVG §38",
+    "ApG 1907 §10",
+    "VGW-GV"
+   ],
+   "Schlagworte": "Geschäftsverteilung, Konzessionsverfahren, Apotheke, Betriebsstätte, Entfernung, Standort, Zuständigkeit, Annexsachen, Zuweisung, Verfahrenskonzentration, Parteistellung, Verwaltungsverfahrensgemeinschaft, Bedarf, Versorgung",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_WI_20260821_VGW_106_087_11342_2024_00/LVWGT_WI_20260821_VGW_106_087_11342_2024_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_WI_20260821_VGW_106_087_11342_2024_00",
+   "text_datei": "voll/2026-11-24/LVWGT_WI_20260821_VGW_106_087_11342_2024_00.txt",
+   "zeichen": 56755,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Wien\nEntscheidungsdatum\n21.08.2026\nGeschäftszahl\nVGW-106/087/11342/2024\nText\nIM NAMEN DER REPUBLIK\nDas Verwaltungsgericht Wien erkennt durch seine Richterin Dr. Zirm über die Beschwerde der Frau Mag. pharm. A. B., vertreten durch Dr. C. D., gegen den Bescheid des Magistrates der Stadt Wien, Magistratsabteilung 40, Gruppe Recht & Aufsicht, Fachgruppe Gesundheitsrecht, vom 27.5.2024, Zl. ..., mit welchem das Ansuchen vom 4.8.2016 auf Erteilung der Konzession zum Betrieb einer neu zu errichtenden öffentliche Apotheke abgewiesen wurde, nach Durchführung von öffentlichen mündlichen Verhandlungen am 19.12.2024, 17.3.2026 und 30.7.2026\nzu Recht:\nI. Die Beschwerde wird mit der Maßgabe als unbegründet abgewiesen, dass sich die Abweisung auf § 10 Abs. 1 Z 2 iVm. Abs. 2 Z 2 ApoG stützt.\nII. Gegen diese Entscheidung ist die Revision an den Verwaltungsgerichtshof gemäß Art. 133 Abs. 4 B-VG zulässig.\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensgang:\n1. Mit einer am 5. August 2016 bei der belangten Behörde eingelangten Eingabe beantragte Mag. pharm. A. B. (damals: Mag. pharm. A. E.) (im Folgenden: BF) die Erteilung einer Konzession zum Betrieb einer neu zu errichtenden Apotheke mit einer Betriebsstätte in Wien, F. Straße/G.-Gasse (…) für den Standort „Ausgangspunkt F. Straße Kreuzung H.-Straße, F. Straße entlang Richtung Norden begrenzt durch die Bahn. Die I.-straße entlang bis zur J. Straße – J. Straße bis zur Kreuzung K.-straße. K.-stra [...]"
+  },
+  {
+   "id": "LVWGR_WI_20260821_VGW_106_087_11342_2024_01",
+   "app": "Lvwg",
+   "Geschaeftszahl": "VGW-106/087/11342/2024",
+   "Entscheidungsdatum": "2026-08-21",
+   "Geaendert": "2026-11-23",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Wien",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "AVG §38",
+    "ApG 1907 §10",
+    "VGW-GV"
+   ],
+   "Schlagworte": "Geschäftsverteilung, Konzessionsverfahren, Apotheke, Betriebsstätte, Entfernung, Standort, Zuständigkeit, Annexsachen, Zuweisung, Verfahrenskonzentration, Parteistellung, Verwaltungsverfahrensgemeinschaft, Bedarf, Versorgung",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_WI_20260821_VGW_106_087_11342_2024_01/LVWGR_WI_20260821_VGW_106_087_11342_2024_01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_WI_20260821_VGW_106_087_11342_2024_01",
+   "text_datei": "voll/2026-11-24/LVWGR_WI_20260821_VGW_106_087_11342_2024_01.txt",
+   "zeichen": 1224,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Wien\nEntscheidungsdatum\n21.08.2026\nGeschäftszahl\nVGW-106/087/11342/2024\nRechtssatz\nWeder der Wortlaut noch der Zweck der Verfahrenskonzentrationsbestimmung in der Geschäftsverteilung des Verwaltungsgerichtes Wien kann dahingehend interpretiert werden, (potenziell) rechtlich miteinander „in Berührung“ stehende Rechtssachen in einer Geschäftsabteilung zu konzentrieren. Das Abstellen auf denselben Sachverhalt ist schon dem Wortlaut nach gerade nicht auf den rechtlichen (potenziellen) Zusammenhang zu beziehen und dient vorwiegend der Verfahrenseffizienz, was sich auch aus Pkt. B.3.3.1. vorletzter Satz ergibt, wonach eine Verfahrenskonzentration (Zuweisung an die Geschäftsabteilung, der die erste Rechtssache zugewiesen wurde) nur dann stattfindet, wenn die (erste) anhängig gewordene Rechtssache nicht am Vortag der Zuweisung abgeschlossen worden ist. Das beutet aber – anders als bei Annexsachen – dass die Geschäftsverteilung hier eine Konzentrationsnotwendigkeit nur so lange sieht, als eine Entscheidung in der ersten Rechtssache, die auf denselben Sachverhalt gründet, noch nicht getroffen wurde.\nEuropean Case Law Identifier\nECLI:AT:LVWGWI:2026:VGW.106.087.11342.2024"
+  },
+  {
+   "id": "LVWGT_BU_20260723_E_002_13_2025_109_004_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "E 002/13/2025.109/004",
+   "Entscheidungsdatum": "2026-07-23",
+   "Geaendert": "2026-11-23",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Burgenland",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "StVO 1960 §3 Abs1",
+    "StVO 1960 §19 Abs4",
+    "StVO 1960 §19 Abs7",
+    "StVO 1960 §99 Abs3 lita",
+    "VStG §45 Abs1 Z2"
+   ],
+   "Schlagworte": "Straßenverkehrsrecht, Vorrangverletzung, falsches Setzen eines Fahrtrichtungsanzeigers",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_BU_20260723_E_002_13_2025_109_004_00/LVWGT_BU_20260723_E_002_13_2025_109_004_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_BU_20260723_E_002_13_2025_109_004_00",
+   "text_datei": "voll/2026-11-24/LVWGT_BU_20260723_E_002_13_2025_109_004_00.txt",
+   "zeichen": 15800,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Burgenland\nEntscheidungsdatum\n23.07.2026\nGeschäftszahl\nE 002/13/2025.109/004\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Burgenland erkennt durch seine Richterin Mag. Rubak über die Beschwerde des BF, ***, ***, gegen das Straferkenntnis der Bezirkshauptmannschaft AA vom 21.08.2025, Zl. ***, wegen Übertretung der Straßenverkehrsordnung 1960 (StVO 1960) zu Recht:\nI. Der Beschwerde wird Folge gegeben, das angefochtene Straferkenntnis behoben und das Verwaltungsstrafverfahren eingestellt.\nII. Die Revision ist gemäß Art. 133 Abs. 4 B-VG nicht zulässig.\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensgang:\nDer Spruch des angefochtenen Straferkenntnisses lautet:\n„1. Datum/Zeit: 06.05.2025, 09:17 Uhr\nOrt:\n***, B***, Str.km ***, Ast. A***, Fahrtrichtung ***\nBetroffenes Fahrzeug: PKW, Kennzeichen: *** (A)\nSie haben als wartepflichtige/r Lenker/in des angeführten Fahrzeuges durch Einbiegen auf der Kreuzung vor der sich das Vorschriftszeichen ‚Vorrang geben‘ befindet einem im Vorrang befindlichen Fahrzeug den Vorrang nicht gegeben und dieses dadurch zu unvermitteltem Bremsen genötigt.\nSie haben dadurch folgende Rechtsvorschrift(en) verletzt:\n1.\n§ 19 Abs. 7 i.V.m. § 19 Abs. 4 Straßenverkehrsordnung 1960 – StVO 1960, BGBl. Nr. 159/1960 zuletzt geändert durch BGBl. I Nr. 122/2022\nWegen dieser (diesen) Verwaltungsübertretung(en) wird (werden) über Sie folgende Strafe(n) verhängt:\nGeldstrafe von\nfalls diese uneinbringlich ist Ersatz [...]"
+  },
+  {
+   "id": "LVWGT_BU_20260629_E_F03_13_2026_001_006_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "E F03/13/2026.001/006",
+   "Entscheidungsdatum": "2026-06-29",
+   "Geaendert": "2026-11-23",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Burgenland",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "FSG §8",
+    "FSG §24 Abs1 Z1",
+    "FSG §24 Abs1 Z2",
+    "FSG §24 Abs4",
+    "FSG-GV §2 Abs1",
+    "FSG-GV §2 Abs3",
+    "FSG-GV §3 Abs1",
+    "FSG-GV §5 Abs1",
+    "FSG-GV §5 Abs2",
+    "FSG-GV §14"
+   ],
+   "Schlagworte": "Straßenverkehrsrecht, Führerscheinrecht, Aufforderung nach § 4 Abs. 4 FSG, begründete Bedenken betreffend die gesundheitliche Eignung, Zurückliegen der Anlasstat",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_BU_20260629_E_F03_13_2026_001_006_00/LVWGT_BU_20260629_E_F03_13_2026_001_006_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_BU_20260629_E_F03_13_2026_001_006_00",
+   "text_datei": "voll/2026-11-24/LVWGT_BU_20260629_E_F03_13_2026_001_006_00.txt",
+   "zeichen": 26740,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Burgenland\nEntscheidungsdatum\n29.06.2026\nGeschäftszahl\nE F03/13/2026.001/006\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Burgenland erkennt durch seine Richterin Mag. Rubak über die Beschwerde des BF, ***, ***, vertreten durch die RA Rechtsanwälte GmbH, gegen den Bescheid der Bezirkshauptmannschaft *** vom 15.12.2025, Zl. ***, betreffend eine Aufforderung nach § 24 Abs. 4 Führerscheingesetz (FSG) zu Recht:\nI.\nDer Beschwerde wird Folge gegeben und der angefochtene Bescheid ersatzlos aufgehoben.\nII. Die Revision ist gemäß Art. 133 Abs. 4 B-VG nicht zulässig.\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensgang:\nMit Bescheid vom 20.01.2025, Zl. ***, schränkte die belangte Behörde die Lenkberechtigung des Beschwerdeführers dahingehend ein, dass diese bis 16.01.2026 befristet, die „3-monatliche Vorlage der Laborwerte CDT, MCV und GGT“ angeordnet und die aufschiebende Wirkung der Beschwerde aufgehoben wurde.\nMit Beschluss vom 06.05.2025, Zl. ***, hob das Landesverwaltungsgericht Burgenland den Ausspruch über den Ausschluss der aufschiebenden Wirkung der Beschwerde auf.\nMit rechtskräftigem Beschluss vom 25.08.2025, Zl. ***, hob das Landesverwaltungsgericht Burgenland den Bescheid vom 20.01.2025 auf und verwies die Angelegenheit an die belangte Behörde zurück. Begründend wurde im Wesentlichen ausgeführt, die belangte Behörde habe sich zur Begründung ihrer Entscheidung auf eine nicht als Gutachten im Sinne der Rechtsprechung [...]"
+  },
+  {
+   "id": "LVWGT_WI_20260423_VGW_011_001_13149_2025_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "VGW-011/001/13149/2025",
+   "Entscheidungsdatum": "2026-04-23",
+   "Geaendert": "2026-11-23",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Wien",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "BauO Wr §60 Abs1 litb",
+    "BauO Wr §71",
+    "BauO Wr §86",
+    "BauO Wr §129 Abs10",
+    "BauO Wr §135 Abs1",
+    "EMRK Art5",
+    "EMRK Art5",
+    "GRC Art6",
+    "VStG §5 Abs2"
+   ],
+   "Schlagworte": "Baubewilligung, bautechnische Kenntnisse, Beeinträchtigungen des ruhigen Genusses der Wohnung, bewilligungspflichtiges Bauwerk, Einfriedung, Einreichplan, freier Durchblick, öffentliche Verkehrsfläche, örtliches Stadtbild, Verbotsirrtum, Vorgarten, Wohnfunktion",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_WI_20260423_VGW_011_001_13149_2025_00/LVWGT_WI_20260423_VGW_011_001_13149_2025_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_WI_20260423_VGW_011_001_13149_2025_00",
+   "text_datei": "voll/2026-11-24/LVWGT_WI_20260423_VGW_011_001_13149_2025_00.txt",
+   "zeichen": 49699,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Wien\nEntscheidungsdatum\n23.04.2026\nGeschäftszahl\nVGW-011/001/13149/2025\nText\nIM NAMEN DER REPUBLIK\nDas Verwaltungsgericht Wien hat durch seinen Richter Dr. Kolonovits über die Beschwerde der Frau Dr. iur. A. B. gegen das Straferkenntnis des Magistrates der Stadt Wien, Magistratsabteilung 64, vom 03.07.2025, Zl. ..., betreffend einer Übertretung nach der Bauordnung für Wien nach Durchführung einer öffentlichen mündlichen Verhandlung am 11.03.2026 zu Recht e r k a n n t:\nI. Gemäß § 50 VwGVG wird der Beschwerde gegen das angefochtene Straferkenntnis insoweit Folge gegeben, als die verhängte Geldstrafe des angefochtenen Straferkenntnisses von EUR 7.700,- auf EUR 5.200,- und die Ersatzfreiheitsstrafe von 2 Tage 4 Stunden auf 1 Tag 13 Stunden herabgesetzt wird.\nII. Dementsprechend wird der Beitrag zu den Kosten des Verfahrens bei der belangten Behörde gemäß § 64 Abs. 2 VStG mit € 520,- festgesetzt, das sind 10% der verhängten Geldstrafe.\nIII. Gemäß § 52 Abs. 8 VwGVG hat die Beschwerdeführerin keinen Beitrag zu den Kosten des Beschwerdeverfahrens zu leisten.\nIV. Gegen dieses Erkenntnis ist gemäß § 25a VwGG eine Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4 B-VG unzulässig.\nE n t s c h e i d u n g s g r ü n d e\nVerfahrensgang\nMit Straferkenntnis des Magistrats der Stadt Wien vom 03.07.2025 legte der Magistrat der Stadt Wien (belangte Behörde) der Beschwerdeführerin zur Last, dass sie als Eigentümerin der Liegenschaft und der [...]"
+  },
+  {
+   "id": "LVWGR_WI_20260423_VGW_011_001_13149_2025_01",
+   "app": "Lvwg",
+   "Geschaeftszahl": "VGW-011/001/13149/2025",
+   "Entscheidungsdatum": "2026-04-23",
+   "Geaendert": "2026-11-23",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Wien",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "BauO Wr §60 Abs1 litb",
+    "BauO Wr §71",
+    "BauO Wr §86",
+    "BauO Wr §129 Abs10",
+    "BauO Wr §135 Abs1",
+    "EMRK Art5",
+    "EMRK Art5",
+    "GRC Art6",
+    "VStG §5 Abs2"
+   ],
+   "Schlagworte": "Baubewilligung, bautechnische Kenntnisse, Beeinträchtigungen des ruhigen Genusses der Wohnung, bewilligungspflichtiges Bauwerk, Einfriedung, Einreichplan, freier Durchblick, öffentliche Verkehrsfläche, örtliches Stadtbild, Verbotsirrtum, Vorgarten, Wohnfunktion",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_WI_20260423_VGW_011_001_13149_2025_01/LVWGR_WI_20260423_VGW_011_001_13149_2025_01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_WI_20260423_VGW_011_001_13149_2025_01",
+   "text_datei": "voll/2026-11-24/LVWGR_WI_20260423_VGW_011_001_13149_2025_01.txt",
+   "zeichen": 798,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Wien\nEntscheidungsdatum\n23.04.2026\nGeschäftszahl\nVGW-011/001/13149/2025\nRechtssatz\nHinsichtlich Art 8 EMRK ist auszuführen, dass Beeinträchtigungen des ruhigen Genusses der Wohnung zum einen dann vorliegen, wenn der Zugang zur Wohnung abgeschnitten wird. Aber auch Abbruchverfügungen, Wohnverbote und Wohnbeschränkungen greifen in das Grundrecht ein. Es mangelt daher an der Eingriffsqualität, zumal durch die Sicherung des freien Durchblicks durch eine Einfriedung die Wohnfunktion selbst nicht signifikant berührt wird und die Präferenzen des Einzelnen hinsichtlich der verfahrensgegenständlich relevanten Ausgestaltung der Einfriedung nicht das allgemeine Interesse überwiegen.\nEuropean Case Law Identifier\nECLI:AT:LVWGWI:2026:VGW.011.001.13149.2025"
+  }
+ ]
+}

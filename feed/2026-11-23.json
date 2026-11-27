@@ -1,0 +1,196 @@
+{
+ "erzeugt": "2026-11-23T05:30:01+01:00",
+ "fenster": "EinerWoche",
+ "quellen": {
+  "Bundesrecht/BgblAuth": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/Begut": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/RegV": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Justiz": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vfgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vwgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Lvwg": {
+   "neu": 8,
+   "abgeschnitten": false
+  }
+ },
+ "fehler": [],
+ "dokumente": [
+  {
+   "id": "LVWGT_TI_20261111_LVwG_2025_30_2544_9_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-2025/30/2544-9",
+   "Entscheidungsdatum": "2026-11-11",
+   "Geaendert": "2026-11-20",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Tirol",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "IntG §9 Abs1",
+    "IntG §9 Abs2",
+    "VStG §19"
+   ],
+   "Schlagworte": "Modul 1<br/>Integrationsvereinbarung<br/>Absolvierung nicht erfüllt<br/>",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_TI_20261111_LVwG_2025_30_2544_9_00/LVWGT_TI_20261111_LVwG_2025_30_2544_9_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_TI_20261111_LVwG_2025_30_2544_9_00",
+   "text_datei": "voll/2026-11-23/LVWGT_TI_20261111_LVwG_2025_30_2544_9_00.txt",
+   "zeichen": 22401,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Tirol\nEntscheidungsdatum\n11.11.2026\nGeschäftszahl\nLVwG-2025/30/2544-9\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Tirol erkennt durch seinen Richter Mag. Dr. Rieser über die Beschwerde des russischen Staatangehörigen AA, geb am XX.XX.XXXX, vertreten durch die Rechtsanwälte BB, CC und DD, Adresse 1, **** Z, gegen das Straferkenntnis der Bezirkshauptmannschaft Z vom 09.09.2025, Zl ***, betreffend eine Verwaltungsübertretung nach dem Integrationsgesetz (IntG), nach Durchführung einer öffentlichen mündlichen Beschwerdeverhandlung\nzu Recht:\n1. Der Beschwerde wird nur insofern Folge gegeben , als die verhängte Geldstrafe in der Höhe von Euro 250,00 bzw Ersatzfreiheitsstrafe von 7 Tagen auf eine Geldstrafe in Höhe von Euro 200,00 bzw Ersatzfreiheitsstrafe von 5 Tagen herabgesetzt wird.\n2. Aufgrund der erfolgten Strafherabsetzung werden die Kosten des Verfahrens vor der belangten Behörde mit Euro 20,00, das sind 10% der verbleibenden Geldstrafe, neu festgesetzt.\n3. Gemäß § 25a VwGG ist eine Revision an den Verwaltungsgerichtshof seitens des Beschwerdeführers nicht zulässig.\nE n t s c h e i d u n g s g r ü n d e\nI. Sachverhalt und rechtliche Erwägungen:\nMit dem angefochtenen Straferkenntnis wurde dem Beschwerdeführer von der belangten Behörde Folgendes angelastet:\n„1. Datum/Zeit: 21.02.2025 -25.06.2025\nOrt: **** Y, Adresse 2\nSie waren bis zum 27.07.2024 zur Erfüllung des Moduls 1 der Integrationsvereinbarung verpflichtet und ha [...]"
+  },
+  {
+   "id": "LVWGT_TI_20261106_LVwG_2026_17_3086_2_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-2026/17/3086-2",
+   "Entscheidungsdatum": "2026-11-06",
+   "Geaendert": "2026-11-20",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Tirol",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "AVG §13 Abs3",
+    "KraftstoffV 2012 §8 Abs3",
+    "UmweltkontrollG 1998 §6"
+   ],
+   "Schlagworte": "Verbesserungsauftrag<br/>Umweltbundesamt<br/>Behördenfunktion<br/>Zuständigkeit LVwG<br/>",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_TI_20261106_LVwG_2026_17_3086_2_00/LVWGT_TI_20261106_LVwG_2026_17_3086_2_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_TI_20261106_LVwG_2026_17_3086_2_00",
+   "text_datei": "voll/2026-11-23/LVWGT_TI_20261106_LVwG_2026_17_3086_2_00.txt",
+   "zeichen": 17986,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Tirol\nEntscheidungsdatum\n06.11.2026\nGeschäftszahl\nLVwG-2026/17/3086-2\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Tirol erkennt durch seinen Richter Dr. Gschnitzer über die Beschwerde der AA (FN ***), Adresse 1, **** Z, gegen den Bescheid des Bundesministers für Innovation, Mobilität und Infrastruktur vom 24.06.2026, Zl ***, betreffend die Zurückweisung eines Antrags nach der Kraftstoffverordnung 2012,\nzu Recht:\n1. Der Beschwerde wird Folge gegeben und der angefochtene Bescheid aufgehoben .\n2. Die ordentliche Revision ist gemäß Art 133 Abs 4 B-VG nicht zulässig.\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensgang und Sachverhalt:\nMit E-Mail vom 08.08.2025 an die BB (in der Folge: BB) übermittelte die nunmehrige Beschwerdeführerin zwei ausgefüllte Antragsformulare nach der Kraftstoffverordnung 2012 (KVO) „zur Anrechnung von Biokraftstoffen gemäß § 8 (3) sowie Kraftstoffen aus Rohstoffen gemäß Anhang XIII Teil A auf die Verpflichtungen nach § 6“.\nMit E-Mail an die Antragstellerin vom 30.09.2025 wurde dieser vom BB mitgeteilt, dass den Anträgen die laut Informationsblatt zum elektronischen Nachhaltigkeitsnachweis (elNa) notwendigen Informationen nicht angefügt seien. Es wurde unter einem mitgeteilt, dass die Nachreichung dieser Inforationen bis zum 28.10.2025 möglich sei, da ansonsten die Anträge an die zuständige Behörde weitergeleitet werden müssten. Dieses E-Mail enthielt keinen Hinweis darauf, dass über die Anträg [...]"
+  },
+  {
+   "id": "LVWGT_NI_20261102_LVwG_M_38_001_2026_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-M-38/001-2026",
+   "Entscheidungsdatum": "2026-11-02",
+   "Geaendert": "2026-11-20",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "B-VG Art130 Abs1 Z2",
+    "ABGB §354"
+   ],
+   "Schlagworte": "Maßnahmenbeschwerde; Hausverbot; persönliche Freiheit; Befehl; Zwang; Zurückweisung; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_NI_20261102_LVwG_M_38_001_2026_00/LVWGT_NI_20261102_LVwG_M_38_001_2026_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_NI_20261102_LVwG_M_38_001_2026_00",
+   "text_datei": "voll/2026-11-23/LVWGT_NI_20261102_LVwG_M_38_001_2026_00.txt",
+   "zeichen": 23636,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n02.11.2026\nGeschäftszahl\nLVwG-M-38/001-2026\nText\nDas Landesverwaltungsgericht Niederösterreich fasst durch seinen Richter Mag. Viktor Falschlehner über die Maßnahmenbeschwerde des A, wohnhaft in ***, gegen die Erteilung eines Hausverbotes durch die Bezirkshauptmannschaft Gänserndorf sowie gegen die behauptete Anwendung von Befehls- und Zwangsgewalt durch Polizeiorgane der Polizeiinspektion *** am 21.05.2026, nach Durchführung einer öffentlichen mündlichen Verhandlung am 22.10.2026, folgenden\nBESCHLUSS:\nI.\nDie Maßnahmenbeschwerde wird, soweit sie sich gegen die Erteilung eines Hausverbotes richtet, gemäß § 28 Abs. 1 und Abs. 6 iVm. § 31 Abs. 1 Verwaltungsgerichtsverfahrensgesetz (VwGVG) als unzulässig zurückgewiesen.\nII.\nDie Maßnahmenbeschwerde wird, soweit sie sich gegen die behauptete Anwendung von Befehls- und Zwangsgewalt richtet, gemäß § 28 Abs. 1 und Abs. 6 iVm. § 31 Abs. 1 VwGVG als unzulässig zurückgewiesen.\nIII.\nDer Beschwerdeführer hat dem Bund als Rechtsträger der belangten Behörde binnen zwei Wochen (bei sonstiger Exekution) gemäß § 35 VwGVG Aufwendungen in der Höhe von 1256 Euro zu ersetzen.\nIV.\nGegen diesen Beschluss ist gemäß § 25a Verwaltungsgerichtshofgesetz 1985 (VwGG) eine Revision im Sinne des Art. 133 Abs. 4 Bundes-Verfassungsgesetz (B-VG) nicht zulässig.\nEntscheidungsgründe:\n1.\nZum Beschwerdevorbringen:\nMit Schreiben vom 30.06.2026 erhob Herr A (im Folgenden: Beschwerdeführe [...]"
+  },
+  {
+   "id": "LVWGR_NI_20261102_LVwG_M_38_001_2026_01",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-M-38/001-2026",
+   "Entscheidungsdatum": "2026-11-02",
+   "Geaendert": "2026-11-20",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "B-VG Art130 Abs1 Z2",
+    "ABGB §354"
+   ],
+   "Schlagworte": "Maßnahmenbeschwerde; Hausverbot; persönliche Freiheit; Befehl; Zwang; Zurückweisung; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_NI_20261102_LVwG_M_38_001_2026_01/LVWGR_NI_20261102_LVwG_M_38_001_2026_01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_NI_20261102_LVwG_M_38_001_2026_01",
+   "text_datei": "voll/2026-11-23/LVWGR_NI_20261102_LVwG_M_38_001_2026_01.txt",
+   "zeichen": 458,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n02.11.2026\nGeschäftszahl\nLVwG-M-38/001-2026\nRechtssatz\nEin von einer Bezirkshauptmannschaft ausgesprochenes Hausverbot, das nicht in der nach § 58 AVG festgelegten Bescheidform ergangen ist und sich ausdrücklich auf § 354 ABGB stützt, stellt keinen mit Beschwerde bekämpfbaren öffentlich-rechtlichen Akt dar.\nEuropean Case Law Identifier\nECLI:AT:LVWGNI:2026:LVwG.M.38.001.2026"
+  },
+  {
+   "id": "LVWGR_NI_20261102_LVwG_M_38_001_2026_02",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-M-38/001-2026",
+   "Entscheidungsdatum": "2026-11-02",
+   "Geaendert": "2026-11-20",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "B-VG Art130 Abs1 Z2",
+    "ABGB §354"
+   ],
+   "Schlagworte": "Maßnahmenbeschwerde; Hausverbot; persönliche Freiheit; Befehl; Zwang; Zurückweisung; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_NI_20261102_LVwG_M_38_001_2026_02/LVWGR_NI_20261102_LVwG_M_38_001_2026_02.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_NI_20261102_LVwG_M_38_001_2026_02",
+   "text_datei": "voll/2026-11-23/LVWGR_NI_20261102_LVwG_M_38_001_2026_02.txt",
+   "zeichen": 662,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n02.11.2026\nGeschäftszahl\nLVwG-M-38/001-2026\nRechtssatz\nEine Maßnahmenbeschwerde ist mit Beschluss zurückzuweisen, wenn sich nach dem Ergebnis des Beweisverfahrens der Vorfall in den wesentlichen Punkten nicht so zugetragen hat, wie in der Beschwerde vorgebracht wurde, die bekämpfte Maßnahme also nicht stattgefunden hat. Es handelt sich dabei um den Sonderfall einer an sich meritorischen Entscheidung, welche auf Zurückweisung lautet, weil eine Beschwerde gegen eine nicht vorgefallene Maßnahme unzulässig ist.\nEuropean Case Law Identifier\nECLI:AT:LVWGNI:2026:LVwG.M.38.001.2026"
+  },
+  {
+   "id": "LVWGT_NI_20261028_LVwG_AV_1261_001_2026_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-AV-1261/001-2026",
+   "Entscheidungsdatum": "2026-10-28",
+   "Geaendert": "2026-11-20",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": "WaffG 1996 §12 Abs1",
+   "Schlagworte": "Ordnungsrecht; Waffenrecht; Waffenverbot; aggressives Verhalten; Verurteilung; Verwahrung; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_NI_20261028_LVwG_AV_1261_001_2026_00/LVWGT_NI_20261028_LVwG_AV_1261_001_2026_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_NI_20261028_LVwG_AV_1261_001_2026_00",
+   "text_datei": "voll/2026-11-23/LVWGT_NI_20261028_LVwG_AV_1261_001_2026_00.txt",
+   "zeichen": 41077,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n28.10.2026\nGeschäftszahl\nLVwG-AV-1261/001-2026\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Niederösterreich erkennt durch die Richterin HR Mag. Clodi über Beschwerde des A, ***, ***, gegen den Bescheid der Bezirkshauptmannschaft Mödling vom 09.07.2026, Zl. ***, betreffend das Verbot des Besitzes von Waffen und Munition (Waffenverbot) nach Durchführung einer öffentlichen mündlichen Verhandlung am 02.10.2026\nzu Recht:\n1.\nDie Beschwerde wird gemäß § 28 Abs. 1 und Abs. 2 Z 2 Verwaltungsgerichtsverfahrensgesetz (VwGVG) als unbegründet abgewiesen.\n2.\nGegen dieses Erkenntnis ist gemäß § 25a Verwaltungsgerichtshofgesetz 1985 (VwGG) eine ordentliche Revision an den Verwaltungsgerichthof nach Art. 133 Abs. 4 Bundes-Verfassungsgesetz (B-VG) nicht zulässig.\nEntscheidungsgründe:\nMit Bescheid der Bezirkshauptmannschaft Mödling vom 09.07.2026, Zl. *** wurde A der Besitz von Waffen und Munition mit sofortiger Wirkung verboten.\nGestützt ist diese Entscheidung auf § 12 Abs. 1 des Waffengesetzes 1996 (WaffG), mit dem Hinweis, dass gemäß § 12 Abs. 3 WaffG eine Beschwerde gegen diesen Bescheid keine aufschiebende Wirkung besitzt und dass gemäß § 12 Abs. 3 WaffG mit Eintritt der Rechtskraft des Waffenverbotes sichergestellte Waffen und Munition als verfallen sowie waffenrechtliche Urkunden als entzogen gelten.\nBegründend wurde zusammengefasst ausgeführt, dass verschiedene Vorfälle, nämlich der Verdacht de [...]"
+  },
+  {
+   "id": "LVWGT_BU_20260923_E_002_13_2025_102_012_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "E 002/13/2025.102/012",
+   "Entscheidungsdatum": "2026-09-23",
+   "Geaendert": "2026-11-20",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Burgenland",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "StVO 1960 §52",
+    "StVO 1960 §99"
+   ],
+   "Schlagworte": "Verkehrsrecht; Geschwindigkeitsüberschreitung; Korrektheit der Lasermessung; Erkundungsbeweis",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_BU_20260923_E_002_13_2025_102_012_00/LVWGT_BU_20260923_E_002_13_2025_102_012_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_BU_20260923_E_002_13_2025_102_012_00",
+   "text_datei": "voll/2026-11-23/LVWGT_BU_20260923_E_002_13_2025_102_012_00.txt",
+   "zeichen": 21418,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Burgenland\nEntscheidungsdatum\n23.09.2026\nGeschäftszahl\nE 002/13/2025.102/012\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Burgenland erkennt durch seine Richterin Mag. Rubak über die Beschwerde der BF, ***, ***, vertreten durch RA Rechtsanwälte in ***, gegen das Straferkenntnis der Bezirkshauptmannschaft AA vom 25.09.2025, Zl. ***, wegen Übertretung der Straßenverkehrsordnung 1960 (StVO 1960) zu Recht:\nI.\nDie Beschwerde wird als unbegründet abgewiesen.\nII.\nDie Beschwerdeführerin hat einen Beitrag zu den Kosten des Beschwerdeverfahrens von 90 Euro zu leisten.\nIII.\nDie Revision ist gemäß Art. 133 Abs. 4 B-VG nicht zulässig.\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensgang:\nDer Spruch des angefochtenen Straferkenntnisses lautet:\n„1. Datum/Zeit: 25.05.2024, 09:00 Uhr\nOrt:\n***, A*** Str.km ***, Fahrtrichtung ***\nBetroffenes Fahrzeug: PKW, Kennzeichen: *** (A)\nSie haben im angeführten Bereich, welcher außerhalb eines Ortsgebietes liegt, die durch Straßenverkehrszeichen in diesem Bereich kundgemachte zulässige Höchstgeschwindigkeit von 60 km/h um 56 km/h überschritten. Die in Betracht kommende Messtoleranz wurde bereits zu Ihren Gunsten abgezogen.\nSie haben dadurch folgende Rechtsvorschrift(en) verletzt:\n1.\n§ 52 lit. a Z 10a Straßenverkehrsordnung 1960 – StVO 1960, BGBl. Nr. 159/1960 zuletzt geändert durch BGBl. I Nr. 37/2019\nWegen dieser (diesen) Verwaltungsübertretung(en) wird (werden) über Sie folgende Strafe(n) verh [...]"
+  },
+  {
+   "id": "LVWGT_BU_20260922_E_003_13_2025_120_005_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "E 003/13/2025.120/005",
+   "Entscheidungsdatum": "2026-09-22",
+   "Geaendert": "2026-11-20",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Burgenland",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "KFG 1967 §102 Abs3",
+    "KFG 1967 §134 Abs3c"
+   ],
+   "Schlagworte": "Verkehrsrecht; Verwenden eines Mobiltelefons; Verfolgungshandlung; Spruchkorrektur",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_BU_20260922_E_003_13_2025_120_005_00/LVWGT_BU_20260922_E_003_13_2025_120_005_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_BU_20260922_E_003_13_2025_120_005_00",
+   "text_datei": "voll/2026-11-23/LVWGT_BU_20260922_E_003_13_2025_120_005_00.txt",
+   "zeichen": 22560,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Burgenland\nEntscheidungsdatum\n22.09.2026\nGeschäftszahl\nE 003/13/2025.120/005\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Burgenland erkennt durch seine Richterin Mag. Rubak über die Beschwerde des BF, ***, ***, gegen das Straferkenntnis der Bezirkshauptmannschaft AA vom 17.10.2025, Zl. ***, wegen Übertretung des Kraftfahrgesetzes 1967 (KFG 1967) zu Recht:\nI.\nDie Beschwerde wird als unbegründet abgewiesen und der Spruch des angefochtenen Bescheides mit der Maßgabe bestätigt, dass die Tatumschreibung zu lauten hat:\n„Sie haben am 10.07.2025 um 16.20 Uhr in ***, ***, als Lenker des LKW mit dem Kennzeichen *** (A) während der Fahrt ein Mobiltelefon verwendet, indem Sie dieses auf Höhe des Lenkrads vor sich in der Hand hielten und auf den Bildschirm des eingeschalteten Mobiltelefons schauten.“\nII.\nDer Beschwerdeführer hat einen Beitrag zu den Kosten des Beschwerdeverfahrens von 24 Euro zu leisten.\nIII.\nDie Revision ist gemäß Art. 133 Abs. 4 B-VG nicht zulässig.\nE n t s c h e i d u n g s g r ü n d e\nI. Verfahrensgang:\nMit dem angefochtenen Straferkenntnis wurde dem Beschuldigten zur Last gelegt, er habe am 10.07.2025 um 16.20 Uhr in ***, ***, als Lenker des LKW mit dem Kennzeichen *** (A) während der Fahrt ein Mobiltelefon verwendet, obwohl jegliche Verwendung des Mobiltelefons - ausgenommen als Navigationssystem, sofern es im Wageninneren befestigt ist - verboten sei. Das Mobiltelefon sei auch nicht entsprechend der Ausnahme [...]"
+  }
+ ]
+}

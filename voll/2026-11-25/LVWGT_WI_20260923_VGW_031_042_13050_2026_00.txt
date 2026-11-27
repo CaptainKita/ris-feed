@@ -1,0 +1,61 @@
+RIS Dokument Gericht
+Landesverwaltungsgericht Wien
+Entscheidungsdatum
+23.09.2026
+Geschäftszahl
+VGW-031/042/13050/2026
+Text
+IM NAMEN DER REPUBLIK
+Das Verwaltungsgericht Wien fasst durch seinen Richter Mag. DDr. TESSAR über die Beschwerde des Herrn A. B. gegen das Straferkenntnis der Landespolizeidirektion Wien, Polizeikommissariat Innere Stadt, vom 16.6.2026, Zl. VStV/926300914632/2026, betreffend Verwaltungsübertretungen nach dem Kraftfahrgesetz (KFG) i.V.m. der Verordnung (EU) Nr. 3/2014 und dem Führerscheingesetz (FSG), den
+B E S C H L U S S
+I. Gemäß § 50 VwGVG wird der Beschwerde Folge gegeben, das Straferkenntnis behoben und das Verfahren gemäß § 45 Abs. 1 Z 1 VStG eingestellt.
+Die beschwerdeführende Partei hat daher gemäß § 52 VwGVG keinen Beitrag zu den Kosten des Beschwerdeverfahrens zu leisten.
+II. Gegen diese Entscheidung ist gemäß § 25a VwGG eine Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4 B-VG unzulässig.
+E n t s c h e i d u n g s g r ü n d e
+Der Spruch und die Begründung des gegenständlich angefochtenen Bescheids lauten:
+Gegen diesen Bescheid wurde von der beschwerdeführenden Partei nachfolgende Beschwerde eingebracht:
+Aus dem der Beschwerde vorgelegten erstinstanzlichen Akt ist ersichtlich:
+Die dem gegenständlichen Verfahren zugrunde liegende Anzeige lautet:
+Mit hg. Schreiben vom 10.8.2026 wurde der Beschwerdeführer in weiterer Folge aufgefordert, den Kaufvertrag betreffend das gegenständliche Fahrzeug vorzulegen.
+Weiters wurde mit hg. Beschluss vom 10.8.2026 der sachverständige Dienst der Magistratsabteilung 46 beauftragt zu klären:
+a) Welchen Hubraum weist dieses Fahrzeug auf ?
+b) Welche Änderungen wurden am Fahrzeug vorgenommen, sodass es trotz seiner maximalen Bauartgeschwindigkeit von 25 km/h auf eine Geschwindigkeit von 41 km/h beschleunigt werden konnte, oder gibt es Indizien, dass das Fahrzeug bereits beim Erstverkauf durch den Importeur eine Bauartgeschwindigkeit von über 25 km/h aufwies, und daher nachträglich keine Veränderung vorgenommen wurde, welche die Maximalgeschwindigkeit erhöhte?
+c) Welche Nenndauerleistung weist das Fahrzeug aufweist ?
+d) Welche Bauartgeschwindigkeit weist das Fahrzeug auf ?
+In Entsprechung dieses Gutachtensauftrags wurde nachfolgendes, mit 27.8.2026 datiertes Fachgutachten vorgelegt:
+„Das gegenständlichen Fahrzeug Lofty Coach 16 wird in Österreich als Ebike mit 25km/h verkauft.
+Ein Ebike bzw. Elektrofahrzeug weist keinen Hubraum auf. Einen Hubraum gibt es ausschließlich bei Verbrennungsmotoren.
+Laut Internet habe das Lofty eine Leistung von 600 W, wobei nicht angegeben ist, ob es sich dabei um die Höchst- oder Nenndauerleistung handelt. Mit der 41. KFG Novelle ist die Leistungsgrenze von Ebikes von 600 W Höchstleistung auf 250 W Nenndauerleistung gemäß VO 168/2013 geändert worden. Bis dahin ging das Ministerium bei 600 W Höchstleistung von max. 250 W Nenndauerleistung im Sinne der Verordnung aus. Inwieweit diese Annahme für bereits im Verkehr befindliche E-bikes weiter gültig ist, scheint ungeklärt. Dies umso mehr als die nachträgliche Feststellung der Nenndauerleistung kaum möglich ist. Die Messung der Nenndauerleistung ist zwar in der ÖNORM EN 15194 definiert, kann aber auch elektronisch begrenzt werden. Im Wesentlichen wird diese somit vom Hersteller angegeben und kann nachträglich, wenn vom diesen nicht bekannt gegeben, eigentlich nicht ermittelt werden. Bei den im Internet gefundenen 600 W ist auch nicht klar, wie die ermittelt wurden. So könnte es sich aus Werbegründen dabei auch um die aufgenommene elektrische Leistung handeln, die wenig mit der am Antriebsrad abgegebenen zu tun hat.
+Für Ebikebesitzer gibt es keine gesetzlichen Anforderungen die Nenndauerleistung oder Bauartgeschwindigkeit nachzuweisen. Diese müssen lediglich eingehalten werden
+Bei modernen Fahrzeugen wird die max. Geschwindigkeit und Leistung von der Elektronik limitiert.
+Diese kann zB. an länderspezifische Vorgaben angepasst aber auch manipuliert werden. Ob, wann und welche Änderungen am gegenständlichen Fahrzeug vorgenommen worden sind, kann zuverlässig nur bei der Überprüfung vor Ort festgestellt werden. Sollte es manipuliert gewesen sein, hätte diese Manipulation auch schon vor dem Verkauf erfolgt sein können.
+Die Bauartgeschwindigkeit ist im KFG so definiert:
+Bauartgeschwindigkeit die Geschwindigkeit, hinsichtlich der auf Grund der Bauart des Fahrzeugesdauernd gewährleistet ist, dass sie auf gerader, waagrechter Fahrbahn bei Windstille nicht überschritten werden kann.
+Die Bauartgeschwindigkeit ergibt sich aus dieser Definition. Welche das gegenständliche Fahrzeug zum Zeitpunkt der Überprüfung aufgewiesen hat, hätte nur vor Ort festgestellt werden können, wobei eine durch betätigen des Gasgriffs mit ev. hochheben des Antriebsrades gemessene Geschwindigkeit nicht die Bauartgeschwindigkeit sondern max. einen Hinweis auf eine Überschreitung ergibt.
+Auch eine Messung am Mopedprüfstand ergibt keinen Nachweis auf eine Überschreitung.
+Der Moped Erlass vom 25. August 2017 verlangt eine Rollengeschwindigkeit von mindestens 66 km/h ab der von einem Überschreiten der zulässigen Bauartgeschwindigkeit eines Mopeds (45 km/h) ausgegangen werden kann. Der E-Scooter Erlass vom 23. Juli 2024 gilt nur für E-Scooter gemäß StVO. Für Ebikes gibt es schlicht keinen Grenzwert am Mopedprüfstand ab dem von einem Überschreiten der Bauartgeschwindigkeit ausgegangen werden kann. Dies hat auch technische Gründe, da Ebike Regelungen am Mopedprüfstand oder beim Hochheben des Antriebsrades ohne Widerstände sehr eigenartig reagieren. Versuche haben diesbezüglich unplausible Ergebnisse gebracht.
+Eine zulässige Messung kann bei Ebikes nur mit Laser- oder Radarmessung bzw. mit einem GPS Gerät während der Fahrt erfolgen.“
+SCHLUSSFOLGERUNG
+Das gegenständliche Fahrzeug hat keinen Hubraum, keine bekannte Nenndauerleistung, keine nachgewiesenen Manipulationen. Die Bauartgeschwindigkeit von 25 km/h ist nicht nachweislich Überschritten worden.“
+Das Verwaltungsgericht Wien hat erwogen:
+Gemäß § 36 lit. a KFG dürfen Kraftfahrzeuge unbeschadet der Bestimmungen der §§ 82, 83 und 104 Abs. 7 KFG über die Verwendung von Kraftfahrzeugen und Anhängern mit ausländischem Kennzeichen nur verwendet werden, wenn sie zum Verkehr zugelassen sind.
+§ 15 KFG lautet:
+„Beleuchtungs- und Lichtsignaleinrichtungen für Fahrzeuge der Klasse L
+Für Fahrzeuge der Klasse L gelten hinsichtlich des Anbaues, der technischen Eigenschaften und der Funktionsweise der Beleuchtungs- und Lichtsignaleinrichtungen die Vorschriften der Verordnung (EU) Nr. 168/2013 über die Genehmigung und Marktüberwachung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen, ABl. Nr. L 60 vom 02.03.2013, in Verbindung mit der delegierten Verordnung (EU) Nr. 3/2014 hinsichtlich der Anforderungen an die funktionale Sicherheit von Fahrzeugen für die Genehmigung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen, ABl. Nr. L 7 vom 10.01.2014. (§§ 37 bis 39)“
+§ 102 Abs. 1 KFG lautet:
+„Der Kraftfahrzeuglenker darf ein Kraftfahrzeug erst in Betrieb nehmen, wenn er sich, soweit dies zumutbar ist, davon überzeugt hat, dass das von ihm zu lenkende Kraftfahrzeug und ein mit diesem zu ziehender Anhänger sowie deren Beladung den hiefür in Betracht kommenden Vorschriften entsprechen; die Überprüfung der Wirksamkeit der Vorrichtungen zum Abgeben von akustischen Warnzeichen darf jedoch nur erfolgen, sofern nicht ein Verbot gemäß § 43 Abs. 2 lit. a StVO 1960 besteht. Berufskraftfahrer haben bei Lastkraftwagen, Sattelzugfahrzeugen, Omnibussen oder Anhängern unverzüglich den Zulassungsbesitzer nachweisbar zu verständigen, wenn das Fahrzeug diesen Vorschriften nicht entspricht.“
+§ 1 Abs. 3 Führerscheingesetz lautet:
+„Das Lenken eines Kraftfahrzeuges und das Ziehen eines Anhängers ist, ausgenommen in den Fällen des Abs. 5, nur zulässig mit einer von der Behörde erteilten gültigen Lenkberechtigung für die Klasse (§ 2), in die das Kraftfahrzeug fällt. Das Lenken von Feuerwehrfahrzeugen gemäß § 2 Abs. 1 Z 28 KFG 1967 ist jedoch außerdem mit einer Lenkberechtigung für die Klasse B in Verbindung mit einem Feuerwehrführerschein (§ 32a) zulässig. Weiters ist das Ziehen von anderen als leichten Anhängern, die gemäß § 2 Abs. 1 Z 28 KFG 1967 Feuerwehrfahrzeuge sind, mit Zugfahrzeugen für die Klassen C(C1) oder D(D1) zulässig, wenn der Besitzer einer Lenkberechtigung für die Klasse BE einen Feuerwehrführerschein (§ 32a) besitzt. Feuerwehrfahrzeuge sowie Rettungs- und Krankentransportfahrzeuge gesetzlich anerkannter Rettungsorganisationen mit einer höchstzulässigen Gesamtmasse bis 5 500 kg dürfen überdies mit einer Lenkberechtigung für die Klasse B gelenkt werden, wenn der Lenker
+1. nicht mehr in der Probezeit ist,
+2. eine interne theoretische und praktische Ausbildung sowie eine interne theoretische und praktische Fahrprüfung erfolgreich abgelegt hat und
+3. im Besitz einer Bestätigung des Landesfeuerwehrkommandanten oder der Rettungsorganisation ist, dass er zum Lenken dieser Fahrzeuge besonders geeignet ist.
+In diesem Fall darf jedenfalls ein leichter Anhänger gezogen werden. Ein anderer als leichter Anhänger darf gezogen werden, sofern die höchste zulässige Gesamtmasse der Fahrzeugkombination 5500 kg nicht übersteigt. Besitzt der Inhaber der Bestätigung nach Z 3 auch die Klasse BE, darf mit einem Zugfahrzeug mit einer höchstzulässigen Gesamtmasse von nicht mehr als 5 500 kg ein Anhänger mit einer höchstzulässigen Gesamtmasse von nicht mehr als 3 500 kg gezogen werden. Fahrzeuge des öffentlichen Sicherheitsdienstes mit einer höchstzulässigen Gesamtmasse bis 5 500 kg dürfen überdies mit einer Lenkberechtigung für die Klasse B gelenkt werden, wenn dies in der besonderen Art und Aufgabenstellung der zu lenkenden Fahrzeuge begründet ist und wenn der Lenker zusätzlich im Besitz einer Bestätigung des Bundesministeriums für Inneres ist, dass er zum Lenken dieser Fahrzeuge besonders geeignet ist.“
+Gemäß § 37 Abs. 1 Führerscheingesetz ist mit einer Geldstrafe von 36 Euro bis zu 2 180 Euro, im Falle ihrer Uneinbringlichkeit mit einer Ersatzfreiheitsstrafe bis zu sechs Wochen zu bestrafen, wer auf Grund des Führerscheingesetzes erlassenen Verordnungen, Bescheiden oder sonstigen Anordnungen zuwiderhandelt.
+Voraussetzung für die Verhängung einer Verwaltungsstrafe ist das Vorliegen eines Verhaltens, welches als tatbildlich gesetzt zu qualifizieren ist. Unter Zugrundelegung des im Verwaltungsstrafverfahren allgemein gültigen Rechtsgrundsatzes "in dubio pro reo" darf nur dann eine Bestrafung erfolgen, wenn mit der für eine strafrechtliche Verurteilung erforderlichen Sicherheit feststeht, dass das der Verurteilung zugrundeliegende strafbare Verhalten auch tatsächlich von der beschuldigten Person verwirklicht worden ist.
+Im vorliegenden Fall ist diese erforderliche Sicherheit jedenfalls als nicht gegeben anzusehen. Vielmehr hat das Gutachten des Sachverständigen der Magistratsabteilung ergeben, dass nicht festgestellt werden kann, dass Manipulationen am Fahrzeug nicht nachgewiesen sind, und dass die Bauartgeschwindigkeit des Fahrzeugs von 25 km/h ist nicht nachweislich Überschritten worden ist.
+Bei dieser Sachlage kann nicht mit der für eine verwaltungsstrafrechtliche Verurteilung erforderlichen Gewissheit festgestellt werden, dass die beschwerdeführende Partei die im erstinstanzlichen Straferkenntnis angelastete Verwaltungsübertretung tatsächlich schuldhaft begangen hat.
+Es war sohin das erstinstanzliche Straferkenntnis zu beheben und das Strafverfahren mangels ausreichender Taterweisung einzustellen.
+Gemäß § 44 Abs. 2 VwGVG hatte eine öffentliche mündliche Verhandlung zu entfallen.
+Die Revision gegen diese Entscheidung ist unzulässig, da keine Rechtsfrage im Sinne des Art. 133 Abs. 4 B-VG zu beurteilen war, der grundsätzliche Bedeutung zukommt. Weder weicht die gegenständliche Entscheidung von der bisherigen Rechtsprechung des Verwaltungsgerichtshofes ab, noch fehlt es an einer Rechtsprechung. Weiters ist die dazu vorliegende Rechtsprechung des Verwaltungsgerichtshofes auch nicht als uneinheitlich zu beurteilen. Ebenfalls liegen keine sonstigen Hinweise auf eine grundsätzliche Bedeutung der zu lösenden Rechtsfrage vor.
+European Case Law Identifier
+ECLI:AT:LVWGWI:2026:VGW.031.042.13050.2026

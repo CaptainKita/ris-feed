@@ -1,0 +1,16 @@
+RIS Dokument Gericht
+OGH
+Rechtssatznummer
+RS0153214
+Entscheidungsdatum
+22.09.2026
+Geschäftszahl
+14Os64/26g
+Norm
+StGB §274
+Rechtssatz
+An einer Zusammenkunft iSd § 274 Abs 1 StGB nimmt nur derjenige teil, der ihr freiwillig zugehört, sich ihr also ohne Zwang anschließt oder in ihr bleibt, obwohl er sie verlassen könnte. Wer sich nicht am Tatort, sondern - wie hier - nur in dessen Nähe aufhält, kann nicht unmittelbarer Täter des § 274 StGB sein.
+Entscheidungstexte
+TE OGH 2026-09-22 14 Os 64/26g
+European Case Law Identifier
+ECLI:AT:OGH0002:2026:RS0153214

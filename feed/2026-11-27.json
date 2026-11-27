@@ -1,0 +1,332 @@
+{
+ "erzeugt": "2026-11-27T05:30:01+01:00",
+ "fenster": "EinerWoche",
+ "quellen": {
+  "Bundesrecht/BgblAuth": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/Begut": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Bundesrecht/RegV": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Justiz": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vfgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Vwgh": {
+   "neu": 0,
+   "abgeschnitten": false
+  },
+  "Judikatur/Lvwg": {
+   "neu": 13,
+   "abgeschnitten": false
+  }
+ },
+ "fehler": [],
+ "dokumente": [
+  {
+   "id": "LVWGT_NI_20261124_LVwG_S_334_001_2026_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-S-334/001-2026",
+   "Entscheidungsdatum": "2026-11-24",
+   "Geaendert": "2026-11-26",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "EisenbahnG 1957 §46",
+    "EisenbahnG 1957 §225 Abs1",
+    "VStG 1991 §19"
+   ],
+   "Schlagworte": "Eisenbahnrecht; Verwaltungsstrafe; Geldstrafe; Strafbemessung;",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_NI_20261124_LVwG_S_334_001_2026_00/LVWGT_NI_20261124_LVwG_S_334_001_2026_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_NI_20261124_LVwG_S_334_001_2026_00",
+   "text_datei": "voll/2026-11-27/LVWGT_NI_20261124_LVwG_S_334_001_2026_00.txt",
+   "zeichen": 2939,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n24.11.2026\nGeschäftszahl\nLVwG-S-334/001-2026\nText\nErkenntnis in gekürzter Form gemäß § 29 Abs. 5 iVm § 50 Abs. 2 VwGVG\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Niederösterreich hat durch den Richter Mag. Honeder, MSc (WU), über die in der öffentlich mündlichen Verhandlung auf die Höhe der Strafe eingeschränkte Beschwerde des A gegen das Straferkenntnis der Bezirkshauptmannschaft Gänserndorf vom 20. Februar 2026, Zl. ***, betreffend Bestrafung nach dem Eisenbahngesetz 1957 (EisbG), nach mündlicher Verhandlung durch Verkündung am 30. Oktober 2026 zu Recht erkannt:\nI.\nDer Beschwerde wird stattgegeben und die verhängte Strafe von 550,00 Euro (Ersatzfreiheitsstrafe: 252 Stunden) auf 200,00 Euro (Ersatzfreiheitsstrafe: 92 Stunden) herabgesetzt sowie der Kostenbeitrag gemäß § 64 Abs. 1 und 2 VStG mit 20,00 Euro neu festgesetzt.\nII.\nGegen dieses Erkenntnis ist eine Revision gemäß Art. 133 Abs. 4 B-VG nicht zulässig.\nRechtsgrundlagen:\n§§ 46 und 225 Abs. 1 des Eisenbahngesetzes 1957 – EisbG\n§ 19 des Verwaltungsstrafgesetzes 1991 – VStG\n§ 25a des Verwaltungsgerichtshofgesetzes 1985 – VwGG\nEntscheidungsgründe gemäß § 50 Abs. 2 VwGVG:\n1.\nFolgender entscheidungswesentlicher Sachverhalt steht fest:\nDer Beschwerdeführer hat am 10. Jänner 2026 um 19:35 Uhr, in *** eine Übertretung des § 46 EisbG verwirklicht, indem er bei einer Kontrolle durch einen Zugbegleiter begonnen hat, diesen zu filmen und angeg [...]"
+  },
+  {
+   "id": "LVWGT_VO_20261120_LVwG_411_95_2026_R6_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-411-95/2026-R6",
+   "Entscheidungsdatum": "2026-11-20",
+   "Geaendert": "2026-11-26",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Vorarlberg",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "FSG 1997 §7 Abs4",
+    "StVO 1960 §4 Abs1 lita",
+    "StVO 1960 §4 Abs1 litc",
+    "StVO 1960 §4 Abs2"
+   ],
+   "Schlagworte": "Führerscheingesetz, Fahrerflucht, Unfall nicht wahrgenommen, jedoch bei Aufmerksamkeit wahrnehmbar gewesen, kein auffallend rücksichtslosen Verhalten",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_VO_20261120_LVwG_411_95_2026_R6_00/LVWGT_VO_20261120_LVwG_411_95_2026_R6_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_VO_20261120_LVwG_411_95_2026_R6_00",
+   "text_datei": "voll/2026-11-27/LVWGT_VO_20261120_LVwG_411_95_2026_R6_00.txt",
+   "zeichen": 26167,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Vorarlberg\nEntscheidungsdatum\n20.11.2026\nGeschäftszahl\nLVwG-411-95/2026-R6\nText\nIm Namen der Republik!\nErkenntni s\nDas Landesverwaltungsgericht Vorarlberg hat durch die Richterin Mag. Birgit König über die Beschwerde des A I, W, vertreten durch die Reiterer Ulmer Rechtsanwälte, Bregenz, gegen den Bescheid der Bezirkshauptmannschaft B vom 01.09.2026, Zl, betreffend die Entziehung der Lenkberechtigung, zu Recht erkannt:\nGemäß § 28 Abs 1 und 2 Verwaltungsgerichtsverfahrensgesetz (VwGVG) wird der Beschwerde Folge gegeben und der angefochtene Bescheid aufgehoben.\nGegen dieses Erkenntnis ist gemäß § 25a Verwaltungsgerichtshofgesetz 1985 (VwGG) eine Revision an den Verwaltungsgerichtshof unzulässig.\nBegründung\n1. Mit dem angefochtenen Bescheid wurde dem Beschwerdeführer gemäß den § 24 Abs 1 Z 1, § 7 Abs 1, Abs 3 Z 5 und Abs 4 sowie § 25 Abs 1 und 3 des Führerscheingesetzes (FSG) die Lenkberechtigung für die Klassen B und AM, beurkundet im Führerschein der Bezirkshauptmannschaft B vom 23.03.2026, Nr, für die Dauer von drei Monaten, gerechnet ab der nachweislichen Zustellung dieses Bescheides (09.09.2026), somit bis einschließlich 09.12.2026, entzogen. Gleichzeitig wurde gemäß § 24 Abs 3 FSG als begleitende Maßnahme eine Nachschulung angeordnet und bestimmt, dass die Entziehungsdauer nicht vor Befolgung der Anordnungen ende.\nWeiters wurde dem Beschwerdeführer gemäß § 29 Abs 3 FSG aufgetragen, nach Eintritt der Vollstreckbarkeit des Entzieh [...]"
+  },
+  {
+   "id": "LVWGT_NI_20261112_LVwG_AV_1248_001_2026_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-AV-1248/001-2026",
+   "Entscheidungsdatum": "2026-11-12",
+   "Geaendert": "2026-11-26",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "IFG §6 Abs1 Z7 lita",
+    "IFG §6 Abs1 Z7 litb",
+    "IFG §11 Abs1",
+    "IFG §16",
+    "32016R0679 DSGVO Art10",
+    "AVG 1991 §17 Abs3"
+   ],
+   "Schlagworte": "Auskunftsrecht; Informationsbegehren; Geschäfts- und Betriebsgeheimnis; personenbezogene Daten; Interessenabwägung; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_NI_20261112_LVwG_AV_1248_001_2026_00/LVWGT_NI_20261112_LVwG_AV_1248_001_2026_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_NI_20261112_LVwG_AV_1248_001_2026_00",
+   "text_datei": "voll/2026-11-27/LVWGT_NI_20261112_LVwG_AV_1248_001_2026_00.txt",
+   "zeichen": 17150,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n12.11.2026\nGeschäftszahl\nLVwG-AV-1248/001-2026\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Niederösterreich erkennt durch den Richter Mag. Honeder, MSc (WU), über die Beschwerde des A, vertreten durch B, Rechtsanwalt in ***, ***, gegen den Bescheid der Bezirkshauptmannschaft St. Pölten vom 3. Juli 2026, Zl. ***, betreffend Verweigerung des Zugangs zu Informationen und Abweisung eines Antrages gemäß dem IFG, nach Durchführung einer öffentlichen mündlichen Verhandlung am 16. Oktober 2026 zu Recht:\nI.\nDie Beschwerde wird als unbegründet abgewiesen.\nII.\nGegen dieses Erkenntnis ist eine Revision gemäß Art. 133 Abs. 4 B-VG nicht zulässig.\nRechtsgrundlagen:\n§§ 6 Abs. 1 Z 7 lit. a und 11 des Informationsfreiheitsgesetzes – IFG\n§ 25a des Verwaltungsgerichtshofgesetzes 1985 – VwGG\nEntscheidungsgründe:\n1.\nVerfahrensgang:\nMit Schreiben vom 6. Mai 2026 begehrte der Beschwerdeführer folgende Informationen in Bezug auf eine von C und anderen Personen geführte Hundezucht an einer näher genannten Adresse in ***, wobei der Beschwerdeführer darauf hinwies, dass die gezüchteten Hunde im Internet zum Verkauf angeboten würden:\n●\nLiegt eine Meldung der Zucht nach § 31b Abs. 1 TSchG oder eine bewilligte Zucht nach § 31b Abs. 2 iVm § 23 TSchG vor?\n●\nWelcher natürlichen oder juristischen Person wurde die Bewilligung erteilt?\n●\nDie Zucht welcher Art von Tieren wurde bewilligt?\n●\nDie Zucht welcher Rassen wurde  [...]"
+  },
+  {
+   "id": "LVWGR_NI_20261112_LVwG_AV_1248_001_2026_02",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-AV-1248/001-2026",
+   "Entscheidungsdatum": "2026-11-12",
+   "Geaendert": "2026-11-26",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "IFG §6 Abs1 Z7 lita",
+    "IFG §6 Abs1 Z7 litb",
+    "IFG §11 Abs1",
+    "IFG §16",
+    "32016R0679 DSGVO Art10",
+    "AVG 1991 §17 Abs3"
+   ],
+   "Schlagworte": "Auskunftsrecht; Informationsbegehren; Geschäfts- und Betriebsgeheimnis; personenbezogene Daten; Interessenabwägung; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_02/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_02.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_NI_20261112_LVwG_AV_1248_001_2026_02",
+   "text_datei": "voll/2026-11-27/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_02.txt",
+   "zeichen": 496,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n12.11.2026\nGeschäftszahl\nLVwG-AV-1248/001-2026\nRechtssatz\nBei Informationsbegehren nach dem IFG, die auf (tages)aktuelle Daten gerichtet sind, ist es nicht zulässig, vorhandene aktuelle Daten nicht unmittelbar herauszugeben, sodass diese ihre Aktualität verlieren und insoweit wiederum keine Aufzeichnungen zur begehrten Information vorliegen.\nEuropean Case Law Identifier\nECLI:AT:LVWGNI:2026:LVwG.AV.1248.001.2026"
+  },
+  {
+   "id": "LVWGR_NI_20261112_LVwG_AV_1248_001_2026_06",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-AV-1248/001-2026",
+   "Entscheidungsdatum": "2026-11-12",
+   "Geaendert": "2026-11-26",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "IFG §6 Abs1 Z7 lita",
+    "IFG §6 Abs1 Z7 litb",
+    "IFG §11 Abs1",
+    "IFG §16",
+    "32016R0679 DSGVO Art10",
+    "AVG 1991 §17 Abs3"
+   ],
+   "Schlagworte": "Auskunftsrecht; Informationsbegehren; Geschäfts- und Betriebsgeheimnis; personenbezogene Daten; Interessenabwägung; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_06/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_06.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_NI_20261112_LVwG_AV_1248_001_2026_06",
+   "text_datei": "voll/2026-11-27/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_06.txt",
+   "zeichen": 331,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n12.11.2026\nGeschäftszahl\nLVwG-AV-1248/001-2026\nRechtssatz\nDie Kontrolle der Einhaltung von tierschutzrechtlichen Bestimmungen obliegt den zuständigen Behörden und nicht Privaten.\nEuropean Case Law Identifier\nECLI:AT:LVWGNI:2026:LVwG.AV.1248.001.2026"
+  },
+  {
+   "id": "LVWGR_NI_20261112_LVwG_AV_1248_001_2026_04",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-AV-1248/001-2026",
+   "Entscheidungsdatum": "2026-11-12",
+   "Geaendert": "2026-11-26",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "IFG §6 Abs1 Z7 lita",
+    "IFG §6 Abs1 Z7 litb",
+    "IFG §11 Abs1",
+    "IFG §16",
+    "32016R0679 DSGVO Art10",
+    "AVG 1991 §17 Abs3"
+   ],
+   "Schlagworte": "Auskunftsrecht; Informationsbegehren; Geschäfts- und Betriebsgeheimnis; personenbezogene Daten; Interessenabwägung; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_04/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_04.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_NI_20261112_LVwG_AV_1248_001_2026_04",
+   "text_datei": "voll/2026-11-27/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_04.txt",
+   "zeichen": 423,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n12.11.2026\nGeschäftszahl\nLVwG-AV-1248/001-2026\nRechtssatz\nAuch bei Vereinen, die sich dem Tierschutz (oder sonstigen im öffentlichen Interesse gelegenen Themen widmen), ist nicht schon alleine aufgrund des Vereinszwecks von einer Stellung als public watchdog auszugehen.\nEuropean Case Law Identifier\nECLI:AT:LVWGNI:2026:LVwG.AV.1248.001.2026"
+  },
+  {
+   "id": "LVWGR_NI_20261112_LVwG_AV_1248_001_2026_03",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-AV-1248/001-2026",
+   "Entscheidungsdatum": "2026-11-12",
+   "Geaendert": "2026-11-26",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "IFG §6 Abs1 Z7 lita",
+    "IFG §6 Abs1 Z7 litb",
+    "IFG §11 Abs1",
+    "IFG §16",
+    "32016R0679 DSGVO Art10",
+    "AVG 1991 §17 Abs3"
+   ],
+   "Schlagworte": "Auskunftsrecht; Informationsbegehren; Geschäfts- und Betriebsgeheimnis; personenbezogene Daten; Interessenabwägung; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_03/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_03.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_NI_20261112_LVwG_AV_1248_001_2026_03",
+   "text_datei": "voll/2026-11-27/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_03.txt",
+   "zeichen": 367,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n12.11.2026\nGeschäftszahl\nLVwG-AV-1248/001-2026\nRechtssatz\nFür die Beurteilung, ob ein Informationswerber als public watchdog anzusehen ist, ist ausschließlich der Stand zum Zeitpunkt der Bescheiderlassung relevant.\nEuropean Case Law Identifier\nECLI:AT:LVWGNI:2026:LVwG.AV.1248.001.2026"
+  },
+  {
+   "id": "LVWGR_NI_20261112_LVwG_AV_1248_001_2026_01",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-AV-1248/001-2026",
+   "Entscheidungsdatum": "2026-11-12",
+   "Geaendert": "2026-11-26",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "IFG §6 Abs1 Z7 lita",
+    "IFG §6 Abs1 Z7 litb",
+    "IFG §11 Abs1",
+    "IFG §16",
+    "32016R0679 DSGVO Art10",
+    "AVG 1991 §17 Abs3"
+   ],
+   "Schlagworte": "Auskunftsrecht; Informationsbegehren; Geschäfts- und Betriebsgeheimnis; personenbezogene Daten; Interessenabwägung; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_01/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_01.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_NI_20261112_LVwG_AV_1248_001_2026_01",
+   "text_datei": "voll/2026-11-27/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_01.txt",
+   "zeichen": 462,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n12.11.2026\nGeschäftszahl\nLVwG-AV-1248/001-2026\nRechtssatz\nRichtet sich ein Informationsbegehren inhaltlich nicht auf Einsicht in einen bestimmten Akt, sondern werden nur einzelne konkrete Informationen abgefragt, kommt § 16 IFG nicht zur Anwendung und es ist das Informationsbegehren anhand des IFG zu prüfen.\nEuropean Case Law Identifier\nECLI:AT:LVWGNI:2026:LVwG.AV.1248.001.2026"
+  },
+  {
+   "id": "LVWGR_NI_20261112_LVwG_AV_1248_001_2026_05",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-AV-1248/001-2026",
+   "Entscheidungsdatum": "2026-11-12",
+   "Geaendert": "2026-11-26",
+   "Dokumenttyp": "Rechtssatz",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "IFG §6 Abs1 Z7 lita",
+    "IFG §6 Abs1 Z7 litb",
+    "IFG §11 Abs1",
+    "IFG §16",
+    "32016R0679 DSGVO Art10",
+    "AVG 1991 §17 Abs3"
+   ],
+   "Schlagworte": "Auskunftsrecht; Informationsbegehren; Geschäfts- und Betriebsgeheimnis; personenbezogene Daten; Interessenabwägung; ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_05/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_05.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGR_NI_20261112_LVwG_AV_1248_001_2026_05",
+   "text_datei": "voll/2026-11-27/LVWGR_NI_20261112_LVwG_AV_1248_001_2026_05.txt",
+   "zeichen": 418,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n12.11.2026\nGeschäftszahl\nLVwG-AV-1248/001-2026\nRechtssatz\nSind personenbezogene Daten als zumindest im Nahebereich von Daten über strafrechtliche Verurteilungen und Straftaten iSd Art 10 DSGVO anzusehen, ist dem Schutz dieser Daten ein erhöhtes Gewicht beizumessen.\nEuropean Case Law Identifier\nECLI:AT:LVWGNI:2026:LVwG.AV.1248.001.2026"
+  },
+  {
+   "id": "LVWGT_NI_20261112_LVwG_AV_697_006_2026_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-AV-697/006-2026",
+   "Entscheidungsdatum": "2026-11-12",
+   "Geaendert": "2026-11-26",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Beschluss",
+   "Normen": [
+    "IFG §11 Abs2",
+    "AVG 1991 §18 Abs4"
+   ],
+   "Schlagworte": "Auskunftsrecht; Informationsbegehren; Verfahrensrecht; Bescheid; Amtssignatur; Bescheidqualität; Beschwerde; Zurückweisung;",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_NI_20261112_LVwG_AV_697_006_2026_00/LVWGT_NI_20261112_LVwG_AV_697_006_2026_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_NI_20261112_LVwG_AV_697_006_2026_00",
+   "text_datei": "voll/2026-11-27/LVWGT_NI_20261112_LVwG_AV_697_006_2026_00.txt",
+   "zeichen": 5631,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n12.11.2026\nGeschäftszahl\nLVwG-AV-697/006-2026\nText\nDas Landesverwaltungsgericht Niederösterreich fasst durch den Richter Mag. Honeder, MSc (WU), über die Beschwerde des A, in ***, ***, gegen das Schreiben des Magistrats der Stadt St. Pölten vom 2. April 2026, Zl. ***, betreffend Nichterteilung eines Informationszugangs nach dem IFG, den\nBESCHLUSS\nI.\nDie Beschwerde wird als unzulässig zurückgewiesen.\nII.\nGegen diesen Beschluss ist eine Revision gemäß Art. 133 Abs. 4 B-VG nicht zulässig.\nRechtsgrundlagen:\n§ 18 Abs. 4 des Allgemeinen Verwaltungsverfahrensgesetzes 1991 – AVG\n§ 25a des Verwaltungsgerichtshofgesetzes 1985 – VwGG\nBegründung:\n1.\nVerfahrensgang:\nMit Schreiben vom 13. Jänner 2026 begehrte der Beschwerdeführer von der Stadt St. Pölten die Erteilung von Informationen betreffend sämtlicher Wartungs-, Kontroll- und Inspektionsprotokolle zum Retentionsbecken in *** für den Zeitraum der letzten fünf Jahre und bezog sich auf das Hochwasserereignis vom September 2024. Zugleich beantragte der Beschwerdeführer für den Fall der Informationsverweigerung die Erlassung eines Bescheides nach § 11 IFG.\nMit Schreiben des Magistrats der Stadt St. Pölten (in der Folge: belangte Behörde) vom 12. Februar 2026 wurde dem Beschwerdeführer mitgeteilt, dass sämtliche Retentionsflächen und Rückhaltebecken (somit auch das Retentionsbecken in ***) durch den Wirtschaftshof im Zuge der serienmäßigen Kontrollfahrten lau [...]"
+  },
+  {
+   "id": "LVWGT_NI_20261110_LVwG_AV_843_002_2024_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "LVwG-AV-843/002-2024",
+   "Entscheidungsdatum": "2026-11-10",
+   "Geaendert": "2026-11-26",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Niederösterreich",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "GdBDO NÖ 1976 §28",
+    "GdBDO NÖ 1976 §115",
+    "GdBDO NÖ 1976 §154",
+    "GdBDO NÖ 1976 §155 Z3"
+   ],
+   "Schlagworte": "Dienstrecht; Gemeindebedienstete; Dienstpflichtverletzung; Amtsmissbrauch; Betrug; Disziplinarstrafe; Strafbemessung;  ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_NI_20261110_LVwG_AV_843_002_2024_00/LVWGT_NI_20261110_LVwG_AV_843_002_2024_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_NI_20261110_LVwG_AV_843_002_2024_00",
+   "text_datei": "voll/2026-11-27/LVWGT_NI_20261110_LVwG_AV_843_002_2024_00.txt",
+   "zeichen": 73145,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Niederösterreich\nEntscheidungsdatum\n10.11.2026\nGeschäftszahl\nLVwG-AV-843/002-2024\nText\nIM NAMEN DER REPUBLIK\nDas Landesverwaltungsgericht Niederösterreich hat durch den Senatsvorsitzenden Hofrat Mag. Matthias Röper sowie durch die fachkundigen Laienrichter Bürgermeister MMag. Johannes Heuras und Ing. Jürgen Herzmanek über die Beschwerde des A, vertreten durch Rechtsanwalt B, gegen den Bescheid des Disziplinarsenates der Stadtgemeinde *** bei der Bezirkshauptmannschaft Mistelbach vom 7. Juni 2024, Zl. ***, nach Durchführung einer mündlichen Verhandlung zu Recht erkannt:\n1.\nDer angefochtene Spruch wird dahingehend abgeändert, dass es wie folgt zu lauten hat:\n„Der Beamte A hat (Zitat aus dem Urteil des Landesgerichtes *** vom 27. Februar 2025, Zl. ***)\nI.) mit dem Vorsatz, sich durch das Verhalten der Getäuschten unrechtmäßig zu bereichern, nachgenannte Personen durch Täuschung über Tatsachen zu Handlungen bzw Unterlassungen verleitet bzw zu verleiten versucht, die diese oder einen anderen am Vermögen schädigten oder geschädigt hätten, wobei er durch die Tat einen EUR 5.000,--, nicht aber EUR 300.000,-- übersteigenden Schaden herbeiführte, indem zur Täuschung zum Teil falsche Beweismittel benutzte, und zwar von 16.09.2015 bis Dezember 2020 durch Angabe eines zu geringen Nettoeinkommens, wodurch C um einen EUR 5.000,-- übersteigenden Betrag an ihrem Vermögen geschädigt wurde, indem er zur Täuschung falsche Beweismittel, nämlich inhalt [...]"
+  },
+  {
+   "id": "LVWGT_WI_20261110_VGW_031_100_18047_2026_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "VGW-031/100/18047/2026",
+   "Entscheidungsdatum": "2026-11-10",
+   "Geaendert": "2026-11-26",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Wien",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "KFG 1967 §103 Abs2",
+    "VStG §5 Abs1"
+   ],
+   "Schlagworte": "Auskunft, Kennzeichen, Kraftfahrzeug, Lenkerauskunft, Zustellung, Vollmacht",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_WI_20261110_VGW_031_100_18047_2026_00/LVWGT_WI_20261110_VGW_031_100_18047_2026_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_WI_20261110_VGW_031_100_18047_2026_00",
+   "text_datei": "voll/2026-11-27/LVWGT_WI_20261110_VGW_031_100_18047_2026_00.txt",
+   "zeichen": 24001,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Wien\nEntscheidungsdatum\n10.11.2026\nGeschäftszahl\nVGW-031/100/18047/2026\nText\nIM NAMEN DER REPUBLIK\nDas Verwaltungsgericht Wien hat durch seinen Richter Dr. HUBER über die Beschwerde des A. B., vertreten durch Rechtsanwalt, gegen das Straferkenntnis des Magistrates der Stadt Wien vom 24.08.2026, GZ: ..., betreffend eine Verwaltungsübertretung nach dem Kraftfahrgesetz (KFG), nach Durchführung einer öffentlichen mündlichen Verhandlung am 28.10.2026 durch Verkündung\nzu Recht e r k a n n t:\nI. Gemäß § 50 Abs. 1 VwGVG wird die Beschwerde als unbegründet abgewiesen und das angefochtene Straferkenntnis mit der Maßgabe bestätigt, dass die darin angeführte Übertretungsnorm durch „§ 103 Abs. 2 Kraftfahrgesetz 1967 (KFG), BGBl. Nr. 267/1967 idF BGBl. I Nr. 90/2023“ und die zitierte Strafsanktionsnorm durch „§ 134 Abs. 1 Z 1 Kraftfahrgesetz 1967 (KFG), BGBl. Nr. 267/1967 idF BGBl. I Nr. 19/2025“ ersetzt werden.\nII. Gemäß § 52 Abs. 1 und 2 VwGVG hat die beschwerdeführende Partei einen Beitrag zu den Kosten des Beschwerdeverfahrens in der Höhe von EUR 40,– (das sind 20% der verhängten Geldstrafe) zu leisten.\nIII. Gegen diese Entscheidung ist gemäß § 25a Abs. 1 VwGG eine Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4 B-VG unzulässig.\nEntscheidungsgründe\nI. Maßgeblicher Verfahrensgang\n1. Mit dem angefochtenen Straferkenntnis des Magistrates der Stadt Wien – Magistratsabteilung 67 (im Folgenden: belangte Behörde) vom 24.08.2026, GZ: .. [...]"
+  },
+  {
+   "id": "LVWGT_KA_20240305_KLVwG_28_29_5_2024_00",
+   "app": "Lvwg",
+   "Geschaeftszahl": "KLVwG-28-29/5/2024",
+   "Entscheidungsdatum": "2024-03-05",
+   "Geaendert": "2026-11-26",
+   "Dokumenttyp": "Text",
+   "Gericht": "Landesverwaltungsgericht Kärnten",
+   "Entscheidungsart": "Erkenntnis",
+   "Normen": [
+    "ASVG §33 Abs1 ",
+    "ASVG §111 Abs1 ",
+    "ASVG §111 Abs2 ",
+    "VStG §5 Abs1"
+   ],
+   "Schlagworte": "Sozialversicherungsrecht, Anmeldepflicht, Freundschaftsdienst, Gefälligkeitsdienst ",
+   "inhalt_url": "https://ogd.ris.bka.gv.at/Dokumente/Lvwg/LVWGT_KA_20240305_KLVwG_28_29_5_2024_00/LVWGT_KA_20240305_KLVwG_28_29_5_2024_00.html",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Lvwg&Dokumentnummer=LVWGT_KA_20240305_KLVwG_28_29_5_2024_00",
+   "text_datei": "voll/2026-11-27/LVWGT_KA_20240305_KLVwG_28_29_5_2024_00.txt",
+   "zeichen": 19738,
+   "text": "RIS Dokument Gericht\nLandesverwaltungsgericht Kärnten\nEntscheidungsdatum\n05.03.2024\nGeschäftszahl\nKLVwG-28-29/5/2024\nText\nDas Landesverwaltungsgericht Kärnten erkennt durch seinen Richter xxx über die Beschwerde des xxx, geb. xxx, xxx, xxx, gegen das Straferkenntnis der Bezirkshauptmannschaft xxx vom 27.11.2023, Zahl: xxx, wegen Verwaltungsübertretungen nach § 33 Abs 1 iVm § 111 Abs. 1 Z 1 Allgemeines Sozialversicherungsgesetz – ASVG, nach durchgeführter Beschwerdeverhandlung, zu Recht:\nI. Die Beschwerde wird als unbegründet\na b g e w i e s e n .\nII.\nGemäß § 52 Abs. 1 und 2 VwGVG hat der Beschwerdeführer einen Beitrag zu den Kosten des Beschwerdeverfahrens in der Höhe von € 292,-- zu leisten.\nIII.\nEine ordentliche Revision an den Verwaltungsgerichtshof nach Art. 133 Abs. 4\nB-VG ist\nu n z u l ä s s i g .\nE n t s c h e i d u n g s g r ü n d e\nI. Bisheriger Verfahrensgang:\nMit (mündlich) verkündetem Straferkenntnis der Bezirkshauptmannschaft xxx (im Folgenden: belangte Behörde) vom 27.11.2023, Zahl. xxx, wurde dem Beschwerdeführer vorgeworfen, dass er als Dienstgeber zu verantworten habe, xxx und xxx, bei welchen es sich um in der Krankenversicherung pflichtversicherte Personen handelt, beschäftigt zu haben, obwohl diese nicht vor Arbeitsantritt bei der Österreichischen Gesundheitskasse Kärnten, zur Pflichtversicherung angemeldet worden seien. Dies sei bei einer Kontrolle am 05.05.2023 um 08:27 Uhr an der Örtlichkeit Baustelle xxx, xxx, festgestellt worden.\nÜber den Beschwerdefü [...]"
+  }
+ ]
+}
